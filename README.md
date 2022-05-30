@@ -1,2 +1,2 @@
 # euronym
-Multi-scale toponyms for web mapping applications. for Europe.
+Multi-scale toponyms for web mapping applications. For Europe.
