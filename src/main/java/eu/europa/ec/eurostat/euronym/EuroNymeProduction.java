@@ -16,7 +16,6 @@ import org.locationtech.jts.index.quadtree.Quadtree;
 import org.opengis.referencing.crs.CoordinateReferenceSystem;
 
 import eu.europa.ec.eurostat.jgiscotools.feature.Feature;
-import eu.europa.ec.eurostat.jgiscotools.feature.JTSGeomUtil;
 import eu.europa.ec.eurostat.jgiscotools.io.CSVUtil;
 import eu.europa.ec.eurostat.jgiscotools.io.geo.CRSUtil;
 import eu.europa.ec.eurostat.jgiscotools.io.geo.GeoData;
@@ -51,7 +50,7 @@ public class EuroNymeProduction {
 		System.out.println(fs.size() + " labels loaded");
 
 		// do
-		fs = generate(fs, 10, 30, 100000, 1.2, 25, 25);
+		fs = generate(fs, 12, 30, 100000, 1.2, 25, 25);
 		System.out.println(fs.size());
 
 		// save
@@ -66,8 +65,7 @@ public class EuroNymeProduction {
 	/**
 	 * @param fs       The labels
 	 * @param fontSize The label font size
-	 * @param resMin   The minimum resolution (in m/pixel). The unnecessary labels
-	 *                 below will be removed.
+	 * @param resMin   The minimum resolution (in m/pixel). The unnecessary labels below will be removed.
 	 * @param resMax   The maximum resolution (in m/pixel)
 	 * @param zf       The zoom factor, between resolutions. For example: 1.2
 	 * @param pixX     The buffer zone without labels around - X direction
@@ -294,7 +292,7 @@ public class EuroNymeProduction {
 
 		// 12pt = 16px
 		double h = pixSize * fontSize * 1.333333;
-		double widthFactor = 1;
+		double widthFactor = 0.4;
 		double w = widthFactor * h * ((String) f.getAttribute("name")).length();
 
 		return new Envelope(x, x + w, y, y + h);
