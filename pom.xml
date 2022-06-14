@@ -71,7 +71,7 @@
 		</dependency>
 		<dependency>
 			<groupId>eu.europa.ec.eurostat</groupId>
-			<artifactId>jgiscotools-geo-io</artifactId>
+			<artifactId>jgiscotools-gproc</artifactId>
 			<version>${jgiscotools.version}</version>
 		</dependency>
 	</dependencies>
