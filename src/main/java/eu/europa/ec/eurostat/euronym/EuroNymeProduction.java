@@ -29,7 +29,7 @@ import eu.europa.ec.eurostat.jgiscotools.util.Util;
 public class EuroNymeProduction {
 
 	private static String basePath = "/home/juju/Bureau/";
-	private static String namesStruct = basePath + "namesStruct.gpkg";
+	private static String namesStruct = basePath + "gisco/tmp/namesStruct.gpkg";
 
 	// TODO check gazeeter aswell ? check geo coverage.
 	// TODO elaborate: different font size and weight depending on population
