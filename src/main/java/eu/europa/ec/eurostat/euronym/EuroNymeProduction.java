@@ -51,7 +51,7 @@ public class EuroNymeProduction {
 		System.out.println(fs.size() + " labels loaded");
 
 		// do
-		fs = generate(fs, 15, 30, 100000, 1.2, 25, 25);
+		fs = generate(fs, 10, 30, 100000, 1.2, 25, 25);
 		System.out.println(fs.size());
 
 		// save
@@ -111,7 +111,7 @@ public class EuroNymeProduction {
 
 				// get other labels overlapping/nearby with index
 				List<Feature> neigh = index.query(searchEnv);
-				// refine list of neighboors
+				// refine list of neighboors: keep ony the ones intersecting
 				Predicate<Feature> pr2 = f2 -> searchEnv.intersects((Envelope) f2.getAttribute("gl"));;
 				neigh = neigh.stream().filter(pr2).collect(Collectors.toList());
 
@@ -121,7 +121,7 @@ public class EuroNymeProduction {
 				// get best label to keep
 				Feature toKeep = getBestLabelToKeep(neigh);
 
-				// set rmax of others, and remove them
+				// set rmax of others, and remove them from index
 				neigh.remove(toKeep);
 				for (Feature f_ : neigh) {
 					f_.setAttribute("rmax", res);
@@ -132,7 +132,7 @@ public class EuroNymeProduction {
 
 		}
 
-		// remove attribute
+		// clean attributes
 		for (Feature f : fs)
 			f.getAttributes().remove("gl");
 		for (Feature f : fs)
@@ -271,6 +271,7 @@ public class EuroNymeProduction {
 		GeoData.save(out, namesStruct, CRSUtil.getETRS89_LAEA_CRS());
 	}
 
+	/*
 	private static ArrayList<Feature> getNameExtend(double pixSize, int fontSize) {
 		ArrayList<Feature> fs = GeoData.getFeatures(namesStruct);
 		for (Feature f : fs) {
@@ -278,7 +279,7 @@ public class EuroNymeProduction {
 			f.setGeometry(JTSGeomUtil.getGeometry(env));
 		}
 		return fs;
-	}
+	}*/
 
 	/**
 	 * @param f        The label object.
@@ -288,14 +289,14 @@ public class EuroNymeProduction {
 	 */
 	private static Envelope getLabelEnvelope(Feature f, int fontSize, double pixSize) {
 		Coordinate c = f.getGeometry().getCoordinate();
-		double x1 = c.x;
-		double y1 = c.y;
+		double x = c.x;
+		double y = c.y;
 
 		// 12pt = 16px
 		double h = pixSize * fontSize * 1.333333;
 		double w = h * ((String) f.getAttribute("name")).length();
 
-		return new Envelope(x1, x1 + w, y1, y1 + h);
+		return new Envelope(x, x + w, y, y + h);
 	}
 
 	/*
