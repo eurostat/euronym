@@ -31,9 +31,11 @@ public class EuroNymeProduction {
 	private static String basePath = "/home/juju/Bureau/";
 	private static String namesStruct = basePath + "gisco/tmp/namesStruct.gpkg";
 
-	// TODO check gazeeter aswell ? check geo coverage.
-	// TODO elaborate: different font size and weight depending on population
-	// TODO publish as euronyme repository - split by country
+	//TODO split by country
+	//TODO split by lod
+	//TODO check gazeeter aswell ? check geo coverage.
+	//TODO elaborate: different font size and weight depending on population
+	//TODO publish as euronyme repository - split by country
 
 	public static void main(String[] args) {
 		System.out.println("Start");
@@ -54,7 +56,7 @@ public class EuroNymeProduction {
 		System.out.println("save as GPKG");
 		GeoData.save(fs, basePath + "euronymes.gpkg", CRSUtil.getETRS89_LAEA_CRS());
 		System.out.println("save as CSV");
-		CSVUtil.save(CSVUtil.featuresToCSV(fs), "/pub/v1/EUR___.csv");
+		CSVUtil.save(CSVUtil.featuresToCSV(fs), "./pub/v1/EUR.csv");
 
 		System.out.println("End");
 	}
