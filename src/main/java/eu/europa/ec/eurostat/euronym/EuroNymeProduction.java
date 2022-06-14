@@ -42,13 +42,15 @@ public class EuroNymeProduction {
 
 		// structure();
 
+
+		
 		// generate
 
 		// get input labels
 		ArrayList<Feature> fs = GeoData.getFeatures(namesStruct);
 		System.out.println(fs.size() + " labels loaded");
 
-		//
+		// do
 		fs = generate(fs, 15, 30, 100000, 1.2, 25, 25);
 		System.out.println(fs.size());
 
@@ -83,11 +85,7 @@ public class EuroNymeProduction {
 
 			// extract only the labels that are visible for this resolution
 			final int res_ = res;
-			Predicate<Feature> pr = f -> {
-				Integer rmax = (Integer) f.getAttribute("rmax");
-				return rmax > res_;
-			};
-			List<Feature> fs_ = fs.stream().filter(pr).collect(Collectors.toList());
+			List<Feature> fs_ = fs.stream().filter(f -> (Integer) f.getAttribute("rmax") > res_).collect(Collectors.toList());
 			System.out.println("   nb = " + fs_.size());
 
 			// compute label envelopes
@@ -104,8 +102,7 @@ public class EuroNymeProduction {
 				// System.out.println("----");
 
 				Integer rmax = (Integer) f.getAttribute("rmax");
-				if (rmax <= res)
-					continue;
+				if (rmax <= res) continue;
 
 				// get envelope, enlarged
 				Envelope env = (Envelope) f.getAttribute("gl");
@@ -115,14 +112,11 @@ public class EuroNymeProduction {
 				// get other labels overlapping/nearby with index
 				List<Feature> neigh = index.query(searchEnv);
 				// refine list of neighboors
-				Predicate<Feature> pr2 = f2 -> {
-					return searchEnv.intersects((Envelope) f2.getAttribute("gl"));
-				};
+				Predicate<Feature> pr2 = f2 -> searchEnv.intersects((Envelope) f2.getAttribute("gl"));;
 				neigh = neigh.stream().filter(pr2).collect(Collectors.toList());
 
 				// in case no neighboor...
-				if (neigh.size() == 1)
-					continue;
+				if (neigh.size() == 1) continue;
 
 				// get best label to keep
 				Feature toKeep = getBestLabelToKeep(neigh);
@@ -156,8 +150,7 @@ public class EuroNymeProduction {
 		int popMax = -1;
 		for (Feature f : fs) {
 			int pop = Integer.parseInt(f.getAttribute("pop").toString());
-			if (pop <= popMax)
-				continue;
+			if (pop <= popMax) continue;
 			popMax = pop;
 			fBest = f;
 		}
