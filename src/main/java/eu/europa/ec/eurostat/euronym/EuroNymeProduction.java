@@ -56,7 +56,7 @@ public class EuroNymeProduction {
 		System.out.println("save as GPKG");
 		GeoData.save(fs, basePath + "euronymes.gpkg", CRSUtil.getETRS89_LAEA_CRS());
 		System.out.println("save as CSV");
-		CSVUtil.save(CSVUtil.featuresToCSV(fs), "./pub/v1/EUR.csv");
+		CSVUtil.save(CSVUtil.featuresToCSV(fs), "./pub/v1/EUR___.csv");
 
 		System.out.println("End");
 	}
