@@ -283,7 +283,7 @@ public class EuroNymeProduction {
 
 	/**
 	 * @param f        The label object.
-	 * @param fontSize The font size to apply.
+	 * @param fontSize The font size to apply, in pts.
 	 * @param pixSize  The zoom level: size of a pixel in m.
 	 * @return
 	 */
@@ -294,7 +294,8 @@ public class EuroNymeProduction {
 
 		// 12pt = 16px
 		double h = pixSize * fontSize * 1.333333;
-		double w = h * ((String) f.getAttribute("name")).length();
+		double widthFactor = 1;
+		double w = widthFactor * h * ((String) f.getAttribute("name")).length();
 
 		return new Envelope(x, x + w, y, y + h);
 	}
