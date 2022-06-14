@@ -3,6 +3,7 @@
  */
 package eu.europa.ec.eurostat.euronym;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
@@ -30,34 +31,34 @@ public class EuroNymeProduction {
 	private static String basePath = "/home/juju/Bureau/";
 	private static String namesStruct = basePath + "gisco/tmp/namesStruct.gpkg";
 
-	//TODO split by country
-	//TODO split by lod
-	//TODO check gazeeter aswell ? check geo coverage.
-	//TODO elaborate: different font size and weight depending on population
-	//TODO publish as euronyme repository - split by country
+	// TODO split by country
+	// TODO check gazeeter aswell ? check geo coverage.
+	// TODO elaborate: different font size and weight depending on population
 
 	public static void main(String[] args) {
 		System.out.println("Start");
 
 		// structure();
 
-
-		
 		// generate
+		for (int lod : new int[] { 20, 50, 100, 200 }) {
+			System.out.println("******* LOD " + lod);
 
-		// get input labels
-		ArrayList<Feature> fs = GeoData.getFeatures(namesStruct);
-		System.out.println(fs.size() + " labels loaded");
+			// get input labels
+			ArrayList<Feature> fs = GeoData.getFeatures(namesStruct);
+			System.out.println(fs.size() + " labels loaded");
 
-		// do
-		fs = generate(fs, 12, 30, 100000, 1.2, 25, 25);
-		System.out.println(fs.size());
+			// do
+			fs = generate(fs, 14, lod, 100000, 1.2, 30, 30);
+			System.out.println(fs.size());
 
-		// save
-		System.out.println("save as GPKG");
-		GeoData.save(fs, basePath + "euronymes.gpkg", CRSUtil.getETRS89_LAEA_CRS());
-		System.out.println("save as CSV");
-		CSVUtil.save(CSVUtil.featuresToCSV(fs), "./pub/v1/EUR___.csv");
+			// save
+			//System.out.println("save as GPKG");
+			//GeoData.save(fs, basePath + "euronymes.gpkg", CRSUtil.getETRS89_LAEA_CRS());
+			System.out.println("save as CSV");
+			new File("./pub/v1/"+lod).mkdirs();
+			CSVUtil.save(CSVUtil.featuresToCSV(fs), "./pub/v1/"+lod+"/EUR.csv");
+		}
 
 		System.out.println("End");
 	}
@@ -65,7 +66,8 @@ public class EuroNymeProduction {
 	/**
 	 * @param fs       The labels
 	 * @param fontSize The label font size
-	 * @param resMin   The minimum resolution (in m/pixel). The unnecessary labels below will be removed.
+	 * @param resMin   The minimum resolution (in m/pixel). The unnecessary labels
+	 *                 below will be removed.
 	 * @param resMax   The maximum resolution (in m/pixel)
 	 * @param zf       The zoom factor, between resolutions. For example: 1.2
 	 * @param pixX     The buffer zone without labels around - X direction
@@ -83,7 +85,8 @@ public class EuroNymeProduction {
 
 			// extract only the labels that are visible for this resolution
 			final int res_ = res;
-			List<Feature> fs_ = fs.stream().filter(f -> (Integer) f.getAttribute("rmax") > res_).collect(Collectors.toList());
+			List<Feature> fs_ = fs.stream().filter(f -> (Integer) f.getAttribute("rmax") > res_)
+					.collect(Collectors.toList());
 			System.out.println("   nb = " + fs_.size());
 
 			// compute label envelopes
@@ -100,7 +103,8 @@ public class EuroNymeProduction {
 				// System.out.println("----");
 
 				Integer rmax = (Integer) f.getAttribute("rmax");
-				if (rmax <= res) continue;
+				if (rmax <= res)
+					continue;
 
 				// get envelope, enlarged
 				Envelope env = (Envelope) f.getAttribute("gl");
@@ -110,11 +114,13 @@ public class EuroNymeProduction {
 				// get other labels overlapping/nearby with index
 				List<Feature> neigh = index.query(searchEnv);
 				// refine list of neighboors: keep ony the ones intersecting
-				Predicate<Feature> pr2 = f2 -> searchEnv.intersects((Envelope) f2.getAttribute("gl"));;
+				Predicate<Feature> pr2 = f2 -> searchEnv.intersects((Envelope) f2.getAttribute("gl"));
+				;
 				neigh = neigh.stream().filter(pr2).collect(Collectors.toList());
 
 				// in case no neighboor...
-				if (neigh.size() == 1) continue;
+				if (neigh.size() == 1)
+					continue;
 
 				// get best label to keep
 				Feature toKeep = getBestLabelToKeep(neigh);
@@ -148,7 +154,8 @@ public class EuroNymeProduction {
 		int popMax = -1;
 		for (Feature f : fs) {
 			int pop = Integer.parseInt(f.getAttribute("pop").toString());
-			if (pop <= popMax) continue;
+			if (pop <= popMax)
+				continue;
 			popMax = pop;
 			fBest = f;
 		}
@@ -270,14 +277,11 @@ public class EuroNymeProduction {
 	}
 
 	/*
-	private static ArrayList<Feature> getNameExtend(double pixSize, int fontSize) {
-		ArrayList<Feature> fs = GeoData.getFeatures(namesStruct);
-		for (Feature f : fs) {
-			Envelope env = getLabelEnvelope(f, fontSize, pixSize);
-			f.setGeometry(JTSGeomUtil.getGeometry(env));
-		}
-		return fs;
-	}*/
+	 * private static ArrayList<Feature> getNameExtend(double pixSize, int fontSize)
+	 * { ArrayList<Feature> fs = GeoData.getFeatures(namesStruct); for (Feature f :
+	 * fs) { Envelope env = getLabelEnvelope(f, fontSize, pixSize);
+	 * f.setGeometry(JTSGeomUtil.getGeometry(env)); } return fs; }
+	 */
 
 	/**
 	 * @param f        The label object.
@@ -292,7 +296,7 @@ public class EuroNymeProduction {
 
 		// 12pt = 16px
 		double h = pixSize * fontSize * 1.333333;
-		double widthFactor = 0.4;
+		double widthFactor = 0.5;
 		double w = widthFactor * h * ((String) f.getAttribute("name")).length();
 
 		return new Envelope(x, x + w, y, y + h);
