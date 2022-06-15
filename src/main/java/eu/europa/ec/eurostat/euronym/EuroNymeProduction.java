@@ -81,15 +81,13 @@ public class EuroNymeProduction {
 	/**
 	 * @param fs       The labels
 	 * @param fontSize The label font size
-	 * @param resMin   The minimum resolution (in m/pixel). The unnecessary labels
-	 *                 below will be removed.
+	 * @param resMin   The minimum resolution (in m/pixel). The unnecessary labels below will be removed.
 	 * @param resMax   The maximum resolution (in m/pixel)
 	 * @param zf       The zoom factor, between resolutions. For example: 1.2
 	 * @param pixX     The buffer zone without labels around - X direction
 	 * @param pixY     The buffer zone without labels around - Y direction
 	 */
-	private static ArrayList<Feature> generate(ArrayList<Feature> fs, int fontSize, int resMin, int resMax, double zf,
-			int pixX, int pixY) {
+	private static ArrayList<Feature> generate(ArrayList<Feature> fs, int fontSize, int resMin, int resMax, double zf, int pixX, int pixY) {
 
 		// initialise rmax
 		for (Feature f : fs)
@@ -156,6 +154,8 @@ public class EuroNymeProduction {
 			f.getAttributes().remove("gl");
 		for (Feature f : fs)
 			f.getAttributes().remove("pop");
+		for (Feature f : fs)
+			f.getAttributes().remove("cc");
 
 		// filter - keep only few
 		return (ArrayList<Feature>) fs.stream().filter(f -> (Integer) f.getAttribute("rmax") > resMin)
