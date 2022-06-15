@@ -35,8 +35,9 @@ public class EuroNymeProduction {
 	private static String basePath = "/home/juju/Bureau/";
 	private static String namesStruct = basePath + "gisco/tmp/namesStruct.gpkg";
 
-	//TODO split by country
-	//TODO check gazeeter aswell ? check geo coverage.
+	//TODO add other aggregates: EFTA, UE, etc.
+	//TODO imporve coverage for CH, RO, etc. Why is Vaduz missing?
+	//TODO check euro gazeeter.
 	//TODO elaborate: different font size and weight depending on population
 
 	public static void main(String[] args) throws Exception {
