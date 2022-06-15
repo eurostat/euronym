@@ -11,6 +11,7 @@ import java.util.List;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
+import org.geotools.filter.text.cql2.CQL;
 import org.locationtech.jts.geom.Coordinate;
 import org.locationtech.jts.geom.Envelope;
 import org.locationtech.jts.geom.Point;
@@ -38,7 +39,7 @@ public class EuroNymeProduction {
 	//TODO check gazeeter aswell ? check geo coverage.
 	//TODO elaborate: different font size and weight depending on population
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 		System.out.println("Start");
 
 		//
@@ -57,7 +58,7 @@ public class EuroNymeProduction {
 				System.out.println("******* " + cc + " LOD " + lod);
 
 				// get input labels
-				Filter f;
+				Filter f = CQL.toFilter("cc = '"+cc+"'");
 				ArrayList<Feature> fs = GeoData.getFeatures(namesStruct, null, f);
 				System.out.println(fs.size() + " labels loaded");
 
@@ -72,6 +73,7 @@ public class EuroNymeProduction {
 				new File("./pub/v1/"+lod).mkdirs();
 				CSVUtil.save(CSVUtil.featuresToCSV(fs), "./pub/v1/"+lod+"/"+cc+".csv");
 			}
+		}
 
 			System.out.println("End");
 		}
