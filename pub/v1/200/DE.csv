@@ -1,0 +1,443 @@
+rmax,name,lon,lat
+240,Au,7.979,47.697
+240,Gottmadingen,8.777,47.735
+240,Sankt Blasien,8.126,47.762
+1027,Loerrach,7.659,47.612
+1478,Freiburg im Breisgau,7.85,47.995
+288,Loeffingen,8.344,47.884
+496,Ebingen,9.026,48.214
+345,Emmendingen,7.848,48.122
+414,Auggen,7.597,47.787
+414,Kempten (Allgaeu),10.318,47.724
+288,Memmingen,10.185,47.988
+288,Lindau (Bodensee),9.684,47.546
+240,Sonthofen,10.281,47.512
+288,Bad Waldsee,9.751,47.923
+288,Ravensburg,9.615,47.784
+714,Bad Buchau,9.612,48.064
+288,Ehingen (Donau),9.725,48.284
+496,Oberstdorf,10.276,47.408
+345,Fuessen,10.7,47.57
+288,Landsberg am Lech,10.878,48.05
+414,Kaufbeuren,10.621,47.88
+414,Geretsried,11.482,47.856
+240,Taufkirchen,11.622,48.042
+714,Garmisch-Partenkirchen,11.086,47.492
+288,Penzberg,11.376,47.752
+595,Koenigssee,12.989,47.59
+414,Hinterfirmiansreut,13.638,48.906
+414,Waldkirchen,13.6,48.731
+414,Pocking,13.31,48.4
+714,Waldkraiburg,12.4,48.208
+288,Freilassing,12.978,47.842
+345,Traunreut,12.593,47.962
+288,Bad Reichenhall,12.877,47.726
+414,Kiefersfelden,12.188,47.615
+1027,Passau,13.42,48.569
+714,Rosenheim,12.129,47.856
+345,Cham,12.667,49.219
+240,Viechtach,12.884,49.082
+345,Straubing,12.572,48.876
+714,Regen,13.126,48.97
+345,Eggenfelden,12.762,48.404
+288,Deggendorf,12.96,48.842
+345,Freising,11.748,48.404
+1027,Regensburg,12.102,49.015
+496,Landshut,12.159,48.539
+240,Mainburg,11.78,48.641
+414,Velden,12.258,48.365
+345,Schrobenhausen,11.265,48.561
+714,Ingolstadt,11.423,48.765
+345,Weissenburg in Bayern,10.972,49.03
+414,Heidenheim an der Brenz,10.155,48.678
+595,Ellwangen (Jagst),10.132,48.963
+1027,Ulm,9.99,48.398
+240,Moenchsberg,9.562,49.061
+288,Welzheim,9.635,48.874
+595,Heilbronn,9.218,49.14
+496,Reutlingen,9.212,48.492
+1773,Stuttgart,9.178,48.776
+240,Greut,9.546,48.376
+288,Herrenberg,8.867,48.596
+240,Waldrennach,8.609,48.832
+595,Karlsruhe,8.405,49.01
+240,Groembach,8.545,48.571
+288,Calw,8.741,48.713
+240,Rastatt,8.203,48.858
+288,Sinsheim,8.879,49.253
+288,Hechingen,8.963,48.351
+595,Baden-Baden,8.24,48.762
+345,Freudenstadt,8.411,48.464
+345,Achern,8.074,48.629
+496,Merzig,6.643,49.444
+856,Saarbruecken,6.996,49.237
+288,Ihn,6.606,49.324
+496,Gebueg,7.709,49.066
+288,Perl,6.386,49.473
+240,Zemmer,6.697,49.892
+856,Offenburg,7.944,48.469
+2127,Trier,6.638,49.758
+288,Kehl,7.813,48.572
+345,Pirmasens,7.608,49.197
+345,Tholey,7.038,49.484
+240,Gersheim,7.204,49.149
+414,Koxhausen,6.246,49.995
+595,Wittlich,6.889,49.986
+240,Morbach,7.12,49.811
+288,Hahn,7.27,49.962
+595,Idar-Oberstein,7.312,49.713
+288,Laubach,7.511,50.054
+240,Neunkirchen,7.178,49.345
+345,Kaiserslautern,7.769,49.445
+414,Treis-Karden,7.303,50.174
+288,Bad Homburg vor der Hoehe,8.613,50.228
+3674,Frankfurt am Main,8.682,50.111
+595,Darmstadt,8.654,49.872
+240,Neustadt an der Weinstrasse,8.141,49.352
+414,Alzey,8.112,49.745
+414,Mainz,8.272,50.002
+496,Bensheim,8.622,49.68
+240,Lohr am Main,9.576,49.993
+240,Erfeld,9.496,49.554
+345,Aschaffenburg,9.148,49.974
+288,Michelstadt,9.004,49.679
+240,Mosbach,9.147,49.352
+496,Bad Mergentheim,9.773,49.491
+414,Ansbach,10.577,49.304
+240,Iphofen,10.259,49.704
+345,Bad Kissingen,10.078,50.201
+240,Gebsattel,10.203,49.352
+414,Schweinfurt,10.231,50.052
+714,Wuerzburg,9.937,49.794
+714,Bamberg,10.887,49.893
+1773,Nuernberg,11.075,49.451
+288,Schwabach,11.024,49.329
+496,Pegnitz,11.544,49.756
+595,Bayreuth,11.571,49.946
+288,See,11.522,49.459
+414,Neumarkt in der Oberpfalz,11.459,49.279
+414,Kulmbach,11.456,50.108
+595,Amberg,11.856,49.442
+1027,Weiding,12.57,49.484
+496,Weiden in der Oberpfalz,12.16,49.676
+1027,Tirschenreuth,12.336,49.878
+714,Zittau,14.806,50.896
+345,Selb,12.131,50.17
+240,Furth im Wald,12.843,49.308
+288,Nabburg,12.18,49.452
+595,Altenberg,13.757,50.767
+595,Steinbach,13.154,50.557
+240,Obercarsdorf,13.657,50.863
+1027,Dresden,13.737,51.052
+595,Chemnitz,12.922,50.834
+496,Doebeln,13.121,51.122
+1027,Plauen,12.135,50.496
+1027,Gera,12.08,50.876
+345,Weissenfels,11.967,51.2
+288,Greiz,12.202,50.655
+345,Markneukirchen,12.328,50.312
+240,Hirschfeld,12.46,50.625
+496,Hof,11.914,50.317
+345,Altenburg,12.437,50.987
+288,Tanna,11.857,50.494
+345,Zwickau,12.496,50.719
+496,Jena,11.592,50.93
+345,Teutleben,11.451,51.134
+240,Sonneberg,11.176,50.358
+240,Serba,11.815,50.942
+240,Apolda,11.517,51.025
+240,Bad Neustadt an der Saale,10.207,50.33
+240,Suhl,10.687,50.61
+1232,Erfurt,11.027,50.977
+714,Ilmenau,10.916,50.686
+496,Eisenach,10.322,50.977
+1027,Coburg,10.964,50.258
+595,Muehlhausen/Thueringen,10.458,51.21
+345,Arnstadt,10.947,50.833
+496,Crock,10.886,50.452
+1027,Fulda,9.675,50.553
+288,Schluechtern,9.524,50.347
+345,Birx,10.047,50.529
+288,Huenfeld,9.769,50.673
+345,Bad Hersfeld,9.706,50.868
+240,Eiterfeld,9.799,50.763
+595,Marburg,8.769,50.809
+240,Gruenberg,8.959,50.593
+240,Bad Nauheim,8.735,50.363
+714,Giessen,8.675,50.586
+414,Limburg an der Lahn,8.064,50.387
+856,Koblenz,7.598,50.36
+1027,Siegen,8.025,50.875
+414,Mayen,7.222,50.329
+1478,Koeln,6.957,50.938
+240,Leverkusen,6.98,51.032
+496,Sinzig,7.249,50.544
+856,Aachen,6.085,50.774
+345,Juelich,6.358,50.923
+595,Kall,6.559,50.542
+288,Roetgen,6.196,50.649
+1027,Vinn,6.053,51.088
+288,Urb,6.206,50.246
+414,Dahlem,6.547,50.386
+414,Pruem,6.424,50.207
+240,Bergheim,6.64,50.955
+496,Daun,6.831,50.197
+496,Ahaus,7.005,52.076
+288,Duelmen,7.279,51.829
+496,Kleve,6.139,51.788
+240,Rees,6.396,51.76
+288,Feldhuisen,6.155,51.902
+288,Goch,6.159,51.675
+288,Krefeld,6.561,51.333
+856,Bocholt,6.616,51.838
+240,Soest,8.106,51.573
+288,Guetersloh,8.381,51.91
+714,Meschede,8.285,51.347
+345,Greven,7.613,52.093
+345,Hagen,7.467,51.36
+240,Warstein,8.354,51.443
+414,Hamm,7.817,51.678
+714,Muenster,7.627,51.962
+240,Iserlohn,7.699,51.375
+288,Lippstadt,8.346,51.674
+240,Detmold,8.879,51.935
+856,Bielefeld,8.532,52.021
+414,Korbach,8.873,51.272
+240,Hann. Muenden,9.655,51.416
+240,Lichtenau,8.896,51.617
+414,Hoexter,9.382,51.776
+1478,Kassel,9.495,51.315
+240,Borgentreich,9.24,51.572
+414,Marsberg,8.855,51.46
+496,Hameln,9.356,52.104
+714,Paderborn,8.757,51.72
+288,Northeim,10,51.706
+595,Goettingen,9.935,51.533
+414,Einbeck,9.866,51.817
+288,Zwinge,10.379,51.553
+345,Geisleden,10.197,51.352
+240,Herzberg am Harz,10.34,51.657
+1232,Goslar,10.429,51.907
+288,Alfeld (Leine),9.826,51.987
+288,Lebenstedt,10.329,52.154
+240,Harzgerode,11.139,51.641
+496,Halberstadt,11.047,51.896
+496,Nordhausen,10.792,51.5
+345,Thale,11.037,51.751
+595,Magdeburg,11.633,52.126
+345,Dedeleben,10.893,52.032
+240,Pabsdorf,11.974,52.194
+345,Sondershausen,10.87,51.37
+414,Hettstedt,11.515,51.645
+288,Sangerhausen,11.299,51.474
+345,Halle (Saale),11.971,51.482
+288,Grimma,12.727,51.235
+1232,Dessau,12.246,51.835
+288,Wurzen,12.735,51.37
+288,Torgau,13.004,51.559
+240,Schildau,12.927,51.457
+240,Retzau,12.315,51.725
+240,Senst,12.57,51.968
+345,Bitterfeld-Wolfen,12.325,51.625
+345,Bad Belzig,12.587,52.141
+345,Wittenberg,12.646,51.867
+240,Jueterbog,13.082,51.992
+3062,Leipzig,12.378,51.338
+496,Kirchhain,13.561,51.636
+240,Grossenhain,13.531,51.292
+595,Riesa,13.305,51.303
+714,Luckenwalde,13.173,52.089
+496,Hoyerswerda,14.244,51.439
+288,Freidorf,13.697,52.069
+595,Uckro,13.614,51.852
+288,Crinitz,13.758,51.738
+1478,Cottbus,14.335,51.759
+240,Zossen,13.449,52.216
+496,Seelow,14.381,52.534
+240,Weisswasser/Oberlausitz,14.643,51.507
+288,Koenigs Wusterhausen,13.624,52.299
+414,Bautzen,14.428,51.181
+496,Guben,14.712,51.954
+240,Tetta,14.716,51.192
+240,Gellmersdorf,14.07,52.969
+288,Letschin,14.36,52.646
+1232,Schwedt/Oder,14.288,53.055
+496,Eisenhuettenstadt,14.631,52.146
+240,Forst (Lausitz),14.645,51.745
+345,Eberswalde,13.82,52.835
+595,Templin,13.499,53.121
+345,Niesky,14.823,51.294
+100000,Berlin,13.406,52.518
+414,Osterburg (Altmark),11.754,52.788
+240,Karstaedt,11.746,53.157
+414,Neuruppin,12.806,52.923
+288,Fehrbellin,12.764,52.813
+240,Buckau,12.327,52.222
+288,Genthin,12.155,52.406
+414,Nauen,12.876,52.607
+240,Neu Falkenrehde,12.892,52.495
+288,Rossow,12.566,53.048
+1232,Stendal,11.859,52.605
+414,Wittstock/Dosse,12.486,53.163
+345,Potsdam,13.054,52.4
+345,Kyritz,12.397,52.941
+240,Loewenberg,13.153,52.897
+595,Oranienburg,13.237,52.754
+1027,Wittenberge,11.751,52.994
+288,Gardelegen,11.394,52.524
+414,Wolfsburg,10.785,52.422
+414,Salzwedel,11.154,52.853
+288,Loessewitz,11.33,52.409
+240,Beese,11.516,52.732
+240,Jabel,11.079,52.955
+345,Berkau,11.487,52.637
+240,Kloetze,11.161,52.626
+414,Haldensleben,11.411,52.291
+240,Dannenberg (Elbe),11.09,53.096
+288,Peine,10.227,52.322
+595,Celle,10.081,52.626
+714,Uelzen,10.561,52.965
+288,Rotenburg (Wuemme),9.409,53.112
+345,Bergen,9.962,52.81
+288,Soltau,9.838,52.987
+595,Braunschweig,10.521,52.262
+240,Bunkenburg,10.315,52.634
+240,Raeber,10.407,52.877
+240,Meine,10.545,52.382
+288,Sulingen,8.801,52.682
+240,Rehburg,9.226,52.47
+240,Espelkamp,8.633,52.377
+240,Petershagen,8.97,52.378
+288,Heerde,8.848,52.57
+414,Verden (Aller),9.231,52.923
+496,Minden,8.915,52.288
+1232,Bremen,8.809,53.076
+288,Vechta,8.285,52.728
+345,Nienburg (Weser),9.212,52.641
+288,Norderney,7.145,53.707
+240,Haren (Ems),7.242,52.79
+595,Norden,7.202,53.595
+240,Neuenhaus,6.966,52.498
+595,Cloppenburg,8.043,52.848
+240,Oldenburg (Oldb),8.213,53.14
+496,Rheine,7.439,52.279
+6346,Emden,7.206,53.371
+288,Damme,8.196,52.521
+714,Papenburg,7.393,53.078
+240,Altenbunnen,7.854,52.736
+240,Ihorst,8.142,52.614
+345,Bramsche,7.979,52.407
+345,Lingen (Ems),7.317,52.522
+240,Egge,6.753,52.499
+714,Osnabrueck,8.042,52.277
+1232,Meppen,7.292,52.691
+240,Fresenburg,7.298,52.883
+496,Borkum,6.665,53.588
+288,Friesoythe,7.859,53.021
+240,Wilhelmshaven,8.111,53.52
+288,Aurich,7.482,53.47
+288,Bremervoerde,9.146,53.485
+496,Wangerooge,7.9,53.792
+414,Varel,8.135,53.395
+240,Brake (Unterweser),8.478,53.326
+414,Osterholz-Scharmbeck,8.783,53.23
+856,Cuxhaven,8.697,53.864
+240,Wittmund,7.78,53.576
+240,Hatshausen,7.465,53.354
+345,Leer (Ostfriesland),7.451,53.229
+714,Bremerhaven,8.578,53.543
+288,Tostedt,9.712,53.281
+496,Neumuenster,9.988,54.07
+2552,Hamburg,9.997,53.551
+240,Elmshorn,9.661,53.758
+414,Harksheide,9.997,53.706
+240,Sothel,9.443,53.224
+345,Kajedeich,9.245,53.782
+345,Itzehoe,9.512,53.927
+496,Moelln,10.691,53.63
+240,Garbek,10.418,54.001
+288,Garlitz,11.021,53.318
+714,Lueneburg,10.409,53.249
+496,Hagenow,11.193,53.432
+345,Eutin,10.615,54.139
+856,Luebeck,10.684,53.866
+496,Parchim,11.848,53.426
+240,Putlitz,12.043,53.249
+1478,Rostock,12.136,54.089
+496,Rerik,11.614,54.106
+240,Penzlin,12.164,53.523
+496,Guestrow,12.176,53.794
+240,Waren (Mueritz),12.686,53.513
+240,Ludwigslust,11.497,53.326
+595,Wismar,11.466,53.892
+595,Schwerin,11.414,53.629
+240,Grimmen,13.043,54.113
+496,Sassnitz,13.634,54.513
+240,Mirow,12.815,53.275
+288,Ueckermuende,14.046,53.737
+714,Anklam,13.693,53.855
+240,Glewitz,12.932,54.02
+240,Hintersee,14.262,53.628
+1232,Neubrandenburg,13.26,53.557
+414,Prenzlau,13.862,53.316
+288,Golm,14.034,53.153
+496,Neustrelitz,13.063,53.362
+345,Stavenhagen,12.907,53.697
+496,Greifswald,13.38,54.096
+240,Wrechen,13.54,53.374
+240,Zachow,13.22,53.449
+414,Heringsdorf,14.167,53.954
+240,Boemitz,13.698,53.943
+240,Loewitz,13.724,53.717
+345,Pasewalk,13.99,53.505
+345,Gartz (Oder),14.389,53.209
+288,Zinnowitz,13.909,54.077
+496,Demmin,13.038,53.906
+240,Godendorf,13.155,53.257
+856,Burg auf Fehmarn,11.198,54.439
+1232,Flensburg,9.438,54.783
+288,Dranske,13.231,54.63
+288,Gingst,13.259,54.457
+714,Stralsund,13.09,54.314
+288,Kappeln,9.931,54.659
+240,Daenischenhagen,10.13,54.426
+414,Ribnitz,12.432,54.243
+496,Schleswig,9.567,54.515
+1773,Kiel,10.137,54.322
+240,Holnis,9.604,54.872
+240,Wustrow,12.397,54.345
+345,Oldenburg in Holstein,10.888,54.293
+345,Barth,12.727,54.369
+240,Dannau,10.541,54.241
+288,Niebuell,8.829,54.788
+496,Husum,9.057,54.477
+595,Westerland,8.309,54.908
+240,Ostersiel,8.686,54.519
+714,Helgoland,7.887,54.182
+856,Heide,9.091,54.194
+288,Tarp,9.403,54.664
+240,Hoernum (Sylt),8.287,54.756
+345,Ekel,9.358,54.326
+345,Broesum,8.628,54.332
+288,Aventoft,8.822,54.901
+3674,Ruhrgebiet,7.128,51.503
+10965,München,11.561,48.135
+714,Düsseldorf,6.812,51.215
+2127,Hannover,9.756,52.379
+496,Bonn,7.121,50.753
+856,Mannheim/Ludwigshafen,8.442,49.496
+496,Haunstetten,10.89,48.353
+288,Ludwigsburg,9.186,48.895
+240,Harburg,9.969,53.449
+856,Konstanz / Kreuzlingen,9.179,47.666
+1027,Görlitz / Zgorzelec,14.981,51.15
+714,Frankfurt (Oder),14.543,52.343
+345,Kloster,7.032,52.213
+240,"Schönebeck (Elbe), Stadt",11.724,52.011
+345,"Künzelsau, Stadt",9.664,49.285
+288,Werden,7.016,51.385
+496,Görden,12.517,52.43
+414,Voerde,6.687,51.596
+595,Hardt,7.928,50.641
+240,Wulfen,7.035,51.727
+345,"Kronach, St",11.332,50.239

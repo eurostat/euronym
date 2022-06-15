@@ -1,0 +1,1424 @@
+rmax,name,lon,lat
+176,Rudna,14.234,50.035
+86,Brloh,14.219,48.93
+103,Brodce,14.869,50.331
+72,Stare Civice,15.689,50.015
+176,Chlum u Trebone,14.928,48.962
+123,Nove Hrady,14.778,48.79
+60,Nove Hute,13.646,49.039
+86,Nove Mitrovice,13.684,49.58
+103,Nove Mesto pod Smrkem,15.229,50.925
+72,Novy Dum,13.831,50.088
+72,Micmanice,16.183,48.795
+72,Bustehrad,14.189,50.156
+103,Bozi Dar,12.924,50.41
+147,Blovice,13.54,49.582
+176,Novy Hrozenkov,18.198,49.337
+60,Nova Vcelnice,15.073,49.239
+103,Bohdalov,15.876,49.479
+60,Hojsova Straz,13.197,49.211
+72,Chlum,14.563,50.578
+103,Bujanov,14.43,48.702
+103,Lukavec,14.99,49.565
+60,Stitna nad Vlari,17.975,49.07
+60,Chvalnov,17.233,49.167
+86,Kostelec,17.702,49.26
+86,Bernartice,14.381,49.369
+147,Krtiny,16.744,49.297
+86,Budiskovice,15.531,49.076
+147,Bela,17.216,50.132
+123,Rajec,16.639,49.411
+60,Becov nad Teplou,12.838,50.083
+86,Bezno,14.796,50.367
+123,Bezverov,13.059,49.995
+123,Becov,13.718,50.449
+60,Mostiste,16.017,49.379
+86,Kasejovice,13.741,49.463
+60,Brodek u Konice,16.833,49.549
+86,Karez,13.782,49.824
+123,Bezdruzice,12.971,49.907
+60,Branany,13.7,50.542
+103,Lhenice,14.15,48.995
+123,Slivenec,14.358,50.02
+123,Vrbno pod Pradedem,17.383,50.121
+86,Decin XXXII-Boletice nad Labem,14.191,50.74
+123,Besednice,14.557,48.79
+60,Bernartice,17.078,50.39
+60,Katovice,13.83,49.273
+103,Katusice,14.777,50.445
+123,Kaznejov,13.383,49.893
+60,Kardasova Recice,14.853,49.185
+103,Karle,16.365,49.766
+60,Karlova Ves,13.862,49.987
+72,Bezdez,14.722,50.534
+60,Brodek u Prerova,17.338,49.484
+60,Benesov,16.771,49.509
+103,Benesov nad Cernou,14.627,48.729
+86,Namest nad Oslavou,16.159,49.207
+72,Primetice,16.035,48.884
+123,Moravsky Krumlov,16.312,49.049
+60,Bolesiny,13.362,49.41
+60,Bilov,18.002,49.734
+103,Bilsko,14.059,49.159
+147,Lidecko,18.051,49.203
+123,Hradec nad Moravici,17.876,49.871
+147,Kobyly,15.004,50.61
+60,Osvetimany,17.25,49.056
+72,Kristanov,14.02,48.909
+60,Skrdlovice,15.926,49.635
+147,Satov,16.01,48.793
+86,Vavrovice,17.861,49.977
+60,Oracov,13.549,50.112
+72,Hostka,14.335,50.489
+72,Damborice,16.918,49.038
+72,Kamyk nad Vltavou,14.253,49.639
+60,Krasna Lipa,14.51,50.913
+103,Domamil,15.696,49.083
+86,Opocnice,15.258,50.172
+72,Opocno,16.115,50.267
+60,Ratiskovice,17.166,48.92
+86,Chotesov,14.085,50.44
+60,Krasno,12.786,50.109
+103,Hejnice,15.182,50.877
+86,Mestecko Trnavka,16.727,49.709
+60,Ratiborske Hory,14.77,49.463
+103,Razova,17.532,49.931
+123,Planice,13.471,49.39
+86,Lenora,13.793,48.922
+60,Leskovec nad Moravici,17.576,49.906
+123,Oslov,14.212,49.399
+60,Osek,13.691,50.623
+60,Doubravice nad Svitavou,16.629,49.437
+86,Knezice,15.672,49.271
+60,Letiny,13.455,49.54
+103,Lesna,12.538,49.754
+103,Krizanov,16.11,49.389
+72,Pecice,14.105,49.6
+72,Msec,13.898,50.205
+60,Hrbov,15.955,49.366
+86,Kojcice,15.256,49.476
+86,Ivanovice na Hane,17.093,49.305
+60,Orechov,16.139,49.35
+72,Orechov,16.523,49.111
+72,Hostka,12.597,49.696
+86,Planany,15.029,50.05
+147,Mseno,14.633,50.438
+60,Komorni Lhotka,18.528,49.658
+103,Petrovice,14.337,49.554
+147,Jemnice,15.57,49.019
+86,Domanin,14.74,48.972
+72,Lisov,14.608,49.016
+147,Budisov,16.004,49.271
+60,Lipov,17.464,48.907
+72,Jirice,15.102,49.771
+72,Krcman,17.344,49.521
+123,Horazdovice,13.701,49.321
+211,Bor,12.775,49.712
+147,Nasavrky,15.805,49.845
+60,Naceradec,14.906,49.61
+123,Nacesice,15.629,49.941
+103,Nivnice,17.648,48.975
+60,Sebkovice,15.814,49.123
+86,Branice,14.34,49.402
+86,Bulovka,15.124,50.971
+60,Blizevedly,14.396,50.608
+123,Blizkovice,15.835,49
+72,Ceska Ves,17.228,50.257
+72,Brantice,17.629,50.064
+60,Pavlovice,17.06,49.212
+123,Novy Svet,15.421,50.781
+86,Belec,13.993,50.056
+60,Nehvizdy,14.73,50.131
+86,Kuncina,16.628,49.795
+86,Kunzak,15.19,49.121
+123,Molenburk,16.813,49.433
+211,Nedvedice,16.334,49.457
+72,Chyse,13.249,50.105
+123,Bochov,13.045,50.151
+86,Nechanice,15.633,50.237
+86,Olesnik,14.364,49.107
+72,Osecnice,16.307,50.257
+72,Nova Rise,15.564,49.139
+60,Bohuslavice,16.958,49.621
+60,Olsany,16.866,49.248
+253,Nyrsko,13.144,49.294
+60,Vrbetice,17.94,49.113
+60,Knezdub,17.395,48.887
+103,Knezeves,13.637,50.147
+72,Milhostov,12.453,50.156
+123,Milicin,14.661,49.571
+86,Bojkovice,17.815,49.039
+103,Belotin,17.799,49.585
+123,Protivin,14.217,49.199
+60,Obecnice,13.947,49.716
+123,Nove Veseli,15.909,49.52
+86,Kninice,16.695,49.54
+72,Brankovice,17.135,49.156
+103,Jilove u Prahy,14.493,49.895
+72,Jivova,17.395,49.709
+86,Dolni Podluzi,14.595,50.88
+60,Cesky Heralec,15.991,49.691
+103,Hnojnik,18.541,49.682
+123,Hluk,17.527,48.988
+176,Hranice,12.176,50.305
+72,Rohovladova Bela,15.606,50.106
+147,Kurivody,14.804,50.586
+86,Liban,15.217,50.375
+86,Chvaletice,15.418,50.034
+86,Bohdanec,15.223,49.778
+60,Olomucany,16.672,49.331
+72,Kvilda,13.58,49.019
+72,Rouchovany,16.108,49.07
+60,Orech,14.297,50.02
+103,Bolatice,18.084,49.952
+72,Olbramovice,16.402,48.985
+86,Novy Rychnov,15.366,49.384
+86,Myto,13.735,49.789
+123,Mecholupy,13.537,50.267
+60,Tocnik,13.313,49.435
+60,Neustupov,14.699,49.615
+103,Neveklov,14.533,49.754
+86,Horni Dubenky,15.317,49.26
+103,Nova Ves nad Luznici,14.926,48.811
+72,Blizejov,12.989,49.5
+86,Abertamy,12.818,50.369
+123,Chynava,14.074,50.027
+72,Chysky,14.428,49.523
+60,Okarec,16.088,49.206
+86,Bilovice nad Svitavou,16.672,49.247
+72,Olbramov,12.867,49.843
+60,Borotin,14.613,49.505
+147,Borovany,14.642,48.899
+60,Borovany,14.392,49.343
+123,Libochovice,14.044,50.406
+86,Libomysl,13.999,49.873
+86,Pocatky,15.687,49.68
+72,Borohradek,16.093,50.098
+60,Chrastany,14.388,49.296
+72,Bila,18.453,49.442
+147,Holysov,13.101,49.594
+103,Bohusovice nad Ohri,14.15,50.493
+86,Bilcice,17.566,49.87
+60,Nevezice,14.153,49.478
+60,Banov,17.718,48.988
+60,Nove Hamry,12.719,50.36
+123,Horni Benesov,17.603,49.966
+86,Dalov,17.338,49.784
+86,Brna,14.077,50.622
+60,Bedrichov,15.598,50.729
+72,Kralova,17.035,49.768
+86,Luka nad Jihlavou,15.702,49.374
+123,Novy Knin,14.294,49.788
+86,Nova Ves u Chotebore,15.648,49.756
+86,Horka nad Moravou,17.211,49.64
+435,Luby,12.406,50.252
+60,Moravske Prusy,17.059,49.253
+147,Morkovice,17.208,49.248
+123,Obratan,14.943,49.425
+86,Klenovice na Hane,17.211,49.403
+60,Blatno,13.361,50.511
+123,Netolice,14.197,49.049
+86,Bily Kamen,15.509,49.436
+60,Krizovatka,12.393,50.194
+86,Chlumy,13.639,49.438
+176,Kasperske Hory,13.556,49.143
+60,Bosovice,16.837,49.054
+147,Bozejov,15.156,49.362
+60,Bozetice,14.444,49.451
+211,Bystre,16.347,49.628
+123,Bystrice,14.667,49.732
+86,Bystricka,17.974,49.415
+72,Nitkovice,17.166,49.204
+103,Nizkov,15.806,49.533
+211,Nepomuk,13.582,49.486
+72,Nepomysl,13.313,50.218
+123,Broumy,13.852,49.955
+60,Horni Dubnany,16.201,49.063
+103,Kluky,14.245,49.317
+147,Provodov,17.737,49.16
+103,Bozice,16.289,48.837
+147,Hruba Voda,17.417,49.668
+60,Horni Dvoriste,14.406,48.604
+211,Brtnice,15.676,49.307
+86,Klucenice,14.212,49.553
+60,Klobouky u Brna,16.86,48.995
+86,Kozlov,17.536,49.604
+86,Namest na Hane,17.065,49.602
+72,Bysice,14.611,50.31
+60,Heroltice,16.734,49.987
+72,Klatovec,15.295,49.222
+86,Klobuky,13.987,50.294
+123,Vseruby,12.983,49.341
+72,Batelov,15.395,49.314
+86,Divci Hrad,17.634,50.244
+103,Cernovice,14.961,49.373
+72,Hradistko,14.409,49.868
+86,Jaroslavice,16.234,48.757
+103,Brezno,13.421,50.402
+86,Bridlicna,17.371,49.912
+103,Jesenice,14.513,49.968
+211,Jesenice,13.469,50.097
+86,Velke Nemcice,16.672,48.992
+72,Hostoun,14.201,50.114
+72,Hostoun,12.771,49.56
+147,Radnice,13.606,49.857
+86,Borova,16.162,49.742
+72,Chozov,13.859,50.399
+123,Chrast,15.934,49.902
+60,Brazec,13.047,50.175
+60,Lom u Tachova,12.693,49.819
+72,Chelcice,14.169,49.122
+123,Lomnice,16.414,49.405
+123,Lomnice,17.415,49.871
+72,Sedlec,14.287,49.073
+60,Chodova Plana,12.73,49.893
+86,Mezimesti,16.242,50.625
+60,Mezina,17.477,49.959
+60,Chocerady,14.802,49.873
+86,Prasily,13.378,49.105
+901,Vyssi Brod,14.312,48.616
+147,Velka nad Velickou,17.521,48.883
+103,Lomnice nad Luznici,14.717,49.085
+60,Lopenik,17.791,48.945
+60,Kretin,16.504,49.563
+86,Krecovice,14.476,49.721
+60,Jarosov nad Nezarkou,15.067,49.19
+72,Jenisovice,15.137,50.628
+103,Mirosov,13.658,49.688
+72,Velky Malahov,12.955,49.624
+103,Opatovice nad Labem,15.79,50.145
+86,Oparany,14.481,49.397
+103,Msene-lazne,14.127,50.362
+86,Meceriz,14.737,50.29
+60,Jenisovice,16.031,49.93
+72,Kostomlaty pod Milesovkou,13.873,50.56
+60,Chlebicov,17.967,49.959
+60,Hradiste,13.756,49.439
+60,Horsice,13.386,49.531
+60,Hnacov,13.482,49.362
+60,Hnojice,17.224,49.716
+60,Doubravcice,14.793,50.022
+86,Skripov,17.91,49.819
+60,Metylovice,18.336,49.608
+60,Psary,14.513,49.936
+211,Miroslav,16.313,48.948
+147,Mirotice,14.037,49.429
+86,Horni Jeleni,16.084,50.049
+60,Ostrov,16.541,49.93
+176,Hazlov,12.272,50.156
+60,Sindelova,12.603,50.319
+72,Siroka Niva,17.485,50.067
+72,Rajhrad,16.604,49.089
+303,Nova Bystrice,15.103,49.019
+103,Ceska Bela,15.691,49.643
+72,Ceska Skalice,16.043,50.395
+147,Opatov,16.505,49.825
+103,Kouty,15.793,49.315
+60,Stary Maletin,16.78,49.799
+60,Rohozec,16.483,49.39
+60,Ocmanice,16.125,49.233
+60,Citoliby,13.812,50.334
+86,Citov,14.398,50.372
+60,Havlickova Borova,15.782,49.636
+60,Mechenice,14.389,49.908
+60,Rehlovice,13.954,50.607
+60,Mezilesi,14.949,49.541
+60,Rence,13.414,49.58
+103,Velky Osek,15.186,50.099
+72,Slavetin,16.964,49.675
+103,Varvazov,13.964,50.723
+72,Rakvice,16.813,48.858
+147,Destna,14.924,49.265
+60,Rantirov,15.515,49.408
+72,Roudna,14.719,49.304
+72,Dolni Dvur,15.656,50.652
+86,Milin,14.046,49.632
+72,Kacov,15.028,49.778
+72,Bzany,13.879,50.589
+60,Vnorovy,17.351,48.931
+60,Detrichov,16.533,49.8
+103,Dolni Mesto,15.382,49.628
+147,Golcuv Jenikov,15.477,49.816
+123,Lipi,14.352,48.949
+103,Semtes,15.514,49.96
+103,Chvalsiny,14.211,48.854
+72,Dalecin,16.24,49.591
+103,Rapotin,17.019,50.001
+103,Hrochuv Tynec,15.911,49.959
+86,Plesna,12.347,50.221
+123,Okrouhla,12.488,50.062
+72,Budkov,15.659,49.054
+86,Breznik,16.194,49.172
+60,Brezovice,14.734,50.471
+72,Brezova,12.645,50.147
+60,Brezova,17.74,48.925
+60,Polesi,15.246,49.293
+253,Pacov,15.002,49.471
+123,Svetla,17.401,50.045
+123,Hrob,13.727,50.659
+123,Hajnice,15.912,50.475
+60,Polesovice,17.341,49.034
+86,Temelin,14.349,49.193
+86,Halze,12.579,49.831
+103,Moravska Nova Ves,17.014,48.803
+60,Usilov,13.127,49.397
+60,Neubuz,17.826,49.26
+86,Lukov,17.73,49.29
+103,Lysice,16.537,49.452
+86,Kninicky,16.528,49.237
+86,Zebetin,16.487,49.207
+72,Ceska Kubice,12.859,49.369
+211,Opatov,15.662,49.224
+72,Mikulov,13.722,50.688
+60,Palkovice,18.315,49.635
+60,Horepnik,15.106,49.513
+103,Pnovany,13.122,49.779
+72,Hartmanice,13.455,49.169
+60,Hartvikovice,16.09,49.171
+86,Dirna,14.845,49.243
+211,Horni Briza,13.356,49.84
+72,Prebuz,12.62,50.366
+86,Breznice,14.514,49.252
+176,Radonice,13.285,50.298
+253,Habartice,15.065,51.019
+60,Kvetna,16.346,49.736
+72,Merin,15.884,49.393
+72,Rosovice,14.109,49.757
+60,Krenov,16.629,49.68
+123,Desov,15.701,48.986
+103,Radejov,17.345,48.859
+86,Rosec,14.911,49.128
+60,Litultovice,17.751,49.904
+72,Lisany,13.742,50.147
+86,Brezany,16.342,48.87
+60,Ostromer,15.549,50.372
+72,Destne v Orlickych horach,16.351,50.305
+123,Divisov,14.877,49.788
+103,Rozmital pod Tremsinem,13.864,49.602
+72,Rozdalovice,15.17,50.305
+86,Krasna Hora nad Vltavou,14.277,49.605
+72,Horomerice,14.339,50.132
+60,Hermankovice,16.324,50.62
+176,Kremze,14.306,48.905
+60,Divaky,16.792,48.989
+86,Chribska,14.483,50.863
+72,Chric,13.646,49.972
+72,Borova Lada,13.66,48.99
+86,Ceska Kamenice,14.418,50.798
+86,Rohatec,17.183,48.88
+60,Rakova,13.582,49.7
+103,Libcice nad Vltavou,14.363,50.199
+60,Libun,15.298,50.498
+303,Brandov,13.391,50.632
+86,Bojanov,15.705,49.841
+72,Krasne Loucky,17.637,50.124
+86,Okrisky,15.77,49.245
+60,Brezova nad Svitavou,16.518,49.644
+86,Dolni Teplice,16.173,50.584
+60,Cervene Pecky,15.209,49.978
+60,Olesna,15.548,49.682
+60,Dolni Trebonin,14.41,48.855
+123,Olesnice,16.422,49.558
+60,Cercany,14.703,49.853
+86,Rakov,17.707,49.49
+72,Rohozna,16.408,49.654
+72,Bouzov,16.893,49.704
+103,Raskovice,18.473,49.62
+253,Habry,15.485,49.756
+211,Revnicov,13.808,50.185
+123,Polanka nad Odrou,18.165,49.788
+60,Hostim,15.895,49.019
+72,Kyjovice,18.042,49.832
+86,Lipova,14.36,51.011
+103,Kunstat,16.517,49.506
+72,Rehorov,15.788,49.398
+123,Liten,14.149,49.904
+60,Hamry,15.926,49.739
+147,Hanusovice,16.936,50.08
+72,Liba,12.231,50.128
+103,Sardice,17.028,48.964
+86,Lestkov,12.871,49.883
+72,Krasny Dvur,13.368,50.254
+72,Hrensko,14.243,50.874
+103,Jedovnice,16.756,49.345
+176,Mesto Albrechtice,17.575,50.163
+103,Mecin,13.403,49.48
+72,Rataje nad Sazavou,14.957,49.842
+86,Borsice,17.351,49.063
+103,Hradec nad Svitavou,16.481,49.711
+60,Hajek,12.92,50.283
+60,Hyskov,14.051,49.991
+123,Neurazy,13.516,49.441
+86,Deblin,16.346,49.32
+72,Chvojenec,15.937,50.11
+60,Razice,14.102,49.241
+72,Ripec,14.737,49.214
+123,Sevetin,14.572,49.1
+86,Safov,15.735,48.867
+72,Sanov,16.379,48.801
+60,Sanov,17.898,49.045
+211,Ktis,14.133,48.917
+60,Roudno,17.514,49.896
+60,Nectiny,13.165,49.975
+72,Necin,14.234,49.698
+72,Horni Adrspach,16.082,50.625
+72,Rokytnice v Orlickych horach,16.466,50.165
+60,Ropice,18.613,49.705
+60,Predin,15.674,49.198
+60,Lesna,15.679,49.171
+72,Otrocin,12.892,50.032
+147,Repin,14.635,50.367
+60,Recice,15.372,49.603
+72,Kubova Hut,13.772,48.983
+60,Ricky v Orlickych horach,16.459,50.211
+86,Sebirov,14.826,49.566
+86,Kunvald,16.5,50.129
+147,Cernosin,12.884,49.816
+60,Okna,14.671,50.527
+103,Jamne,15.724,49.431
+86,Jankov,14.731,49.653
+86,Sakvice,16.714,48.897
+72,Mnisek,14.913,49.03
+72,Dolni Zalezly,14.043,50.597
+147,Dolni Ujezd,16.255,49.826
+60,Lobec,14.667,50.46
+72,Merunice,13.818,50.48
+86,Cernuc,14.202,50.301
+60,Tomice II,14.668,49.688
+103,Ruda,13.876,50.141
+60,Choustnik,14.838,49.333
+147,Moravsky Beroun,17.442,49.794
+60,Nadryby,13.524,49.821
+103,Lichnov,17.626,50.008
+60,Predmerice nad Jizerou,14.781,50.255
+72,Koberice,18.052,49.985
+103,Kolovec,13.109,49.487
+60,Kamen,15.016,49.423
+72,Mirkov,12.881,49.589
+86,Koclerov,15.8,50.488
+72,Cerna v Posumavi,14.111,48.738
+103,Unesov,13.149,49.883
+86,Cernikov,13.13,49.423
+103,Kolinec,13.439,49.299
+60,Hrisice,15.495,49.103
+147,Hriskov,13.864,50.291
+72,Bavorov,14.079,49.122
+123,Libceves,13.838,50.452
+60,Biskupice,16.011,49.038
+60,Jablonec nad Jizerou,15.43,50.703
+72,Jablonne nad Orlici,16.601,50.03
+103,Jablonne v Podjestedi,14.761,50.765
+86,Jablunka,17.95,49.384
+72,Dolni Roven,15.968,50.029
+103,Libesice,14.289,50.569
+103,Polnicka,15.916,49.607
+123,Krinec,15.138,50.264
+60,Retechov,17.75,49.131
+103,Cervena Recice,15.178,49.511
+60,Cervene Janovice,15.253,49.835
+60,Palacov,17.92,49.551
+60,Rotava,12.573,50.296
+435,Osoblaha,17.714,50.274
+72,Osov,14.084,49.844
+60,Osova Bityska,16.168,49.325
+60,Podhrad,12.398,50.057
+86,Mestec Kralove,15.298,50.207
+60,Racetice,13.366,50.306
+72,Pilnikov,15.82,50.532
+72,Desna,15.543,48.958
+60,Vycapy,15.878,49.144
+72,Pavlinov,15.878,49.348
+60,Vykan,14.817,50.12
+123,Ckyne,13.829,49.115
+72,Podbrezi,16.215,50.26
+60,Svaty Stepan,18.025,49.041
+60,Petrovice,13.427,49.453
+60,Jamy,16.006,49.53
+86,Krchleby,15.023,50.239
+103,Vyskytna,15.366,49.428
+123,Jachymov,12.935,50.358
+60,Vesela,15.227,49.319
+60,Liska,14.453,50.821
+103,Drahobuz,14.321,50.525
+123,Jistebnice,14.528,49.486
+72,Krpy,14.689,50.329
+60,Jilovice,14.727,48.889
+72,Podivin,16.848,48.826
+60,Vetrkovice,17.82,49.781
+86,Zebrak,13.897,49.876
+60,Cim,14.378,49.779
+86,Zabori,14.267,48.99
+60,Cmeliny,13.654,49.489
+103,Vetrni,14.286,48.774
+176,Valasske Klobouky,18.008,49.141
+72,Zdobnice,16.409,50.238
+103,Zirovnice,15.188,49.253
+60,Zachlumi,12.965,49.8
+86,Frycovice,18.225,49.666
+86,Luze,16.029,49.893
+60,Vilanec,15.577,49.335
+123,Vir,16.324,49.557
+60,Svratka,16.032,49.711
+86,Dolany,13.248,49.443
+60,Sirakov,15.818,49.505
+72,Rynarec,15.235,49.39
+60,Zarici,17.353,49.383
+60,Vodice,14.909,49.464
+72,Dolni Bela,13.273,49.896
+86,Kostice,13.942,50.403
+72,Kostalov,15.404,50.572
+211,Skutec,15.997,49.844
+60,Konstantinovy Lazne,12.978,49.881
+72,Radslavice,17.517,49.478
+60,Zalesi,15.782,48.954
+123,Dolni Cerekev,15.457,49.344
+60,Ujezd u Boskovic,16.654,49.464
+72,Zinkovy,13.489,49.483
+60,Dolni Dobrouc,16.498,49.993
+103,Zelnava,13.965,48.812
+72,Vez,15.459,49.564
+72,Kondrac,14.885,49.667
+103,Kamenny Ujezd,14.446,48.898
+103,Zeravice,17.237,49.023
+176,Roztoky,13.868,50.027
+123,Dolni Dunajovice,16.593,48.854
+123,Snezne,16.122,49.646
+72,Vlksice,14.441,49.481
+86,Vrbovec,16.101,48.8
+60,Doubice,14.462,50.889
+60,Kralovec,15.974,50.677
+103,Kladruby,12.98,49.715
+147,Fulnek,17.903,49.712
+72,Slatinany,15.814,49.921
+86,Ledce,14.005,50.196
+86,Jindrichovice pod Smrkem,15.25,50.961
+72,Hlohovec,16.762,48.774
+253,Zelezna Ruda,13.235,49.137
+86,Jasenna,15.991,50.318
+86,Jasenna,17.894,49.253
+60,Zeletice,16.183,48.936
+123,Stary Plzenec,13.474,49.698
+72,Stare Sedliste,12.694,49.744
+176,Tisek,18.015,49.793
+60,Zahori,14.798,49.213
+60,Vrbicany,14.085,50.463
+60,Slunecna,14.482,50.736
+86,Popovice,14.752,49.695
+147,Smirice,15.865,50.3
+60,Doubi,12.827,50.21
+60,Senohraby,14.718,49.895
+72,Podivice,17.011,49.366
+60,Tisem,14.608,49.756
+72,Cholina,17.054,49.656
+211,Zacler,15.911,50.663
+72,Zdanice,17.028,49.067
+72,Smedcice,13.512,49.799
+60,Radoun,14.396,50.48
+60,Zaluzice,13.604,50.321
+60,Rostin,17.286,49.189
+103,Vysoka Pec,13.47,50.52
+363,Javornik,17.003,50.391
+103,Domasov nad Bystrici,17.445,49.742
+60,Domousice,13.73,50.234
+86,Domanovice,15.323,50.112
+103,Ujezd,17.906,49.168
+103,Zelec,14.647,49.318
+176,Zelec,17.098,49.346
+86,Val,14.756,49.146
+86,Valasska Polanka,17.997,49.262
+72,Valasska Senice,18.116,49.225
+103,Vysoke Veseli,15.436,50.331
+86,Mastov,13.28,50.262
+211,Vizovice,17.855,49.223
+72,Dolni Kounice,16.465,49.07
+103,Dolni Kralovice,15.179,49.645
+60,Slavkov,17.836,49.922
+123,Slavonice,15.352,48.998
+72,Tasov,16.095,49.288
+123,Vlachovo Brezi,13.958,49.081
+72,Podmokly,13.704,49.943
+123,Melc,17.758,49.85
+147,Zdirec nad Doubravou,15.814,49.696
+72,Tuhan,14.467,50.536
+303,Uhercice,15.63,48.913
+103,Rudnik,15.737,50.578
+147,Ruzova,14.294,50.842
+72,Rudice,17.737,49.056
+147,Peruc,13.96,50.343
+60,Zapy,14.68,50.165
+72,Suchov,17.563,48.907
+86,Zdikov,13.697,49.085
+103,Dubenec,15.795,50.378
+123,Dubicko,16.963,49.828
+123,Tynec nad Sazavou,14.59,49.834
+72,Jedlova,16.306,49.661
+123,Vlasatice,16.484,48.934
+86,Vlastec,14.212,49.366
+123,Sazava,14.897,49.872
+60,Sazavka,15.411,49.734
+60,Rynoltice,14.819,50.789
+72,Stary Kolin,15.294,50.01
+72,Rozvadov,12.552,49.668
+86,Vetrny Jenikov,15.479,49.476
+103,Mosty u Jablunkova,18.754,49.527
+86,Vezky,17.281,49.286
+86,Hlohovice,13.643,49.889
+123,Hluboka nad Vltavou,14.434,49.052
+72,Luka,16.947,49.649
+60,Drazice,14.59,49.429
+123,Laz,13.917,49.652
+103,Visnova,15.025,50.967
+72,Lulec,16.929,49.253
+147,Radomysl,13.93,49.316
+86,Dobrichovice,14.275,49.927
+123,Kladky,16.841,49.65
+86,Chodov,12.83,49.418
+60,Lisnice,14.319,49.889
+72,Ptice,14.166,50.053
+123,Janovice nad Uhlavou,13.218,49.345
+72,Horovicky,13.531,50.156
+60,Hostejn,16.775,49.874
+60,Radic,14.417,49.715
+147,Bela nad Radbuzou,12.718,49.591
+123,Lipa,15.545,49.554
+103,Dolni Marklovice,18.568,49.893
+176,Trhove Sviny,14.639,48.842
+176,Kraliky,16.761,50.084
+60,Brezina,14.91,49.291
+60,Hluboke,16.228,49.226
+86,Zasmuky,15.031,49.955
+363,Breznice,13.951,49.558
+123,Slabce,13.715,50
+86,Cernice,13.524,50.567
+86,Jasenice,16.164,49.258
+123,Kozojedy,13.542,49.931
+60,Chlistovice,15.202,49.886
+72,Vitejovice,14.073,49.046
+103,Visnova,14.145,49.706
+86,Velke Pavlovice,16.816,48.905
+86,Mladotice,13.364,49.985
+60,Mladosovice,14.699,48.94
+72,Skrivany,15.499,50.269
+72,Choltice,15.619,49.988
+60,Dobric,13.468,49.885
+60,Vrane nad Vltavou,14.377,49.936
+103,Liberk,16.343,50.199
+147,Mlada Vozice,14.809,49.533
+211,Manetin,13.233,49.992
+60,Kruzberk,17.683,49.832
+123,Kryry,13.427,50.174
+123,Velke Bilovice,16.892,48.849
+86,Hluboke Masuvky,16.026,48.924
+123,Kdyne,13.04,49.391
+60,Sadek,16.226,49.693
+103,Valcha,13.331,49.709
+211,Zeletava,15.673,49.142
+72,Mikulovice,16.095,48.957
+72,Mikulovice,17.322,50.299
+103,Mikulasovice,14.364,50.965
+72,Milavce,12.981,49.467
+176,Kelc,17.815,49.478
+86,Ledenice,14.619,48.933
+86,Lednice,16.803,48.8
+86,Horni Kruty,14.96,49.919
+123,Mostek,15.696,50.486
+60,Horni Libchava,14.493,50.713
+60,Sedlec,16.694,48.779
+60,Luzec nad Cidlinou,15.412,50.214
+103,Kamen,15.52,49.713
+147,Kovarov,14.278,49.518
+123,Kovarska,13.054,50.438
+60,Chotoviny,14.677,49.478
+72,Jarpice,14.085,50.322
+86,Pisecne,15.462,48.965
+72,Pasohlavky,16.544,48.903
+72,Tepla,12.863,49.982
+72,Ruprechtov,16.851,49.329
+253,Rybnik,12.677,49.513
+123,Hat,18.239,49.946
+86,Hostalkova,17.869,49.355
+147,Belcice,13.876,49.502
+60,Miretice,15.885,49.841
+60,Markvartice,14.355,50.776
+60,Chorusice,14.671,50.391
+72,Luzany,13.316,49.547
+60,Kytlice,14.535,50.813
+72,Bela pod Bezdezem,14.804,50.501
+147,Plana nad Luznici,14.701,49.354
+211,Polna,15.719,49.487
+72,Horni Lomna,18.637,49.528
+176,Moldava,13.657,50.721
+103,Moravany,15.941,50.001
+60,Drahany,16.897,49.433
+60,Drahotesice,14.547,49.124
+103,Konice,16.889,49.59
+72,Brumovice,17.75,50.015
+123,Brest,17.441,49.351
+60,Lustenice,14.937,50.323
+60,Pohorska Ves,14.648,48.67
+123,Pohorelice,16.524,48.981
+103,Vseruby,13.229,49.842
+123,Vapenna,17.098,50.283
+72,Patokryje,13.705,50.5
+60,Velenovy,13.546,49.358
+86,Loket,12.754,50.186
+72,Ostrov nad Oslavou,15.99,49.487
+103,Ostrov u Macochy,16.763,49.382
+86,Chocenice,13.52,49.548
+103,Hostinne,15.723,50.541
+60,Radostin nad Oslavou,15.965,49.462
+86,Myslinka,13.219,49.748
+60,Marsovice,14.565,49.714
+72,Marsovice,15.198,50.696
+123,Putim,14.119,49.265
+60,Patek,15.158,50.166
+72,Heralec,15.457,49.531
+86,Hlubocky,17.403,49.628
+103,Lazne Belohrad,15.583,50.429
+103,Lazne Kynzvart,12.625,50.011
+60,Jakubcovice,17.918,49.846
+123,Mestys Bila Voda,16.916,50.442
+86,Luzany,15.789,50.338
+123,Luzany,15.47,50.431
+103,Jirikov,17.278,49.854
+103,Drahonice,14.075,49.201
+72,Cebiv,12.979,49.829
+60,Cejle,15.473,49.369
+176,Jestrebi,14.585,50.609
+72,Sehradice,17.824,49.144
+60,Vlcnov,17.582,49.01
+103,Marenice,14.679,50.807
+60,Sudomerice u Bechyne,14.538,49.29
+86,Slezske Pavlovice,17.701,50.31
+103,Dobrovice,14.962,50.369
+103,Plasy,13.39,49.934
+123,Kounov,13.675,50.213
+60,Doubravy,17.668,49.142
+103,Hodonice,16.163,48.837
+72,Krupa,13.732,50.175
+103,Rodna,14.842,49.49
+60,Rovensko pod Troskami,15.259,50.535
+72,Slezske Rudoltice,17.681,50.207
+60,Suchy,16.762,49.483
+253,Sudice,18.068,50.032
+211,Touzim,12.985,50.06
+123,Sedlice,13.939,49.377
+72,Ostruzna,17.052,50.185
+60,Radkov,17.77,49.826
+72,Rybniky,14.206,49.753
+60,Chotys,14.898,50.02
+60,Koclirov,16.54,49.766
+72,Horice,15.185,49.599
+86,Chroboly,14.067,48.957
+103,Radkov,15.475,49.145
+303,Hevlin,16.381,48.752
+60,Hermanec,15.285,49.13
+72,Hermanicky,14.582,49.605
+103,Hermanovice,17.398,50.193
+147,Visnove,16.15,48.982
+103,Lodherov,14.96,49.215
+86,Lodin,15.61,50.271
+72,Jevisovice,15.99,48.987
+72,Hrusovany,13.498,50.387
+72,Hrusovany nad Jevisovkou,16.403,48.83
+123,Driten,14.346,49.143
+60,Stupava,17.249,49.117
+103,Stvolova,16.54,49.589
+72,Stare Hobzi,15.453,49.01
+60,Dobkovice,14.193,50.715
+103,Horni Pena,15.042,49.104
+147,Kalek,13.322,50.578
+72,Stezery,15.748,50.216
+86,Doubrava,15.068,50.553
+60,Veseli,15.619,50.011
+123,Strazek,16.193,49.441
+176,Sporice,13.392,50.441
+60,Huzova,17.298,49.82
+72,Bynov,14.799,48.816
+86,Novosedly,13.204,50.039
+103,Prelovice,15.615,50.073
+72,Velesin,14.463,48.829
+103,Primda,12.674,49.675
+123,Hvozd,13.263,49.94
+72,Hulice,15.088,49.71
+103,Recice,15.368,49.138
+60,Svata,13.962,49.939
+86,Pribyslav,15.739,49.577
+147,Vidnava,17.186,50.372
+103,Cimer,15.074,49.061
+72,Mala Moravka,17.312,50.021
+60,Malesov,15.226,49.91
+211,Strasice,13.758,49.736
+86,Lostice,16.929,49.745
+60,Lubnice,15.614,48.939
+72,Lubna,13.701,50.077
+103,Lubna,16.224,49.774
+176,Hory,12.561,50.255
+60,Dremcice,13.913,50.474
+60,Kravare,14.392,50.632
+176,Morkov,18.06,49.537
+60,Mocerady,13.074,49.517
+60,Starkov,16.158,50.534
+176,Studenec,15.549,50.553
+103,Ceminy,13.253,49.8
+103,Loucna nad Desnou,17.091,50.072
+86,Stribrna,12.526,50.357
+86,Straz,12.775,49.669
+123,Prosec,16.116,49.806
+60,Jimlin,13.747,50.319
+86,Jimramov,16.226,49.637
+123,Dvorce,17.548,49.833
+60,Dvory,14.995,50.212
+123,Mnichovice,14.709,49.936
+60,Srbce,17.229,49.302
+176,Cechtice,15.048,49.624
+103,Dvory nad Luznici,14.901,48.853
+60,Dymokury,15.203,50.246
+72,Stonarov,15.586,49.282
+72,Hradek,13.499,49.261
+72,Straz nad Nezarkou,14.906,49.07
+86,Spalene Porici,13.606,49.614
+123,Prosimerice,16.192,48.903
+103,Spalov,17.722,49.704
+103,Cizkov,15.118,49.44
+60,Temny Dul,15.799,50.665
+72,Strmilov,15.199,49.158
+103,Srch,15.763,50.085
+103,Prameny,12.733,50.05
+60,Horni Ves,15.307,49.293
+86,Horni Vltavice,13.759,48.957
+60,Loukov,17.721,49.422
+123,Jince,13.979,49.786
+60,Jindrichov,17.748,49.645
+211,Mnisek pod Brdy,14.262,49.866
+60,Stinava,16.935,49.496
+86,Tatenice,16.697,49.871
+72,Premyslovice,16.956,49.556
+72,Prepychy,16.107,50.236
+147,Valec,13.255,50.174
+147,Valec,16.036,49.144
+103,Valtice,16.755,48.741
+60,Strelna,18.098,49.177
+60,Hvozdany,13.805,49.528
+147,Kamenice nad Lipou,15.075,49.303
+72,Modrava,13.499,49.024
+86,Suchdol,15.167,49.952
+103,Stary Jirikov,14.569,50.995
+72,Trebusin,14.205,50.6
+72,Cepi,15.718,49.985
+103,Velka Morava,16.803,50.13
+86,Strani,17.707,48.902
+211,Malonty,14.577,48.686
+72,Trebonin,15.313,49.87
+123,Zbiroh,13.773,49.86
+86,Stara Rise,15.595,49.18
+253,Vejprty,13.032,50.492
+60,Strazny,13.72,48.909
+60,Lisna,13.806,49.885
+86,Modrice,16.614,49.128
+72,Trpin,16.402,49.595
+72,Lounovice pod Blanikem,14.847,49.637
+72,Horni Stropnice,14.735,48.761
+60,Loveckovice,14.263,50.622
+72,Strasov,15.523,50.087
+60,Kamenna,14.671,48.78
+60,Kamenna,15.653,49.51
+86,Velka Bystrice,17.364,49.594
+147,Velka Bites,16.226,49.289
+60,Porin,14.88,49.412
+86,Dzbanov,16.16,49.916
+72,Cehovice,17.176,49.432
+72,Strasin,13.64,49.179
+86,Cernotin,13.238,49.619
+60,Voznice,14.217,49.817
+72,Lubenec,13.315,50.132
+60,Cicova,16.158,50.07
+60,Velka Jesenice,16.038,50.361
+103,Sluknov,14.453,51.004
+86,Cernilov,15.923,50.263
+103,Vidim,14.526,50.468
+103,Strazov,13.246,49.303
+123,Stozec,13.821,48.859
+103,Suchdol nad Odrou,17.928,49.656
+72,Loucen,15.02,50.285
+123,Studena,15.287,49.185
+123,Cizova,14.093,49.357
+86,Cejkovice,14.383,49.014
+60,Cejkovice,16.942,48.906
+147,Zdice,13.977,49.912
+72,Stankov I,13.07,49.553
+86,Trebenice,13.99,50.476
+86,Hudlice,13.971,49.961
+86,Kostelec nad Cernymi lesy,14.859,49.994
+123,Palic,12.482,50.009
+123,Ponikla,15.463,50.662
+72,Techobuz,14.931,49.51
+60,Bohuslavice,15.981,50.549
+86,Kostelany,17.383,49.203
+103,Kostelec,13.026,49.674
+60,Skalna,12.361,50.17
+147,Potstat,17.652,49.637
+72,Valterice,14.407,50.677
+60,Veverske Kninice,16.402,49.237
+72,Mrakotin,15.957,49.815
+103,Kozlov,13.027,50.108
+86,Tucapy,14.803,49.291
+86,Stod,13.165,49.639
+60,Dubnice,14.809,50.726
+103,Krouna,16.027,49.772
+147,Zlonice,14.092,50.288
+72,Drmoul,12.666,49.939
+103,Zavlekov,13.49,49.337
+147,Zruc nad Sazavou,15.106,49.74
+72,Lanzhot,16.967,48.724
+147,Trebarov,16.703,49.83
+103,Kostelec na Hane,17.058,49.514
+86,Kostelec nad Labem,14.586,50.227
+72,Poricany,14.918,50.108
+60,Prace,16.765,49.141
+72,Prachovice,15.629,49.894
+147,Zihle,13.375,50.045
+72,Trebechovice pod Orebem,15.992,50.201
+86,Trebelovice,15.666,49.022
+60,Vrazne,16.778,49.678
+60,Nova Vraz,14.129,49.391
+103,Zichovice,13.628,49.267
+86,Tuchorice,13.663,50.285
+123,Tupadly,15.403,49.869
+123,Dohalice,15.695,50.287
+60,Vrbatky,17.2,49.508
+86,Krajkova,12.534,50.216
+72,Krakovany,15.369,50.066
+60,Sobenov,14.546,48.763
+147,Zahornice,15.291,50.248
+72,Habartov,12.551,50.183
+86,Techonin,16.618,50.065
+211,Tisa,14.031,50.785
+60,Dolni Bukovsko,14.581,49.171
+72,Doksy,14.656,50.565
+72,Zbytiny,13.978,48.943
+103,Uvalno,17.745,50.047
+123,Vyskov,13.672,50.395
+72,Caslavsko,15.003,49.592
+103,Sadska,14.986,50.136
+72,Cichov,15.762,49.285
+60,Cihan,13.426,49.342
+86,Tlumacov,17.496,49.254
+72,Svojsin,12.911,49.766
+72,Krasov,17.546,50.092
+60,Zelenec,14.661,50.134
+176,Horni Plana,14.033,48.767
+253,Potucky,12.736,50.428
+176,Duba,14.54,50.54
+72,Sosnova,14.532,50.655
+103,Zajecov,13.841,49.774
+103,Zaluzany,14.086,49.542
+147,Sobesice,13.684,49.208
+303,Uhlirske Janovice,15.065,49.88
+147,Zvole,16.175,49.494
+147,Zlate Hory,17.396,50.264
+86,Zliv,14.366,49.066
+86,Horni Mesto,17.211,49.908
+103,Urcice,17.075,49.431
+103,Tvrdonice,16.994,48.76
+60,Trstenice,16.349,49.794
+123,Tavikovice,16.103,49.034
+176,Kopidlno,15.27,50.331
+60,Zvikov,14.617,48.981
+72,Zvikov,14.449,48.803
+86,Cachrov,13.303,49.265
+60,Solenice,14.196,49.618
+72,Solnice,16.238,50.204
+72,Sopotnice,16.345,50.059
+72,Zbuch,13.226,49.678
+123,Unhost,14.13,50.085
+60,Zhor,12.97,49.66
+72,Podboranky,13.45,50.052
+72,Uzenice,13.96,49.473
+103,Trokavec,13.702,49.647
+86,Krtely,14.171,49.085
+72,Temice,15.06,49.352
+103,Prunerov,13.259,50.43
+60,Vidice,12.836,49.614
+60,Mrakotin,15.376,49.189
+72,Stritez,15.911,50.512
+86,Postupice,14.777,49.728
+86,Postrekov,12.807,49.458
+72,Postrelmov,16.912,49.908
+60,Tusimice,13.336,50.388
+103,Zabori,13.827,49.379
+60,Skorkov,14.749,50.232
+211,Stare Mesto,16.947,50.162
+303,Kralovice,13.487,49.982
+123,Senozaty,15.198,49.569
+72,Sezemice,15.853,50.067
+147,Sobotka,15.176,50.467
+60,Zubrnice,14.22,50.649
+86,Libcice,14.309,49.755
+60,Uhelna,17.027,50.365
+72,Zakava,13.531,49.63
+176,Svihov,13.284,49.481
+60,Svabenice,17.123,49.278
+72,Vlkonice,13.73,49.13
+123,Vranov nad Dyji,15.813,48.895
+103,Svoboda nad Upou,15.816,50.626
+147,Dolni Mala Upa,15.814,50.724
+72,Purkarec,14.452,49.129
+60,Plouznice,14.765,50.634
+60,Cesky Sternberk,14.928,49.811
+72,Roztoky,14.181,50.687
+72,Usti,15.415,49.474
+60,Cesky Jiretin,13.547,50.707
+60,Cesky Rudolec,15.324,49.068
+86,Zar,14.708,48.807
+72,Sadek,17.748,49.952
+60,Mysenec,14.209,49.223
+60,Tresovice,15.689,50.265
+72,Trestice,15.453,49.246
+123,Zdarec,16.266,49.38
+60,Rozany,14.452,51.026
+72,Utociste,13.171,50.397
+60,Vresnik,15.254,49.532
+86,Cesky Dub IV,14.993,50.659
+60,Stepanov nad Svratkou,16.339,49.505
+60,Jablonna,14.451,49.78
+60,Drhovle Ves,14.041,49.334
+123,Sedlec,14.533,49.572
+60,Trebetice,15.521,49.048
+86,Tri Studne,16.036,49.613
+147,Suchdol nad Luznici,14.877,48.893
+211,Male Predmesti,12.933,49.529
+103,Tremesna,17.575,50.205
+60,Padarov,14.525,49.452
+60,Horni Zahori,14.213,49.343
+176,Pernarec,13.103,49.84
+72,Makov,16.191,49.855
+60,Dobra Voda,12.963,49.988
+72,Zizkovo Pole,15.735,49.611
+147,Stoky,15.589,49.502
+60,Varvazov,14.143,49.439
+86,Srni,13.48,49.087
+211,Horni Rokytnice,15.464,50.727
+123,Straz pod Ralskem,14.801,50.703
+86,Tremesne,12.696,49.625
+60,Tremosna,13.395,49.816
+147,Tremosnice,15.58,49.869
+147,Zlutice,13.163,50.092
+60,Zulova,17.099,50.309
+103,Malsice,14.579,49.364
+60,Radim,15.429,50.459
+72,Bezdecin,15.131,50.658
+147,Zbraslavice,15.183,49.812
+72,Velhartice,13.39,49.265
+60,Andelka,14.994,51.002
+60,Pridoli,14.352,48.782
+72,Hustopece nad Becvou,17.87,49.531
+60,Lovcovice,15.534,48.981
+60,Locenice,14.528,48.824
+60,Srubec,14.541,48.948
+60,Rancirov,15.527,48.934
+72,Petrohrad,13.446,50.128
+176,Javorna,13.305,49.219
+60,Cejkovy,13.517,49.292
+123,Stepanov,17.22,49.684
+60,Kosmova,12.974,50.035
+72,Hodky,14.973,50.715
+86,Damnov,12.796,49.788
+60,Ostrovec,13.726,49.918
+72,Praksice,17.633,49.069
+86,Pec pod Snezkou,15.733,50.693
+60,Pecka,15.608,50.48
+60,Antoninuv Dul,15.6,49.467
+86,Cinovec,13.769,50.732
+103,Zitec,14.916,49.001
+86,Vernirovice,17.13,50.032
+72,Rackova,17.625,49.277
+123,Vernerice,14.301,50.661
+60,Jezerany-Marsovice,16.437,49.029
+72,Kaly,16.352,49.379
+60,Malenice,13.883,49.126
+60,Valsov,17.438,49.933
+253,Stare Hamry,18.446,49.473
+86,Strezimir,14.611,49.532
+86,Srnin,14.344,48.845
+123,Porezany,14.494,49.172
+86,Verusicky,13.174,50.142
+176,Votice,14.639,49.64
+103,Lutin,17.136,49.559
+123,Osek nad Becvou,17.527,49.511
+72,Hrivno,14.768,50.323
+72,Straskov,14.25,50.364
+72,Cejc,16.965,48.946
+60,Stahlavy,13.505,49.675
+72,Zelena Lhota,13.173,49.242
+123,Chynov,14.811,49.407
+86,Pobezovice,12.803,49.51
+60,Halenkov,18.147,49.318
+86,Cimelice,14.069,49.466
+103,Prizer,14.343,48.659
+86,Radosov,12.995,50.273
+60,Uvaly,16.701,48.743
+147,Trnava,17.842,49.296
+60,Svojanov,16.41,49.625
+86,Dolni Bory,16.021,49.426
+72,Cernochov,14.029,50.353
+103,Stitary,15.844,48.935
+211,Stity,16.766,49.961
+86,Stedra,13.114,50.058
+123,Pacejov-nadrazi,13.625,49.388
+60,Trojanovice,18.238,49.52
+86,Vranany,14.362,50.317
+72,Vrazne,17.867,49.629
+72,Vodna,15.069,49.276
+72,Studanka,12.186,50.276
+86,Utery,13.004,49.94
+72,Utusice,13.382,49.678
+86,Udraz,14.309,49.282
+72,Cestice,13.804,49.168
+72,Hurky,15.137,49.051
+72,Utechov,16.645,49.728
+72,Vojkovice,13.016,50.303
+123,Ceske Velenice,14.964,48.769
+123,Jaromerice nad Rokytnou,15.893,49.094
+123,Vsetaty,14.593,50.282
+86,Horni Mostenice,17.459,49.412
+176,Chlumec nad Cidlinou IV,15.459,50.162
+103,Mohelno,16.19,49.114
+86,Dlouha Trebova,16.425,49.939
+86,Velky Tynec,17.338,49.552
+123,Velka Ledhuje,16.239,50.539
+60,Cvikov II,14.626,50.78
+103,Korycany,17.164,49.106
+211,Libina,17.083,49.876
+253,Velke Opatovice,16.679,49.612
+60,Vacenovice,17.174,48.945
+72,Velke Karlovice,18.284,49.36
+123,Protivanov,16.836,49.484
+211,Volary,13.887,48.909
+86,Tovacov I-Mesto,17.288,49.431
+60,Studanky,14.326,48.589
+147,Volyne,13.886,49.166
+123,Dlouha Loucka,17.18,49.816
+211,Bystrice,18.72,49.637
+123,Milovice,14.889,50.226
+176,Cernosice,14.32,49.96
+72,Frantiskovy Lazne,12.352,50.12
+103,Hostivice,14.259,50.082
+751,Znojmo,16.049,48.856
+86,Cerveny Kostelec,16.093,50.476
+176,Prelouc,15.559,50.037
+147,Vitkov,17.749,49.775
+253,Ceska Lipa,14.538,50.686
+901,Jihlava,15.591,49.396
+103,Trinec,18.67,49.678
+123,Veseli nad Luznici,14.697,49.185
+303,Veseli nad Moravou,17.383,48.952
+363,Susice,13.52,49.232
+147,Straznice,17.317,48.901
+626,Cheb,12.374,50.08
+435,Cesky Krumlov,14.315,48.812
+901,Ceske Budejovice,14.474,48.975
+2240,Brno,16.61,49.193
+123,Chodov,12.746,50.239
+363,Broumov,16.332,50.586
+72,Rokycany,13.594,49.744
+176,Unicov,17.122,49.771
+147,Zabreh,16.872,49.883
+176,Novy Bor,14.556,50.758
+176,Hranice,17.734,49.549
+253,Dvur Kralove nad Labem,15.814,50.432
+147,Semily,15.336,50.602
+253,Koprivnice,18.145,49.6
+751,Olomouc,17.251,49.594
+123,Brandys nad Labem-Stara Boleslav,14.663,50.188
+176,Vlasim,14.899,49.706
+303,Slavkov u Brna,16.877,49.153
+901,Karlovy Vary,12.886,50.221
+363,Zatec,13.546,50.327
+147,Napajedla,17.512,49.172
+253,Louny,13.797,50.357
+211,Dobris,14.167,49.781
+435,Hlinsko,15.908,49.762
+86,Usti nad Orlici,16.394,49.974
+103,Mohelnice,16.92,49.777
+123,Jicin,15.351,50.438
+86,Lanskroun,16.611,49.913
+103,Letohrad,16.499,50.036
+86,Chotebor,15.67,49.721
+363,Sternberk,17.299,49.73
+176,Moravska Trebova,16.664,49.759
+211,Ceska Trebova,16.447,49.902
+626,Svitavy,16.468,49.757
+176,Policka,16.265,49.715
+176,Vysoke Myto,16.161,49.954
+211,Chrudim,15.795,49.952
+123,Chocen,16.223,50.002
+211,Novy Bydzov,15.491,50.242
+522,Pisek,14.147,49.31
+176,Horice,15.632,50.366
+363,Marianske Lazne,12.701,49.965
+147,Roudnice nad Labem,14.262,50.425
+303,Stribro,13.004,49.753
+103,Nyrany,13.212,49.711
+103,Kostelec nad Orlici,16.213,50.123
+123,Krupka,13.858,50.684
+103,Litomysl,16.31,49.873
+60,Duchcov,13.746,50.604
+211,Boskovice,16.66,49.488
+123,Trebon,14.77,49.004
+1081,Plzen,13.377,49.748
+86,Otrokovice,17.531,49.21
+211,Kromeriz,17.393,49.298
+435,Vodnany,14.175,49.149
+1297,Zlin,17.666,49.227
+103,Brumov-Bylnice,18.022,49.092
+211,Studenka,18.079,49.723
+147,Kraslice,12.518,50.324
+176,Nejdek,12.729,50.322
+123,Kojetin,17.301,49.353
+253,Ricany,14.654,49.992
+147,Plana,12.744,49.868
+86,Dubnany,17.09,48.917
+626,Tachov,12.634,49.795
+303,Sedlcany,14.427,49.661
+147,Strakonice,13.902,49.262
+176,As,12.195,50.224
+176,Teplice,13.825,50.64
+303,Prostejov,17.112,49.472
+211,Cesky Tesin,18.626,49.746
+435,Turnov,15.157,50.587
+103,Tisnov,16.424,49.349
+303,Frydlant,15.08,50.921
+211,Rychnov nad Kneznou,16.275,50.163
+901,Tabor,14.658,49.414
+123,Frenstat pod Radhostem,18.211,49.548
+303,Decin,14.214,50.783
+86,Nymburk,15.042,50.186
+435,Most,13.636,50.503
+303,Kadan,13.271,50.376
+253,Domazlice,12.929,49.441
+123,Bilina,13.775,50.549
+103,Podebrady,15.118,50.143
+86,Novy Jicin,18.01,49.594
+363,Krnov,17.704,50.089
+211,Trest,15.482,49.291
+176,Dacice,15.437,49.082
+253,Pelhrimov,15.223,49.431
+253,Kralupy nad Vltavou,14.312,50.241
+147,Hradek nad Nisou,14.845,50.853
+253,Ivancice,16.378,49.101
+176,Valasske Mezirici,17.971,49.472
+176,Telc,15.452,49.185
+176,Havlickuv Brod,15.581,49.608
+522,Benesov,14.687,49.782
+60,Ledec nad Sazavou,15.278,49.695
+1867,Ostrava,18.281,49.835
+176,Nove Mesto nad Metuji,16.151,50.345
+211,Moravske Budejovice,15.809,49.052
+147,Bohumin,18.357,49.905
+176,Humpolec,15.359,49.542
+211,Vrchlabi,15.609,50.627
+176,Kutna Hora,15.268,49.949
+147,Holesov,17.578,49.333
+435,Zdar nad Sazavou,15.939,49.563
+303,Litomerice,14.131,50.534
+147,Litvinov,13.61,50.601
+522,Sumperk,16.971,49.965
+72,Nachod,16.163,50.417
+303,Prachatice,13.997,49.014
+626,Pribram,14.01,49.691
+103,Orlova,18.429,49.846
+211,Sokolov,12.64,50.181
+1297,Usti nad Labem,14.04,50.661
+147,Hlucin,18.192,49.898
+86,Caslav,15.389,49.912
+103,Rumburk,14.556,50.952
+72,Chrastava,14.969,50.817
+211,Trebic,15.881,49.216
+86,Jablonec nad Nisou,15.171,50.724
+211,Ostrov,12.939,50.306
+303,Kyjov,17.123,49.01
+435,Vyskov,16.998,49.278
+123,Tyn nad Vltavou,14.421,49.223
+211,Rakovnik,13.733,50.105
+253,Sobeslav,14.718,49.261
+363,Vsetin,17.996,49.339
+901,Klatovy,13.294,49.396
+751,Hodonin,17.132,48.849
+253,Blatna,13.882,49.425
+176,Beroun,14.071,49.965
+211,Slany,14.087,50.23
+211,Milevsko,14.36,49.451
+211,Bechyne,14.468,49.295
+303,Kladno,14.103,50.147
+626,Kolin,15.2,50.029
+100000,Praha,14.417,50.085
+303,Varnsdorf,14.618,50.912
+901,Hradec Kralove,15.833,50.209
+211,Karvina,18.542,49.855
+901,Trutnov,15.912,50.562
+435,Pardubice,15.78,50.039
+626,Jesenik,17.205,50.229
+303,Velke Mezirici,16.012,49.355
+103,Jablunkov,18.765,49.577
+303,Bruntal,17.465,49.988
+363,Frydek-Mistek,18.348,49.686
+147,Havirov,18.436,49.781
+147,Odry,17.831,49.663
+86,Zelezny Brod,15.254,50.643
+60,Senov,18.376,49.793
+86,Uhersky Brod,17.647,49.025
+123,Dobruska,16.16,50.292
+123,Nova Paka,15.515,50.495
+103,Roztoky,14.398,50.158
+211,Blansko,16.643,49.363
+253,Breclav,16.882,48.759
+363,Melnik,14.474,50.351
+176,Kurim,16.531,49.299
+123,Mimon,14.724,50.66
+303,Jindrichuv Hradec,15.002,49.145
+211,Mikulov,16.638,48.806
+123,Kaplice,14.496,48.739
+253,Prerov,17.45,49.454
+176,Jaromer,15.921,50.356
+435,Opava,17.902,49.939
+522,Liberec,15.063,50.761
+86,Chomutov / Jirkov,13.428,50.483
+435,Mladá Boleslav / Kosmonosy,14.916,50.423
+60,Brno-Bohunice / Lískovec,16.567,49.172
+72,Plzeň-Severní Předměstí,13.37,49.775
+303,Uherské Hradiště,17.46,49.068
+211,Praha-Horní Počernice,14.609,50.111
+103,Rosice / Zastávka,16.371,49.177
+103,Kravaře,18.004,49.919
+123,Hrušovany u Brna / Židlochovice,16.605,49.029
+103,Úpice,16.038,50.516
+123,Frýdlant nad Ostravicí / Čeladná,18.35,49.584
+86,Bystřice pod Hostýnem,17.668,49.402
+72,Zubří,18.129,49.464
+147,Rýmařov,17.261,49.941
+123,Litovel,17.071,49.697
+363,Hořovice,13.901,49.841
+103,Mnichovo Hradiště / Klášter Hradiště n. J.,14.966,50.525
+86,Praha-Újezd nad Lesy,14.662,50.075
+211,Přeštice,13.334,49.575
+176,Benátky nad Jizerou,14.836,50.292
+176,Vimperk,13.781,49.058
+147,Pečky,15.025,50.086
+72,Bílovec / Velké Albrechtice,18.02,49.755
+103,Žamberk,16.459,50.082
+147,Světlá nad Sázavou,15.406,49.671
+123,Pozořice / Sivice / Tvarožná / Viničné Šumice,16.792,49.205
+123,Hustopeče,16.722,48.944
+72,Český Brod,14.864,50.074
+147,Holice,15.991,50.072
+147,Horní Slavkov,12.802,50.136
+176,Dobřany,13.294,49.652
+147,Telnice / Měnín / Sokolnice / Žatčany,16.716,49.098
+147,Slavičín,17.88,49.086
+86,Sušice-Jalubí-Traplice-Kudlovice-Babice,17.455,49.121
+103,Kynšperk nad Ohří,12.538,50.122
+60,Bučovice,17.005,49.144
+86,Bzenec,17.298,48.978
+253,Podbořany,13.409,50.225
+123,Letovice,16.574,49.546
