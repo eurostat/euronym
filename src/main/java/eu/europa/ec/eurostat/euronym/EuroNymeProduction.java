@@ -49,8 +49,8 @@ public class EuroNymeProduction {
 		HashSet<String> ccs = new HashSet<>();
 		ccs.addAll(FeatureUtil.getIdValues(GeoData.getFeatures(namesStruct), "cc"));
 		ccs.add("EUR");
-		ccs.add("EU");
-		ccs.add("EFTA");
+		//ccs.add("EU");
+		//ccs.add("EFTA");
 
 		//generate
 		for(String cc : ccs) {
@@ -58,7 +58,7 @@ public class EuroNymeProduction {
 				System.out.println("******* " + cc + " LOD " + lod);
 
 				// get input labels
-				Filter f = CQL.toFilter("cc = '"+cc+"'");
+				Filter f = cc.equals("EUR")? null : CQL.toFilter("cc = '"+cc+"'");
 				ArrayList<Feature> fs = GeoData.getFeatures(namesStruct, null, f);
 				System.out.println(fs.size() + " labels loaded");
 
@@ -75,281 +75,281 @@ public class EuroNymeProduction {
 			}
 		}
 
-			System.out.println("End");
-		}
+		System.out.println("End");
+	}
 
-		/**
-		 * @param fs       The labels
-		 * @param fontSize The label font size
-		 * @param resMin   The minimum resolution (in m/pixel). The unnecessary labels
-		 *                 below will be removed.
-		 * @param resMax   The maximum resolution (in m/pixel)
-		 * @param zf       The zoom factor, between resolutions. For example: 1.2
-		 * @param pixX     The buffer zone without labels around - X direction
-		 * @param pixY     The buffer zone without labels around - Y direction
-		 */
-		private static ArrayList<Feature> generate(ArrayList<Feature> fs, int fontSize, int resMin, int resMax, double zf,
-				int pixX, int pixY) {
+	/**
+	 * @param fs       The labels
+	 * @param fontSize The label font size
+	 * @param resMin   The minimum resolution (in m/pixel). The unnecessary labels
+	 *                 below will be removed.
+	 * @param resMax   The maximum resolution (in m/pixel)
+	 * @param zf       The zoom factor, between resolutions. For example: 1.2
+	 * @param pixX     The buffer zone without labels around - X direction
+	 * @param pixY     The buffer zone without labels around - Y direction
+	 */
+	private static ArrayList<Feature> generate(ArrayList<Feature> fs, int fontSize, int resMin, int resMax, double zf,
+			int pixX, int pixY) {
 
-			// initialise rmax
-			for (Feature f : fs)
-				f.setAttribute("rmax", resMax);
+		// initialise rmax
+		for (Feature f : fs)
+			f.setAttribute("rmax", resMax);
 
-			for (int res = resMin; res <= resMax; res *= zf) {
-				System.out.println("Resolution: " + res);
+		for (int res = resMin; res <= resMax; res *= zf) {
+			System.out.println("Resolution: " + res);
 
-				// extract only the labels that are visible for this resolution
-				final int res_ = res;
-				List<Feature> fs_ = fs.stream().filter(f -> (Integer) f.getAttribute("rmax") > res_)
-						.collect(Collectors.toList());
-				System.out.println("   nb = " + fs_.size());
+			// extract only the labels that are visible for this resolution
+			final int res_ = res;
+			List<Feature> fs_ = fs.stream().filter(f -> (Integer) f.getAttribute("rmax") > res_)
+					.collect(Collectors.toList());
+			System.out.println("   nb = " + fs_.size());
 
-				// compute label envelopes
-				for (Feature f : fs_)
-					f.setAttribute("gl", getLabelEnvelope(f, fontSize, res));
+			// compute label envelopes
+			for (Feature f : fs_)
+				f.setAttribute("gl", getLabelEnvelope(f, fontSize, res));
 
-				// make spatial index, with only the ones remaining as visible for res
-				Quadtree index = new Quadtree();
-				for (Feature f : fs_)
-					index.insert((Envelope) f.getAttribute("gl"), f);
+			// make spatial index, with only the ones remaining as visible for res
+			Quadtree index = new Quadtree();
+			for (Feature f : fs_)
+				index.insert((Envelope) f.getAttribute("gl"), f);
 
-				// analyse labels one by one
-				for (Feature f : fs_) {
-					// System.out.println("----");
+			// analyse labels one by one
+			for (Feature f : fs_) {
+				// System.out.println("----");
 
-					Integer rmax = (Integer) f.getAttribute("rmax");
-					if (rmax <= res)
-						continue;
+				Integer rmax = (Integer) f.getAttribute("rmax");
+				if (rmax <= res)
+					continue;
 
-					// get envelope, enlarged
-					Envelope env = (Envelope) f.getAttribute("gl");
-					Envelope searchEnv = new Envelope(env);
-					searchEnv.expandBy(pixX * res, pixY * res);
+				// get envelope, enlarged
+				Envelope env = (Envelope) f.getAttribute("gl");
+				Envelope searchEnv = new Envelope(env);
+				searchEnv.expandBy(pixX * res, pixY * res);
 
-					// get other labels overlapping/nearby with index
-					List<Feature> neigh = index.query(searchEnv);
-					// refine list of neighboors: keep ony the ones intersecting
-					Predicate<Feature> pr2 = f2 -> searchEnv.intersects((Envelope) f2.getAttribute("gl"));
-					;
-					neigh = neigh.stream().filter(pr2).collect(Collectors.toList());
+				// get other labels overlapping/nearby with index
+				List<Feature> neigh = index.query(searchEnv);
+				// refine list of neighboors: keep ony the ones intersecting
+				Predicate<Feature> pr2 = f2 -> searchEnv.intersects((Envelope) f2.getAttribute("gl"));
+				;
+				neigh = neigh.stream().filter(pr2).collect(Collectors.toList());
 
-					// in case no neighboor...
-					if (neigh.size() == 1)
-						continue;
+				// in case no neighboor...
+				if (neigh.size() == 1)
+					continue;
 
-					// get best label to keep
-					Feature toKeep = getBestLabelToKeep(neigh);
+				// get best label to keep
+				Feature toKeep = getBestLabelToKeep(neigh);
 
-					// set rmax of others, and remove them from index
-					neigh.remove(toKeep);
-					for (Feature f_ : neigh) {
-						f_.setAttribute("rmax", res);
-						index.remove((Envelope) f_.getAttribute("gl"), f_);
-					}
-
+				// set rmax of others, and remove them from index
+				neigh.remove(toKeep);
+				for (Feature f_ : neigh) {
+					f_.setAttribute("rmax", res);
+					index.remove((Envelope) f_.getAttribute("gl"), f_);
 				}
 
 			}
 
-			// clean attributes
-			for (Feature f : fs)
-				f.getAttributes().remove("gl");
-			for (Feature f : fs)
-				f.getAttributes().remove("pop");
-
-			// filter - keep only few
-			return (ArrayList<Feature>) fs.stream().filter(f -> (Integer) f.getAttribute("rmax") > resMin)
-					.collect(Collectors.toList());
 		}
 
-		private static Feature getBestLabelToKeep(List<Feature> fs) {
-			// get the one with:
-			// 1. the largest population
-			Feature fBest = null;
-			int popMax = -1;
-			for (Feature f : fs) {
-				int pop = Integer.parseInt(f.getAttribute("pop").toString());
-				if (pop <= popMax)
-					continue;
-				popMax = pop;
-				fBest = f;
-			}
-			// 2. the shorter
-			// TODO
+		// clean attributes
+		for (Feature f : fs)
+			f.getAttributes().remove("gl");
+		for (Feature f : fs)
+			f.getAttributes().remove("pop");
 
-			return fBest;
+		// filter - keep only few
+		return (ArrayList<Feature>) fs.stream().filter(f -> (Integer) f.getAttribute("rmax") > resMin)
+				.collect(Collectors.toList());
+	}
+
+	private static Feature getBestLabelToKeep(List<Feature> fs) {
+		// get the one with:
+		// 1. the largest population
+		Feature fBest = null;
+		int popMax = -1;
+		for (Feature f : fs) {
+			int pop = Integer.parseInt(f.getAttribute("pop").toString());
+			if (pop <= popMax)
+				continue;
+			popMax = pop;
+			fBest = f;
 		}
+		// 2. the shorter
+		// TODO
 
-		private static void structure() {
+		return fBest;
+	}
 
-			// the output
-			Collection<Feature> out = new ArrayList<>();
+	private static void structure() {
 
-			// Add ERM BuiltupP
+		// the output
+		Collection<Feature> out = new ArrayList<>();
 
-			System.out.println("ERM - BuiltupP");
-			String erm = basePath + "gisco/geodata/euro-regional-map-gpkg/data/OpenEuroRegionalMap.gpkg";
-			ArrayList<Feature> buP = GeoData.getFeatures(erm, "BuiltupP", "id");
-			System.out.println(buP.size() + " features loaded");
-			CoordinateReferenceSystem crsERM = GeoData.getCRS(erm);
+		// Add ERM BuiltupP
 
-			for (Feature f : buP) {
-				Feature f_ = new Feature();
+		System.out.println("ERM - BuiltupP");
+		String erm = basePath + "gisco/geodata/euro-regional-map-gpkg/data/OpenEuroRegionalMap.gpkg";
+		ArrayList<Feature> buP = GeoData.getFeatures(erm, "BuiltupP", "id");
+		System.out.println(buP.size() + " features loaded");
+		CoordinateReferenceSystem crsERM = GeoData.getCRS(erm);
 
-				// name
-				// NAMA1 NAMA2 NAMN1 NAMN2
-				String name = (String) f.getAttribute("NAMA1");
+		for (Feature f : buP) {
+			Feature f_ = new Feature();
+
+			// name
+			// NAMA1 NAMA2 NAMN1 NAMN2
+			String name = (String) f.getAttribute("NAMA1");
+			if (name == null || name.equals("UNK")) {
+				System.out.println("No NAMA1 for " + f.getID() + " " + f.getAttribute("ICC"));
+				name = (String) f.getAttribute("NAMA2");
 				if (name == null || name.equals("UNK")) {
-					System.out.println("No NAMA1 for " + f.getID() + " " + f.getAttribute("ICC"));
-					name = (String) f.getAttribute("NAMA2");
+					System.out.println("No NAMA2 for " + f.getID() + " " + f.getAttribute("ICC"));
+					name = (String) f.getAttribute("NAMN1");
 					if (name == null || name.equals("UNK")) {
-						System.out.println("No NAMA2 for " + f.getID() + " " + f.getAttribute("ICC"));
-						name = (String) f.getAttribute("NAMN1");
+						System.out.println("No NAMN1 for " + f.getID() + " " + f.getAttribute("ICC"));
+						name = (String) f.getAttribute("NAMN2");
 						if (name == null || name.equals("UNK")) {
-							System.out.println("No NAMN1 for " + f.getID() + " " + f.getAttribute("ICC"));
-							name = (String) f.getAttribute("NAMN2");
-							if (name == null || name.equals("UNK")) {
-								System.err.println("No NAMN2 for " + f.getID() + " " + f.getAttribute("ICC"));
-								continue;
-							}
+							System.err.println("No NAMN2 for " + f.getID() + " " + f.getAttribute("ICC"));
+							continue;
 						}
 					}
 				}
-				f_.setAttribute("name", name);
+			}
+			f_.setAttribute("name", name);
 
-				// lon / lat
-				Point g = (Point) f.getGeometry();
-				f_.setAttribute("lon", Double.toString(Util.round(g.getCoordinate().x, 3)));
-				f_.setAttribute("lat", Double.toString(Util.round(g.getCoordinate().y, 3)));
+			// lon / lat
+			Point g = (Point) f.getGeometry();
+			f_.setAttribute("lon", Double.toString(Util.round(g.getCoordinate().x, 3)));
+			f_.setAttribute("lat", Double.toString(Util.round(g.getCoordinate().y, 3)));
 
-				// geometry
-				// project
-				f_.setGeometry(CRSUtil.toLAEA(f.getGeometry(), crsERM));
-				for (Coordinate c : f_.getGeometry().getCoordinates()) {
-					double z = c.x;
-					c.x = c.y;
-					c.y = z;
-				}
-
-				// population
-				// PPL PP1 PP2
-				Integer pop = (Integer) f.getAttribute("PPL");
-				if (pop < 0 || pop == null) {
-					Integer pop1 = (Integer) f.getAttribute("PP1");
-					Integer pop2 = (Integer) f.getAttribute("PP2");
-					if (pop1 >= 0 && pop2 >= 0) {
-						pop = pop1 + (pop2 - pop1) / 3;
-					} else if (pop1 < 0 && pop2 >= 0) {
-						// System.out.println("pop2 " + pop2+name + " "+pop1);
-						pop = pop2 / 2;
-					} else if (pop1 >= 0 && pop2 < 0) {
-						// System.out.println("pop1 " + pop1+name + " "+pop2);
-						pop = pop1 * 2;
-					} else if (pop1 < 0 && pop2 < 0) {
-						// System.out.println(pop1+" "+pop2);
-						// do something here
-						pop = 0;
-					}
-				}
-				f_.setAttribute("pop", pop.toString());
-
-				//country code
-				f_.setAttribute("cc", alterCountryCode(f.getAttribute("ICC").toString()));
-
-				out.add(f_);
+			// geometry
+			// project
+			f_.setGeometry(CRSUtil.toLAEA(f.getGeometry(), crsERM));
+			for (Coordinate c : f_.getGeometry().getCoordinates()) {
+				double z = c.x;
+				c.x = c.y;
+				c.y = z;
 			}
 
-
-			// REGIO town names
-
-			System.out.println("REGIO - town names");
-			String nt_ = basePath + "gisco/geodata/regio_town_names/nt.gpkg";
-			ArrayList<Feature> nt = GeoData.getFeatures(nt_, "STTL_ID");
-			System.out.println(nt.size() + " features loaded");
-			CoordinateReferenceSystem crsNT = GeoData.getCRS(nt_);
-
-			for (Feature f : nt) {
-				Feature f_ = new Feature();
-
-				// name
-				String name = (String) f.getAttribute("STTL_NAME");
-				if (name.length() == 0)
-					continue;
-				f_.setAttribute("name", name);
-
-				// lon / lat
-				Point g = f.getGeometry().getCentroid();
-				f_.setAttribute("lon", Double.toString(Util.round(g.getCoordinate().x, 3)));
-				f_.setAttribute("lat", Double.toString(Util.round(g.getCoordinate().y, 3)));
-
-				// geometry
-				// project
-				f_.setGeometry(CRSUtil.toLAEA(g, crsNT));
-				for (Coordinate c : f_.getGeometry().getCoordinates()) {
-					double z = c.x;
-					c.x = c.y;
-					c.y = z;
+			// population
+			// PPL PP1 PP2
+			Integer pop = (Integer) f.getAttribute("PPL");
+			if (pop < 0 || pop == null) {
+				Integer pop1 = (Integer) f.getAttribute("PP1");
+				Integer pop2 = (Integer) f.getAttribute("PP2");
+				if (pop1 >= 0 && pop2 >= 0) {
+					pop = pop1 + (pop2 - pop1) / 3;
+				} else if (pop1 < 0 && pop2 >= 0) {
+					// System.out.println("pop2 " + pop2+name + " "+pop1);
+					pop = pop2 / 2;
+				} else if (pop1 >= 0 && pop2 < 0) {
+					// System.out.println("pop1 " + pop1+name + " "+pop2);
+					pop = pop1 * 2;
+				} else if (pop1 < 0 && pop2 < 0) {
+					// System.out.println(pop1+" "+pop2);
+					// do something here
+					pop = 0;
 				}
-
-				// population
-				Integer pop = (int) Double.parseDouble(f.getAttribute("POPL_2011").toString());
-				f_.setAttribute("pop", pop.toString());
-
-				//country code
-				f_.setAttribute("cc", alterCountryCode(f.getAttribute("CNTR_CODE").toString()));
-
-				out.add(f_);
 			}
+			f_.setAttribute("pop", pop.toString());
 
-			// save output
-			System.out.println("Save " + out.size());
-			GeoData.save(out, namesStruct, CRSUtil.getETRS89_LAEA_CRS());
-		}
+			//country code
+			f_.setAttribute("cc", alterCountryCode(f.getAttribute("ICC").toString()));
 
-		/*
-		 * private static ArrayList<Feature> getNameExtend(double pixSize, int fontSize)
-		 * { ArrayList<Feature> fs = GeoData.getFeatures(namesStruct); for (Feature f :
-		 * fs) { Envelope env = getLabelEnvelope(f, fontSize, pixSize);
-		 * f.setGeometry(JTSGeomUtil.getGeometry(env)); } return fs; }
-		 */
-
-		/**
-		 * @param f        The label object.
-		 * @param fontSize The font size to apply, in pts.
-		 * @param pixSize  The zoom level: size of a pixel in m.
-		 * @return
-		 */
-		private static Envelope getLabelEnvelope(Feature f, int fontSize, double pixSize) {
-			Coordinate c = f.getGeometry().getCoordinate();
-			double x = c.x;
-			double y = c.y;
-
-			// 12pt = 16px
-			double h = pixSize * fontSize * 1.333333;
-			double widthFactor = 0.5;
-			double w = widthFactor * h * ((String) f.getAttribute("name")).length();
-
-			return new Envelope(x, x + w, y, y + h);
+			out.add(f_);
 		}
 
 
-		private static String alterCountryCode(String in) {
-			switch (in) {
-			case "EL": return "GR";
-			case "GB": return "UK";
-			case "ND": return "UK";
-			case "IM": return "UK";
-			//case "SJ": return "NO";
-			//case "FO": return "DK";
-			default: return in;
+		// REGIO town names
+
+		System.out.println("REGIO - town names");
+		String nt_ = basePath + "gisco/geodata/regio_town_names/nt.gpkg";
+		ArrayList<Feature> nt = GeoData.getFeatures(nt_, "STTL_ID");
+		System.out.println(nt.size() + " features loaded");
+		CoordinateReferenceSystem crsNT = GeoData.getCRS(nt_);
+
+		for (Feature f : nt) {
+			Feature f_ = new Feature();
+
+			// name
+			String name = (String) f.getAttribute("STTL_NAME");
+			if (name.length() == 0)
+				continue;
+			f_.setAttribute("name", name);
+
+			// lon / lat
+			Point g = f.getGeometry().getCentroid();
+			f_.setAttribute("lon", Double.toString(Util.round(g.getCoordinate().x, 3)));
+			f_.setAttribute("lat", Double.toString(Util.round(g.getCoordinate().y, 3)));
+
+			// geometry
+			// project
+			f_.setGeometry(CRSUtil.toLAEA(g, crsNT));
+			for (Coordinate c : f_.getGeometry().getCoordinates()) {
+				double z = c.x;
+				c.x = c.y;
+				c.y = z;
 			}
+
+			// population
+			Integer pop = (int) Double.parseDouble(f.getAttribute("POPL_2011").toString());
+			f_.setAttribute("pop", pop.toString());
+
+			//country code
+			f_.setAttribute("cc", alterCountryCode(f.getAttribute("CNTR_CODE").toString()));
+
+			out.add(f_);
 		}
 
-
-		/*
-		 * /make agent toponymes ArrayList<AgentToponyme> agents = new ArrayList<>();
-		 * for(Feature f :fs) agents.add(new AgentToponyme(f)); //make engine
-		 * Engine<AgentToponyme> e = new Engine<>(agents); //start e.activateQueue();
-		 */
-
+		// save output
+		System.out.println("Save " + out.size());
+		GeoData.save(out, namesStruct, CRSUtil.getETRS89_LAEA_CRS());
 	}
+
+	/*
+	 * private static ArrayList<Feature> getNameExtend(double pixSize, int fontSize)
+	 * { ArrayList<Feature> fs = GeoData.getFeatures(namesStruct); for (Feature f :
+	 * fs) { Envelope env = getLabelEnvelope(f, fontSize, pixSize);
+	 * f.setGeometry(JTSGeomUtil.getGeometry(env)); } return fs; }
+	 */
+
+	/**
+	 * @param f        The label object.
+	 * @param fontSize The font size to apply, in pts.
+	 * @param pixSize  The zoom level: size of a pixel in m.
+	 * @return
+	 */
+	private static Envelope getLabelEnvelope(Feature f, int fontSize, double pixSize) {
+		Coordinate c = f.getGeometry().getCoordinate();
+		double x = c.x;
+		double y = c.y;
+
+		// 12pt = 16px
+		double h = pixSize * fontSize * 1.333333;
+		double widthFactor = 0.5;
+		double w = widthFactor * h * ((String) f.getAttribute("name")).length();
+
+		return new Envelope(x, x + w, y, y + h);
+	}
+
+
+	private static String alterCountryCode(String in) {
+		switch (in) {
+		case "EL": return "GR";
+		case "GB": return "UK";
+		case "ND": return "UK";
+		case "IM": return "UK";
+		//case "SJ": return "NO";
+		//case "FO": return "DK";
+		default: return in;
+		}
+	}
+
+
+	/*
+	 * /make agent toponymes ArrayList<AgentToponyme> agents = new ArrayList<>();
+	 * for(Feature f :fs) agents.add(new AgentToponyme(f)); //make engine
+	 * Engine<AgentToponyme> e = new Engine<>(agents); //start e.activateQueue();
+	 */
+
+}
