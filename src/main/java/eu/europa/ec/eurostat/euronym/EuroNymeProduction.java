@@ -3,7 +3,6 @@
  */
 package eu.europa.ec.eurostat.euronym;
 
-import java.io.File;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
@@ -17,7 +16,6 @@ import org.locationtech.jts.index.quadtree.Quadtree;
 import org.opengis.referencing.crs.CoordinateReferenceSystem;
 
 import eu.europa.ec.eurostat.jgiscotools.feature.Feature;
-import eu.europa.ec.eurostat.jgiscotools.io.CSVUtil;
 import eu.europa.ec.eurostat.jgiscotools.io.geo.CRSUtil;
 import eu.europa.ec.eurostat.jgiscotools.io.geo.GeoData;
 import eu.europa.ec.eurostat.jgiscotools.util.Util;
@@ -31,15 +29,17 @@ public class EuroNymeProduction {
 	private static String basePath = "/home/juju/Bureau/";
 	private static String namesStruct = basePath + "gisco/tmp/namesStruct.gpkg";
 
-	// TODO split by country
-	// TODO check gazeeter aswell ? check geo coverage.
-	// TODO elaborate: different font size and weight depending on population
+	//TODO split by country
+	//TODO check gazeeter aswell ? check geo coverage.
+	//TODO elaborate: different font size and weight depending on population
 
 	public static void main(String[] args) {
 		System.out.println("Start");
 
-		// structure();
+		//
+		structure();
 
+		/*
 		// generate
 		for (int lod : new int[] { 20, 50, 100, 200 }) {
 			System.out.println("******* LOD " + lod);
@@ -58,7 +58,7 @@ public class EuroNymeProduction {
 			System.out.println("save as CSV");
 			new File("./pub/v1/"+lod).mkdirs();
 			CSVUtil.save(CSVUtil.featuresToCSV(fs), "./pub/v1/"+lod+"/EUR.csv");
-		}
+		}*/
 
 		System.out.println("End");
 	}
@@ -182,13 +182,13 @@ public class EuroNymeProduction {
 			Feature f_ = new Feature();
 
 			// name
-			// NAMN1 NAMN2
-			String name = (String) f.getAttribute("NAMN1");
-			if (name == null) {
-				System.out.println("No NAMN1 for " + f.getID());
-				name = (String) f.getAttribute("NAMN2");
-				if (name == null) {
-					System.out.println("No NAMN1 for " + f.getID());
+			// NAMA1 NAMA2
+			String name = (String) f.getAttribute("NAMA1");
+			if (name == null || name.equals("UNK")) {
+				System.out.println("No NAMA1 for " + f.getID());
+				name = (String) f.getAttribute("NAMA2");
+				if (name == null || name.equals("UNK")) {
+					System.out.println("No NAMA2 for " + f.getID());
 					continue;
 				}
 			}
@@ -230,8 +230,12 @@ public class EuroNymeProduction {
 			}
 			f_.setAttribute("pop", pop.toString());
 
+			//country code
+			f_.setAttribute("cc", f.getAttribute("ICC").toString());
+
 			out.add(f_);
 		}
+
 
 		// REGIO town names
 
@@ -267,6 +271,9 @@ public class EuroNymeProduction {
 			// population
 			Integer pop = (int) Double.parseDouble(f.getAttribute("POPL_2011").toString());
 			f_.setAttribute("pop", pop.toString());
+
+			//country code
+			f_.setAttribute("cc", f.getAttribute("CNTR_CODE").toString());
 
 			out.add(f_);
 		}
