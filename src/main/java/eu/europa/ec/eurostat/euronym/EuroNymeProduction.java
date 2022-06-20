@@ -16,6 +16,7 @@ import org.locationtech.jts.geom.Coordinate;
 import org.locationtech.jts.geom.Envelope;
 import org.locationtech.jts.geom.Point;
 import org.locationtech.jts.index.quadtree.Quadtree;
+import org.locationtech.jts.index.strtree.STRtree;
 import org.opengis.filter.Filter;
 import org.opengis.referencing.crs.CoordinateReferenceSystem;
 
@@ -71,11 +72,21 @@ public class EuroNymeProduction {
 				System.out.println(fs.size() + " labels loaded");
 
 				// do
-				fs = generate(fs, 14, lod, 100000, 1.2, 40, 40);
+				int marginPix = 40;
+				fs = generate(fs, 14, lod, 100000, 1.2, marginPix, marginPix);
 				System.out.println(fs.size());
 
 				// refine with r1 setting
-				setR1(fs);
+				int radR1Pix = 40;
+				setR1(fs, lod, 100000, 1.2, radR1Pix);
+
+				// clean attributes
+				for (Feature f_ : fs)
+					f_.getAttributes().remove("gl");
+				for (Feature f_ : fs)
+					f_.getAttributes().remove("pop");
+				for (Feature f_ : fs)
+					f_.getAttributes().remove("cc");
 
 				// save
 				//System.out.println("save as GPKG");
@@ -91,8 +102,46 @@ public class EuroNymeProduction {
 
 
 
-	private static void setR1(ArrayList<Feature> fs) {
-		//TODO
+	private static void setR1(ArrayList<Feature> fs, int resMin, int resMax, double zf, int radPix) {
+
+		//make index
+		STRtree index = FeatureUtil.getIndexSTRtree(fs);
+
+		//go through all features
+		for(Feature f : fs) {
+
+			//get rs
+			int rs = (int) f.getAttribute("rs");
+			//get pop
+			int pop = (int) f.getAttribute("pop");
+
+			for (int res = resMin; res <= rs; res *= zf) {
+
+				//get the ones around
+				Envelope env = (Envelope) f.getGeometry().getEnvelopeInternal();
+				Envelope searchEnv = new Envelope(env);
+				searchEnv.expandBy(radPix * res, radPix * res);
+				List<Feature> neigh = index.query(searchEnv);
+
+				//check if more important exists
+				boolean moreImportantExists = false;
+				for(Feature f_ : neigh) {
+					int pop_ = (int) f_.getAttribute("pop");
+					if(pop_ <= pop) continue;
+					moreImportantExists = true;
+					break;
+				}
+
+				//keep looking
+				if(! moreImportantExists)
+					continue;
+
+				//set r1 and break
+				f.setAttribute("r1", res);
+				break;
+			}
+		}
+
 	}
 
 
@@ -167,14 +216,6 @@ public class EuroNymeProduction {
 			}
 
 		}
-
-		// clean attributes
-		for (Feature f : fs)
-			f.getAttributes().remove("gl");
-		for (Feature f : fs)
-			f.getAttributes().remove("pop");
-		for (Feature f : fs)
-			f.getAttributes().remove("cc");
 
 		// filter - keep only few
 		return (ArrayList<Feature>) fs.stream().filter(f -> (Integer) f.getAttribute("rs") > resMin)
