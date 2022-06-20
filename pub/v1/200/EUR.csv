@@ -1048,6 +1048,7 @@ rmax,name,lon,lat
 240,Establet,5.438,44.506
 496,Dole,5.489,47.091
 345,Lons-le-Saunier,5.559,46.672
+288,Charvieu-Chavagneux,5.162,45.746
 345,Villefontaine,5.157,45.61
 240,Tarare,4.434,45.895
 345,Beaujeu,4.587,46.154
@@ -1057,8 +1058,6 @@ rmax,name,lon,lat
 856,Evreux,1.152,49.027
 288,Blaru,1.478,49.049
 288,Trappes,1.999,48.776
-288,La Ferte-sous-Jouarre,3.13,48.95
-496,Coulommiers,3.084,48.812
 240,Lesigny,2.616,48.744
 240,Larchant,2.598,48.284
 414,Etampes,2.161,48.435
@@ -1069,6 +1068,7 @@ rmax,name,lon,lat
 595,Levier,6.117,46.954
 496,Saint-Jean-de-Maurienne,6.345,45.276
 288,Parthenay,-0.25,46.649
+240,Aix-les-Bains,5.915,45.689
 496,Gien,2.625,47.698
 414,Fourmies,4.047,50.018
 288,Veaugues,2.758,47.256
@@ -1258,7 +1258,6 @@ rmax,name,lon,lat
 240,Hourtin,-1.056,45.186
 240,Martigues,5.049,43.406
 240,Egreville,2.872,48.175
-240,Cassis,5.54,43.214
 345,Arles,4.627,43.677
 240,Salon-de-Provence,5.099,43.641
 240,Mazamet,2.376,43.49
@@ -1311,9 +1310,9 @@ rmax,name,lon,lat
 414,Braine,3.532,49.341
 288,Mourmelon-le-Grand,4.366,49.141
 288,Loisy-sur-Marne,4.543,48.759
-345,Le Muy,6.566,43.471
 496,Issoire,3.251,45.545
 345,Verdun,5.387,49.159
+288,Brignoles,6.061,43.406
 414,Sete,3.696,43.402
 240,Bar-le-Duc,5.162,48.771
 1027,Stenay,5.189,49.492
@@ -5213,6 +5212,7 @@ rmax,name,lon,lat
 714,Chartres,1.484,48.44
 714,Arras,2.773,50.289
 595,Belfort,6.848,47.643
+496,Meaux,2.893,48.958
 1027,Saint-Brieuc,-2.76,48.504
 856,Chalon-sur-Saône,4.842,46.793
 345,Compiègne,2.816,49.413
@@ -5252,7 +5252,7 @@ rmax,name,lon,lat
 240,Sainte-Florine,3.325,45.414
 240,Mirecourt,6.129,48.306
 595,Prunières,5.788,44.906
-345,Sézanne,3.724,48.722
+414,Sézanne,3.724,48.722
 1773,Split,16.465,43.519
 595,Rijeka,14.419,45.34
 1027,Zadar,15.242,44.116

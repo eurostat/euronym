@@ -240,7 +240,8 @@ rmax,name,lon,lat
 120,Sonchamp,1.877,48.576
 144,Lizy-sur-Ourcq,3.027,49.026
 172,La Ferte-sous-Jouarre,3.13,48.95
-355,Coulommiers,3.084,48.812
+206,Coulommiers,3.084,48.812
+247,Roissy-en-Brie,2.655,48.791
 120,Mormant,2.891,48.606
 296,Provins,3.299,48.56
 206,Nangis,3.014,48.554
@@ -1148,12 +1149,14 @@ rmax,name,lon,lat
 1058,Manosque,5.782,43.834
 144,Valensole,5.986,43.837
 206,Istres,4.99,43.517
+144,Gemenos,5.628,43.295
 144,Sausset-les-Pins,5.109,43.332
 426,Aix-en-Provence,5.447,43.53
 172,Velaux,5.254,43.531
 206,Hourtin,-1.056,45.186
 172,Pauillac,-0.745,45.2
 247,Martigues,5.049,43.406
+172,Auriol,5.635,43.369
 144,Venelles,5.484,43.598
 355,Arles,4.627,43.677
 247,Salon-de-Provence,5.099,43.641
@@ -1360,7 +1363,7 @@ rmax,name,lon,lat
 144,Verfeil,1.662,43.657
 206,Veyre-Monton,3.162,45.677
 172,Blancs-Coteaux,4.001,48.905
-247,Montmirail,3.536,48.87
+296,Montmirail,3.536,48.87
 144,Pourrieres,5.736,43.504
 144,Saint-Ours,2.895,45.849
 144,Soublecause,-0.019,43.532
@@ -1397,7 +1400,6 @@ rmax,name,lon,lat
 144,Montmedy,5.367,49.519
 172,Doulcon,5.169,49.381
 120,Cogolin,6.533,43.252
-206,Signes,5.863,43.291
 144,Pignans,6.229,43.301
 172,Wassy,4.949,48.5
 355,Joinville,5.138,48.444
@@ -1708,7 +1710,7 @@ rmax,name,lon,lat
 172,Mamers-Grosse Bourse,0.364,48.352
 247,Marconne,2.026,50.378
 172,La Suze-sur-Sarthe-Les Miottières,0.037,47.891
-355,Sézanne,3.724,48.722
+426,Sézanne,3.724,48.722
 206,Is-sur-Tille-Ferme de Valbertier,5.122,47.519
 206,Tonnerre-Valru,3.978,47.863
 247,Bar-sur-Aube-Sainte-Germaine,4.706,48.234

@@ -21,7 +21,7 @@ rmax,name,lon,lat
 72,Sains-Richaumont,3.703,49.823
 103,Domfront en Poiraie,-0.649,48.594
 72,Livarot-Pays-d'Auge,0.15,49.004
-123,Paris 18e Arrondissement,2.344,48.892
+72,Paris 20e,2.399,48.865
 72,Turquestein-Blancrupt,7.099,48.549
 147,Boischampre,0.006,48.666
 72,La Baule-Escoublac,-2.394,47.283
@@ -140,7 +140,7 @@ rmax,name,lon,lat
 86,Eaunes,1.354,43.421
 72,Chiry-Ourscamp,2.946,49.545
 123,Val-de-Meuse,5.498,48
-147,Sarcelles,2.378,48.997
+123,Sarcelles,2.378,48.997
 103,Saint-Loup-Geanges,4.91,46.946
 103,Neussargues en Pinatelle,2.979,45.126
 60,Boisgervilly,-2.066,48.167
@@ -919,12 +919,12 @@ rmax,name,lon,lat
 123,Chamelet,4.511,45.983
 60,Lacenas,4.644,45.993
 103,Anse,4.717,45.936
-60,Ecully,4.779,45.776
-103,Caluire-et-Cuire,4.842,45.797
-86,Jonage,5.047,45.797
+72,Ecully,4.779,45.776
+72,Vaulx-en-Velin,4.92,45.779
+60,Jonage,5.047,45.797
 60,Oullins,4.807,45.714
 60,Craponne,4.723,45.744
-103,Saint-Laurent-de-Chamousset,4.465,45.739
+123,Saint-Laurent-de-Chamousset,4.465,45.739
 60,Bron,4.909,45.734
 147,Genas,5.005,45.732
 60,Sainte-Foy-l'Argentiere,4.472,45.709
@@ -1068,7 +1068,7 @@ rmax,name,lon,lat
 60,Thoiry,1.795,48.865
 123,Septeuil,1.679,48.893
 147,Versailles,2.13,48.801
-147,Beynes,1.876,48.856
+435,Beynes,1.876,48.856
 72,Garancieres,1.755,48.822
 60,Richebourg,1.637,48.822
 103,Trappes,1.999,48.776
@@ -1082,7 +1082,7 @@ rmax,name,lon,lat
 86,Ablis,1.833,48.517
 123,Crouy-sur-Ourcq,3.074,49.091
 123,Lizy-sur-Ourcq,3.027,49.026
-147,Mitry-Mory,2.619,48.984
+86,Mitry-Mory,2.619,48.984
 176,La Ferte-sous-Jouarre,3.13,48.95
 86,Charny,2.761,48.971
 103,Saint-Cyr-sur-Morin,3.186,48.906
@@ -1140,9 +1140,10 @@ rmax,name,lon,lat
 60,Goussainville,2.473,49.032
 72,Franconville,2.23,48.986
 60,Garges-les-Gonesse,2.401,48.972
-60,Aulnay-sous-Bois,2.5,48.934
-86,Saint-Denis,2.358,48.936
+86,Aulnay-sous-Bois,2.5,48.934
+211,Saint-Denis,2.358,48.936
 60,Clichy-sous-Bois,2.546,48.911
+60,Bondy,2.481,48.902
 72,Noisy-le-Grand,2.552,48.849
 123,Champigny-sur-Marne,2.511,48.813
 103,Nanterre,2.207,48.892
@@ -4923,8 +4924,8 @@ rmax,name,lon,lat
 60,Meyreuil,5.495,43.487
 253,Istres,4.99,43.517
 103,Parcoul-Chenaud,0.035,45.205
-123,Marseille 8e Arrondissement,5.384,43.255
-60,Aubagne,5.569,43.292
+123,Marseille 8e,5.384,43.255
+103,Aubagne,5.569,43.292
 147,Sausset-les-Pins,5.109,43.332
 435,Aix-en-Provence,5.447,43.53
 103,Velaux,5.254,43.531
@@ -4952,7 +4953,7 @@ rmax,name,lon,lat
 103,Chateaurenard,4.856,43.882
 72,Ceyreste,5.632,43.214
 86,Cassis,5.54,43.214
-60,Roquefort-la-Bedoule,5.591,43.248
+72,Carnoux-en-Provence,5.566,43.256
 72,Vauvenargues,5.6,43.555
 86,Eguilles,5.354,43.569
 60,Miramas,5.001,43.581
@@ -6491,7 +6492,7 @@ rmax,name,lon,lat
 3870,Nantes,-1.551,47.219
 1297,Grenoble,5.733,45.177
 901,Rouen,1.093,49.433
-435,Cergy-Pontoise,2.063,49.019
+211,Cergy-Pontoise,2.063,49.019
 1867,Tours,0.694,47.379
 435,Toulon,5.951,43.129
 1556,Nancy,6.18,48.689
@@ -6520,7 +6521,7 @@ rmax,name,lon,lat
 901,La Rochelle,-1.15,46.159
 626,Chambery,5.926,45.576
 103,Mantes en Yvelines,1.715,48.988
-176,Poissy,2.04,48.939
+103,Poissy,2.04,48.939
 1297,Lorient,-3.362,47.754
 435,Boulogne-sur-mer,1.603,50.719
 211,Douai,3.09,50.372
@@ -6530,7 +6531,7 @@ rmax,name,lon,lat
 253,Arras,2.773,50.289
 522,Fréjus,6.761,43.434
 363,Belfort,6.848,47.643
-363,Meaux,2.893,48.958
+522,Meaux,2.893,48.958
 1081,Saint-Brieuc,-2.76,48.504
 522,Chalon-sur-Saône,4.842,46.793
 72,Les Clayes-sous-Bois,1.975,48.825
