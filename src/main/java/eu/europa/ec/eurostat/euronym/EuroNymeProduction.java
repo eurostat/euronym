@@ -44,13 +44,13 @@ public class EuroNymeProduction {
 	//TODO check euro gazeeter.
 	//TODO elaborate: different font size, weight, etc. depending on population
 
-	
-	
+
+
 	public static void main(String[] args) throws Exception {
 		System.out.println("Start");
 
 		//
-		structure();
+		//structure();
 
 
 		//get country codes
@@ -311,13 +311,13 @@ public class EuroNymeProduction {
 			out.add(f_);
 		}
 
-		
-		for(Feature f : out) {
+
+		/*for(Feature f : out) {
 			String name = f.getAttribute("name").toString();
 			if(name.contains(" / "))
-			System.out.println(name);
-					
-		}
+			System.out.println(name);		
+		}*/
+
 
 		// save output
 		System.out.println("Save " + out.size());
