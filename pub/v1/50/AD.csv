@@ -1,9 +1,9 @@
-rs,name,lon,lat
-72,Sant Julia de Loria,1.493,42.467
-103,Canillo,1.598,42.567
-60,Sispony,1.515,42.534
-103,Arinsal,1.484,42.572
-103,Pas de la Casa,1.733,42.543
-60,Soldeu,1.665,42.579
-60,Juberri,1.491,42.439
-100000,Andorra la Vella,1.523,42.506
+rs,name,lon,lat,r1
+72,Sant Julia de Loria,1.493,42.467,50
+103,Canillo,1.598,42.567,50
+60,Sispony,1.515,42.534,50
+103,Arinsal,1.484,42.572,50
+103,Pas de la Casa,1.733,42.543,50
+60,Soldeu,1.665,42.579,50
+60,Juberri,1.491,42.439,50
+100000,Andorra la Vella,1.523,42.506,0

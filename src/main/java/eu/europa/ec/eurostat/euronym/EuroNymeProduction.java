@@ -61,6 +61,9 @@ public class EuroNymeProduction {
 		//ccs.add("EU");
 		//ccs.add("EFTA");
 
+		//ccs.add("FR");
+
+
 		//generate
 		for(String cc : ccs) {
 			for (int lod : new int[] { 20, 50, 100, 200 }) {
@@ -77,8 +80,8 @@ public class EuroNymeProduction {
 				System.out.println(fs.size());
 
 				// refine with r1 setting
-				int radR1Pix = 40;
-				setR1(fs, lod, 100000, 1.2, radR1Pix);
+				int radR1Pix = 500;
+				setR1(fs, lod, 1.2, radR1Pix);
 
 				// clean attributes
 				for (Feature f_ : fs)
@@ -102,7 +105,7 @@ public class EuroNymeProduction {
 
 
 
-	private static void setR1(ArrayList<Feature> fs, int resMin, int resMax, double zf, int radPix) {
+	private static void setR1(ArrayList<Feature> fs, int resMin, double zf, int radPix) {
 
 		//make index
 		STRtree index = FeatureUtil.getIndexSTRtree(fs);
@@ -110,10 +113,13 @@ public class EuroNymeProduction {
 		//go through all features
 		for(Feature f : fs) {
 
+			//set r1 with maximum importance
+			f.setAttribute("r1", "0");
+
 			//get rs
 			int rs = (int) f.getAttribute("rs");
 			//get pop
-			int pop = (int) f.getAttribute("pop");
+			int pop = Integer.parseInt(f.getAttribute("pop").toString());
 
 			for (int res = resMin; res <= rs; res *= zf) {
 
@@ -123,16 +129,16 @@ public class EuroNymeProduction {
 				searchEnv.expandBy(radPix * res, radPix * res);
 				List<Feature> neigh = index.query(searchEnv);
 
-				//check if more important exists
+				//check if one more important exists around
 				boolean moreImportantExists = false;
 				for(Feature f_ : neigh) {
-					int pop_ = (int) f_.getAttribute("pop");
+					int pop_ = Integer.parseInt(f_.getAttribute("pop").toString());
 					if(pop_ <= pop) continue;
 					moreImportantExists = true;
 					break;
 				}
 
-				//keep looking
+				//keep looking more important to the next res level
 				if(! moreImportantExists)
 					continue;
 
