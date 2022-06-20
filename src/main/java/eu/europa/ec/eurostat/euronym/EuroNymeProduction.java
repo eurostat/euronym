@@ -74,6 +74,8 @@ public class EuroNymeProduction {
 				fs = generate(fs, 14, lod, 100000, 1.2, 40, 40);
 				System.out.println(fs.size());
 
+				// refine with
+				
 				// save
 				//System.out.println("save as GPKG");
 				//GeoData.save(fs, basePath + "euronymes.gpkg", CRSUtil.getETRS89_LAEA_CRS());
@@ -97,16 +99,16 @@ public class EuroNymeProduction {
 	 */
 	private static ArrayList<Feature> generate(ArrayList<Feature> fs, int fontSize, int resMin, int resMax, double zf, int pixX, int pixY) {
 
-		// initialise rmax
+		// initialise rs
 		for (Feature f : fs)
-			f.setAttribute("rmax", resMax);
+			f.setAttribute("rs", resMax);
 
 		for (int res = resMin; res <= resMax; res *= zf) {
 			System.out.println("Resolution: " + res);
 
 			// extract only the labels that are visible for this resolution
 			final int res_ = res;
-			List<Feature> fs_ = fs.stream().filter(f -> (Integer) f.getAttribute("rmax") > res_)
+			List<Feature> fs_ = fs.stream().filter(f -> (Integer) f.getAttribute("rs") > res_)
 					.collect(Collectors.toList());
 			System.out.println("   nb = " + fs_.size());
 
@@ -123,8 +125,8 @@ public class EuroNymeProduction {
 			for (Feature f : fs_) {
 				// System.out.println("----");
 
-				Integer rmax = (Integer) f.getAttribute("rmax");
-				if (rmax <= res)
+				Integer rs = (Integer) f.getAttribute("rs");
+				if (rs <= res)
 					continue;
 
 				// get envelope, enlarged
@@ -146,10 +148,10 @@ public class EuroNymeProduction {
 				// get best label to keep
 				Feature toKeep = getBestLabelToKeep(neigh);
 
-				// set rmax of others, and remove them from index
+				// set rs of others, and remove them from index
 				neigh.remove(toKeep);
 				for (Feature f_ : neigh) {
-					f_.setAttribute("rmax", res);
+					f_.setAttribute("rs", res);
 					index.remove((Envelope) f_.getAttribute("gl"), f_);
 				}
 
@@ -166,7 +168,7 @@ public class EuroNymeProduction {
 			f.getAttributes().remove("cc");
 
 		// filter - keep only few
-		return (ArrayList<Feature>) fs.stream().filter(f -> (Integer) f.getAttribute("rmax") > resMin)
+		return (ArrayList<Feature>) fs.stream().filter(f -> (Integer) f.getAttribute("rs") > resMin)
 				.collect(Collectors.toList());
 	}
 
