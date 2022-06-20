@@ -90,13 +90,13 @@ public class EuroNymeProduction {
 	}
 
 
-	
+
 	private static void setR1(ArrayList<Feature> fs) {
 		//TODO
 	}
 
-	
-	
+
+
 	/**
 	 * @param fs       The labels
 	 * @param fontSize The label font size
