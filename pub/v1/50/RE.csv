@@ -1,19 +1,19 @@
-rs,name,lon,lat
-303,Saint-Philippe,55.768,-21.358
-123,Cilaos,55.471,-21.134
-211,Saint-Leu,55.287,-21.165
-123,Les Trois-Bassins,55.295,-21.105
-176,Salazie,55.539,-21.027
-253,Saint-Benoit,55.713,-21.033
-103,La Plaine-des-Palmistes,55.626,-21.134
-86,Sainte-Rose,55.792,-21.126
-72,La Possession,55.336,-20.926
-363,Saint-Paul,55.27,-21.009
-147,Le Port,55.287,-20.938
-100000,Saint-Denis,55.448,-20.878
-86,Sainte-Marie,55.549,-20.896
-72,Saint-Andre,55.65,-20.959
-60,Saint-Louis,55.409,-21.286
-901,Saint-Pierre,55.478,-21.341
-103,Saint-Joseph,55.619,-21.378
-147,Le Tampon,55.515,-21.277
+rs,name,lon,lat,r1
+303,Saint-Philippe,55.768,-21.358,50
+123,Cilaos,55.471,-21.134,50
+211,Saint-Leu,55.287,-21.165,50
+123,Les Trois-Bassins,55.295,-21.105,50
+176,Salazie,55.539,-21.027,50
+253,Saint-Benoit,55.713,-21.033,72
+103,La Plaine-des-Palmistes,55.626,-21.134,50
+86,Sainte-Rose,55.792,-21.126,50
+72,La Possession,55.336,-20.926,50
+363,Saint-Paul,55.27,-21.009,50
+147,Le Port,55.287,-20.938,50
+100000,Saint-Denis,55.448,-20.878,0
+86,Sainte-Marie,55.549,-20.896,50
+72,Saint-Andre,55.65,-20.959,50
+60,Saint-Louis,55.409,-21.286,50
+901,Saint-Pierre,55.478,-21.341,103
+103,Saint-Joseph,55.619,-21.378,50
+147,Le Tampon,55.515,-21.277,50

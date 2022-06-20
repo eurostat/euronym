@@ -1,31 +1,31 @@
-rs,name,lon,lat
-100000,Prishtinë,21.169,42.663
-1081,Prizren,20.731,42.218
-363,Mitrovicë,20.862,42.88
-363,Gjilan-Popovicë,21.465,42.459
-522,Pejë-Dardania,20.298,42.66
-253,Ferizaj-Varosht,21.158,42.369
-253,Gjakovë-Qendra Historike,20.433,42.378
-253,Deçan,20.315,42.534
-86,Gushicë,21.316,42.314
-86,Vushtrri,20.971,42.824
-253,Podujevë,21.195,42.909
-72,Fushë Kosovë-Bresje,21.093,42.635
-303,Gllogoc,21.126,42.514
-103,Rahovec,20.655,42.401
-253,Kuk,20.709,42.107
-253,Vërmicë,20.76,42.539
-123,Korishë-Dardani,20.78,42.274
-147,Klinë,20.573,42.605
-86,Kabash i Hasit,20.568,42.28
-435,Kaçanik-Zeneli,21.257,42.234
-253,Skënderaj,20.79,42.761
-86,Obiliq,21.079,42.693
-72,Gadime e Poshtme,21.203,42.476
-176,Meliq,21.295,42.151
-103,Shkozë,20.599,42.166
-72,Sllatinë e Epërme,21.298,42.367
-147,Stanofc i Ulët,21.037,42.752
-176,Llashticë,21.486,42.376
-123,Berisha-Sehishte,20.282,42.476
-103,Mamushë,20.724,42.329
+rs,name,lon,lat,r1
+100000,Prishtinë,21.169,42.663,0
+1081,Prizren,20.731,42.218,123
+363,Mitrovicë,20.862,42.88,60
+363,Gjilan-Popovicë,21.465,42.459,60
+522,Pejë-Dardania,20.298,42.66,86
+253,Ferizaj-Varosht,21.158,42.369,50
+253,Gjakovë-Qendra Historike,20.433,42.378,60
+253,Deçan,20.315,42.534,50
+86,Gushicë,21.316,42.314,50
+86,Vushtrri,20.971,42.824,50
+253,Podujevë,21.195,42.909,50
+72,Fushë Kosovë-Bresje,21.093,42.635,50
+303,Gllogoc,21.126,42.514,50
+103,Rahovec,20.655,42.401,50
+253,Kuk,20.709,42.107,50
+253,Vërmicë,20.76,42.539,50
+123,Korishë-Dardani,20.78,42.274,50
+147,Klinë,20.573,42.605,50
+86,Kabash i Hasit,20.568,42.28,50
+435,Kaçanik-Zeneli,21.257,42.234,50
+253,Skënderaj,20.79,42.761,50
+86,Obiliq,21.079,42.693,50
+72,Gadime e Poshtme,21.203,42.476,50
+176,Meliq,21.295,42.151,50
+103,Shkozë,20.599,42.166,50
+72,Sllatinë e Epërme,21.298,42.367,50
+147,Stanofc i Ulët,21.037,42.752,50
+176,Llashticë,21.486,42.376,50
+123,Berisha-Sehishte,20.282,42.476,50
+103,Mamushë,20.724,42.329,50
