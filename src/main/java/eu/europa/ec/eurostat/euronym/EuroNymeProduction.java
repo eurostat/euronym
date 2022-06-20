@@ -80,7 +80,7 @@ public class EuroNymeProduction {
 				System.out.println(fs.size());
 
 				// refine with r1 setting
-				int radR1Pix = 100;
+				int radR1Pix = 130;
 				setR1(fs, lod, 1.2, radR1Pix);
 
 				// clean attributes
