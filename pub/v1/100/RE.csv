@@ -1,12 +1,12 @@
 rs,name,lon,lat,r1
-296,Saint-Philippe,55.768,-21.358,247
+296,Saint-Philippe,55.768,-21.358,206
 144,Cilaos,55.471,-21.134,100
 144,Les Trois-Bassins,55.295,-21.105,100
 172,Salazie,55.539,-21.027,100
-247,Saint-Benoit,55.713,-21.033,0
-426,Saint-Paul,55.27,-21.009,206
+247,Saint-Benoit,55.713,-21.033,206
+426,Saint-Paul,55.27,-21.009,172
 144,Le Port,55.287,-20.938,100
-100000,Saint-Denis,55.448,-20.878,0
-120,Sainte-Suzanne,55.607,-20.905,120
-426,Saint-Pierre,55.478,-21.341,426
+100000,Saint-Denis,55.448,-20.878,100000
+120,Sainte-Suzanne,55.607,-20.905,100
+426,Saint-Pierre,55.478,-21.341,296
 144,Le Tampon,55.515,-21.277,100

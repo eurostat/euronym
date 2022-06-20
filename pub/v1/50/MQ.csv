@@ -1,22 +1,22 @@
 rs,name,lon,lat,r1
-626,Le Marin,-60.87,14.471,303
+626,Le Marin,-60.87,14.471,211
 86,Riviere-Pilote,-60.902,14.487,50
 72,Schoelcher,-61.1,14.616,50
-103,Ducos,-60.975,14.576,60
+103,Ducos,-60.975,14.576,50
 103,Le Lamentin,-61.001,14.615,50
-100000,Fort-de-France,-61.068,14.607,0
-86,Le Francois,-60.902,14.615,72
-86,Le Morne-Vert,-61.143,14.707,60
+100000,Fort-de-France,-61.068,14.607,100000
+86,Le Francois,-60.902,14.615,50
+86,Le Morne-Vert,-61.143,14.707,50
 147,Case-Pilote,-61.138,14.643,50
-60,Le Robert,-60.938,14.678,0
-86,Le Precheur,-61.224,14.801,86
-435,Saint-Pierre,-61.174,14.743,176
-103,La Trinite,-60.962,14.739,0
-103,Le Lorrain,-61.055,14.833,103
+60,Le Robert,-60.938,14.678,60
+86,Le Precheur,-61.224,14.801,72
+435,Saint-Pierre,-61.174,14.743,147
+103,La Trinite,-60.962,14.739,103
+103,Le Lorrain,-61.055,14.833,72
 72,Le Marigot,-61.027,14.822,50
-176,Sainte-Marie,-60.993,14.781,60
-123,Basse-Pointe,-61.119,14.869,86
+176,Sainte-Marie,-60.993,14.781,50
+123,Basse-Pointe,-61.119,14.869,72
 60,Grand'Riviere,-61.18,14.873,50
 60,Macouba,-61.144,14.876,50
-72,Les Anses-d'Arlet,-61.079,14.491,0
+72,Les Anses-d'Arlet,-61.079,14.491,60
 72,Riviere-Salee,-60.98,14.529,50

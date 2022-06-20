@@ -1,19 +1,19 @@
 rs,name,lon,lat,r1
-303,Saint-Philippe,55.768,-21.358,147
-123,Cilaos,55.471,-21.134,103
-211,Saint-Leu,55.287,-21.165,123
-123,Les Trois-Bassins,55.295,-21.105,60
-176,Salazie,55.539,-21.027,103
-253,Saint-Benoit,55.713,-21.033,0
-103,La Plaine-des-Palmistes,55.626,-21.134,86
-86,Sainte-Rose,55.792,-21.126,86
+303,Saint-Philippe,55.768,-21.358,123
+123,Cilaos,55.471,-21.134,86
+211,Saint-Leu,55.287,-21.165,103
+123,Les Trois-Bassins,55.295,-21.105,50
+176,Salazie,55.539,-21.027,72
+253,Saint-Benoit,55.713,-21.033,211
+103,La Plaine-des-Palmistes,55.626,-21.134,72
+86,Sainte-Rose,55.792,-21.126,72
 72,La Possession,55.336,-20.926,50
-363,Saint-Paul,55.27,-21.009,211
-147,Le Port,55.287,-20.938,72
-100000,Saint-Denis,55.448,-20.878,0
-86,Sainte-Marie,55.549,-20.896,0
-72,Saint-Andre,55.65,-20.959,72
-60,Saint-Louis,55.409,-21.286,0
-901,Saint-Pierre,55.478,-21.341,435
-103,Saint-Joseph,55.619,-21.378,103
-147,Le Tampon,55.515,-21.277,72
+363,Saint-Paul,55.27,-21.009,176
+147,Le Port,55.287,-20.938,60
+100000,Saint-Denis,55.448,-20.878,100000
+86,Sainte-Marie,55.549,-20.896,86
+72,Saint-Andre,55.65,-20.959,50
+60,Saint-Louis,55.409,-21.286,60
+901,Saint-Pierre,55.478,-21.341,303
+103,Saint-Joseph,55.619,-21.378,86
+147,Le Tampon,55.515,-21.277,60

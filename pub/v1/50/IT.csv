@@ -1,656 +1,656 @@
 rs,name,lon,lat,r1
 86,Canzo,9.271,45.849,50
-103,Sava,17.554,40.4,60
+103,Sava,17.554,40.4,50
 103,Gavoi,9.195,40.162,50
-751,Linosa,12.862,35.86,363
-176,Guspini,8.633,39.541,86
-103,Piobbico,12.509,43.588,86
-60,Meolo,12.455,45.619,0
-103,Collepietra,11.457,46.483,60
+751,Linosa,12.862,35.86,303
+176,Guspini,8.633,39.541,72
+103,Piobbico,12.509,43.588,60
+60,Meolo,12.455,45.619,60
+103,Collepietra,11.457,46.483,50
 103,Narzole,7.87,44.596,50
 60,Affile,13.099,41.885,50
-123,Collesano,13.936,37.918,72
+123,Collesano,13.936,37.918,60
 60,Vibo Marina,16.101,38.709,50
 72,Borgata Costiera,12.641,37.71,50
 72,Vallecorsa,13.405,41.445,50
-211,Lesina,15.353,41.862,72
-60,San Pantaleo,9.469,41.045,60
+211,Lesina,15.353,41.862,60
+60,San Pantaleo,9.469,41.045,50
 72,Borgo Virgilio,10.788,45.118,50
-123,Nocera Umbra,12.791,43.117,123
-103,Castel San Pietro Terme,11.587,44.399,86
+123,Nocera Umbra,12.791,43.117,86
+103,Castel San Pietro Terme,11.587,44.399,72
 103,Roccanova,16.205,40.21,50
-72,San Pancrazio Salentino,17.836,40.419,0
-123,Rio di Pusteria,11.668,46.797,60
-60,Lusevera,13.268,46.276,60
-147,Sassello,8.492,44.48,123
+72,San Pancrazio Salentino,17.836,40.419,72
+123,Rio di Pusteria,11.668,46.797,50
+60,Lusevera,13.268,46.276,50
+147,Sassello,8.492,44.48,103
 60,Martis,8.81,40.777,50
-86,Bagno di Gavorrano,10.887,42.938,86
-103,Varazze,8.571,44.36,72
-176,Marina di Camerota,15.369,40.002,0
+86,Bagno di Gavorrano,10.887,42.938,72
+103,Varazze,8.571,44.36,60
+176,Marina di Camerota,15.369,40.002,147
 86,Pioppo,13.223,38.045,50
-60,Cerreto di Spoleto,12.92,42.822,0
-253,Agordo,12.036,46.285,123
-103,Gradisca d'Isonzo,13.489,45.885,86
+60,Cerreto di Spoleto,12.92,42.822,60
+253,Agordo,12.036,46.285,103
+103,Gradisca d'Isonzo,13.489,45.885,60
 72,Bosco,10.036,44.443,50
-123,Ficarolo,11.436,44.954,72
+123,Ficarolo,11.436,44.954,60
 86,Moglia,10.914,44.937,50
-86,Chieri,7.822,45.014,0
+86,Chieri,7.822,45.014,72
 72,Baruchella,11.453,45.067,50
-60,Madonna del Piano,13.406,41.517,60
+60,Madonna del Piano,13.406,41.517,50
 72,Capodacqua,12.783,43.017,50
-72,Vaglio Basilicata,15.917,40.667,72
-103,Nova Levante,11.538,46.43,86
-60,Kamma,12.036,36.798,0
-72,Lamoli,12.255,43.623,60
-72,Villanova d'Asti,7.938,44.942,72
-123,Felizzano,8.436,44.9,103
-123,Laurenzana,15.973,40.458,72
-103,San Benedetto dei Marsi,13.622,42.006,60
+72,Vaglio Basilicata,15.917,40.667,60
+103,Nova Levante,11.538,46.43,72
+60,Kamma,12.036,36.798,60
+72,Lamoli,12.255,43.623,50
+72,Villanova d'Asti,7.938,44.942,50
+123,Felizzano,8.436,44.9,86
+123,Laurenzana,15.973,40.458,60
+103,San Benedetto dei Marsi,13.622,42.006,50
 86,Falerna Scalo,16.152,38.972,50
-72,Cassine,8.528,44.753,72
+72,Cassine,8.528,44.753,60
 86,Montaione,10.913,43.553,50
-123,Castiglione Messer Marino,14.451,41.867,60
-2240,Bari,16.879,41.113,1867
-253,Ortisei,11.667,46.574,147
-103,Mercato Saraceno,12.198,43.964,72
-147,Serre,15.187,40.582,103
-60,Boccioleto,8.111,45.831,60
-86,San Fele,15.539,40.818,72
-86,Cinigiano,11.39,42.891,86
+123,Castiglione Messer Marino,14.451,41.867,50
+2240,Bari,16.879,41.113,1556
+253,Ortisei,11.667,46.574,103
+103,Mercato Saraceno,12.198,43.964,60
+147,Serre,15.187,40.582,86
+60,Boccioleto,8.111,45.831,50
+86,San Fele,15.539,40.818,60
+86,Cinigiano,11.39,42.891,72
 72,Posina,11.26,45.79,50
 72,Coriano,12.601,43.968,50
-147,Seneghe,8.613,40.082,60
-147,Sarnano,13.299,43.035,86
-86,Frontone,12.734,43.514,60
+147,Seneghe,8.613,40.082,50
+147,Sarnano,13.299,43.035,72
+86,Frontone,12.734,43.514,50
 86,Mombercelli,8.296,44.818,50
-123,Moggio di Sotto,13.195,46.404,72
-363,Alghero,8.321,40.557,176
+123,Moggio di Sotto,13.195,46.404,60
+363,Alghero,8.321,40.557,147
 72,Padenghe sul Garda,10.505,45.508,50
 60,Dello,10.077,45.421,50
-86,Cologno al Serio,9.706,45.581,60
+86,Cologno al Serio,9.706,45.581,50
 60,Sedini,8.816,40.853,50
 60,Marcianise,14.299,41.035,50
 103,Vetto,10.339,44.484,50
-103,Cisternino,17.422,40.744,60
+103,Cisternino,17.422,40.744,50
 72,Badia Calavena,11.152,45.566,50
-103,Jolanda di Savoia,11.98,44.881,60
-123,San Gregorio Magno,15.399,40.661,103
+103,Jolanda di Savoia,11.98,44.881,50
+123,San Gregorio Magno,15.399,40.661,72
 103,Albidona,16.472,39.924,50
-123,Farini,9.57,44.713,60
-72,Noceto,10.177,44.81,0
-123,Serramanna,8.923,39.424,123
+123,Farini,9.57,44.713,50
+72,Noceto,10.177,44.81,60
+123,Serramanna,8.923,39.424,103
 60,Corvara,13.872,42.276,50
 60,Villa San Pietro,8.999,39.036,50
 86,Stanghella,11.758,45.134,50
-147,Rho,9.04,45.531,103
+147,Rho,9.04,45.531,72
 103,Migliarino,11.934,44.77,50
-60,Urbisaglia,13.374,43.192,60
-123,Sant'Arcangelo,12.157,43.083,60
-60,Galtelli,9.615,40.385,60
+60,Urbisaglia,13.374,43.192,50
+123,Sant'Arcangelo,12.157,43.083,50
+60,Galtelli,9.615,40.385,50
 123,Varese Ligure,9.594,44.377,50
 60,Sommacampagna,10.845,45.407,50
-86,Anguillara Veneta,11.888,45.14,72
-86,Dolceacqua,7.624,43.847,0
+86,Anguillara Veneta,11.888,45.14,50
+86,Dolceacqua,7.624,43.847,72
 72,Tezze,11.704,45.686,50
-103,Morciano di Romagna,12.65,43.915,60
+103,Morciano di Romagna,12.65,43.915,50
 103,Rotonda,16.04,39.949,50
-363,Isili,9.109,39.741,211
-86,Marianopoli,13.915,37.599,86
-86,Canneto sull'Oglio,10.383,45.149,72
+363,Isili,9.109,39.741,176
+86,Marianopoli,13.915,37.599,60
+86,Canneto sull'Oglio,10.383,45.149,60
 60,Colla-Muggiasca,9.621,45.984,50
-147,Piaggine,15.378,40.346,123
-86,Rapolano Terme,11.604,43.284,86
-123,Auronzo,12.42,46.562,0
-72,Pulsano,17.358,40.382,72
+147,Piaggine,15.378,40.346,103
+86,Rapolano Terme,11.604,43.284,72
+123,Auronzo,12.42,46.562,123
+72,Pulsano,17.358,40.382,60
 72,Finocchieto,12.658,42.453,50
 72,Cepina,10.357,46.435,50
-123,Castelbuono,14.09,37.928,103
-303,Licata,13.951,37.104,253
-86,Guasila,9.041,39.558,60
+123,Castelbuono,14.09,37.928,86
+303,Licata,13.951,37.104,176
+86,Guasila,9.041,39.558,50
 86,Umbriatico,16.918,39.353,50
-86,Monte San Savino,11.724,43.333,72
-103,Capalbio,11.422,42.453,60
-303,San Giovanni in Fiore,16.698,39.254,303
-72,Bagnoli del Trigno,14.457,41.702,0
-147,Tolve,16.017,40.694,72
-60,Altilia,16.88,39.181,0
+86,Monte San Savino,11.724,43.333,60
+103,Capalbio,11.422,42.453,50
+303,San Giovanni in Fiore,16.698,39.254,253
+72,Bagnoli del Trigno,14.457,41.702,60
+147,Tolve,16.017,40.694,50
+60,Altilia,16.88,39.181,60
 103,Lazzaro,15.661,37.977,50
 72,Brescia,10.221,45.525,50
-103,Ciminna,13.56,37.898,86
+103,Ciminna,13.56,37.898,72
 147,Pieve,11.955,46.481,50
 60,Revo,11.06,46.392,50
-435,Ravenna,12.203,44.416,211
+435,Ravenna,12.203,44.416,147
 72,San Buono,14.569,41.981,50
-72,Episcopia,16.096,40.073,72
-103,Ovada,8.645,44.638,0
-72,Modugno,16.773,41.098,60
+72,Episcopia,16.096,40.073,60
+103,Ovada,8.645,44.638,103
+72,Modugno,16.773,41.098,50
 60,Costacciaro,12.713,43.359,50
-86,San Giorgio Ionico,17.379,40.459,86
-363,Lodi,9.503,45.314,253
+86,San Giorgio Ionico,17.379,40.459,60
+363,Lodi,9.503,45.314,176
 86,Valles,11.627,46.842,50
 86,Bagno Roselle,11.138,42.81,50
 72,Formigliana,8.291,45.429,50
-60,Montemiletto,14.902,41.011,60
-123,Porto Potenza Picena,13.692,43.37,60
-123,Mandas,9.129,39.656,86
+60,Montemiletto,14.902,41.011,50
+123,Porto Potenza Picena,13.692,43.37,50
+123,Mandas,9.129,39.656,72
 86,Usellus,8.851,39.81,50
-72,Gioia del Colle,16.924,40.8,0
+72,Gioia del Colle,16.924,40.8,72
 103,Lavezzola,11.876,44.563,50
 60,Caminata,11.544,46.959,50
 72,San Pietro in Volta,12.314,45.313,50
 72,Villanova Monferrato,8.479,45.182,50
-103,San Giovanni-San Bernardino,9.606,44.777,86
+103,San Giovanni-San Bernardino,9.606,44.777,72
 60,Torricella,17.499,40.356,50
 72,Laghi,11.271,45.825,50
 60,Usseglio,7.216,45.233,50
-86,Appignano,13.345,43.364,72
+86,Appignano,13.345,43.364,60
 60,Fagnano Alto,13.57,42.258,50
-72,Castiglione d'Adda,9.694,45.219,60
-303,Codigoro,12.11,44.83,123
-72,Marziai,11.982,45.987,60
+72,Castiglione d'Adda,9.694,45.219,50
+303,Codigoro,12.11,44.83,103
+72,Marziai,11.982,45.987,50
 72,Gonnosno,8.872,39.76,50
-253,Isola di Capo Rizzuto,17.091,38.96,123
-123,Ottana,9.044,40.234,86
-103,Champoluc-Champlan,7.726,45.833,72
+253,Isola di Capo Rizzuto,17.091,38.96,103
+123,Ottana,9.044,40.234,72
+103,Champoluc-Champlan,7.726,45.833,60
 86,Diamante,15.824,39.677,50
-253,Manduria,17.635,40.399,123
-72,Roccaforte del Greco,15.896,38.048,0
-303,Marina,16.598,40.036,60
-253,Verbania-Pallanza-Intra,8.557,45.93,176
+253,Manduria,17.635,40.399,103
+72,Roccaforte del Greco,15.896,38.048,72
+303,Marina,16.598,40.036,50
+253,Verbania-Pallanza-Intra,8.557,45.93,147
 72,Anzano di Puglia,15.285,41.123,50
-253,Popoli,13.832,42.172,72
-211,Rezzoaglio,9.386,44.527,176
-86,Piazze,11.919,42.907,60
-435,Piedimonte Matese,14.375,41.356,147
-303,Milazzo,15.238,38.222,72
+253,Popoli,13.832,42.172,60
+211,Rezzoaglio,9.386,44.527,123
+86,Piazze,11.919,42.907,50
+435,Piedimonte Matese,14.375,41.356,103
+303,Milazzo,15.238,38.222,60
 103,Laterza,16.798,40.629,50
 103,Riace Marina,16.526,38.389,50
-211,Rosolini,14.948,36.824,123
-103,Oriolo,16.446,40.054,0
+211,Rosolini,14.948,36.824,103
+103,Oriolo,16.446,40.054,103
 60,Giuliano di Roma,13.279,41.54,50
 60,Pagazzano,9.671,45.535,50
-103,Massa Martana,12.525,42.773,72
-86,Arsiero,11.354,45.803,60
-72,Lajatico,10.727,43.473,60
-123,Bore,9.793,44.719,60
+103,Massa Martana,12.525,42.773,60
+86,Arsiero,11.354,45.803,50
+72,Lajatico,10.727,43.473,50
+123,Bore,9.793,44.719,50
 86,Mejaniga,11.905,45.459,50
-123,Malonno,10.32,46.123,60
-2688,Pantelleria,11.946,36.829,751
+123,Malonno,10.32,46.123,50
+2688,Pantelleria,11.946,36.829,626
 60,Montefano,13.438,43.41,50
 72,Casaleggio Novara,8.492,45.489,50
-60,Biccari,15.196,41.398,0
-147,Rionero in Vulture,15.672,40.925,72
-176,Villa,7.155,44.7,86
-303,Amatrice,13.294,42.627,147
-86,Zungri,15.983,38.655,72
-253,Scanno,13.88,41.902,103
-123,Besozzo,8.666,45.846,86
-211,Piove di Sacco,12.036,45.297,86
-123,Salandra,16.318,40.528,103
+60,Biccari,15.196,41.398,60
+147,Rionero in Vulture,15.672,40.925,60
+176,Villa,7.155,44.7,72
+303,Amatrice,13.294,42.627,123
+86,Zungri,15.983,38.655,50
+253,Scanno,13.88,41.902,86
+123,Besozzo,8.666,45.846,72
+211,Piove di Sacco,12.036,45.297,72
+123,Salandra,16.318,40.528,86
 86,Paceco,12.556,37.978,50
 72,Osiglia,8.198,44.282,50
 103,Agosta,13.035,41.98,50
-147,Reggio di Calabria,15.664,38.111,103
-435,Albenga,8.215,44.053,176
-86,Pianello Val Tidone,9.403,44.947,0
-123,San Felice Circeo,13.088,41.233,60
+147,Reggio di Calabria,15.664,38.111,72
+435,Albenga,8.215,44.053,147
+86,Pianello Val Tidone,9.403,44.947,86
+123,San Felice Circeo,13.088,41.233,50
 72,Mazzo di Valtellina,10.254,46.256,50
 72,Isolabona,7.641,43.88,50
 86,Cavour,7.378,44.789,50
-86,Bisacquino,13.258,37.705,0
+86,Bisacquino,13.258,37.705,86
 103,Agugliano,13.388,43.543,50
-123,Acquasparta,12.541,42.689,86
+123,Acquasparta,12.541,42.689,72
 86,Vado Centro,8.431,44.266,50
 60,Morbello,8.519,44.607,50
-147,Marina di Ginosa,16.886,40.428,147
-123,Valledolmo,13.826,37.747,72
+147,Marina di Ginosa,16.886,40.428,123
+123,Valledolmo,13.826,37.747,60
 86,Altipiani di Arcinazzo,13.196,41.847,50
-103,Sant'Antonio di Gallura,9.302,40.992,72
-147,Squinzano,18.039,40.436,123
-86,Casperia,12.672,42.341,60
-303,Oschiri,9.102,40.72,147
-123,Coreno Ausonio,13.778,41.344,60
-86,Buggerru,8.402,39.398,72
+103,Sant'Antonio di Gallura,9.302,40.992,60
+147,Squinzano,18.039,40.436,86
+86,Casperia,12.672,42.341,50
+303,Oschiri,9.102,40.72,103
+123,Coreno Ausonio,13.778,41.344,50
+86,Buggerru,8.402,39.398,60
 72,Gambara,10.293,45.256,50
-86,Crichi,16.643,38.954,60
-103,Montechiaro d'Acqui,8.377,44.595,72
-363,Muravera,9.574,39.421,253
+86,Crichi,16.643,38.954,50
+103,Montechiaro d'Acqui,8.377,44.595,50
+363,Muravera,9.574,39.421,211
 60,Petriolo,13.464,43.221,50
-60,Libertinia,14.576,37.53,60
-72,Rivignano,13.042,45.878,72
-60,Trequanda,11.667,43.188,60
-72,Casalbuttano,9.962,45.252,72
-123,Filadelfia,16.293,38.782,86
-303,Cerignola,15.901,41.264,303
+60,Libertinia,14.576,37.53,50
+72,Rivignano,13.042,45.878,60
+60,Trequanda,11.667,43.188,50
+72,Casalbuttano,9.962,45.252,60
+123,Filadelfia,16.293,38.782,72
+303,Cerignola,15.901,41.264,211
 60,Serrazzano,10.813,43.218,50
-123,Bellaria-Igea Marina,12.47,44.14,60
+123,Bellaria-Igea Marina,12.47,44.14,50
 72,Sezzadio,8.573,44.787,50
 60,Gerace,16.221,38.271,50
-103,Forno,8.288,45.936,72
-123,Itri,13.533,41.292,72
+103,Forno,8.288,45.936,60
+123,Itri,13.533,41.292,60
 60,Grignano Polesine,11.75,45.044,50
-72,Castellazzo Bormida,8.576,44.845,72
-147,Nerito,13.478,42.549,123
+72,Castellazzo Bormida,8.576,44.845,50
+147,Nerito,13.478,42.549,86
 72,Apollinara,16.418,39.702,50
 60,Scanzano Jonico,16.699,40.25,50
 60,Lamon,11.75,46.048,50
 60,Taipana,13.341,46.248,50
 86,Lamen,11.887,46.059,50
-176,Tione di Trento,10.727,46.036,147
+176,Tione di Trento,10.727,46.036,103
 60,Caresana,13.834,45.592,50
 147,Miglionico,16.501,40.568,50
 72,Zerba,9.283,44.668,50
 86,Monghidoro,11.316,44.219,50
 86,Gais,11.95,46.837,50
 72,Quattromiglia,16.243,39.354,50
-103,Collalbo,11.457,46.542,86
-103,Pergine Valsugana,11.241,46.061,86
-86,Valdaora di Mezzo,12.031,46.76,72
-86,Castelnuovo Berardenga,11.503,43.346,72
+103,Collalbo,11.457,46.542,72
+103,Pergine Valsugana,11.241,46.061,60
+86,Valdaora di Mezzo,12.031,46.76,60
+86,Castelnuovo Berardenga,11.503,43.346,60
 86,Montiano,11.223,42.645,50
 72,Nucetto,8.06,44.34,50
 72,Cerami,14.508,37.81,50
-103,Breuil-Cervinia,7.631,45.935,60
-176,Ribera,13.265,37.5,147
-176,Palma di Montechiaro,13.765,37.193,123
-176,Camerino,13.069,43.14,123
-1867,Trieste,13.803,45.634,1297
+103,Breuil-Cervinia,7.631,45.935,50
+176,Ribera,13.265,37.5,123
+176,Palma di Montechiaro,13.765,37.193,103
+176,Camerino,13.069,43.14,86
+1867,Trieste,13.803,45.634,1081
 60,Pincara,11.61,44.992,50
-253,Spinazzola,16.091,40.967,123
+253,Spinazzola,16.091,40.967,86
 60,Alife,14.333,41.327,50
 86,Ururi,15.016,41.816,50
 103,Gonnesa,8.471,39.266,50
-72,Pancalieri,7.587,44.833,60
-72,Rovito,16.322,39.307,60
+72,Pancalieri,7.587,44.833,50
+72,Rovito,16.322,39.307,50
 103,Fasana,15.137,40.252,50
-72,Ribolla,11.035,42.969,0
+72,Ribolla,11.035,42.969,72
 60,Lotzorai,9.665,39.969,50
-72,Cornuda,12.006,45.833,72
-103,San Daniele Po,10.18,45.064,60
-60,Maddaloni,14.38,41.039,60
-363,Sesto,12.351,46.702,86
-176,Lacedonia,15.423,41.051,60
-123,Cesaro,14.713,37.845,86
-147,Albinia,11.21,42.505,72
+72,Cornuda,12.006,45.833,60
+103,San Daniele Po,10.18,45.064,50
+60,Maddaloni,14.38,41.039,50
+363,Sesto,12.351,46.702,72
+176,Lacedonia,15.423,41.051,50
+123,Cesaro,14.713,37.845,72
+147,Albinia,11.21,42.505,60
 60,Nettuno,12.681,41.493,50
 60,Albera Ligure,9.066,44.702,50
-176,Gattinara,8.367,45.618,86
+176,Gattinara,8.367,45.618,72
 72,Verrayes,7.538,45.764,50
-86,San Giacomo,16.465,39.524,60
-72,Finale,14.162,38.018,60
-72,Fonzaso,11.801,46.016,72
+86,San Giacomo,16.465,39.524,50
+72,Finale,14.162,38.018,50
+72,Fonzaso,11.801,46.016,50
 60,Peveragno,7.62,44.331,50
-147,Asola,10.418,45.221,72
-176,Guglionesi,14.917,41.914,86
+147,Asola,10.418,45.221,60
+176,Guglionesi,14.917,41.914,60
 60,Cetica,11.655,43.712,50
-72,Sestu,9.094,39.298,60
-123,Aprica,10.152,46.153,60
-123,Gerola Alta,9.551,46.061,72
-147,Valdobbiadene,12.003,45.902,123
+72,Sestu,9.094,39.298,50
+123,Aprica,10.152,46.153,50
+123,Gerola Alta,9.551,46.061,60
+147,Valdobbiadene,12.003,45.902,86
 60,Lauco,12.933,46.424,50
-176,San Sebastiano,10.268,45.649,86
-435,Lavello,15.793,41.048,211
+176,San Sebastiano,10.268,45.649,72
+435,Lavello,15.793,41.048,147
 60,Riva presso Chieri,7.872,44.984,50
 60,Gallo,7.983,44.661,50
-60,Verghereto,12.005,43.795,60
-86,Dovadola,11.886,44.121,60
-123,Montagnana,11.467,45.233,123
+60,Verghereto,12.005,43.795,50
+86,Dovadola,11.886,44.121,50
+123,Montagnana,11.467,45.233,86
 72,Narbolia,8.576,40.047,50
 72,Cerignale,9.35,44.678,50
 86,Belforte del Chienti,13.247,43.162,50
-72,Scarnafigi,7.567,44.681,60
+72,Scarnafigi,7.567,44.681,50
 72,San Nicola Arcella,15.791,39.843,50
 72,Vetulonia,10.971,42.86,50
 103,Vallefiorita,16.461,38.776,50
 72,Elva,7.088,44.542,50
 86,Salaparuta,13.01,37.758,50
-72,Venaria Reale,7.635,45.124,60
-123,Lana,11.156,46.612,60
-176,Masone,8.716,44.502,103
-176,Cuglieri,8.567,40.188,72
-176,Mezzolombardo,11.095,46.208,147
+72,Venaria Reale,7.635,45.124,50
+123,Lana,11.156,46.612,50
+176,Masone,8.716,44.502,72
+176,Cuglieri,8.567,40.188,60
+176,Mezzolombardo,11.095,46.208,103
 60,Colvalenza,12.486,42.745,50
-60,Tartano,9.677,46.107,60
+60,Tartano,9.677,46.107,50
 60,Albareto,10.967,44.69,50
 72,Staiti,16.033,38,50
 60,Leno,10.215,45.365,50
-522,Alessandria,8.619,44.913,363
-147,Caoria,11.68,46.196,86
+522,Alessandria,8.619,44.913,303
+147,Caoria,11.68,46.196,72
 72,Spotorno,8.414,44.229,50
 72,Orsomarso,15.909,39.799,50
 72,Calasetta,8.368,39.108,50
 86,Condino,10.6,45.89,50
 60,Formigine,10.847,44.57,50
-86,Parenti,16.412,39.161,72
+86,Parenti,16.412,39.161,60
 60,Pietralta,13.448,42.71,50
-72,Castroregio,16.478,39.992,60
+72,Castroregio,16.478,39.992,50
 86,Selci-Lama,12.195,43.512,50
-176,Filettino,13.326,41.891,86
+176,Filettino,13.326,41.891,72
 60,Ulignano,11.082,43.504,50
-176,Pieve Santo Stefano,12.04,43.673,103
-86,Catignano,13.947,42.346,72
-176,La Thuile,6.951,45.714,60
-123,Serramazzoni,10.79,44.429,86
-176,Poggio Moiano,12.881,42.205,103
+176,Pieve Santo Stefano,12.04,43.673,72
+86,Catignano,13.947,42.346,60
+176,La Thuile,6.951,45.714,50
+123,Serramazzoni,10.79,44.429,60
+176,Poggio Moiano,12.881,42.205,86
 86,Pierantonio,12.392,43.264,50
-626,Fermignano,12.642,43.686,211
-60,San Lazzaro,11.414,44.467,60
+626,Fermignano,12.642,43.686,176
+60,San Lazzaro,11.414,44.467,50
 72,Corio,7.532,45.314,50
-86,Sant'Antonio,11.22,45.755,0
-86,Castelnuovo Vomano,13.848,42.629,0
+86,Sant'Antonio,11.22,45.755,72
+86,Castelnuovo Vomano,13.848,42.629,86
 60,Capovalle,10.545,45.753,50
-147,Sinnai,9.203,39.304,72
-123,Voghiera,11.751,44.759,60
+147,Sinnai,9.203,39.304,50
+123,Voghiera,11.751,44.759,50
 86,Cupra Marittima,13.859,43.03,50
-123,Torpe,9.68,40.628,60
-103,Urbania,12.521,43.668,72
+123,Torpe,9.68,40.628,50
+103,Urbania,12.521,43.668,60
 72,Alberoro,11.807,43.366,50
-103,Castelcivita,15.233,40.494,72
-147,Tula,8.985,40.733,86
-901,Siena,11.334,43.32,363
-86,Vedeseta,9.543,45.89,72
+103,Castelcivita,15.233,40.494,60
+147,Tula,8.985,40.733,72
+901,Siena,11.334,43.32,303
+86,Vedeseta,9.543,45.89,60
 86,Borgomaro,7.945,43.975,50
 60,Budoia,12.533,46.046,50
-72,Aragona,13.617,37.401,72
+72,Aragona,13.617,37.401,60
 60,Anfo,10.494,45.766,50
-103,Gagliano Castelferrato,14.536,37.711,60
+103,Gagliano Castelferrato,14.536,37.711,50
 72,Classe,12.238,44.377,50
-103,Entracque,7.397,44.239,86
+103,Entracque,7.397,44.239,60
 60,Luzzara,10.69,44.961,50
 60,Angera,8.59,45.777,50
 72,Contursi Terme,15.241,40.651,50
-72,Sumirago,8.781,45.74,72
-147,Certaldo,11.04,43.547,86
+72,Sumirago,8.781,45.74,60
+147,Certaldo,11.04,43.547,60
 86,Gergei,9.1,39.7,50
-103,Guastalla,10.654,44.922,72
+103,Guastalla,10.654,44.922,60
 60,Raveo,12.871,46.434,50
 60,Fontecchio,13.606,42.231,50
-60,Greve in Chianti,11.315,43.587,0
-72,Paglieta,14.498,42.164,72
-123,Novellara,10.73,44.845,72
-72,Camposampiero,11.934,45.566,72
-86,Ortueri,8.987,40.036,72
+60,Greve in Chianti,11.315,43.587,60
+72,Paglieta,14.498,42.164,60
+123,Novellara,10.73,44.845,60
+72,Camposampiero,11.934,45.566,50
+86,Ortueri,8.987,40.036,60
 60,Portico di Romagna,11.78,44.025,50
-147,Berchidda,9.165,40.786,72
+147,Berchidda,9.165,40.786,50
 72,Casale di Scodosia,11.465,45.196,50
 86,Ficulle,12.066,42.836,50
-363,Isernia,14.24,41.6,303
-103,Lago,16.148,39.173,60
-103,Passignano sul Trasimeno,12.131,43.192,72
-123,Cupramontana,13.115,43.445,60
-211,Acqui Terme,8.463,44.677,211
-901,La Spezia,9.85,44.114,435
-147,Castelsaraceno,15.991,40.161,72
+363,Isernia,14.24,41.6,253
+103,Lago,16.148,39.173,50
+103,Passignano sul Trasimeno,12.131,43.192,50
+123,Cupramontana,13.115,43.445,50
+211,Acqui Terme,8.463,44.677,176
+901,La Spezia,9.85,44.114,363
+147,Castelsaraceno,15.991,40.161,60
 86,Margherita Iv,17.105,39.135,50
 103,San Floriano del Collio,13.596,45.98,50
 72,Alesso,13.053,46.318,50
 60,Salvano,13.79,43.162,50
-72,Ponton dell'Elce,12.235,42.023,60
-211,Canazei,11.772,46.476,60
+72,Ponton dell'Elce,12.235,42.023,50
+211,Canazei,11.772,46.476,50
 86,Appignano del Tronto,13.662,42.898,50
 60,Piancastagnaio,11.686,42.85,50
-103,Canino,11.753,42.467,86
-86,Cittadella,11.78,45.65,0
-60,Grotte di Castro,11.868,42.674,0
-60,Bocca di Piazza,16.485,39.164,60
-363,Panarea,15.076,38.637,176
-522,Ventotene,13.43,40.796,363
+103,Canino,11.753,42.467,72
+86,Cittadella,11.78,45.65,86
+60,Grotte di Castro,11.868,42.674,60
+60,Bocca di Piazza,16.485,39.164,50
+363,Panarea,15.076,38.637,147
+522,Ventotene,13.43,40.796,253
 72,Mordano,11.812,44.398,50
-86,Tredozio,11.74,44.077,72
-103,Castellaneta,16.935,40.631,0
+86,Tredozio,11.74,44.077,60
+103,Castellaneta,16.935,40.631,103
 103,Maddalena,7.029,44.622,50
-86,Alagna Valsesia,7.938,45.851,86
-60,Lari,10.592,43.568,60
-176,Frosolone,14.447,41.6,103
-253,Pinzolo,10.763,46.158,123
-363,Merano,11.161,46.668,176
+86,Alagna Valsesia,7.938,45.851,60
+60,Lari,10.592,43.568,50
+176,Frosolone,14.447,41.6,86
+253,Pinzolo,10.763,46.158,103
+363,Merano,11.161,46.668,147
 60,Ciggiano,11.711,43.364,50
 103,Campofiorito,13.269,37.754,50
-522,Sapri,15.629,40.075,253
-176,Pontremoli,9.879,44.375,103
+522,Sapri,15.629,40.075,211
+176,Pontremoli,9.879,44.375,86
 72,Sassi,10.393,44.083,50
 103,Monte Cavallo,13.002,42.994,50
-147,Sant'Angelo Lodigiano,9.411,45.237,72
-147,Castiglione delle Stiviere,10.483,45.391,72
-303,Formia,13.668,41.258,0
-253,Varallo,8.259,45.814,103
-86,Marzanello,14.11,41.316,60
+147,Sant'Angelo Lodigiano,9.411,45.237,60
+147,Castiglione delle Stiviere,10.483,45.391,60
+303,Formia,13.668,41.258,253
+253,Varallo,8.259,45.814,86
+86,Marzanello,14.11,41.316,50
 86,Corsico,9.108,45.432,50
 60,Limena,11.844,45.473,50
 72,Monsano,13.249,43.562,50
-1081,Gela,14.243,37.07,626
-86,Cantiano,12.629,43.476,72
-147,Pietramelara,14.188,41.272,86
-147,Desenzano del Garda,10.573,45.458,0
-303,Samugheo,8.941,39.948,176
+1081,Gela,14.243,37.07,522
+86,Cantiano,12.629,43.476,60
+147,Pietramelara,14.188,41.272,72
+147,Desenzano del Garda,10.573,45.458,147
+303,Samugheo,8.941,39.948,147
 60,La Maddalena,9.015,39.147,50
 86,Marina,15.981,39.463,50
 86,Satriano di Lucania,15.642,40.541,50
-253,Otranto,18.482,40.149,103
-60,Resuttano,14.029,37.679,0
+253,Otranto,18.482,40.149,86
+60,Resuttano,14.029,37.679,50
 86,Lucito,14.687,41.732,50
-522,Monopoli,17.296,40.952,303
-86,Lago,12.216,45.987,60
-147,Cassibile,15.199,36.979,72
-303,Bosa,8.492,40.296,211
-1297,Aosta,7.317,45.737,522
+522,Monopoli,17.296,40.952,253
+86,Lago,12.216,45.987,50
+147,Cassibile,15.199,36.979,60
+303,Bosa,8.492,40.296,176
+1297,Aosta,7.317,45.737,435
 60,Napoli,14.276,40.859,50
-103,Monselice,11.753,45.241,72
+103,Monselice,11.753,45.241,60
 86,Sant'Anna,17.072,39.003,50
-123,Lavis,11.11,46.143,60
-86,Barumini,9.004,39.701,72
-60,Scandicci,11.153,43.767,60
-86,Annone Veneto,12.686,45.787,0
+123,Lavis,11.11,46.143,50
+86,Barumini,9.004,39.701,60
+60,Scandicci,11.153,43.767,50
+86,Annone Veneto,12.686,45.787,72
 72,Marrubiu,8.638,39.752,50
-123,Roccabianca,10.22,45.007,72
+123,Roccabianca,10.22,45.007,60
 72,Cannigione,9.44,41.111,50
-211,Vernante,7.534,44.246,86
-72,Sabbioni,10.626,45.029,60
-123,Spiazzo,10.739,46.104,60
+211,Vernante,7.534,44.246,72
+72,Sabbioni,10.626,45.029,50
+123,Spiazzo,10.739,46.104,50
 60,Tobbiana,11.04,43.961,50
 86,Aldino,11.353,46.367,50
-176,San Marco dei Cavoti,14.88,41.31,123
-363,Campo Tures,11.954,46.92,123
-123,Casole d'Elsa,11.048,43.34,72
-72,Serra de' Conti,13.036,43.542,72
-363,Modena,10.918,44.656,303
-147,Ferentillo,12.787,42.621,103
-211,Pozzallo,14.849,36.73,103
+176,San Marco dei Cavoti,14.88,41.31,103
+363,Campo Tures,11.954,46.92,103
+123,Casole d'Elsa,11.048,43.34,60
+72,Serra de' Conti,13.036,43.542,50
+363,Modena,10.918,44.656,253
+147,Ferentillo,12.787,42.621,86
+211,Pozzallo,14.849,36.73,86
 86,Desana,8.36,45.27,50
 60,Loreto Aprutino,13.984,42.434,50
 176,Latte,7.569,43.795,50
 86,Legnaro,11.967,45.341,50
-72,Rionero Sannitico,14.138,41.713,60
-176,Copertino,18.057,40.27,86
+72,Rionero Sannitico,14.138,41.713,50
+176,Copertino,18.057,40.27,72
 72,Smirra,12.671,43.584,50
 60,Vico Equense,14.431,40.66,50
-123,Arsoli,13.018,42.04,60
+123,Arsoli,13.018,42.04,50
 60,Ponteginori,10.744,43.335,50
-103,San Pietro,11.678,46.643,72
-363,Terralba,8.638,39.718,176
-176,Colleferro,13.005,41.726,147
-123,Vinchiaturo,14.591,41.493,72
-176,Bionaz,7.422,45.875,72
-86,La Torba,11.328,42.415,72
-60,Romano di Lombardia,9.754,45.52,0
-147,Muro Lucano,15.484,40.751,0
-72,Salionze,10.723,45.404,0
-253,Orzinuovi,9.924,45.404,123
-60,Pietracamela,13.554,42.523,60
+103,San Pietro,11.678,46.643,50
+363,Terralba,8.638,39.718,147
+176,Colleferro,13.005,41.726,103
+123,Vinchiaturo,14.591,41.493,60
+176,Bionaz,7.422,45.875,60
+86,La Torba,11.328,42.415,60
+60,Romano di Lombardia,9.754,45.52,60
+147,Muro Lucano,15.484,40.751,123
+72,Salionze,10.723,45.404,60
+253,Orzinuovi,9.924,45.404,86
+60,Pietracamela,13.554,42.523,50
 60,Cimolais,12.437,46.288,50
-103,Grimaldi,16.234,39.141,60
+103,Grimaldi,16.234,39.141,50
 72,Carro,9.606,44.274,50
-60,Cabella Ligure,9.095,44.676,0
-86,Selvena,11.643,42.767,72
-176,San Vigilio,11.935,46.699,60
-522,Martina Franca,17.341,40.701,253
-60,Ripatransone,13.762,42.996,60
+60,Cabella Ligure,9.095,44.676,60
+86,Selvena,11.643,42.767,60
+176,San Vigilio,11.935,46.699,50
+522,Martina Franca,17.341,40.701,176
+60,Ripatransone,13.762,42.996,50
 72,Aritzo,9.192,39.959,50
-103,Sacile,12.507,45.959,103
-303,Fossano,7.721,44.55,147
-103,Osidda,9.218,40.524,60
-147,Benetutti,9.168,40.458,103
-103,Variano,13.11,46.028,86
+103,Sacile,12.507,45.959,86
+303,Fossano,7.721,44.55,123
+103,Osidda,9.218,40.524,50
+147,Benetutti,9.168,40.458,86
+103,Variano,13.11,46.028,60
 103,Quarona,8.269,45.763,50
-147,Roccaraso,14.081,41.847,72
+147,Roccaraso,14.081,41.847,60
 72,Frisa,14.369,42.263,50
-123,Albino,9.797,45.761,103
-123,Moretta,7.536,44.763,86
-123,Valdottavo,10.477,43.942,86
+123,Albino,9.797,45.761,72
+123,Moretta,7.536,44.763,72
+123,Valdottavo,10.477,43.942,72
 86,Maletto,14.863,37.83,50
-72,San Nicolo,10.923,46.511,60
-72,Buccheri,14.85,37.125,60
-60,Latiano,17.72,40.551,60
+72,San Nicolo,10.923,46.511,50
+72,Buccheri,14.85,37.125,50
+60,Latiano,17.72,40.551,50
 72,Salerni,16.425,39.376,50
 86,Priola,8.021,44.243,50
-123,Trestina,12.237,43.368,72
+123,Trestina,12.237,43.368,60
 72,Pereto,13.102,42.058,50
-103,Borgo Tossignano,11.59,44.277,86
-176,Ostra,13.158,43.614,86
-176,Levanto,9.619,44.176,176
-103,Annunziata,14.355,41.121,60
-103,Farra d'Alpago,12.357,46.12,60
+103,Borgo Tossignano,11.59,44.277,72
+176,Ostra,13.158,43.614,72
+176,Levanto,9.619,44.176,123
+103,Annunziata,14.355,41.121,50
+103,Farra d'Alpago,12.357,46.12,50
 60,Acquaria,10.764,44.278,50
-86,Palazzolo sull'Oglio,9.889,45.593,0
+86,Palazzolo sull'Oglio,9.889,45.593,86
 103,Ovindoli,13.516,42.137,50
 72,Squillace Lido,16.57,38.779,50
 103,Colle Sannita,14.835,41.364,50
 72,Campochiaro,14.508,41.447,50
-176,Copparo,11.827,44.895,147
+176,Copparo,11.827,44.895,123
 86,Alberese,11.106,42.668,50
-363,Belluno,12.217,46.151,253
+363,Belluno,12.217,46.151,211
 86,Saluggia,8.011,45.238,50
 60,Mantignana,12.291,43.16,50
 72,Magliolo,8.246,44.191,50
-86,San Quirico d'Orcia,11.606,43.059,86
-72,San Bartolomeo,7.663,44.265,60
-211,Alimena,14.113,37.694,103
+86,San Quirico d'Orcia,11.606,43.059,72
+72,San Bartolomeo,7.663,44.265,50
+211,Alimena,14.113,37.694,86
 60,Calamonaci,13.29,37.526,50
-103,Chivasso,7.891,45.193,86
-176,Olmedo,8.38,40.651,103
-123,Stroncone,12.655,42.502,60
-253,San Foca,18.404,40.299,60
-86,Guarcino,13.314,41.799,72
-522,Treviso,12.24,45.674,176
-60,Mezzenile,7.396,45.295,60
+103,Chivasso,7.891,45.193,72
+176,Olmedo,8.38,40.651,72
+123,Stroncone,12.655,42.502,50
+253,San Foca,18.404,40.299,50
+86,Guarcino,13.314,41.799,60
+522,Treviso,12.24,45.674,147
+60,Mezzenile,7.396,45.295,50
 72,Montepulciano Stazione,11.854,43.135,50
 60,Cervaro,15.594,41.396,50
-72,Vastogirardi,14.26,41.775,60
-123,Barrafranca,14.201,37.38,123
+72,Vastogirardi,14.26,41.775,50
+123,Barrafranca,14.201,37.38,103
 86,Bultei,9.064,40.456,50
 72,Rocca Imperiale Marina,16.613,40.098,50
 60,Selegas,9.103,39.568,50
-147,Sezze,13.057,41.5,123
+147,Sezze,13.057,41.5,103
 60,Marcato Bianco,13.704,37.742,50
-86,Graffignano,12.203,42.574,60
-522,Ragusa,14.716,36.929,363
-86,Ticineto,8.552,45.096,72
+86,Graffignano,12.203,42.574,50
+522,Ragusa,14.716,36.929,303
+86,Ticineto,8.552,45.096,50
 60,Cerro,8.6,45.894,50
 86,Santa Barbara,18.078,40.224,50
 86,Tramutola,15.788,40.318,50
 72,Montemerano,11.49,42.623,50
 60,Piagge,12.969,43.735,50
-303,Bonorva,8.769,40.419,147
+303,Bonorva,8.769,40.419,123
 123,Montallegro,13.351,37.392,50
-1081,Parma,10.329,44.803,435
-176,Moena,11.661,46.377,72
+1081,Parma,10.329,44.803,363
+176,Moena,11.661,46.377,60
 103,Siligo,8.726,40.576,50
 86,Maiera,15.851,39.717,50
-253,Medicina-Buda,11.638,44.479,72
-72,Lattarico,16.126,39.45,0
-123,Rosarno,15.983,38.488,60
-211,Mirandola,11.066,44.886,123
-60,Casacastalda,12.648,43.196,0
-103,Semproniano,11.542,42.728,103
+253,Medicina-Buda,11.638,44.479,60
+72,Lattarico,16.126,39.45,60
+123,Rosarno,15.983,38.488,50
+211,Mirandola,11.066,44.886,103
+60,Casacastalda,12.648,43.196,60
+103,Semproniano,11.542,42.728,86
 103,Galeata,11.909,43.995,50
-147,Spilimbergo,12.893,46.11,123
-103,Paesana,7.275,44.687,60
-86,Ponte di Legno,10.509,46.259,0
-103,Santa Marinella,11.864,42.037,60
-103,Sorgono,9.101,40.026,86
-211,Egna,11.273,46.319,86
+147,Spilimbergo,12.893,46.11,103
+103,Paesana,7.275,44.687,50
+86,Ponte di Legno,10.509,46.259,86
+103,Santa Marinella,11.864,42.037,50
+103,Sorgono,9.101,40.026,60
+211,Egna,11.273,46.319,60
 103,Castelraimondo,13.056,43.209,50
 60,Puntarazzi,14.661,36.9,50
-103,Riotorto,10.684,42.981,60
-72,Montoggio,9.052,44.518,60
+103,Riotorto,10.684,42.981,50
+72,Montoggio,9.052,44.518,50
 60,Scillato,13.907,37.857,50
 72,Montegabbione,12.092,42.92,50
 123,Anzi,15.924,40.517,50
 72,Caposele,15.223,40.816,50
-176,Serra San Bruno,16.323,38.575,147
-72,Colfiorito,12.891,43.028,0
-147,Piandimeleto,12.411,43.724,60
+176,Serra San Bruno,16.323,38.575,123
+72,Colfiorito,12.891,43.028,72
+147,Piandimeleto,12.411,43.724,50
 72,Gairo Sant'Elena,9.506,39.848,50
-253,Cogne,7.361,45.608,123
+253,Cogne,7.361,45.608,103
 103,Portovenere,9.834,44.066,50
 60,Marciana Marina,10.196,42.803,50
 60,Mafalda,14.712,41.942,50
-72,Lugagnano,10.885,45.434,0
+72,Lugagnano,10.885,45.434,60
 60,Cocullo,13.774,42.033,50
 60,Salvo Marina,14.773,42.07,50
-60,Cervaro,13.902,41.484,60
+60,Cervaro,13.902,41.484,50
 72,Spello,12.666,42.993,50
-176,Cianciana,13.433,37.521,86
-103,Civitella del Lago,12.284,42.71,60
-123,Campora San Giovanni,16.094,39.068,60
-86,Conselve,11.873,45.232,86
-253,Minervino Murge,16.077,41.084,147
+176,Cianciana,13.433,37.521,72
+103,Civitella del Lago,12.284,42.71,50
+123,Campora San Giovanni,16.094,39.068,50
+86,Conselve,11.873,45.232,72
+253,Minervino Murge,16.077,41.084,103
 60,Calvari,9.286,44.382,50
 72,Torvaianica,12.449,41.633,50
-103,Radicondoli,11.043,43.261,86
-86,Accadia,15.331,41.159,72
-86,Suvereto,10.678,43.077,60
-5572,Palermo,13.337,38.11,2688
+103,Radicondoli,11.043,43.261,60
+86,Accadia,15.331,41.159,50
+86,Suvereto,10.678,43.077,50
+5572,Palermo,13.337,38.11,2240
 72,Morra,12.13,43.386,50
-176,Montevarchi,11.568,43.528,0
+176,Montevarchi,11.568,43.528,176
 72,Noviglio,9.051,45.359,50
-60,Pozzomaggiore,8.661,40.398,0
+60,Pozzomaggiore,8.661,40.398,60
 86,Erula,8.944,40.793,50
 72,La Dogana,12.028,43.254,50
 103,Talana,9.497,40.042,50
 60,Trevenzuolo,10.934,45.27,50
-60,Santa Maria del Focallo,14.942,36.715,0
-435,Salerno,14.792,40.68,363
-86,Marinella,12.842,37.591,86
-176,Faenza,11.876,44.292,123
-60,Serrenti,8.978,39.493,60
-123,Santa Caterina,10.49,46.413,86
+60,Santa Maria del Focallo,14.942,36.715,60
+435,Salerno,14.792,40.68,303
+86,Marinella,12.842,37.591,60
+176,Faenza,11.876,44.292,103
+60,Serrenti,8.978,39.493,50
+123,Santa Caterina,10.49,46.413,72
 60,Fiano,11.118,43.589,50
-103,Noale,12.069,45.546,103
-72,Rialto,8.262,44.227,60
-123,Mogoro,8.776,39.685,103
-86,Avetrana,17.734,40.352,72
-303,Peccioli,10.715,43.55,72
+103,Noale,12.069,45.546,86
+72,Rialto,8.262,44.227,50
+123,Mogoro,8.776,39.685,86
+86,Avetrana,17.734,40.352,60
+303,Peccioli,10.715,43.55,60
 60,Giardina Gallotti,13.521,37.352,50
 103,Petritoli,13.66,43.069,50
-60,Predappio,11.981,44.102,60
+60,Predappio,11.981,44.102,50
 60,Castel Giuliano,12.126,42.054,50
-123,Este,11.656,45.225,0
-103,Manoppello Scalo,14.058,42.31,60
-72,Sostegno,8.27,45.653,60
-253,Varzi,9.191,44.824,123
+123,Este,11.656,45.225,123
+103,Manoppello Scalo,14.058,42.31,50
+72,Sostegno,8.27,45.653,50
+253,Varzi,9.191,44.824,103
 103,Ornavasso,8.416,45.968,50
 60,Tarsia,16.273,39.624,50
 72,San Gusme,11.497,43.388,50
-103,Mazzarrone,14.564,37.09,72
+103,Mazzarrone,14.564,37.09,60
 86,Paulilatino,8.763,40.084,50
 60,Amaro,13.096,46.374,50
 86,Guidomandri Marina,15.467,38.048,50
-103,Ormea,7.919,44.155,72
+103,Ormea,7.919,44.155,60
 60,San Marzano di San Giuseppe,17.505,40.454,50
 72,Gaiola,7.407,44.335,50
-147,Nicastro-Sambiase,16.312,38.967,0
+147,Nicastro-Sambiase,16.312,38.967,147
 60,Isola Fossara,12.738,43.433,50
-103,Gaby,7.882,45.714,60
-72,Piano del Voglio,11.216,44.169,72
-123,Carpineto Romano,13.085,41.603,86
-60,Montespertoli,11.074,43.644,0
+103,Gaby,7.882,45.714,50
+72,Piano del Voglio,11.216,44.169,60
+123,Carpineto Romano,13.085,41.603,72
+60,Montespertoli,11.074,43.644,60
 60,Bellavista,11.162,43.441,50
 72,Saracena,16.159,39.779,50
 60,Apollosa,14.703,41.093,50
-60,La Vecchia,10.529,44.567,60
-86,Dolegna del Collio,13.478,46.032,60
-176,Rocca di Mezzo,13.519,42.205,86
+60,La Vecchia,10.529,44.567,50
+86,Dolegna del Collio,13.478,46.032,50
+176,Rocca di Mezzo,13.519,42.205,72
 60,Abriola,15.815,40.507,50
 72,Focene,12.213,41.815,50
 72,Santa Croce,12.915,42.467,50
@@ -658,1532 +658,1532 @@ rs,name,lon,lat,r1
 60,Olia Speciosa,9.526,39.279,50
 86,Caselle,11.363,45.275,50
 60,Salo,10.519,45.609,50
-103,Sparanise,14.095,41.187,103
+103,Sparanise,14.095,41.187,72
 86,Sarsina,12.143,43.92,50
 72,Fossa,11.024,44.924,50
 60,Branca,12.68,43.271,50
-60,Cusano Mutri,14.511,41.336,0
+60,Cusano Mutri,14.511,41.336,60
 103,Roverbella,10.769,45.267,50
-147,Deliceto,15.384,41.223,147
-176,Bagnasco,8.045,44.302,72
+147,Deliceto,15.384,41.223,103
+176,Bagnasco,8.045,44.302,50
 60,Boretto,10.545,44.902,50
 72,Capilungo,18.068,39.922,50
 103,Corridonia,13.508,43.247,50
-86,Amendolara,16.581,39.952,86
-86,Auletta,15.425,40.561,60
+86,Amendolara,16.581,39.952,72
+86,Auletta,15.425,40.561,50
 86,Monticello Conte Otto,11.581,45.595,50
-901,Siracusa,15.273,37.084,435
+901,Siracusa,15.273,37.084,303
 60,Felegara,10.114,44.722,50
-103,Solarussa,8.674,39.956,60
-522,Piacenza,9.706,45.045,435
+103,Solarussa,8.674,39.956,50
+522,Piacenza,9.706,45.045,363
 123,Pomaretto,8.049,45.152,50
-435,Umbertide,12.336,43.305,176
+435,Umbertide,12.336,43.305,123
 86,Spigno Monferrato,8.334,44.543,50
 86,Gandellino,9.946,45.99,50
 72,Ca' Pirami,12.642,45.56,50
 60,Listolade,12.007,46.317,50
 86,Salice,15.494,38.251,50
 60,Marinella,16.119,37.99,50
-72,Cagnano Varano,15.772,41.829,0
-72,Cusercoli,12.01,44.046,60
-147,Ales,8.815,39.768,86
-211,Atina Inferiore,13.79,41.632,86
-72,Polignano a Mare,17.21,40.998,72
+72,Cagnano Varano,15.772,41.829,72
+72,Cusercoli,12.01,44.046,50
+147,Ales,8.815,39.768,72
+211,Atina Inferiore,13.79,41.632,72
+72,Polignano a Mare,17.21,40.998,60
 86,Osteria del Gatto,12.75,43.291,50
 72,San Martino d'Agri,16.052,40.239,50
-176,Nulvi,8.744,40.785,123
+176,Nulvi,8.744,40.785,103
 103,Bompietro,14.093,37.745,50
-176,Marano Lagunare,13.168,45.764,86
+176,Marano Lagunare,13.168,45.764,60
 60,Ameno,8.44,45.789,50
-72,Palizzi,15.987,37.967,72
+72,Palizzi,15.987,37.967,60
 103,Picerno,15.643,40.641,50
 86,Rotello,15.005,41.748,50
 72,Agnone,14.997,40.217,50
-86,San Lorenzo in Campo,12.947,43.602,72
-123,Poli,12.891,41.889,60
-123,Cogolo,10.692,46.353,60
+86,San Lorenzo in Campo,12.947,43.602,60
+123,Poli,12.891,41.889,50
+123,Cogolo,10.692,46.353,50
 60,Baselice,14.974,41.394,50
-176,Troina,14.598,37.785,147
+176,Troina,14.598,37.785,123
 103,Taurisano,18.213,39.957,50
 86,Introdacqua,13.898,42.01,50
-103,Castelnuovo di Val di Cecina,10.902,43.211,86
-103,Colombella,12.481,43.149,72
+103,Castelnuovo di Val di Cecina,10.902,43.211,72
+103,Colombella,12.481,43.149,60
 60,Tarsogno,9.625,44.449,50
 86,Ardara,8.81,40.622,50
-176,Colico Piano,9.373,46.133,147
-147,Priolo Gargallo,15.18,37.158,72
-103,Reggiolo,10.802,44.922,72
-303,Tarquinia,11.757,42.248,147
-123,Castelfranco Veneto,11.926,45.676,123
+176,Colico Piano,9.373,46.133,103
+147,Priolo Gargallo,15.18,37.158,60
+103,Reggiolo,10.802,44.922,60
+303,Tarquinia,11.757,42.248,123
+123,Castelfranco Veneto,11.926,45.676,103
 123,Doria,16.357,39.729,50
-86,Vaglia,11.279,43.911,72
+86,Vaglia,11.279,43.911,60
 72,Sonnino,13.244,41.414,50
 86,Creto,10.64,45.942,50
-123,Levanzo,12.341,37.987,60
+123,Levanzo,12.341,37.987,50
 147,Orte,12.388,42.457,50
-103,Varcaturo,14.063,40.904,72
-103,Serradifalco,13.881,37.456,103
+103,Varcaturo,14.063,40.904,60
+103,Serradifalco,13.881,37.456,72
 60,Petricci,11.557,42.757,50
-147,Mogliano Veneto,12.236,45.562,72
-147,Tramonti di Sopra,12.789,46.309,103
+147,Mogliano Veneto,12.236,45.562,60
+147,Tramonti di Sopra,12.789,46.309,86
 72,Gadoni,9.186,39.913,50
-60,Lido Manfria,14.149,37.099,0
+60,Lido Manfria,14.149,37.099,60
 103,San Pietro Vernotico,17.996,40.491,50
-86,Gioi,15.218,40.29,60
+86,Gioi,15.218,40.29,50
 60,Giuncarico,10.992,42.907,50
 72,Cutrofiano,18.202,40.127,50
-60,Contignano,11.74,42.976,0
-72,Polizzi Generosa,14.006,37.811,0
-103,Trecate,8.738,45.436,86
-363,Treviglio,9.592,45.524,103
+60,Contignano,11.74,42.976,60
+72,Polizzi Generosa,14.006,37.811,72
+103,Trecate,8.738,45.436,72
+363,Treviglio,9.592,45.524,72
 86,San Giorgio Lucano,16.39,40.111,50
-176,Palena,14.139,41.984,103
-211,Badia Prataglia,11.879,43.794,72
+176,Palena,14.139,41.984,86
+211,Badia Prataglia,11.879,43.794,50
 60,Prato Nevoso,7.788,44.256,50
-86,Scorzo,15.264,40.577,60
-60,Cordignano,12.411,45.95,0
+86,Scorzo,15.264,40.577,50
+60,Cordignano,12.411,45.95,50
 72,Ponterio,12.411,42.81,50
 60,Leuca,18.358,39.799,50
 60,Calascibetta,14.27,37.591,50
-303,Villasimius,9.517,39.145,211
+303,Villasimius,9.517,39.145,176
 86,Valpiana,10.85,43.005,50
 60,Colleridente,12.895,43.368,50
 72,Sant'Antonio di Mavignola,10.79,46.192,50
-147,Galatina,18.17,40.175,103
+147,Galatina,18.17,40.175,72
 86,Merendaore,11.198,45.714,50
 60,Plataci,16.433,39.899,50
 60,Macenano,12.824,42.647,50
-176,Ronco Canavese,7.545,45.498,72
+176,Ronco Canavese,7.545,45.498,60
 86,Castel del Monte,13.727,42.366,50
 86,Cicala,16.486,39.021,50
-60,Cerreto d'Esi,12.985,43.319,60
+60,Cerreto d'Esi,12.985,43.319,50
 60,Cavareno,11.138,46.409,50
 72,Ruota,10.574,43.765,50
-123,Borzonasca,9.39,44.42,103
-60,Lido di Volano,12.265,44.797,60
-72,Farindola,13.821,42.443,72
-86,Miane,12.095,45.945,60
-103,Isola del Gran Sasso d'Italia,13.655,42.508,72
-86,Vaiano,11.126,43.965,60
+123,Borzonasca,9.39,44.42,86
+60,Lido di Volano,12.265,44.797,50
+72,Farindola,13.821,42.443,60
+86,Miane,12.095,45.945,50
+103,Isola del Gran Sasso d'Italia,13.655,42.508,60
+86,Vaiano,11.126,43.965,50
 103,Gombito,9.729,45.262,50
 60,Castelsantangelo sul Nera,13.154,42.893,50
 60,Quinto di Treviso,12.163,45.644,50
-103,Martano,18.303,40.203,86
-211,Castel Goffredo,10.476,45.298,72
-103,Marina di Fuscaldo,16.007,39.42,60
-303,Viu,7.376,45.239,60
-123,Fiorenzuola d'Arda,9.914,44.922,103
-147,San Martino in Passiria,11.227,46.784,123
+103,Martano,18.303,40.203,72
+211,Castel Goffredo,10.476,45.298,50
+103,Marina di Fuscaldo,16.007,39.42,50
+303,Viu,7.376,45.239,50
+123,Fiorenzuola d'Arda,9.914,44.922,86
+147,San Martino in Passiria,11.227,46.784,103
 60,San Calogero,16.02,38.574,50
-72,Cattolica Eraclea,13.396,37.439,0
-626,Policoro,16.67,40.209,363
-86,Canicattini Bagni,15.065,37.032,72
-123,Noasca,7.313,45.455,103
+72,Cattolica Eraclea,13.396,37.439,72
+626,Policoro,16.67,40.209,303
+86,Canicattini Bagni,15.065,37.032,60
+123,Noasca,7.313,45.455,86
 86,Cilavegna,8.745,45.31,50
-60,Latignano,10.557,43.655,60
+60,Latignano,10.557,43.655,50
 72,Marina,16.065,39.167,50
 60,Cellole,13.853,41.204,50
-123,Mercato,14.942,40.718,103
-522,Cecina,10.519,43.314,253
+123,Mercato,14.942,40.718,72
+522,Cecina,10.519,43.314,176
 72,Colfosco,11.855,46.554,50
-123,Colle Sestriere,6.877,44.958,86
+123,Colle Sestriere,6.877,44.958,60
 60,Oliveto,12.891,42.248,50
-147,Budoni,9.708,40.703,72
-176,Orosei,9.692,40.38,86
+147,Budoni,9.708,40.703,60
+176,Orosei,9.692,40.38,72
 103,Lago,14.911,40.549,50
-86,Fulgatore - Torretta,12.685,37.954,60
-363,Nardo,18.031,40.179,176
-211,Agrigento,13.589,37.321,211
+86,Fulgatore - Torretta,12.685,37.954,50
+363,Nardo,18.031,40.179,147
+211,Agrigento,13.589,37.321,176
 86,Ponte Galeria-La Pisana,12.35,41.844,50
-72,Bressana,9.132,45.079,72
-253,Frosinone,13.351,41.639,0
+72,Bressana,9.132,45.079,60
+253,Frosinone,13.351,41.639,253
 60,Coccanile-Cesta,11.875,44.924,50
 86,Valpelline,7.324,45.824,50
 60,Vaccolino,12.18,44.801,50
-1556,Perugia,12.379,43.099,901
-123,Fonteblanda,11.17,42.566,60
-103,Ostuni,17.576,40.728,0
-363,Suzzara,10.745,44.99,176
-626,Visso,13.086,42.933,103
+1556,Perugia,12.379,43.099,751
+123,Fonteblanda,11.17,42.566,50
+103,Ostuni,17.576,40.728,103
+363,Suzzara,10.745,44.99,123
+626,Visso,13.086,42.933,86
 86,Portofino,9.209,44.304,50
 60,Castell'Aicardi,10.212,44.91,50
-72,Monterosso Almo,14.765,37.089,60
+72,Monterosso Almo,14.765,37.089,50
 60,Tasonis,9.269,39.308,50
-123,San Piero Patti,14.967,38.051,86
+123,San Piero Patti,14.967,38.051,72
 60,Portalbera,9.319,45.098,50
-147,Bastardo,12.561,42.87,103
+147,Bastardo,12.561,42.87,86
 60,Lutago,11.92,46.951,50
 72,Castra,10.991,43.772,50
 72,Macchia,14.981,40.655,50
-72,Moneglia,9.495,44.238,72
-123,Rocca di Neto,17.007,39.184,103
+72,Moneglia,9.495,44.238,60
+123,Rocca di Neto,17.007,39.184,86
 60,Galatone,18.069,40.145,50
-147,Seregno,9.206,45.652,72
+147,Seregno,9.206,45.652,60
 123,Illasi,11.181,45.467,50
 60,Rivalta Bormida,8.554,44.709,50
 147,Lungro,16.122,39.739,50
-72,Tripi,15.097,38.047,60
-123,San Sperate,9.008,39.359,72
-211,Ortona,14.405,42.353,103
-60,Montemaggiore Belsito,13.761,37.847,0
-211,Varzo,8.246,46.21,60
+72,Tripi,15.097,38.047,50
+123,San Sperate,9.008,39.359,50
+211,Ortona,14.405,42.353,72
+60,Montemaggiore Belsito,13.761,37.847,60
+211,Varzo,8.246,46.21,50
 60,Poligono,12.003,46.813,50
-72,Mandatoriccio,16.835,39.468,0
-123,Ferla,14.94,37.12,60
-86,Francavilla al Mare,14.283,42.421,60
+72,Mandatoriccio,16.835,39.468,72
+123,Ferla,14.94,37.12,50
+86,Francavilla al Mare,14.283,42.421,50
 60,Villafranca,8.103,44.034,50
-211,Pianoro,11.341,44.393,72
-103,Lula,9.487,40.47,72
-103,Marta,11.925,42.533,86
-60,Castello Tesino,11.632,46.063,0
-123,Ostiglia,11.136,45.074,103
+211,Pianoro,11.341,44.393,60
+103,Lula,9.487,40.47,60
+103,Marta,11.925,42.533,60
+60,Castello Tesino,11.632,46.063,60
+123,Ostiglia,11.136,45.074,86
 123,Verzuolo,7.484,44.594,50
-147,Marmirolo,10.757,45.219,60
+147,Marmirolo,10.757,45.219,50
 86,Mattine,15.025,40.385,50
 86,Miranda,14.248,41.645,50
-72,Rezzato,10.316,45.514,72
-211,Demonte,7.297,44.315,103
-60,Antey-Saint-Andre,7.588,45.807,60
-253,Mesoraca,16.789,39.077,147
-363,Vipiteno,11.431,46.891,176
-72,Calizzano,8.12,44.236,72
-123,Roggiano Gravina,16.16,39.615,103
+72,Rezzato,10.316,45.514,50
+211,Demonte,7.297,44.315,86
+60,Antey-Saint-Andre,7.588,45.807,50
+253,Mesoraca,16.789,39.077,123
+363,Vipiteno,11.431,46.891,147
+72,Calizzano,8.12,44.236,60
+123,Roggiano Gravina,16.16,39.615,86
 72,Pietraperzia,14.137,37.419,50
 86,Camastra,13.791,37.255,50
-72,Borgia,16.513,38.825,72
+72,Borgia,16.513,38.825,60
 72,Guzzano,13.828,42.666,50
 72,Santa Lucia,13.251,43.616,50
 86,Frontino,12.376,43.765,50
 103,Pratola Peligna,13.874,42.098,50
 60,Raccolana,13.315,46.408,50
-103,Narcao,8.675,39.169,72
+103,Narcao,8.675,39.169,60
 60,Piazza,10.158,45.591,50
-123,Mede,8.735,45.098,86
+123,Mede,8.735,45.098,72
 86,Villorba,12.26,45.713,50
-253,Cremona,10.02,45.143,211
+253,Cremona,10.02,45.143,176
 60,Vidor,12.046,45.871,50
-147,Corato,16.413,41.154,86
+147,Corato,16.413,41.154,72
 103,Carrozziere,15.272,37.036,50
-176,Fregene,12.199,41.853,103
+176,Fregene,12.199,41.853,72
 72,Sabbio Chiese,10.42,45.657,50
-103,Oulx,6.831,45.036,86
-72,Orciano di Pesaro,12.971,43.689,60
-211,Irsina,16.242,40.746,103
+103,Oulx,6.831,45.036,72
+72,Orciano di Pesaro,12.971,43.689,50
+211,Irsina,16.242,40.746,86
 103,Torano,13.26,42.15,50
-72,Corazzano,10.872,43.619,72
+72,Corazzano,10.872,43.619,50
 103,Cherasco,7.858,44.646,50
-60,Lacchiarella,9.137,45.322,60
-123,Sardara,8.82,39.616,60
-60,Fara San Martino,14.205,42.09,60
-147,Montalto di Castro,11.607,42.35,123
-60,Altedo,11.49,44.671,60
-103,Castel San Giovanni,9.436,45.059,0
+60,Lacchiarella,9.137,45.322,50
+123,Sardara,8.82,39.616,50
+60,Fara San Martino,14.205,42.09,50
+147,Montalto di Castro,11.607,42.35,86
+60,Altedo,11.49,44.671,50
+103,Castel San Giovanni,9.436,45.059,103
 60,Gosi - Planaval,7.777,44.337,50
-86,Offida,13.701,42.936,86
+86,Offida,13.701,42.936,72
 72,Jenne,13.169,41.888,50
-147,Francavilla in Sinni,16.203,40.079,72
+147,Francavilla in Sinni,16.203,40.079,60
 86,Villadossola,8.267,46.073,50
-147,Luino,8.749,46.001,147
-123,San Giovanni Reatino,12.854,42.345,60
+147,Luino,8.749,46.001,103
+123,San Giovanni Reatino,12.854,42.345,50
 86,Piovene Rocchette,11.436,45.758,50
-123,Magugnano,10.761,45.7,60
-123,Busseto,10.042,44.98,86
+123,Magugnano,10.761,45.7,50
+123,Busseto,10.042,44.98,72
 60,Gaggio Montano,10.933,44.196,50
-103,Casazza,9.907,45.749,60
-86,La Vittoria,13.43,41.678,60
-103,Fucecchio,10.802,43.734,103
+103,Casazza,9.907,45.749,50
+86,La Vittoria,13.43,41.678,50
+103,Fucecchio,10.802,43.734,86
 103,San Biase,16.093,39.224,50
-147,Arzignano,11.338,45.519,123
+147,Arzignano,11.338,45.519,103
 72,San Giorgio la Molara,14.928,41.272,50
-1081,Sondrio,9.877,46.169,363
+1081,Sondrio,9.877,46.169,303
 86,Meggiano,12.865,42.755,50
-103,Uri,8.492,40.637,60
-60,Delia,13.93,37.359,60
+103,Uri,8.492,40.637,50
+60,Delia,13.93,37.359,50
 60,Aldeno,11.093,45.978,50
-123,Robbio,8.595,45.29,103
-60,Bellano,9.305,46.043,0
-86,Bibbona,10.594,43.269,60
+123,Robbio,8.595,45.29,86
+60,Bellano,9.305,46.043,60
+86,Bibbona,10.594,43.269,50
 60,Porzano,10.197,45.399,50
 72,Cerveteri,12.088,41.988,50
-86,San Sosti,16.027,39.66,86
-211,Vaccarizzo-Delfino,15.083,37.374,103
-303,Mazara del Vallo,12.58,37.662,147
+86,San Sosti,16.027,39.66,72
+211,Vaccarizzo-Delfino,15.083,37.374,86
+303,Mazara del Vallo,12.58,37.662,123
 60,Leini,7.714,45.183,50
-211,Trivento,14.551,41.777,123
-86,Ariano,12.123,44.946,86
+211,Trivento,14.551,41.777,103
+86,Ariano,12.123,44.946,60
 72,Catania,15.087,37.502,50
 72,Melissa,17.029,39.31,50
 60,Istia d'Ombrone-Le Stiacciole,11.186,42.781,50
-72,Sibari,16.456,39.745,72
-103,Suno,8.541,45.633,60
-1297,Cuneo,7.545,44.397,522
-72,Palombaio,16.609,41.069,60
+72,Sibari,16.456,39.745,50
+103,Suno,8.541,45.633,50
+1297,Cuneo,7.545,44.397,363
+72,Palombaio,16.609,41.069,50
 60,Paroldo,8.071,44.433,50
-103,Palata,14.787,41.888,60
-123,Petrella Tifernina,14.697,41.691,86
-123,Schilpario,10.162,46.009,60
-147,Pieve Torina,13.046,43.043,103
-123,Alleghe,12.025,46.407,60
+103,Palata,14.787,41.888,50
+123,Petrella Tifernina,14.697,41.691,72
+123,Schilpario,10.162,46.009,50
+147,Pieve Torina,13.046,43.043,72
+123,Alleghe,12.025,46.407,50
 60,Medole,10.514,45.328,50
 72,San Martino,8.517,44.392,50
-72,Solignano,9.976,44.613,0
+72,Solignano,9.976,44.613,60
 176,Torre San Sabina,17.698,40.753,50
-176,Terzone,13.069,42.618,86
+176,Terzone,13.069,42.618,60
 72,Monte Santa Maria Tiberina,12.161,43.438,50
-60,Seggiano,11.558,42.929,60
+60,Seggiano,11.558,42.929,50
 123,Mele,8.747,44.445,50
 72,Piano Caruso,16.528,39.559,50
-1297,Sanremo,7.757,43.819,522
-303,Carbonia,8.523,39.165,147
-103,Cava d'Aliga,14.69,36.731,60
+1297,Sanremo,7.757,43.819,435
+303,Carbonia,8.523,39.165,123
+103,Cava d'Aliga,14.69,36.731,50
 60,Nonio,8.378,45.846,50
-60,Gropparello,9.731,44.834,60
+60,Gropparello,9.731,44.834,50
 72,Borgo Vercelli,8.464,45.357,50
-211,Monte Nai,9.571,39.252,103
-72,Sarzana,9.956,44.116,72
-72,Pietragalla,15.875,40.746,0
-211,Pavullo nel Frignano,10.835,44.331,147
-363,Sampeyre,7.19,44.578,103
-72,San Giovanni,14.418,42.017,60
+211,Monte Nai,9.571,39.252,86
+72,Sarzana,9.956,44.116,60
+72,Pietragalla,15.875,40.746,72
+211,Pavullo nel Frignano,10.835,44.331,123
+363,Sampeyre,7.19,44.578,86
+72,San Giovanni,14.418,42.017,50
 60,Caravaggio,9.641,45.495,50
-103,Abano Terme,11.783,45.362,60
+103,Abano Terme,11.783,45.362,50
 60,Pozza,13.416,42.742,50
-72,Vigasio,10.94,45.315,72
-123,Sanza,15.553,40.245,103
-72,Statte,17.21,40.563,60
-147,Fabro Scalo,12.044,42.875,86
+72,Vigasio,10.94,45.315,50
+123,Sanza,15.553,40.245,72
+72,Statte,17.21,40.563,50
+147,Fabro Scalo,12.044,42.875,60
 123,San Giovanni,11.942,46.981,50
-176,Castelsardo,8.71,40.914,103
+176,Castelsardo,8.71,40.914,86
 60,Sassalbo,10.195,44.288,50
 103,Borgo Venusio,16.579,40.723,50
 86,Dovera,9.542,45.365,50
 103,Caccamo,13.67,37.936,50
-147,Filicudi Porto,14.577,38.562,0
-123,Lama,10.732,44.307,72
-103,Santo Stefano-Carraie,12.184,44.311,86
-751,Livorno,10.326,43.547,522
+147,Filicudi Porto,14.577,38.562,147
+123,Lama,10.732,44.307,60
+103,Santo Stefano-Carraie,12.184,44.311,72
+751,Livorno,10.326,43.547,435
 72,Menniti,16.311,38.746,50
 72,Bando,11.886,44.644,50
-2688,Lampedusa,12.61,35.5,1556
-72,Torre di Fine,12.749,45.567,72
-123,Accettura,16.158,40.491,86
-72,Mercatello sul Metauro,12.334,43.647,0
-147,Ginosa,16.756,40.58,123
-123,Ponte dell'Olio,9.643,44.869,86
-103,Camporeale,13.094,37.898,72
+2688,Lampedusa,12.61,35.5,1297
+72,Torre di Fine,12.749,45.567,60
+123,Accettura,16.158,40.491,72
+72,Mercatello sul Metauro,12.334,43.647,60
+147,Ginosa,16.756,40.58,103
+123,Ponte dell'Olio,9.643,44.869,72
+103,Camporeale,13.094,37.898,60
 60,Villa Raverio,9.265,45.693,50
 72,Montelanico,13.04,41.652,50
 72,Rocchetta Sant'Antonio,15.462,41.103,50
-103,Sorso,8.577,40.801,72
+103,Sorso,8.577,40.801,50
 72,Ailano,14.206,41.389,50
-72,Bisceglie,16.504,41.241,72
+72,Bisceglie,16.504,41.241,60
 103,San Giovanni Suergiu,8.522,39.112,50
 72,Paringianu,8.428,39.176,50
-176,Vittorio Veneto,12.296,45.99,123
+176,Vittorio Veneto,12.296,45.99,86
 72,Avendita,13.051,42.754,50
 86,Cesacastina,13.447,42.589,50
 86,Prezza,13.835,42.059,50
-103,Mignano Monte Lungo,13.985,41.407,72
-363,Gorizia,13.614,45.934,253
-626,Mantova,10.773,45.153,303
-103,Vergato,11.113,44.285,0
-1867,Bolzano,11.334,46.493,901
-86,Montelibretti,12.739,42.135,86
+103,Mignano Monte Lungo,13.985,41.407,60
+363,Gorizia,13.614,45.934,211
+626,Mantova,10.773,45.153,211
+103,Vergato,11.113,44.285,103
+1867,Bolzano,11.334,46.493,751
+86,Montelibretti,12.739,42.135,72
 60,Marcheno,10.217,45.709,50
-211,Cortemilia,8.193,44.578,123
+211,Cortemilia,8.193,44.578,103
 103,Castel Madama,12.866,41.974,50
 60,Corcolle,12.73,41.914,50
 72,Corigliano d'Otranto,18.259,40.159,50
 60,Salmour,7.792,44.576,50
-103,Biandrate,8.463,45.453,86
+103,Biandrate,8.463,45.453,72
 103,Seulo,9.236,39.87,50
 103,Mortegliano,13.172,45.945,50
 72,Rivarolo Mantovano,10.436,45.07,50
-86,Sedilo,8.922,40.172,72
-147,Scordia,14.843,37.296,123
-103,San Bernardo,10.846,46.4,72
-435,Bressanone,11.657,46.709,211
-176,Ramacca,14.692,37.388,60
+86,Sedilo,8.922,40.172,60
+147,Scordia,14.843,37.296,103
+103,San Bernardo,10.846,46.4,60
+435,Bressanone,11.657,46.709,176
+176,Ramacca,14.692,37.388,50
 60,Cappone,12.744,43.828,50
-147,Palestrina,12.88,41.831,103
+147,Palestrina,12.88,41.831,86
 72,Castelvetere sul Calore,14.986,40.93,50
-901,Latina,12.898,41.465,435
-86,Vietri di Potenza,15.509,40.6,86
+901,Latina,12.898,41.465,303
+86,Vietri di Potenza,15.509,40.6,72
 103,Pegognaga,10.86,44.993,50
 60,San Nicola,8.991,40.611,50
 60,Fresagrandinaria,14.662,41.978,50
 60,Ceselli,12.817,42.686,50
-147,Rocca San Casciano,11.843,44.059,60
-303,Vicenza,11.541,45.557,253
+147,Rocca San Casciano,11.843,44.059,50
+303,Vicenza,11.541,45.557,176
 72,Caldana,10.924,42.894,50
-147,Volturino,15.123,41.477,72
+147,Volturino,15.123,41.477,50
 60,Canosio,7.082,44.455,50
 60,Sporminore,11.03,46.237,50
-86,Alvignano,14.337,41.245,86
+86,Alvignano,14.337,41.245,60
 86,Cervarezza,10.331,44.39,50
 72,San Giovanni Incarico,13.558,41.501,50
-72,Bistagno,8.37,44.662,60
-211,Macerata,13.44,43.299,211
-103,Spresiano,12.261,45.776,60
-72,Bari Sardo,9.647,39.842,0
-86,Cencenighe Agordino,11.971,46.347,60
-103,Sale Marasino,10.111,45.704,60
-123,Trecenta,11.461,45.031,72
+72,Bistagno,8.37,44.662,50
+211,Macerata,13.44,43.299,176
+103,Spresiano,12.261,45.776,50
+72,Bari Sardo,9.647,39.842,60
+86,Cencenighe Agordino,11.971,46.347,50
+103,Sale Marasino,10.111,45.704,50
+123,Trecenta,11.461,45.031,60
 72,Cernobbio,9.068,45.841,50
 86,Guardavalle Marina,16.578,38.481,50
 86,Palazzo Adriano,13.379,37.681,50
-123,Alberobello,17.237,40.784,86
-176,Enego,11.707,45.941,72
-123,San Priamo,9.561,39.358,60
+123,Alberobello,17.237,40.784,60
+176,Enego,11.707,45.941,60
+123,San Priamo,9.561,39.358,50
 86,Rocca Pia,13.977,41.934,50
-72,San Martino di Castrozza,11.801,46.263,0
-123,San Quirico,10.691,43.969,72
-147,Plan,11.089,46.795,86
-72,Terento,11.78,46.831,72
+72,San Martino di Castrozza,11.801,46.263,72
+123,San Quirico,10.691,43.969,60
+147,Plan,11.089,46.795,72
+72,Terento,11.78,46.831,60
 60,San Bovio-San Felice,9.311,45.465,50
-86,Morozzo,7.709,44.422,60
+86,Morozzo,7.709,44.422,50
 72,Pralormo,7.902,44.86,50
-522,Nicosia,14.397,37.747,103
-147,Monesiglio,8.118,44.466,86
+522,Nicosia,14.397,37.747,86
+147,Monesiglio,8.118,44.466,72
 86,Monforte d'Alba,7.97,44.582,50
 60,Monterchi,12.111,43.489,50
-60,Ceresara,10.566,45.262,60
-60,San Giovanni d'Asso,11.591,43.152,60
-86,Stia,11.708,43.802,72
+60,Ceresara,10.566,45.262,50
+60,San Giovanni d'Asso,11.591,43.152,50
+86,Stia,11.708,43.802,60
 103,Nove-San Floriano,12.309,46.04,50
-86,Terlano,11.245,46.533,60
-103,Claviere,6.752,44.939,86
-253,Caprino Veronese,10.796,45.604,72
-147,Taverna,16.229,39.432,72
+86,Terlano,11.245,46.533,50
+103,Claviere,6.752,44.939,72
+253,Caprino Veronese,10.796,45.604,60
+147,Taverna,16.229,39.432,60
 60,Rio Saliceto,10.806,44.812,50
-103,Secinaro,13.683,42.151,86
-72,Fossacesia,14.483,42.243,72
-103,Cerea,11.207,45.193,60
-60,San Damiano al Colle,9.347,45.025,60
-72,Tivoli,12.774,41.958,0
+103,Secinaro,13.683,42.151,72
+72,Fossacesia,14.483,42.243,60
+103,Cerea,11.207,45.193,50
+60,San Damiano al Colle,9.347,45.025,50
+72,Tivoli,12.774,41.958,72
 72,Malo,11.403,45.66,50
-303,Rieti,12.869,42.406,176
-86,Busso,14.559,41.557,60
-72,Volturara Irpina,14.917,40.884,60
-123,Moncalieri,7.686,45.008,60
+303,Rieti,12.869,42.406,147
+86,Busso,14.559,41.557,50
+72,Volturara Irpina,14.917,40.884,50
+123,Moncalieri,7.686,45.008,50
 86,Ardauli,8.913,40.084,50
 60,Cantiere-Ponticello,9.915,44.345,50
-72,Villa,11.762,46.745,72
+72,Villa,11.762,46.745,50
 86,Trodena,11.35,46.322,50
-211,Novafeltria,12.289,43.895,123
-147,Lagonegro,15.766,40.124,72
-72,Valtopina,12.755,43.055,60
+211,Novafeltria,12.289,43.895,86
+147,Lagonegro,15.766,40.124,60
+72,Valtopina,12.755,43.055,50
 86,Pietracuta,12.372,43.955,50
-176,Avigliano,15.718,40.73,86
-86,Spelonga,13.3,42.759,86
-86,San Casciano in Val di Pesa,11.187,43.659,72
+176,Avigliano,15.718,40.73,60
+86,Spelonga,13.3,42.759,72
+86,San Casciano in Val di Pesa,11.187,43.659,60
 72,Pescolanciano,14.337,41.679,50
-86,Marina di Campo,10.238,42.75,60
-60,Aliano,16.229,40.313,60
-103,Torriglia,9.159,44.519,103
+86,Marina di Campo,10.238,42.75,50
+60,Aliano,16.229,40.313,50
+103,Torriglia,9.159,44.519,86
 60,Cerano,8.781,45.408,50
 60,Rossiglione,8.669,44.564,50
-123,Torniella,11.154,43.074,60
+123,Torniella,11.154,43.074,50
 86,Teora,15.253,40.853,50
 86,Albareto,9.702,44.447,50
 60,Pietra Marazzi,8.664,44.942,50
-86,Ofena,13.759,42.326,60
-103,Casinina,12.587,43.816,60
-60,Montecchio Maggiore-Alte Ceccato,11.424,45.503,60
+86,Ofena,13.759,42.326,50
+103,Casinina,12.587,43.816,50
+60,Montecchio Maggiore-Alte Ceccato,11.424,45.503,50
 72,Poggio Imperiale,15.368,41.825,50
-72,Orciano Pisano,10.511,43.494,72
-303,Feltre,11.898,46.017,123
+72,Orciano Pisano,10.511,43.494,60
+303,Feltre,11.898,46.017,103
 86,Borgonuovo,11.27,44.437,50
-147,Erba,9.23,45.81,86
+147,Erba,9.23,45.81,60
 60,Traversara,12.027,44.412,50
-123,Nesso,9.157,45.913,60
-176,Orgosolo,9.355,40.204,72
-147,Padru,9.522,40.767,123
+123,Nesso,9.157,45.913,50
+176,Orgosolo,9.355,40.204,50
+147,Padru,9.522,40.767,86
 60,Intragna,8.572,45.994,50
 103,Spilamberto,11.017,44.534,50
-303,Carmagnola,7.718,44.847,147
-1081,Castrovillari,16.203,39.812,363
-72,San Colombano al Lambro,9.492,45.181,60
-253,Bronte,14.835,37.789,123
-72,Isola Albarella,12.341,45.076,72
-72,Spinoso,15.966,40.27,0
+303,Carmagnola,7.718,44.847,123
+1081,Castrovillari,16.203,39.812,303
+72,San Colombano al Lambro,9.492,45.181,50
+253,Bronte,14.835,37.789,103
+72,Isola Albarella,12.341,45.076,60
+72,Spinoso,15.966,40.27,60
 72,Baia,14.252,41.303,50
 176,Vejano,12.094,42.219,50
 72,Villatora,11.965,45.384,50
-253,Lercara Friddi,13.604,37.746,123
+253,Lercara Friddi,13.604,37.746,86
 72,Fertilia,8.282,40.594,50
-86,Raossi,11.119,45.783,72
-123,Recanati,13.544,43.405,60
-72,Borgo d'Ale,8.051,45.351,60
-123,Altare,8.333,44.337,72
-123,Zola,11.219,44.49,86
-86,Cesolo,13.193,43.259,72
+86,Raossi,11.119,45.783,60
+123,Recanati,13.544,43.405,50
+72,Borgo d'Ale,8.051,45.351,50
+123,Altare,8.333,44.337,50
+123,Zola,11.219,44.49,72
+86,Cesolo,13.193,43.259,60
 60,Valla,11.933,45.707,50
 60,Noicattaro,16.99,41.034,50
-103,Forni di Sopra,12.581,46.422,103
+103,Forni di Sopra,12.581,46.422,72
 60,Calavino,10.985,46.047,50
 60,Colle,11.313,46.865,50
-86,Campora,15.293,40.305,60
-176,Pieve di Teco,7.914,44.048,103
-60,Fiastra,13.156,43.036,0
+86,Campora,15.293,40.305,50
+176,Pieve di Teco,7.914,44.048,86
+60,Fiastra,13.156,43.036,60
 103,Atella,15.651,40.88,50
-86,San Vito al Tagliamento,12.859,45.92,86
-176,Botricello,16.857,38.936,103
+86,San Vito al Tagliamento,12.859,45.92,72
+176,Botricello,16.857,38.936,86
 103,Oppeano,11.18,45.305,50
-60,Corigliano Scalo,16.511,39.627,0
-303,Casale Monferrato,8.458,45.133,211
-86,Ceppo Morelli,8.069,45.971,72
-123,Buseto Palizzolo,12.724,38.016,60
-60,Roseto Valfortore,15.096,41.372,60
-60,Castelluccio,13.209,42.828,60
+60,Corigliano Scalo,16.511,39.627,60
+303,Casale Monferrato,8.458,45.133,147
+86,Ceppo Morelli,8.069,45.971,60
+123,Buseto Palizzolo,12.724,38.016,50
+60,Roseto Valfortore,15.096,41.372,50
+60,Castelluccio,13.209,42.828,50
 123,Premia,8.333,46.266,50
-72,Rocchetta Nuova,14.087,41.625,60
-60,Montelupone,13.57,43.343,60
+72,Rocchetta Nuova,14.087,41.625,50
+60,Montelupone,13.57,43.343,50
 60,Gargazzone,11.201,46.584,50
-123,Arnaccio,10.451,43.645,60
+123,Arnaccio,10.451,43.645,50
 72,Castelgrande,15.429,40.786,50
-123,Misilmeri,13.448,38.028,60
-253,Moliterno,15.86,40.243,103
+123,Misilmeri,13.448,38.028,50
+253,Moliterno,15.86,40.243,86
 72,Brinzio,8.785,45.89,50
 86,Cinelli,11.974,42.316,50
 103,Pieve Porto Morone,9.441,45.109,50
-72,Casabona,16.957,39.25,60
-60,San Michele,12.112,44.405,60
+72,Casabona,16.957,39.25,50
+60,San Michele,12.112,44.405,50
 60,Issime,7.854,45.687,50
 72,Pieve di Coriano,11.104,45.038,50
 72,Casamassella,18.451,40.115,50
 86,Segni,13.013,41.688,50
-363,Terracina,13.228,41.287,253
-103,Bondeno,11.416,44.885,86
-86,Secca Grande,13.24,37.436,60
+363,Terracina,13.228,41.287,211
+103,Bondeno,11.416,44.885,72
+86,Secca Grande,13.24,37.436,50
 86,Saline,10.813,43.363,50
 60,Domegge di Cadore,12.402,46.454,50
 60,Ligonchio,10.342,44.315,50
-522,Andria,16.295,41.227,435
-86,San Giovanni in Persiceto,11.184,44.64,86
-86,Linguaglossa,15.14,37.843,60
-751,Agropoli,14.996,40.347,253
-72,Tregnago,11.164,45.517,0
-147,Paterno,14.905,37.569,123
-176,Bobbio,9.383,44.768,147
-176,Russi,12.033,44.375,86
+522,Andria,16.295,41.227,363
+86,San Giovanni in Persiceto,11.184,44.64,72
+86,Linguaglossa,15.14,37.843,50
+751,Agropoli,14.996,40.347,211
+72,Tregnago,11.164,45.517,72
+147,Paterno,14.905,37.569,103
+176,Bobbio,9.383,44.768,103
+176,Russi,12.033,44.375,72
 60,Lagrimone,10.24,44.493,50
-147,Donoratico,10.569,43.17,72
-123,Manciano,11.516,42.587,123
-1081,Rimini,12.577,44.049,901
+147,Donoratico,10.569,43.17,60
+123,Manciano,11.516,42.587,86
+1081,Rimini,12.577,44.049,751
 72,Casto,10.321,45.695,50
 86,Bisaccia Nuova,15.356,41.009,50
-123,Branzi,9.76,46.003,60
-72,Beinette,7.645,44.365,72
+123,Branzi,9.76,46.003,50
+72,Beinette,7.645,44.365,60
 60,Artena,12.9,41.742,50
-303,Garessio,8.018,44.203,147
-211,Fanano,10.801,44.214,123
-253,Budduso,9.258,40.579,211
+303,Garessio,8.018,44.203,123
+211,Fanano,10.801,44.214,103
+253,Budduso,9.258,40.579,147
 60,Case Nuove,10.309,44.834,50
-123,Paliano,13.059,41.806,72
-86,Villapriolo,14.194,37.63,60
-72,Foglianise,14.672,41.163,0
+123,Paliano,13.059,41.806,60
+86,Villapriolo,14.194,37.63,50
+72,Foglianise,14.672,41.163,60
 211,Grimacco,13.599,46.173,50
-72,Stregna,13.577,46.128,0
-86,Brusnengo,8.251,45.593,72
-86,Arenzano,8.673,44.404,72
+72,Stregna,13.577,46.128,72
+86,Brusnengo,8.251,45.593,60
+86,Arenzano,8.673,44.404,60
 60,Bareto,12.196,43.995,50
-72,Sauris di Sotto,12.708,46.467,72
-211,Braccagni,11.074,42.873,60
+72,Sauris di Sotto,12.708,46.467,50
+211,Braccagni,11.074,42.873,50
 60,San Nicola,16.374,38.415,50
 72,Nugola,10.442,43.578,50
 72,Alessandria della Rocca,13.454,37.568,50
-303,Longobucco,16.611,39.448,147
-176,Gualdo Tadino,12.78,43.233,103
-123,Chiusa,11.566,46.64,72
+303,Longobucco,16.611,39.448,123
+176,Gualdo Tadino,12.78,43.233,86
+123,Chiusa,11.566,46.64,60
 60,Poggio Sannita,14.415,41.78,50
-60,Granozzo,8.573,45.36,0
-60,Valle Santa,12.322,41.939,60
+60,Granozzo,8.573,45.36,50
+60,Valle Santa,12.322,41.939,50
 86,Sanfre,7.803,44.75,50
 60,Airole,7.555,43.871,50
 86,Palau,9.392,41.178,50
-86,Ceglie Messapica,17.516,40.649,86
+86,Ceglie Messapica,17.516,40.649,72
 72,Campagnatico,11.274,42.884,50
-147,Sigillo,12.741,43.331,103
-751,Ferrara,11.619,44.836,363
+147,Sigillo,12.741,43.331,72
+751,Ferrara,11.619,44.836,303
 60,Auna di Sotto,11.44,46.511,50
 103,Pontelongo,12.025,45.247,50
-253,Villa Santa Maria,14.352,41.952,86
-363,Senise,16.289,40.147,211
+253,Villa Santa Maria,14.352,41.952,60
+363,Senise,16.289,40.147,176
 60,Vallepietra,13.233,41.926,50
-147,Magliano Sabina,12.488,42.367,72
+147,Magliano Sabina,12.488,42.367,60
 60,Bagno Lad,11.079,46.578,50
 60,Collevecchio,12.552,42.335,50
 60,Sant'Angelo,12.018,45.519,50
 123,Castiglione d'Orcia,11.616,43.005,50
-86,Salto Covino,13.336,41.301,72
+86,Salto Covino,13.336,41.301,60
 86,Cerisano,16.176,39.278,50
-147,Dro,10.912,45.962,72
-103,Palazzo del Pero,11.976,43.422,86
+147,Dro,10.912,45.962,50
+103,Palazzo del Pero,11.976,43.422,60
 72,Mori,10.981,45.85,50
 60,San Secondo,12.233,43.406,50
 72,Fitta,11.254,45.453,50
 60,Envie,7.371,44.682,50
-147,Urzulei,9.508,40.093,123
+147,Urzulei,9.508,40.093,103
 103,Commenda,12.015,42.491,50
-86,Netro,7.948,45.54,60
-103,Poggio Rusco,11.118,44.974,86
-211,Amantea,16.075,39.13,176
+86,Netro,7.948,45.54,50
+103,Poggio Rusco,11.118,44.974,72
+211,Amantea,16.075,39.13,147
 86,San Benedetto,8.527,39.363,50
-103,San Varese,9.05,45.235,72
-147,Forno di Zoldo,12.177,46.352,86
-211,Crema,9.678,45.359,123
-86,Brallo,9.282,44.738,60
+103,San Varese,9.05,45.235,60
+147,Forno di Zoldo,12.177,46.352,72
+211,Crema,9.678,45.359,103
+86,Brallo,9.282,44.738,50
 72,Borrello,14.305,41.917,50
 72,Pittulongu,9.57,40.947,50
-103,Grisi,13.091,37.953,60
-60,Papasidero,15.907,39.872,0
+103,Grisi,13.091,37.953,50
+60,Papasidero,15.907,39.872,50
 60,Scandriglia,12.843,42.161,50
-123,Conversano,17.111,40.97,123
+123,Conversano,17.111,40.97,103
 72,Petina,15.373,40.532,50
-103,Marsaglia,7.981,44.454,72
-522,Ceva,8.026,44.383,147
-123,Sos Alinos,9.766,40.438,60
-60,Giovinazzo,16.668,41.186,60
-123,Pizzoli,13.309,42.431,72
+103,Marsaglia,7.981,44.454,60
+522,Ceva,8.026,44.383,123
+123,Sos Alinos,9.766,40.438,50
+60,Giovinazzo,16.668,41.186,50
+123,Pizzoli,13.309,42.431,50
 60,Botteghino,10.361,44.749,50
 86,Caorso,9.871,45.048,50
 103,Torrita di Siena,11.78,43.169,50
-147,Terenzo,10.088,44.612,86
-72,Paese,12.162,45.676,60
+147,Terenzo,10.088,44.612,72
+72,Paese,12.162,45.676,50
 60,Grange,7.691,45.265,50
-211,Broni,9.265,45.066,123
+211,Broni,9.265,45.066,103
 103,Mineo,14.691,37.265,50
-60,Locorotondo,17.322,40.758,60
-72,Cozzana,17.22,40.923,60
+60,Locorotondo,17.322,40.758,50
+72,Cozzana,17.22,40.923,50
 60,Avacelli,12.983,43.47,50
 72,Pedagaggi,14.938,37.192,50
-103,Tricase,18.353,39.931,103
+103,Tricase,18.353,39.931,72
 72,Petilia Policastro,16.786,39.114,50
-86,Sant'Antonio,11.72,44.559,60
+86,Sant'Antonio,11.72,44.559,50
 72,Pezzolo,15.459,38.086,50
 86,Montalbano,17.481,40.78,50
-72,Quarrata,10.981,43.85,72
-123,Porto San Paolo,9.625,40.873,86
-147,Tusa,14.236,37.984,86
-86,Goito,10.672,45.255,0
+72,Quarrata,10.981,43.85,60
+123,Porto San Paolo,9.625,40.873,72
+147,Tusa,14.236,37.984,72
+86,Goito,10.672,45.255,86
 60,Pancole,11.302,42.715,50
 123,Saturnia,11.504,42.665,50
-72,Fornovo di Taro,10.102,44.694,60
-123,Calabritto,15.224,40.784,103
-123,Anterselva di Mezzo,12.1,46.859,103
-72,Millesimo,8.202,44.367,60
+72,Fornovo di Taro,10.102,44.694,50
+123,Calabritto,15.224,40.784,72
+123,Anterselva di Mezzo,12.1,46.859,86
+72,Millesimo,8.202,44.367,50
 60,Felonica,11.354,44.979,50
-147,Isola del Cantone,8.958,44.646,60
-303,Citta di Castello,12.233,43.469,253
-86,Morolo,13.198,41.639,60
+147,Isola del Cantone,8.958,44.646,50
+303,Citta di Castello,12.233,43.469,211
+86,Morolo,13.198,41.639,50
 103,Battaglia Terme,11.78,45.292,50
 86,Termini,14.338,40.591,50
-86,Strada,11.711,43.745,60
+86,Strada,11.711,43.745,50
 72,Petrignano,12.535,43.099,50
 86,Cedegolo,10.348,46.078,50
-72,Terranova di Pollino,16.296,39.978,0
-72,Chiusdino,11.083,43.155,72
-72,Cittareale,13.156,42.616,60
-123,Baselga di Pine,11.244,46.127,72
-72,Albinea,10.606,44.625,60
-147,Cantu,9.14,45.729,72
-211,Chieti,14.139,42.361,103
+72,Terranova di Pollino,16.296,39.978,72
+72,Chiusdino,11.083,43.155,60
+72,Cittareale,13.156,42.616,50
+123,Baselga di Pine,11.244,46.127,50
+72,Albinea,10.606,44.625,50
+147,Cantu,9.14,45.729,60
+211,Chieti,14.139,42.361,86
 60,Offlaga,10.116,45.386,50
-60,Passopisciaro,15.036,37.872,60
+60,Passopisciaro,15.036,37.872,50
 103,La Cretaz-Roisan,7.312,45.784,50
 72,Lido di Dante,12.314,44.385,50
-176,Fonni,9.254,40.117,86
-253,Marsciano,12.347,42.903,176
+176,Fonni,9.254,40.117,72
+253,Marsciano,12.347,42.903,147
 60,Mezzanone,15.71,41.421,50
-103,Riesi,14.082,37.282,86
+103,Riesi,14.082,37.282,72
 60,Mas,12.129,46.151,50
-176,Venafro,14.044,41.484,147
-211,Comunanza,13.414,42.958,147
+176,Venafro,14.044,41.484,123
+211,Comunanza,13.414,42.958,123
 60,Ponzano,10.963,43.966,50
-303,Jesi,13.24,43.529,211
-72,Santa Maria Nuova,13.313,43.494,60
+303,Jesi,13.24,43.529,147
+72,Santa Maria Nuova,13.313,43.494,50
 72,Isola Bella,12.806,41.562,50
 86,Pescocostanzo,14.066,41.886,50
-72,Rocca Sinibalda,12.925,42.273,72
-211,Paola,16.039,39.358,176
-103,Caulonia,16.409,38.382,86
-901,Nuoro,9.311,40.318,626
+72,Rocca Sinibalda,12.925,42.273,60
+211,Paola,16.039,39.358,123
+103,Caulonia,16.409,38.382,60
+901,Nuoro,9.311,40.318,435
 86,Borgagne,18.377,40.24,50
-147,Torre de' Passeri,13.934,42.244,72
+147,Torre de' Passeri,13.934,42.244,60
 86,Rivergaro,9.604,44.917,50
-147,Orune,9.37,40.409,72
-363,Zapponeta,15.956,41.457,103
-435,Legnago,11.308,45.19,253
-86,Ciampino,12.607,41.801,72
-103,Berchiddeddu,9.463,40.822,60
-86,Bibione,13.023,45.633,60
+147,Orune,9.37,40.409,60
+363,Zapponeta,15.956,41.457,86
+435,Legnago,11.308,45.19,211
+86,Ciampino,12.607,41.801,60
+103,Berchiddeddu,9.463,40.822,50
+86,Bibione,13.023,45.633,50
 72,Buonabitacolo,15.62,40.271,50
-176,Praia a Mare,15.779,39.902,86
-86,Mussomeli,13.754,37.581,0
-72,Gioiella,11.97,43.093,72
+176,Praia a Mare,15.779,39.902,72
+86,Mussomeli,13.754,37.581,72
+72,Gioiella,11.97,43.093,60
 72,Campomarino,15.032,41.955,50
-147,Manzano,13.378,45.991,103
+147,Manzano,13.378,45.991,72
 86,Grigno,11.637,46.016,50
 86,Alassio,8.164,44.008,50
-253,Vetralla,12.078,42.31,123
-72,Paterno,15.733,40.378,72
-72,Romanengo,9.785,45.379,72
-123,Serracapriola,15.162,41.81,86
-176,Sant'Agata di Militello,14.633,38.068,86
-435,Piombino,10.527,42.922,435
-60,Lugagnano Val d'Arda,9.827,44.823,0
+253,Vetralla,12.078,42.31,86
+72,Paterno,15.733,40.378,60
+72,Romanengo,9.785,45.379,60
+123,Serracapriola,15.162,41.81,60
+176,Sant'Agata di Militello,14.633,38.068,60
+435,Piombino,10.527,42.922,363
+60,Lugagnano Val d'Arda,9.827,44.823,60
 72,Poggiardo,18.378,40.057,50
 72,Chions,12.712,45.844,50
-86,Odalengo Grande,8.165,45.11,72
-147,Villamagna,10.839,43.481,72
+86,Odalengo Grande,8.165,45.11,60
+147,Villamagna,10.839,43.481,60
 103,Aprigliano,16.342,39.24,50
-147,Ca' Tiepolo,12.321,44.95,72
-176,Pomonte,10.122,42.749,60
+147,Ca' Tiepolo,12.321,44.95,60
+176,Pomonte,10.122,42.749,50
 72,Trarivi,12.543,43.937,50
 60,Chieuti,15.166,41.844,50
-86,Pietramontecorvino,15.129,41.543,0
-147,Burcei,9.359,39.343,123
-363,Stigliano,16.231,40.401,147
+86,Pietramontecorvino,15.129,41.543,86
+147,Burcei,9.359,39.343,86
+363,Stigliano,16.231,40.401,123
 60,Pianella,14.048,42.4,50
-86,Dobbiaco,12.225,46.724,0
-72,San Giovanni,12.049,44.727,72
-176,Bitonto,16.69,41.111,86
-211,Borgomanero,8.458,45.701,211
-72,Carmignano,11.648,45.149,60
-211,Ivrea,7.872,45.458,147
-103,Collecchio,10.212,44.754,60
-176,Castel San Lorenzo,15.226,40.421,147
+86,Dobbiaco,12.225,46.724,86
+72,San Giovanni,12.049,44.727,50
+176,Bitonto,16.69,41.111,72
+211,Borgomanero,8.458,45.701,176
+72,Carmignano,11.648,45.149,50
+211,Ivrea,7.872,45.458,103
+103,Collecchio,10.212,44.754,50
+176,Castel San Lorenzo,15.226,40.421,123
 60,Bonelli,12.461,44.872,50
 123,Cardedu,9.625,39.796,50
 60,Dese,12.304,45.53,50
-103,Lugo,11.912,44.421,0
+103,Lugo,11.912,44.421,103
 72,Ghibullo,12.139,44.346,50
-86,Cerredolo,10.616,44.404,86
+86,Cerredolo,10.616,44.404,60
 60,Massa,12.932,43.189,50
-103,Ferentino,13.249,41.694,86
-123,Orvinio,12.938,42.131,72
-72,Capracotta,14.265,41.833,0
-147,Oppido Lucano,15.989,40.763,86
+103,Ferentino,13.249,41.694,60
+123,Orvinio,12.938,42.131,60
+72,Capracotta,14.265,41.833,72
+147,Oppido Lucano,15.989,40.763,72
 60,Bivio,14.144,41.594,50
-60,San Pietro in Casale,11.406,44.7,60
-103,Sant'Elia a Pianisi,14.875,41.622,86
+60,San Pietro in Casale,11.406,44.7,50
+103,Sant'Elia a Pianisi,14.875,41.622,72
 72,Gardola,10.721,45.741,50
-147,Priverno,13.187,41.469,103
+147,Priverno,13.187,41.469,86
 72,Gesico,9.107,39.617,50
-86,Cavaglia,8.093,45.407,60
-103,Priatu,9.316,40.936,60
-72,Centa San Nicolo,11.233,45.969,60
-253,Paquier,7.624,45.88,123
+86,Cavaglia,8.093,45.407,50
+103,Priatu,9.316,40.936,50
+72,Centa San Nicolo,11.233,45.969,50
+253,Paquier,7.624,45.88,103
 60,Mongiana,16.318,38.513,50
-211,Piazza Armerina,14.371,37.388,176
-147,Casina,10.499,44.51,72
-103,Sellia Marina,16.748,38.886,86
-147,Collelongo,13.584,41.887,72
-303,Siderno,16.297,38.279,303
+211,Piazza Armerina,14.371,37.388,123
+147,Casina,10.499,44.51,60
+103,Sellia Marina,16.748,38.886,72
+147,Collelongo,13.584,41.887,50
+303,Siderno,16.297,38.279,253
 60,Ruffano,18.246,39.984,50
-123,Fubine,8.43,44.963,60
-72,Macchie,12.073,43.06,60
+123,Fubine,8.43,44.963,50
+72,Macchie,12.073,43.06,50
 72,Montecalvo,11.378,44.432,50
-123,Arpino,13.612,41.648,60
+123,Arpino,13.612,41.648,50
 60,Lupara,14.734,41.762,50
 86,Zavattarello,9.266,44.867,50
 86,Pignone,9.725,44.178,50
 86,Locri,16.264,38.237,50
-147,Borello,12.179,44.053,86
-86,Albano di Lucania,16.036,40.584,86
+147,Borello,12.179,44.053,72
+86,Albano di Lucania,16.036,40.584,60
 123,Lesa,8.556,45.821,50
 72,Santa Domenica Vittoria,14.963,37.915,50
-147,Valdagno,11.304,45.648,72
-86,Decollatura,16.353,39.05,86
+147,Valdagno,11.304,45.648,50
+86,Decollatura,16.353,39.05,72
 86,Fortogna,12.289,46.232,50
-147,Casoli,14.291,42.113,72
-363,Mistretta,14.361,37.929,147
+147,Casoli,14.291,42.113,60
+363,Mistretta,14.361,37.929,103
 72,Sant'Angelo dei Lombardi,15.18,40.926,50
 72,Ronta,11.432,44.005,50
-86,Calci,10.518,43.73,60
-72,Tizzano Val Parma,10.199,44.521,0
-147,Goro,12.3,44.855,103
+86,Calci,10.518,43.73,50
+72,Tizzano Val Parma,10.199,44.521,72
+147,Goro,12.3,44.855,72
 86,Rossi,8.059,44,50
 86,Adelfia,16.872,41.001,50
-176,Piano di Coreglia-Ghivizzano,10.505,44.033,86
+176,Piano di Coreglia-Ghivizzano,10.505,44.033,72
 72,Alfano,15.425,40.177,50
 60,Buccino,15.381,40.634,50
-123,Brisighella,11.77,44.221,60
+123,Brisighella,11.77,44.221,50
 72,Pioraco,12.986,43.179,50
 72,Robecco sul Naviglio,8.887,45.437,50
 103,Lariano,12.833,41.721,50
 72,Zeme,8.669,45.198,50
 72,Stroppo,7.126,44.51,50
 86,Taverna Ravindola,14.128,41.521,50
-123,Barcellona Pozzo di Gotto,15.211,38.147,0
-72,San Sebastiano Curone,9.065,44.787,0
-123,Dimaro,10.871,46.326,103
+123,Barcellona Pozzo di Gotto,15.211,38.147,123
+72,San Sebastiano Curone,9.065,44.787,72
+123,Dimaro,10.871,46.326,86
 72,Casaloldo,10.475,45.255,50
 72,Sant'Albano Stura,7.724,44.508,50
-123,Laghetto,12.726,41.855,60
-123,Capizzi,14.478,37.848,103
-123,Scopello,8.093,45.773,103
-86,Castellina in Chianti,11.279,43.472,86
+123,Laghetto,12.726,41.855,50
+123,Capizzi,14.478,37.848,86
+123,Scopello,8.093,45.773,86
+86,Castellina in Chianti,11.279,43.472,72
 60,Acerenza,15.936,40.794,50
 103,Orciatico,10.726,43.435,50
-253,Montefiascone,12.033,42.542,123
+253,Montefiascone,12.033,42.542,86
 72,Collebrincioni,13.415,42.399,50
 60,Mottaziana,9.508,45.016,50
-123,Oleggio,8.643,45.601,103
+123,Oleggio,8.643,45.601,86
 86,Gorfigliano,10.25,44.145,50
 60,Vagliagli,11.348,43.421,50
-123,Castelfranco Emilia,11.051,44.596,103
-72,Longi,14.753,38.027,60
-147,Molinella,11.671,44.618,0
-123,Verbicaro,15.91,39.759,86
-86,Perino,9.503,44.819,72
+123,Castelfranco Emilia,11.051,44.596,72
+72,Longi,14.753,38.027,50
+147,Molinella,11.671,44.618,147
+123,Verbicaro,15.91,39.759,72
+86,Perino,9.503,44.819,60
 72,Montepulciano,11.787,43.102,50
 72,Vita,12.823,37.872,50
 72,Asuni,8.946,39.872,50
 86,Gossolengo,9.619,45.003,50
-86,Valli,12.191,45.223,60
-176,Ovaro,12.867,46.486,103
+86,Valli,12.191,45.223,50
+176,Ovaro,12.867,46.486,86
 60,Portopalo di Capo Passero,15.135,36.683,50
 123,Settime,8.114,44.962,50
 72,Vivaro,12.776,46.077,50
-176,Figline Valdarno,11.47,43.62,86
-435,Benevento,14.776,41.125,211
-103,Mattarello,11.129,46.008,60
-103,Orsara di Puglia,15.267,41.282,86
-522,Lucca,10.501,43.86,147
-147,Bivio Santa Cecilia,15,40.523,72
-60,Cortemaggiore,9.931,44.994,60
-123,Cannobio,8.696,46.064,60
-72,Campotosto,13.368,42.559,72
-147,Castel Volturno,13.941,41.035,72
-522,Macomer,8.766,40.262,363
-60,San Chirico Raparo,16.076,40.191,60
+176,Figline Valdarno,11.47,43.62,72
+435,Benevento,14.776,41.125,147
+103,Mattarello,11.129,46.008,50
+103,Orsara di Puglia,15.267,41.282,72
+522,Lucca,10.501,43.86,123
+147,Bivio Santa Cecilia,15,40.523,50
+60,Cortemaggiore,9.931,44.994,50
+123,Cannobio,8.696,46.064,50
+72,Campotosto,13.368,42.559,50
+147,Castel Volturno,13.941,41.035,60
+522,Macomer,8.766,40.262,253
+60,San Chirico Raparo,16.076,40.191,50
 60,Polverara,11.956,45.309,50
-103,San Felice,11.131,46.493,60
+103,San Felice,11.131,46.493,50
 72,Pettineo,14.292,37.967,50
-72,Apecchio,12.419,43.558,72
+72,Apecchio,12.419,43.558,50
 60,Casorzo,8.341,45.022,50
-86,Quartu Sant'Elena,9.239,39.229,72
-435,San Severo,15.377,41.686,211
-147,Livorno Ferraris,8.075,45.284,86
-86,Lizzano,17.447,40.391,60
+86,Quartu Sant'Elena,9.239,39.229,60
+435,San Severo,15.377,41.686,176
+147,Livorno Ferraris,8.075,45.284,60
+86,Lizzano,17.447,40.391,50
 103,Colle Isarco,11.443,46.937,50
-86,Termine,13.209,42.444,72
+86,Termine,13.209,42.444,60
 103,Ranchio,12.081,43.97,50
-147,Perfugas,8.883,40.832,103
+147,Perfugas,8.883,40.832,86
 103,Cerqueto,12.318,42.953,50
 60,Alberone,9.518,45.136,50
-123,Vinovo,7.634,44.948,60
-86,Bracciano,12.171,42.104,86
+123,Vinovo,7.634,44.948,50
+86,Bracciano,12.171,42.104,72
 72,Mezzolara,11.565,44.59,50
-147,Giugliano in Campania,14.195,40.929,72
-72,Castellucchio,10.649,45.147,72
-103,Arona,8.556,45.75,72
+147,Giugliano in Campania,14.195,40.929,50
+72,Castellucchio,10.649,45.147,60
+103,Arona,8.556,45.75,60
 60,Santa Croce,12.331,46.092,50
 60,Salvatonica,11.451,44.925,50
 72,Consandolo,11.775,44.653,50
-103,Zappolino,11.11,44.435,72
+103,Zappolino,11.11,44.435,60
 60,Sarezzo,10.196,45.661,50
 176,Arce,13.574,41.586,50
 72,Dubino,9.43,46.171,50
-72,Castellammare del Golfo,12.886,38.019,60
+72,Castellammare del Golfo,12.886,38.019,50
 103,Rassina,11.835,43.649,50
 103,Otricoli,12.477,42.421,50
-435,Asti,8.209,44.901,303
+435,Asti,8.209,44.901,253
 72,Prato Sesia,8.373,45.65,50
-147,Bovolone,11.127,45.256,123
-123,Chiesa in Valmalenco,9.848,46.265,103
+147,Bovolone,11.127,45.256,103
+123,Chiesa in Valmalenco,9.848,46.265,72
 60,Chiesanuova,13.325,43.338,50
 60,Marciano,11.786,43.304,50
 72,Presina,11.752,45.561,50
-72,Pietrabbondante,14.384,41.747,60
+72,Pietrabbondante,14.384,41.747,50
 86,Sestri Levante,9.393,44.27,50
-123,Faicchio,14.476,41.278,60
-253,Bozzolo,10.482,45.104,103
+123,Faicchio,14.476,41.278,50
+253,Bozzolo,10.482,45.104,86
 72,Cis,11.002,46.399,50
-123,Valvori,13.889,41.564,72
+123,Valvori,13.889,41.564,60
 72,Gradella,9.532,45.425,50
-86,Vighizzolo,10.364,45.432,60
+86,Vighizzolo,10.364,45.432,50
 86,Poviglio,10.54,44.844,50
-626,Resia,10.518,46.83,147
-72,Pianello,12.554,43.513,60
-363,Monterotondo,12.625,42.057,176
-123,Sesta Godano,9.674,44.291,123
-176,Bormio,10.37,46.469,176
-60,Isnello,14.007,37.944,60
-123,Fiesso Umbertiano,11.604,44.961,123
+626,Resia,10.518,46.83,123
+72,Pianello,12.554,43.513,50
+363,Monterotondo,12.625,42.057,147
+123,Sesta Godano,9.674,44.291,86
+176,Bormio,10.37,46.469,123
+60,Isnello,14.007,37.944,50
+123,Fiesso Umbertiano,11.604,44.961,103
 103,Rosolina,12.243,45.075,50
-86,Scilla,15.719,38.253,60
+86,Scilla,15.719,38.253,50
 86,Poggio Piccolo,11.613,44.438,50
 72,Salbertrand,6.883,45.072,50
-60,San Pietro d'Olba,8.589,44.487,0
-363,Alcamo,12.962,37.983,303
+60,San Pietro d'Olba,8.589,44.487,60
+363,Alcamo,12.962,37.983,253
 72,Perteole,13.377,45.85,50
-60,Trevignano,12.067,45.736,0
+60,Trevignano,12.067,45.736,60
 72,Pecorara,9.384,44.877,50
-253,Troia,15.313,41.364,147
-72,Castelnuovo,13.695,42.729,72
+253,Troia,15.313,41.364,123
+72,Castelnuovo,13.695,42.729,50
 123,Canonica,12.406,44.058,50
 103,Borore,8.804,40.217,50
-103,Usseaux,7.026,45.049,72
-147,Borriana,8.038,45.506,72
-522,Lanciano,14.388,42.217,211
-123,Forenza,15.857,40.859,60
-60,Trecasali,10.275,44.938,60
-72,Monzone,10.128,44.165,72
-86,Crevalcore,11.15,44.72,86
-751,Livigno,10.135,46.535,253
-303,Cles,11.034,46.365,147
-60,Zocca,10.991,44.347,0
-123,Cesenatico,12.402,44.198,60
+103,Usseaux,7.026,45.049,60
+147,Borriana,8.038,45.506,50
+522,Lanciano,14.388,42.217,147
+123,Forenza,15.857,40.859,50
+60,Trecasali,10.275,44.938,50
+72,Monzone,10.128,44.165,60
+86,Crevalcore,11.15,44.72,60
+751,Livigno,10.135,46.535,211
+303,Cles,11.034,46.365,123
+60,Zocca,10.991,44.347,60
+123,Cesenatico,12.402,44.198,50
 72,Giuliano,15.772,40.683,50
-211,Malfa,14.837,38.578,103
+211,Malfa,14.837,38.578,86
 103,Felitto,15.25,40.371,50
-253,Voghera,9.001,44.991,211
-60,Poggiodomo,12.932,42.713,60
-86,Longare,11.611,45.473,72
-72,Crodo,8.323,46.219,60
-123,Collodi,10.662,43.892,60
+253,Voghera,9.001,44.991,147
+60,Poggiodomo,12.932,42.713,50
+86,Longare,11.611,45.473,60
+72,Crodo,8.323,46.219,50
+123,Collodi,10.662,43.892,50
 60,Mascioni,13.348,42.528,50
-123,Rivarolo Canavese,7.717,45.331,60
+123,Rivarolo Canavese,7.717,45.331,50
 60,Monte Petrosu,9.657,40.842,50
 86,Masella,15.755,37.966,50
-253,Breo,7.817,44.395,147
+253,Breo,7.817,44.395,123
 60,Sandrigo,11.596,45.661,50
 147,Ottone,9.333,44.624,50
 60,Castelluccio,14.465,42.133,50
 72,Roveleto,9.852,44.963,50
-72,Siusi,11.561,46.545,72
-72,Lido di Ostia,12.274,41.737,60
-147,Caramanico Terme,14.008,42.16,86
+72,Siusi,11.561,46.545,60
+72,Lido di Ostia,12.274,41.737,50
+147,Caramanico Terme,14.008,42.16,60
 60,San Clemente,11.457,43.719,50
 86,Ghiare,9.928,44.552,50
-176,Montresta,8.5,40.374,86
-176,Grado,13.387,45.675,147
-103,Gesuiti,16.135,39.359,60
+176,Montresta,8.5,40.374,60
+176,Grado,13.387,45.675,103
+103,Gesuiti,16.135,39.359,50
 103,Grassina Ponte a Ema,11.294,43.725,50
-211,Pieve di Cadore,12.366,46.423,147
-253,Ariano Irpino-Martiri,15.092,41.154,253
+211,Pieve di Cadore,12.366,46.423,123
+253,Ariano Irpino-Martiri,15.092,41.154,176
 60,Rina,11.879,46.715,50
-211,Comacchio,12.181,44.696,211
-60,Aquilonia,15.475,40.987,60
+211,Comacchio,12.181,44.696,147
+60,Aquilonia,15.475,40.987,50
 103,Gaifana-Colle,12.79,43.168,50
-72,Riomaggiore,9.74,44.1,0
+72,Riomaggiore,9.74,44.1,60
 60,Montemurro,15.992,40.297,50
 86,Apiro,13.132,43.39,50
-123,Revello,7.391,44.655,60
-253,Molfetta,16.597,41.201,211
-147,Trino,8.296,45.192,123
+123,Revello,7.391,44.655,50
+253,Molfetta,16.597,41.201,176
+147,Trino,8.296,45.192,86
 72,Piano,8.31,44.456,50
 72,Torre San Severo,12.063,42.672,50
 60,Cortoghiana,8.462,39.212,50
-72,Maissana,9.534,44.338,0
+72,Maissana,9.534,44.338,72
 60,Baja Sardinia,9.479,41.138,50
-123,Campanella-Gianforma,14.835,36.927,86
+123,Campanella-Gianforma,14.835,36.927,72
 60,Lerma,8.708,44.633,50
-123,Meiern,10.783,46.564,60
+123,Meiern,10.783,46.564,50
 72,Runzi,11.506,44.988,50
-72,Cutigliano,10.755,44.102,72
-147,Fondo,11.138,46.438,72
-123,Apricena,15.444,41.787,86
-72,Frasso Telesino,14.527,41.157,60
-86,Casale di Pari,11.291,43.053,60
-60,Traversetolo,10.378,44.642,0
-72,Cittadella del Capo,15.877,39.557,60
+72,Cutigliano,10.755,44.102,60
+147,Fondo,11.138,46.438,60
+123,Apricena,15.444,41.787,72
+72,Frasso Telesino,14.527,41.157,50
+86,Casale di Pari,11.291,43.053,50
+60,Traversetolo,10.378,44.642,60
+72,Cittadella del Capo,15.877,39.557,50
 60,Feletto,7.745,45.304,50
 86,Tavernelle,12.884,43.732,50
-123,Apice,14.93,41.12,60
-176,Caltavuturo,13.893,37.82,147
-60,Norma,12.972,41.588,60
+123,Apice,14.93,41.12,50
+176,Caltavuturo,13.893,37.82,123
+60,Norma,12.972,41.588,50
 60,Pancarana,9.051,45.075,50
-211,Conegliano,12.295,45.877,211
+211,Conegliano,12.295,45.877,176
 86,Calimera,18.278,40.251,50
 72,Crevoladossola,8.299,46.15,50
-60,Pievescola,11.131,43.311,60
+60,Pievescola,11.131,43.311,50
 72,Simala,8.827,39.721,50
 60,Santa Lucia di Piave,12.292,45.846,50
-147,Poirino,7.846,44.922,86
+147,Poirino,7.846,44.922,72
 86,Altomonte,16.139,39.695,50
 86,Torre Orsaia,15.476,40.133,50
 60,Ateleta,14.199,41.855,50
 72,Isca,15.584,40.538,50
-522,Tertenia,9.577,39.697,147
-103,Stazione di Allerona,12.037,42.784,60
+522,Tertenia,9.577,39.697,123
+103,Stazione di Allerona,12.037,42.784,50
 60,Hone,7.738,45.614,50
 72,Montagano,14.675,41.645,50
 60,Fai della Paganella,11.068,46.175,50
 60,Agugliaro,11.587,45.324,50
-147,Finale Emilia,11.292,44.833,103
-72,Novi di Modena,10.902,44.891,72
-103,Zafferana Etnea,15.108,37.682,60
+147,Finale Emilia,11.292,44.833,86
+72,Novi di Modena,10.902,44.891,50
+103,Zafferana Etnea,15.108,37.682,50
 147,Catenanuova,14.692,37.57,50
-211,Cervia,12.35,44.261,103
+211,Cervia,12.35,44.261,86
 60,Nespolaro,15.982,38.454,50
-147,Gubbio,12.579,43.353,0
-211,Fidenza,10.067,44.863,176
-123,Siculiana,13.424,37.335,86
-86,Valle Castellana,13.497,42.736,60
+147,Gubbio,12.579,43.353,147
+211,Fidenza,10.067,44.863,147
+123,Siculiana,13.424,37.335,72
+86,Valle Castellana,13.497,42.736,50
 60,Castelseprio,8.862,45.716,50
-147,Racconigi,7.674,44.767,86
-253,Pitigliano,11.674,42.635,147
-86,Racalmuto,13.735,37.407,86
+147,Racconigi,7.674,44.767,60
+253,Pitigliano,11.674,42.635,103
+86,Racalmuto,13.735,37.407,72
 86,Nocera Scalo,16.121,39.014,50
-123,Montemonaco,13.33,42.899,60
-253,Francavilla Fontana,17.584,40.533,211
+123,Montemonaco,13.33,42.899,50
+253,Francavilla Fontana,17.584,40.533,176
 60,Anticoli Corrado,12.991,42.009,50
 123,Casalbuono,15.686,40.215,50
 60,Saronsella,7.927,45.162,50
-86,Pozza di Fassa,11.69,46.431,60
-303,Pinerolo,7.333,44.884,176
-303,Mondragone,13.889,41.113,176
-60,Montenerodomo,14.252,41.975,60
+86,Pozza di Fassa,11.69,46.431,50
+303,Pinerolo,7.333,44.884,147
+303,Mondragone,13.889,41.113,147
+60,Montenerodomo,14.252,41.975,50
 72,Eia,10.265,44.834,50
-147,Re,8.549,46.132,103
+147,Re,8.549,46.132,86
 72,Ponte Buggianese,10.748,43.848,50
-72,Limiti di Greccio,12.768,42.454,72
+72,Limiti di Greccio,12.768,42.454,60
 60,Gioia,16.396,39.521,50
 86,San Fratello,14.598,38.017,50
-72,Esperia,13.688,41.383,60
+72,Esperia,13.688,41.383,50
 86,San Genesio,11.924,46.658,50
 86,Santo Stefano di Magra,9.917,44.156,50
 86,Rocchetta Tanaro,8.346,44.857,50
-123,Mormanno,15.994,39.896,123
-123,Barcis,12.561,46.191,72
+123,Mormanno,15.994,39.896,86
+123,Barcis,12.561,46.191,60
 60,Monreale,13.292,38.08,50
-60,Maruggio,17.573,40.322,0
+60,Maruggio,17.573,40.322,60
 103,Sante Marie,13.203,42.103,50
-103,Cavo,10.42,42.859,86
-103,Oliveto Citra,15.23,40.686,103
-103,Acquaviva delle Fonti,16.843,40.898,86
+103,Cavo,10.42,42.859,60
+103,Oliveto Citra,15.23,40.686,86
+103,Acquaviva delle Fonti,16.843,40.898,72
 60,Gravellona Toce,8.431,45.93,50
 60,Medesano,10.139,44.757,50
-60,Fratte,13.853,42.334,60
+60,Fratte,13.853,42.334,50
 60,Col-Roncan,12.295,46.149,50
 60,Morsella,8.81,45.284,50
-123,Vallelunga Pratameno,13.832,37.682,60
+123,Vallelunga Pratameno,13.832,37.682,50
 72,Rudalza,9.533,41.001,50
 60,Mezzoldo,9.665,46.012,50
-123,Brusago,11.326,46.182,60
-86,Valenzani,8.3,44.919,60
-103,Villadoro,14.262,37.693,103
-176,Brunico,11.929,46.795,176
+123,Brusago,11.326,46.182,50
+86,Valenzani,8.3,44.919,50
+103,Villadoro,14.262,37.693,86
+176,Brunico,11.929,46.795,147
 60,Villa Rendena,10.71,46.064,50
-147,Laives,11.335,46.423,72
-86,Pievepelago,10.616,44.205,0
-147,Santa Croce di Magliano,14.989,41.71,86
-176,Ittiri,8.567,40.593,86
+147,Laives,11.335,46.423,60
+86,Pievepelago,10.616,44.205,86
+147,Santa Croce di Magliano,14.989,41.71,72
+176,Ittiri,8.567,40.593,60
 86,Arborio,8.387,45.495,50
-147,San Giovanni Rotondo,15.72,41.705,147
-72,Sperlonga,13.433,41.26,72
-103,Riva del Garda,10.846,45.897,0
-60,Bene Vagienna,7.828,44.543,60
+147,San Giovanni Rotondo,15.72,41.705,123
+72,Sperlonga,13.433,41.26,60
+103,Riva del Garda,10.846,45.897,103
+60,Bene Vagienna,7.828,44.543,50
 103,Valfenera,7.962,44.899,50
 72,Rassa,8.011,45.769,50
-72,Putifigari,8.46,40.562,60
+72,Putifigari,8.46,40.562,50
 72,Le Forna,12.972,40.926,50
 60,Castelfidardo,13.539,43.46,50
-147,Strongoli,17.054,39.266,86
+147,Strongoli,17.054,39.266,72
 60,Boccasette,12.424,44.999,50
-176,Quercianella,10.368,43.459,72
-123,Brancaleone-Marina,16.097,37.962,86
-86,Taggia,7.852,43.842,72
+176,Quercianella,10.368,43.459,60
+123,Brancaleone-Marina,16.097,37.962,72
+86,Taggia,7.852,43.842,60
 103,Bella Farnia,12.976,41.366,50
-72,Pianella,11.415,43.354,60
-522,Bibbiena,11.814,43.696,123
+72,Pianella,11.415,43.354,50
+522,Bibbiena,11.814,43.696,103
 86,Sefro,12.948,43.147,50
-123,Frabosa Soprana,7.806,44.289,103
+123,Frabosa Soprana,7.806,44.289,86
 72,Bolgheri,10.619,43.234,50
 123,Rodigo,10.625,45.2,50
-303,Fermo,13.73,43.166,86
-147,Orani,9.18,40.25,103
-86,Dualchi,8.897,40.229,60
-103,Carovilli,14.295,41.713,72
-72,Oseacco,13.311,46.364,0
-211,Bitti,9.386,40.48,103
+303,Fermo,13.73,43.166,72
+147,Orani,9.18,40.25,86
+86,Dualchi,8.897,40.229,50
+103,Carovilli,14.295,41.713,60
+72,Oseacco,13.311,46.364,72
+211,Bitti,9.386,40.48,86
 86,Gallese,12.395,42.375,50
-103,Fossombrone,12.812,43.691,0
-60,Palinuro,15.288,40.038,60
-60,Pietrapertosa,16.063,40.518,60
-176,Golfo Aranci,9.614,41.006,86
-103,Castelvetrano,12.791,37.683,0
-253,Abbadia San Salvatore,11.676,42.878,176
+103,Fossombrone,12.812,43.691,103
+60,Palinuro,15.288,40.038,50
+60,Pietrapertosa,16.063,40.518,50
+176,Golfo Aranci,9.614,41.006,72
+103,Castelvetrano,12.791,37.683,103
+253,Abbadia San Salvatore,11.676,42.878,147
 60,Goriano Valli,13.667,42.18,50
-86,Gottolengo,10.268,45.293,60
-435,Sinalunga,11.748,43.215,123
-72,Savelli,16.777,39.313,60
-86,Pietralunga,12.435,43.441,0
+86,Gottolengo,10.268,45.293,50
+435,Sinalunga,11.748,43.215,103
+72,Savelli,16.777,39.313,50
+86,Pietralunga,12.435,43.441,86
 86,Brenna,11.233,43.203,50
-60,Mamoiada,9.281,40.216,60
-123,Villa d'Agri,15.826,40.356,0
-123,Novalesa,7.015,45.192,60
+60,Mamoiada,9.281,40.216,50
+123,Villa d'Agri,15.826,40.356,123
+123,Novalesa,7.015,45.192,50
 72,Caprese Michelangelo,11.985,43.639,50
 60,San Giovanni-Patoni,13.276,41.77,50
-147,Taurianova,16.011,38.357,103
-60,Scheggia,12.667,43.404,60
-123,Vestone,10.4,45.709,86
-103,Salsomaggiore Terme,9.98,44.815,60
-86,Pontedassio,8.015,43.938,60
+147,Taurianova,16.011,38.357,72
+60,Scheggia,12.667,43.404,50
+123,Vestone,10.4,45.709,72
+103,Salsomaggiore Terme,9.98,44.815,50
+86,Pontedassio,8.015,43.938,50
 86,Villamassargia,8.641,39.274,50
-86,Fossona,11.693,45.403,60
-60,Soriano Calabro,16.222,38.602,0
-522,Pavia,9.16,45.184,303
-72,Ospitale di Cadore,12.322,46.327,60
-123,Scicli,14.702,36.79,60
+86,Fossona,11.693,45.403,50
+60,Soriano Calabro,16.222,38.602,60
+522,Pavia,9.16,45.184,253
+72,Ospitale di Cadore,12.322,46.327,50
+123,Scicli,14.702,36.79,50
 86,Pontelandolfo,14.689,41.294,50
 60,Paveto,8.903,44.538,50
-211,Codroipo,12.985,45.957,176
-123,Marsaglia,9.382,44.713,60
+211,Codroipo,12.985,45.957,147
+123,Marsaglia,9.382,44.713,50
 72,Cotignola,11.939,44.387,50
-86,Palazzo San Gervasio,15.983,40.931,86
+86,Palazzo San Gervasio,15.983,40.931,60
 86,Colosimi,16.399,39.12,50
-176,Randazzo,14.951,37.877,86
-123,Lode,9.539,40.591,103
+176,Randazzo,14.951,37.877,72
+123,Lode,9.539,40.591,86
 103,Citta della Pieve,12.005,42.956,50
-435,Villaggio San Domino,15.49,42.116,253
-253,Paularo,13.118,46.528,123
-303,Sciacca,13.076,37.509,0
-123,Celano,13.544,42.083,86
-103,Agira,14.52,37.656,103
+435,Villaggio San Domino,15.49,42.116,211
+253,Paularo,13.118,46.528,103
+303,Sciacca,13.076,37.509,303
+123,Celano,13.544,42.083,72
+103,Agira,14.52,37.656,86
 86,Aurelia,11.785,42.137,50
-147,Escalaplano,9.354,39.625,86
+147,Escalaplano,9.354,39.625,60
 60,Rimasco,8.061,45.859,50
 72,Ciafe,13.34,41.673,50
 72,Jelsi,14.799,41.518,50
-86,None,7.539,44.933,72
+86,None,7.539,44.933,60
 60,Pratolino,11.297,43.861,50
-211,Vieste,16.176,41.883,176
+211,Vieste,16.176,41.883,147
 86,Arcole,11.288,45.359,50
 86,Curinga,16.311,38.827,50
 72,Marina di Ragusa,14.558,36.785,50
-123,Assemini,9.006,39.286,103
-901,San Benedetto del Tronto,13.881,42.934,435
+123,Assemini,9.006,39.286,86
+901,San Benedetto del Tronto,13.881,42.934,303
 72,Vernole,18.303,40.289,50
-147,Mercatale,12.138,43.256,60
-176,Mazzarino,14.21,37.302,72
+147,Mercatale,12.138,43.256,50
+176,Mazzarino,14.21,37.302,60
 60,Il Castagno d'Andrea,11.659,43.897,50
 60,Configni,12.642,42.424,50
 86,Pretare,13.302,42.798,50
 103,Destro,16.695,39.491,50
-86,Sestino,12.298,43.709,60
-103,Arta Terme,13.019,46.48,72
+86,Sestino,12.298,43.709,50
+103,Arta Terme,13.019,46.48,50
 60,Serravalle di Carda,12.497,43.542,50
-147,Marineo,13.414,37.953,72
-86,Civago,10.477,44.254,72
+147,Marineo,13.414,37.953,60
+86,Civago,10.477,44.254,50
 72,Atzara,9.077,39.993,50
-72,Gressoney-Saint-Jean,7.827,45.775,0
+72,Gressoney-Saint-Jean,7.827,45.775,72
 103,Gorzegno,8.135,44.512,50
-103,Marina di Grosseto,10.981,42.72,72
-123,Luogosanto,9.205,41.046,123
+103,Marina di Grosseto,10.981,42.72,60
+123,Luogosanto,9.205,41.046,86
 72,Farneta,16.403,40.015,50
-72,Morfasso,9.703,44.723,60
-86,San Lorenzo in Banale,10.909,46.076,0
-147,Piazza Brembana,9.675,45.947,103
-86,Fontanellato,10.172,44.881,72
+72,Morfasso,9.703,44.723,50
+86,San Lorenzo in Banale,10.909,46.076,86
+147,Piazza Brembana,9.675,45.947,86
+86,Fontanellato,10.172,44.881,60
 103,San Giovanni Lupatoto,11.05,45.38,50
-60,Paganica-Tempera,13.472,42.36,60
+60,Paganica-Tempera,13.472,42.36,50
 60,Balze,12.093,43.778,50
-72,Roccamonfina,13.985,41.291,72
-147,Pistoia,10.915,43.921,123
+72,Roccamonfina,13.985,41.291,60
+147,Pistoia,10.915,43.921,103
 86,Piano,8.164,44.317,50
-86,Perrero,7.113,44.939,60
-103,Maglie,18.299,40.117,86
-60,Bagnolo Mella,10.182,45.429,0
-60,Passo di Treia,13.328,43.283,0
-103,Rovegno,9.278,44.578,72
-363,San Vincenzo,10.541,43.093,60
+86,Perrero,7.113,44.939,50
+103,Maglie,18.299,40.117,72
+60,Bagnolo Mella,10.182,45.429,60
+60,Passo di Treia,13.328,43.283,60
+103,Rovegno,9.278,44.578,60
+363,San Vincenzo,10.541,43.093,50
 60,Pietrelcina,14.844,41.2,50
 86,Soragna,10.123,44.929,50
-211,Imperia,8.013,43.88,176
-60,Valle,10.429,46.069,60
-147,Niscemi,14.395,37.147,103
-60,Porto Ercole,11.203,42.401,60
+211,Imperia,8.013,43.88,147
+60,Valle,10.429,46.069,50
+147,Niscemi,14.395,37.147,72
+60,Porto Ercole,11.203,42.401,50
 60,Castelferro,8.621,44.758,50
 60,Visano,10.369,45.317,50
-86,Forino,14.736,40.862,60
+86,Forino,14.736,40.862,50
 60,Barolo,7.943,44.611,50
-86,Ittireddu,8.901,40.544,72
+86,Ittireddu,8.901,40.544,60
 103,Arqua Polesine,11.739,45.01,50
-176,Busachi,8.897,40.033,86
-103,Canosa di Puglia,16.066,41.22,0
+176,Busachi,8.897,40.033,72
+103,Canosa di Puglia,16.066,41.22,103
 72,Molini,8.184,46.01,50
-176,Asiago,11.508,45.875,72
+176,Asiago,11.508,45.875,60
 86,Pizzano,11.41,44.353,50
-211,Jerzu,9.518,39.791,86
-103,Avolasca,8.964,44.804,60
+211,Jerzu,9.518,39.791,72
+103,Avolasca,8.964,44.804,50
 72,Arluno,8.947,45.506,50
-176,Ferrandina,16.456,40.501,147
-60,Crone,10.479,45.739,60
-72,Aglientu,9.113,41.08,72
-86,Rivalta,10.893,45.657,72
+176,Ferrandina,16.456,40.501,123
+60,Crone,10.479,45.739,50
+72,Aglientu,9.113,41.08,60
+86,Rivalta,10.893,45.657,50
 86,Foiano di Val Fortore,14.976,41.351,50
-72,San Mauro Castelverde,14.19,37.915,60
+72,San Mauro Castelverde,14.19,37.915,50
 60,Campi Salentina,18.019,40.399,50
 86,Sala,12.383,44.159,50
 72,San Martino in Strada,9.526,45.276,50
 72,Fratina,10.6,43.858,50
 72,Scalera,15.719,40.86,50
-72,Avigliano Umbro,12.428,42.655,0
-123,Capoterra,8.972,39.176,103
-363,Cortina d'Ampezzo,12.136,46.536,253
+72,Avigliano Umbro,12.428,42.655,72
+123,Capoterra,8.972,39.176,86
+363,Cortina d'Ampezzo,12.136,46.536,211
 72,Dervio,9.304,46.076,50
-86,Cumiana,7.377,44.979,60
+86,Cumiana,7.377,44.979,50
 86,Solarolo,11.845,44.36,50
-103,Orotelli,9.112,40.304,60
+103,Orotelli,9.112,40.304,50
 60,Quadrelli,9.54,44.849,50
-147,Castelluccio Inferiore,15.986,40.001,86
-103,Palanzano,10.195,44.437,86
-303,Schio,11.357,45.714,147
-103,Petacciato,14.862,42.011,60
+147,Castelluccio Inferiore,15.986,40.001,72
+103,Palanzano,10.195,44.437,72
+303,Schio,11.357,45.714,123
+103,Petacciato,14.862,42.011,50
 72,Sant'Antonio,10.836,44.367,50
-123,Sambuca Pistoiese,10.99,44.105,60
-147,Campana,16.824,39.413,60
+123,Sambuca Pistoiese,10.99,44.105,50
+147,Campana,16.824,39.413,50
 60,Precenicco,13.078,45.794,50
 86,Aversa,14.207,40.973,50
-211,Cesena,12.244,44.157,147
+211,Cesena,12.244,44.157,123
 60,Nuraminis,9.014,39.443,50
-103,Trevinano,11.87,42.822,86
-72,Cascia,13.018,42.718,72
-176,Valgrisenche,7.062,45.628,86
-72,Comiso,14.608,36.95,60
-103,San Giorgio a Liri,13.765,41.407,72
+103,Trevinano,11.87,42.822,60
+72,Cascia,13.018,42.718,60
+176,Valgrisenche,7.062,45.628,72
+72,Comiso,14.608,36.95,50
+103,San Giorgio a Liri,13.765,41.407,60
 86,Solarolo,10.55,45.547,50
 86,San Pietro,9.383,46.258,50
 86,Rosa,11.762,45.725,50
-60,Sant'Agata,11.335,44.021,60
+60,Sant'Agata,11.335,44.021,50
 72,Alzo,8.379,45.791,50
-103,Posta,13.098,42.527,86
+103,Posta,13.098,42.527,72
 72,Stornarella,15.731,41.256,50
-211,Porto Torres,8.4,40.836,123
-123,Preci,13.036,42.88,60
+211,Porto Torres,8.4,40.836,103
+123,Preci,13.036,42.88,50
 60,Magasa,10.617,45.782,50
-72,Rioveggio,11.198,44.273,60
+72,Rioveggio,11.198,44.273,50
 60,Crocevie,12.656,38.034,50
 60,Massarosa,10.34,43.868,50
 72,Asproli,12.419,42.739,50
-103,Gimigliano,16.531,38.974,86
+103,Gimigliano,16.531,38.974,60
 60,Montebruno,9.248,44.526,50
 86,D'Orzio,9.661,45.885,50
-86,Chiaramonti,8.822,40.747,60
+86,Chiaramonti,8.822,40.747,50
 147,Marina di Andora,8.149,43.955,50
-147,Floresta,14.911,37.988,72
-211,Buronzo,8.269,45.481,86
-123,Caltabellotta,13.215,37.575,72
-72,Castelnovo di Sotto,10.568,44.808,0
+147,Floresta,14.911,37.988,50
+211,Buronzo,8.269,45.481,72
+123,Caltabellotta,13.215,37.575,60
+72,Castelnovo di Sotto,10.568,44.808,72
 86,Toffia,12.754,42.212,50
 72,Candia Canavese,7.883,45.326,50
-86,Gambettola,12.338,44.119,72
-123,Thiene,11.48,45.709,86
+86,Gambettola,12.338,44.119,60
+123,Thiene,11.48,45.709,72
 60,Portonovo,11.754,44.532,50
-103,Gaeta,13.562,41.219,86
+103,Gaeta,13.562,41.219,60
 72,Suni,8.549,40.281,50
-103,Francavilla di Sicilia,15.137,37.903,60
-60,Monte Forte,8.264,40.737,60
+103,Francavilla di Sicilia,15.137,37.903,50
+60,Monte Forte,8.264,40.737,50
 72,Canussio,12.994,45.842,50
-86,Costa Paradiso,8.957,41.058,60
-303,Rossano Stazione,16.634,39.599,303
-72,Colere,10.083,45.974,60
-211,Menfi,12.968,37.606,103
-176,Marradi,11.611,44.074,123
+86,Costa Paradiso,8.957,41.058,50
+303,Rossano Stazione,16.634,39.599,253
+72,Colere,10.083,45.974,50
+211,Menfi,12.968,37.606,72
+176,Marradi,11.611,44.074,103
 123,Peschici,16.016,41.945,50
-901,Avezzano,13.427,42.031,435
-103,Capua,14.214,41.106,72
-103,San Bartolomeo in Galdo,15.019,41.423,0
-86,Grammichele,14.632,37.214,0
-72,Asciano,11.568,43.23,60
+901,Avezzano,13.427,42.031,303
+103,Capua,14.214,41.106,60
+103,San Bartolomeo in Galdo,15.019,41.423,103
+86,Grammichele,14.632,37.214,72
+72,Asciano,11.568,43.23,50
 60,Chieve,9.616,45.341,50
-72,Gargnano,10.66,45.689,72
+72,Gargnano,10.66,45.689,60
 72,Gambatesa,14.915,41.51,50
-103,Villa Verucchio,12.434,44.004,103
-147,San Donato Val di Comino,13.813,41.708,72
-86,Bognanco,8.178,46.123,60
-86,Volta Mantovana,10.658,45.323,72
+103,Villa Verucchio,12.434,44.004,86
+147,San Donato Val di Comino,13.813,41.708,60
+86,Bognanco,8.178,46.123,50
+86,Volta Mantovana,10.658,45.323,60
 60,Borgo Ticino,8.602,45.689,50
-72,Selino Basso,9.534,45.813,0
-303,Capo di Ponte,10.348,46.031,86
-86,Venarotta,13.492,42.882,72
+72,Selino Basso,9.534,45.813,60
+303,Capo di Ponte,10.348,46.031,72
+86,Venarotta,13.492,42.882,60
 60,Pilzone,10.08,45.674,50
 147,Pago Veiano,14.864,41.242,50
-60,Lonigo,11.393,45.385,0
+60,Lonigo,11.393,45.385,60
 60,Scamardella,17.154,40.897,50
-123,Roccamena,13.155,37.84,60
-72,Capradosso,13.024,42.328,60
-435,Viterbo,12.107,42.425,363
-72,Cervignano del Friuli,13.344,45.817,0
-86,Pompagnano,12.701,42.692,60
-72,Favale di Malvaro,9.259,44.452,72
+123,Roccamena,13.155,37.84,50
+72,Capradosso,13.024,42.328,50
+435,Viterbo,12.107,42.425,253
+72,Cervignano del Friuli,13.344,45.817,72
+86,Pompagnano,12.701,42.692,50
+72,Favale di Malvaro,9.259,44.452,60
 86,San Donaci,17.926,40.45,50
 60,Badia,11.127,44.408,50
-123,Collepasso,18.162,40.071,60
-72,Primaluna,9.431,45.986,0
-147,Milano,9.175,45.473,72
-435,Argentera,6.936,44.397,86
-435,Chioggia,12.278,45.196,253
+123,Collepasso,18.162,40.071,50
+72,Primaluna,9.431,45.986,60
+147,Milano,9.175,45.473,60
+435,Argentera,6.936,44.397,72
+435,Chioggia,12.278,45.196,176
 86,Orneta,15.113,41.113,50
-103,Berceto,9.99,44.509,103
+103,Berceto,9.99,44.509,86
 72,Aci Castello,15.148,37.554,50
-72,Fordongianus,8.81,39.994,72
+72,Fordongianus,8.81,39.994,60
 103,Torre Melissa,17.106,39.311,50
-103,Anagni,13.151,41.745,60
-86,Bagnara Calabra,15.804,38.288,72
+103,Anagni,13.151,41.745,50
+86,Bagnara Calabra,15.804,38.288,60
 72,Capriolo,9.933,45.635,50
-176,Vizzini,14.749,37.161,103
-86,Ripa Teatina,14.237,42.362,60
-147,Palazzolo Acreide,14.905,37.06,103
+176,Vizzini,14.749,37.161,72
+86,Ripa Teatina,14.237,42.362,50
+147,Palazzolo Acreide,14.905,37.06,86
 60,Montepaone Lido,16.534,38.721,50
-72,Turi,17.02,40.917,60
-147,Fauglia,10.515,43.57,86
-147,Thiesi,8.719,40.523,103
-103,Cinzano,7.926,45.095,60
+72,Turi,17.02,40.917,50
+147,Fauglia,10.515,43.57,72
+147,Thiesi,8.719,40.523,86
+103,Cinzano,7.926,45.095,50
 60,Genio Civile,12.686,41.544,50
-211,Santhia,8.173,45.367,176
+211,Santhia,8.173,45.367,147
 72,Gualdo,13.343,43.068,50
 86,Stazione di Parlesca e Solfagnano,12.412,43.22,50
 86,Galliate,8.697,45.482,50
 72,San Polo,10.358,44.89,50
 86,Coazzolo,8.146,44.728,50
-211,Uscio,9.161,44.413,60
+211,Uscio,9.161,44.413,50
 72,Rivello,15.756,40.079,50
-211,Fraviano,10.691,46.297,147
+211,Fraviano,10.691,46.297,103
 72,Polinago,10.725,44.344,50
 72,Quincinetto,7.807,45.562,50
-1867,Tarvisio,13.593,46.503,303
-176,Balsorano,13.559,41.809,86
-72,Garaguso,16.228,40.548,60
+1867,Tarvisio,13.593,46.503,253
+176,Balsorano,13.559,41.809,72
+72,Garaguso,16.228,40.548,50
 72,Ripabianca,12.403,42.94,50
-103,Mandello del Lario,9.319,45.919,72
-123,Veglie,17.963,40.335,86
+103,Mandello del Lario,9.319,45.919,50
+123,Veglie,17.963,40.335,60
 60,Guardia Lombardi,15.208,40.954,50
-103,Villanova Monteleone,8.47,40.504,86
-86,Vespolate,8.668,45.351,60
-176,Tolentino,13.291,43.213,103
-103,Montesarchio,14.64,41.065,103
+103,Villanova Monteleone,8.47,40.504,72
+86,Vespolate,8.668,45.351,50
+176,Tolentino,13.291,43.213,86
+103,Montesarchio,14.64,41.065,86
 103,Villanova,9.998,45.026,50
 103,Santa Eufemia Lamezia,16.253,38.92,50
 211,Gallo,12.714,43.786,50
-103,Riccione,12.655,44,60
-86,Siliqua,8.808,39.3,86
-103,Meana Sardo,9.073,39.944,86
+103,Riccione,12.655,44,50
+86,Siliqua,8.808,39.3,72
+103,Meana Sardo,9.073,39.944,72
 60,Punta Milocca,15.281,37.008,50
-103,Monte Romano,11.894,42.268,103
-103,Pisticci,16.559,40.39,103
-103,Vico del Gargano,15.957,41.898,0
+103,Monte Romano,11.894,42.268,86
+103,Pisticci,16.559,40.39,86
+103,Vico del Gargano,15.957,41.898,103
 176,Fobello,8.155,45.891,50
 86,Carbognano,12.263,42.331,50
-147,Candela,15.515,41.138,72
-147,Plati,16.046,38.22,72
-176,Fiuggi,13.22,41.799,103
-60,Mottola,17.035,40.634,60
+147,Candela,15.515,41.138,60
+147,Plati,16.046,38.22,60
+176,Fiuggi,13.22,41.799,86
+60,Mottola,17.035,40.634,50
 60,Santa Lucia Inferiore,14.956,40.581,50
 60,Budrio,11.536,44.538,50
 60,Balzola,8.404,45.184,50
 86,Paduli,14.887,41.167,50
-123,Torre del Greco,14.387,40.785,60
-123,Malcesine,10.811,45.764,123
-123,Roccastrada,11.167,43.01,103
+123,Torre del Greco,14.387,40.785,50
+123,Malcesine,10.811,45.764,103
+123,Roccastrada,11.167,43.01,72
 72,Avio,10.937,45.734,50
-435,Marsala,12.49,37.821,211
+435,Marsala,12.49,37.821,176
 60,Soci,11.811,43.728,50
 86,Colle Orzo,14.551,42.101,50
-103,Manerbio,10.135,45.355,103
+103,Manerbio,10.135,45.355,86
 72,Agna,11.961,45.174,50
-103,Verchiano,12.882,42.95,60
+103,Verchiano,12.882,42.95,50
 60,Rovere,13.516,42.176,50
-103,Castellammare di Stabia,14.489,40.715,86
-123,Sabaudia,13.028,41.299,0
+103,Castellammare di Stabia,14.489,40.715,72
+123,Sabaudia,13.028,41.299,123
 60,San Liberato,12.44,42.48,50
 72,San Mauro Forte,16.248,40.487,50
 60,San Severino Lucano,16.139,40.019,50
-303,Matera,16.603,40.668,147
-86,Sasso,12.046,42.056,72
-123,Poggiorsini,16.255,40.917,123
-211,Portoferraio,10.314,42.811,147
-86,Corniglio,10.087,44.476,72
+303,Matera,16.603,40.668,123
+86,Sasso,12.046,42.056,50
+123,Poggiorsini,16.255,40.917,103
+211,Portoferraio,10.314,42.811,123
+86,Corniglio,10.087,44.476,60
 72,Africo Nuovo,16.139,38.052,50
 72,Borghetto,10.928,45.698,50
 60,Malnate,8.878,45.79,50
 60,Capaccio Scalo,15.01,40.456,50
-363,Portogruaro,12.839,45.777,176
-435,Fabriano,12.903,43.341,253
-303,Cento,11.288,44.726,253
-60,San Felice sul Panaro,11.143,44.834,60
-72,Fighille,12.107,43.519,60
+363,Portogruaro,12.839,45.777,147
+435,Fabriano,12.903,43.341,211
+303,Cento,11.288,44.726,176
+60,San Felice sul Panaro,11.143,44.834,50
+72,Fighille,12.107,43.519,50
 60,Placanica,16.452,38.412,50
 60,Lido di Savio,12.342,44.31,50
 103,Sindacale,12.878,45.705,50
 72,Torretta,11.302,45.095,50
-522,Vibo Valentia,16.095,38.673,303
+522,Vibo Valentia,16.095,38.673,253
 72,Santa Teresa,14.159,42.432,50
 60,Chiaromonte,16.218,40.124,50
 60,Padelli,16.195,39.643,50
-72,Limina,15.272,37.942,0
+72,Limina,15.272,37.942,72
 103,Pai,10.724,45.653,50
 72,Alberoni,12.321,45.349,50
 60,San Gregorio d'Ippona,16.102,38.645,50
-123,Francavilla Marittima,16.398,39.815,60
+123,Francavilla Marittima,16.398,39.815,50
 72,Mirabello,13.905,42.404,50
-60,Caloveto,16.76,39.505,60
-147,Rena Majore,9.183,41.163,60
-86,Capistrello,13.399,41.974,60
-86,Gallicchio,16.139,40.289,72
+60,Caloveto,16.76,39.505,50
+147,Rena Majore,9.183,41.163,50
+86,Capistrello,13.399,41.974,50
+86,Gallicchio,16.139,40.289,60
 103,Villa Opicina,13.786,45.688,50
-147,Paganico,11.271,42.934,86
-253,Vasto,14.708,42.125,211
-211,Fundres,11.705,46.892,60
-86,Castelbaldo,11.453,45.12,72
+147,Paganico,11.271,42.934,60
+253,Vasto,14.708,42.125,176
+211,Fundres,11.705,46.892,50
+86,Castelbaldo,11.453,45.12,60
 86,Trenzano,10.011,45.478,50
-123,Casalmaggiore,10.419,44.994,72
+123,Casalmaggiore,10.419,44.994,60
 72,Sassetta,10.643,43.129,50
-60,Presenzano,14.097,41.376,60
-253,Ghedi,10.279,45.401,123
-303,Poggibonsi,11.146,43.472,147
-103,Marsiliana,11.342,42.537,60
-86,Ronciglione,12.214,42.291,0
+60,Presenzano,14.097,41.376,50
+253,Ghedi,10.279,45.401,103
+303,Poggibonsi,11.146,43.472,123
+103,Marsiliana,11.342,42.537,50
+86,Ronciglione,12.214,42.291,86
 60,Zanengo,9.852,45.216,50
-176,Follonica,10.765,42.93,176
-303,Anzio,12.62,41.486,176
-60,Comano,10.13,44.293,0
+176,Follonica,10.765,42.93,147
+303,Anzio,12.62,41.486,147
+60,Comano,10.13,44.293,60
 72,San Marino,11.692,45.897,50
-176,Monterotondo Marittimo,10.856,43.146,72
-253,Seui,9.323,39.839,147
+176,Monterotondo Marittimo,10.856,43.146,50
+253,Seui,9.323,39.839,123
 72,Bellante,13.808,42.742,50
-72,Rignano Garganico,15.589,41.679,0
-72,Castiglione della Pescaia,10.88,42.765,0
+72,Rignano Garganico,15.589,41.679,72
+72,Castiglione della Pescaia,10.88,42.765,72
 86,Piedicavallo,7.955,45.69,50
-103,Trasacco,13.535,41.957,86
-103,Metaponto,16.811,40.371,60
-86,Grotte Santo Stefano,12.174,42.515,86
-123,Sant'Anna,8.649,39.812,60
-123,Noci,17.134,40.791,60
+103,Trasacco,13.535,41.957,72
+103,Metaponto,16.811,40.371,50
+86,Grotte Santo Stefano,12.174,42.515,72
+123,Sant'Anna,8.649,39.812,50
+123,Noci,17.134,40.791,50
 86,Cireglio,10.852,43.995,50
-103,Garlasco,8.922,45.197,0
+103,Garlasco,8.922,45.197,103
 147,San Prospero,11.023,44.789,50
 72,Priero,8.094,44.376,50
-147,San Gavino Monreale,8.791,39.551,86
+147,San Gavino Monreale,8.791,39.551,72
 103,Grottammare,13.867,42.989,50
 60,Pastena,13.491,41.469,50
 60,Osigo,9.3,45.877,50
 60,Granarolo,11.936,44.361,50
-123,Villaurbana,8.778,39.886,86
+123,Villaurbana,8.778,39.886,60
 86,Andrano,18.383,39.983,50
-72,Alia,13.715,37.779,72
-86,Forano,12.596,42.297,72
+72,Alia,13.715,37.779,60
+86,Forano,12.596,42.297,50
 103,Besenello,11.111,45.939,50
 86,Stagno,10.351,43.592,50
-1556,Ponza,12.965,40.894,363
+1556,Ponza,12.965,40.894,253
 103,Marconia,16.691,40.366,50
-86,Siurgus Donigala,9.185,39.597,60
+86,Siurgus Donigala,9.185,39.597,50
 72,Rigolato,12.852,46.553,50
-60,Favara,13.661,37.317,60
-72,Casamaina,13.392,42.258,72
+60,Favara,13.661,37.317,50
+72,Casamaina,13.392,42.258,60
 147,Scauri,11.986,36.761,50
 86,Gonnosfanadiga,8.662,39.496,50
-123,Ara Nova,12.242,41.927,72
-86,Porto Cesareo,17.898,40.263,72
+123,Ara Nova,12.242,41.927,60
+86,Porto Cesareo,17.898,40.263,60
 60,Caggiano,15.495,40.567,50
 60,Sant'Oreste,12.515,42.232,50
-86,Rotondella,16.526,40.171,72
+86,Rotondella,16.526,40.171,60
 60,Aggius,9.066,40.93,50
 60,Calciano,16.192,40.588,50
 72,Cetona,11.901,42.967,50
-103,Floridia,15.154,37.087,103
-123,Borgosesia,8.277,45.716,123
-86,Villa Minozzo,10.467,44.365,72
+103,Floridia,15.154,37.087,72
+123,Borgosesia,8.277,45.716,103
+86,Villa Minozzo,10.467,44.365,60
 123,Balzo,13.332,42.841,50
-253,Acilia-Castel Fusano-Ostia Antica,12.348,41.769,123
+253,Acilia-Castel Fusano-Ostia Antica,12.348,41.769,103
 103,Casarano,18.164,40.015,50
-103,Ampezzo,12.799,46.414,72
+103,Ampezzo,12.799,46.414,60
 72,Annicco,9.878,45.243,50
 86,San Michele di Ganzaria,14.429,37.281,50
-123,Scoglitti,14.433,36.892,72
-103,Grottazzolina,13.605,43.118,86
+123,Scoglitti,14.433,36.892,60
+103,Grottazzolina,13.605,43.118,72
 60,Raiano,13.814,42.102,50
-901,Catanzaro,16.599,38.89,435
-103,Rignano Flaminio,12.48,42.206,72
-211,Bardi,9.729,44.63,123
+901,Catanzaro,16.599,38.89,303
+103,Rignano Flaminio,12.48,42.206,60
+211,Bardi,9.729,44.63,103
 72,Cavasso Nuovo,12.773,46.197,50
 103,Fratte,12.531,43.893,50
-253,Bovalino,16.178,38.158,86
+253,Bovalino,16.178,38.158,72
 60,Sacco,15.38,40.377,50
-123,Vescovato,10.164,45.175,86
+123,Vescovato,10.164,45.175,72
 72,Gesturi,9.021,39.734,50
-103,Madonna,10.858,46.724,103
-211,Pontedera,10.634,43.664,147
-86,Corleto Perticara,16.041,40.383,0
-147,Dogliani,7.948,44.531,147
+103,Madonna,10.858,46.724,72
+211,Pontedera,10.634,43.664,123
+86,Corleto Perticara,16.041,40.383,86
+147,Dogliani,7.948,44.531,103
 103,San Pietro Specchiarica,17.674,40.311,50
-147,Palmi,15.849,38.36,72
+147,Palmi,15.849,38.36,60
 72,Maida,16.36,38.863,50
 72,Cornedo Vicentino,11.342,45.612,50
-103,Domusnovas,8.653,39.321,86
-363,Porto Viro,12.22,45.029,176
-60,Cercemaggiore,14.723,41.461,60
-176,Moncalvo,8.264,45.05,147
-123,Sant'Andrea Frius,9.169,39.479,60
-123,Sannazzaro de' Burgondi,8.905,45.102,103
-176,Aprilia,12.655,41.575,86
+103,Domusnovas,8.653,39.321,72
+363,Porto Viro,12.22,45.029,147
+60,Cercemaggiore,14.723,41.461,50
+176,Moncalvo,8.264,45.05,123
+123,Sant'Andrea Frius,9.169,39.479,50
+123,Sannazzaro de' Burgondi,8.905,45.102,72
+176,Aprilia,12.655,41.575,72
 60,Virle Piemonte,7.57,44.864,50
-253,Carpi,10.885,44.782,123
-147,Vicari,13.571,37.824,72
-435,Santa Sofia,11.908,43.945,86
+253,Carpi,10.885,44.782,103
+147,Vicari,13.571,37.824,60
+435,Santa Sofia,11.908,43.945,72
 60,Pozza-San Marco,13.285,42.396,50
-176,Butera,14.184,37.191,86
-60,Castel Bolognese,11.797,44.321,60
-363,Capraia Isola,9.844,43.048,253
+176,Butera,14.184,37.191,72
+60,Castel Bolognese,11.797,44.321,50
+363,Capraia Isola,9.844,43.048,211
 60,Cantalupo,12.584,42.966,50
 60,Oliveto,15.705,38.048,50
 72,Roseto Capo Spulico,16.604,39.987,50
-147,Cutro,16.983,39.035,86
+147,Cutro,16.983,39.035,72
 72,Quarantoli,11.098,44.92,50
-147,Tortona,8.865,44.892,103
-176,Viareggio,10.258,43.873,147
-123,Omegna,8.408,45.88,103
-72,Batignano,11.165,42.867,60
+147,Tortona,8.865,44.892,86
+176,Viareggio,10.258,43.873,123
+123,Omegna,8.408,45.88,86
+72,Batignano,11.165,42.867,50
 72,Carapelle,15.693,41.364,50
 72,Micigliano,13.053,42.451,50
-147,Mango,8.151,44.686,86
-363,Stromboli,15.238,38.804,303
-123,Fluminimaggiore,8.497,39.44,103
-72,Forno,10.185,44.088,60
-176,Canale,7.992,44.794,103
-86,Nocera Inferiore,14.64,40.751,0
-176,Leonforte,14.397,37.642,86
-72,Pozzo San Nicola,8.244,40.837,0
+147,Mango,8.151,44.686,72
+363,Stromboli,15.238,38.804,253
+123,Fluminimaggiore,8.497,39.44,86
+72,Forno,10.185,44.088,50
+176,Canale,7.992,44.794,86
+86,Nocera Inferiore,14.64,40.751,86
+176,Leonforte,14.397,37.642,72
+72,Pozzo San Nicola,8.244,40.837,72
 60,Gorino,12.348,44.823,50
-103,Monte Sant'Angelo,15.959,41.707,86
-123,Badalucco,7.847,43.917,72
-123,Carpignano Sesia,8.419,45.534,86
-60,San Fermo,10.543,45.198,60
-72,Civitella Marittima,11.282,42.996,60
-86,Foggiano,15.574,40.958,60
-253,Desulo,9.226,40.01,103
-176,Raffadali,13.533,37.404,86
-211,Nogara,11.068,45.173,86
+103,Monte Sant'Angelo,15.959,41.707,72
+123,Badalucco,7.847,43.917,60
+123,Carpignano Sesia,8.419,45.534,72
+60,San Fermo,10.543,45.198,50
+72,Civitella Marittima,11.282,42.996,50
+86,Foggiano,15.574,40.958,50
+253,Desulo,9.226,40.01,86
+176,Raffadali,13.533,37.404,60
+211,Nogara,11.068,45.173,72
 60,Ponticelli,11.653,44.321,50
-86,Dongo,9.281,46.131,60
-72,Montalcino,11.49,43.053,0
-147,Latronico,16.008,40.089,123
+86,Dongo,9.281,46.131,50
+72,Montalcino,11.49,43.053,60
+147,Latronico,16.008,40.089,103
 60,Alvito,13.747,41.69,50
 60,Anchiano,10.532,43.969,50
-211,Brennero,11.504,47.001,60
-1081,Grosseto,11.107,42.771,751
+211,Brennero,11.504,47.001,50
+1081,Grosseto,11.107,42.771,626
 72,Rifiano,11.181,46.704,50
-103,Scheggino,12.831,42.713,86
+103,Scheggino,12.831,42.713,72
 60,San Giacomo-Marinella,16.821,39.576,50
 86,Camerata Nuova,13.109,42.02,50
-147,Villafranca in Lunigiana,9.95,44.295,72
+147,Villafranca in Lunigiana,9.95,44.295,60
 72,Ugento,18.158,39.926,50
 103,Marotta,13.149,43.762,50
 72,Villa Bartolomea,11.356,45.155,50
-60,Villagrande Strisaili,9.508,39.96,0
-72,Borgo Liberta,15.713,41.186,72
+60,Villagrande Strisaili,9.508,39.96,60
+72,Borgo Liberta,15.713,41.186,60
 86,Padola,12.481,46.602,50
 86,Salussola,8.112,45.447,50
-123,Borgo San Dalmazzo,7.485,44.333,60
-147,Naro,13.791,37.297,72
-435,Arezzo,11.866,43.472,363
-103,Castelnuovo Don Bosco,7.964,45.04,72
-60,Craco,16.438,40.379,0
+123,Borgo San Dalmazzo,7.485,44.333,50
+147,Naro,13.791,37.297,50
+435,Arezzo,11.866,43.472,303
+103,Castelnuovo Don Bosco,7.964,45.04,50
+60,Craco,16.438,40.379,60
 86,Forno d'Ono,10.373,45.753,50
 60,Ora,11.295,46.345,50
 72,Giano,12.577,42.834,50
@@ -2193,651 +2193,651 @@ rs,name,lon,lat,r1
 72,Lingua,14.868,38.539,50
 60,Fiume Lao,15.799,39.783,50
 86,San Lucido,16.051,39.311,50
-123,Montese,10.942,44.269,72
-86,Casale sul Sile,12.324,45.599,60
-522,Ponte,8.426,46.377,103
-1297,Genova,8.904,44.421,901
-303,Marettimo,12.074,37.968,211
-103,Santa Margherita di Belice,13.019,37.692,86
-123,Monticiano,11.175,43.141,103
-176,Cefalu,14.02,38.033,0
-103,Dogna,13.314,46.449,60
+123,Montese,10.942,44.269,60
+86,Casale sul Sile,12.324,45.599,50
+522,Ponte,8.426,46.377,86
+1297,Genova,8.904,44.421,751
+303,Marettimo,12.074,37.968,176
+103,Santa Margherita di Belice,13.019,37.692,72
+123,Monticiano,11.175,43.141,86
+176,Cefalu,14.02,38.033,176
+103,Dogna,13.314,46.449,50
 72,Lido Azzurro,17.137,40.518,50
-103,Roccagorga,13.153,41.525,60
-147,Accumoli,13.248,42.694,72
-86,Rapallo,9.226,44.353,72
+103,Roccagorga,13.153,41.525,50
+147,Accumoli,13.248,42.694,50
+86,Rapallo,9.226,44.353,60
 60,Tiana,9.147,40.068,50
 60,Bernezzo,7.436,44.385,50
-60,Muffa,11.109,44.508,60
+60,Muffa,11.109,44.508,50
 103,Montesilvano Marina,14.152,42.517,50
-72,Cavriago,10.524,44.696,72
+72,Cavriago,10.524,44.696,60
 86,Allai,8.863,39.957,50
 72,Pertegada,13.045,45.722,50
 60,San Pellegrino,13.148,42.757,50
-123,Francofonte,14.882,37.228,72
-303,Dorgali,9.588,40.293,147
+123,Francofonte,14.882,37.228,50
+303,Dorgali,9.588,40.293,123
 86,Sant'Arsenio,15.485,40.473,50
 60,Case Androni,14.501,40.768,50
-176,Fabrizia,16.301,38.486,86
+176,Fabrizia,16.301,38.486,72
 103,Indiprete,14.339,41.546,50
-103,Vinadio,7.175,44.308,86
-60,Flaibano,12.983,46.059,0
+103,Vinadio,7.175,44.308,72
+60,Flaibano,12.983,46.059,50
 60,Pioppe,11.166,44.313,50
 86,Ordona,15.627,41.316,50
-123,Monti,9.326,40.806,123
+123,Monti,9.326,40.806,103
 72,Acquafredda,15.672,40.036,50
-103,Tricarico,16.146,40.62,103
-363,Avola,15.138,36.909,176
-123,Colorno,10.378,44.928,72
-86,Meleti,9.835,45.121,72
+103,Tricarico,16.146,40.62,86
+363,Avola,15.138,36.909,147
+123,Colorno,10.378,44.928,50
+86,Meleti,9.835,45.121,60
 86,Mensano,11.055,43.301,50
-522,Portocivitanova,13.721,43.307,253
+522,Portocivitanova,13.721,43.307,211
 72,Torre del Lago Puccini,10.288,43.829,50
 86,Barga,10.48,44.074,50
-103,Murci,11.411,42.733,60
-211,Osimo,13.484,43.483,103
+103,Murci,11.411,42.733,50
+211,Osimo,13.484,43.483,86
 103,Ali Terme,15.423,38.004,50
 86,Vodo,12.245,46.42,50
 60,Reino,14.823,41.293,50
-72,Silius,9.293,39.517,0
-103,Sellano,12.921,42.887,60
+72,Silius,9.293,39.517,72
+103,Sellano,12.921,42.887,50
 86,Prevalle,10.422,45.553,50
 72,La Torre,12.704,43.742,50
-72,Santa Caterina,8.49,40.109,72
-86,San Vito dei Normanni,17.709,40.658,86
-147,Rosia,11.223,43.247,86
-211,Teulada,8.77,38.967,176
+72,Santa Caterina,8.49,40.109,50
+86,San Vito dei Normanni,17.709,40.658,72
+147,Rosia,11.223,43.247,60
+211,Teulada,8.77,38.967,147
 86,Foresto I,9.633,45.752,50
-123,Fagnano Castello,16.053,39.563,72
-103,Centallo,7.588,44.499,86
-176,Marina,15.161,40.15,86
-363,Cirie,7.599,45.235,123
+123,Fagnano Castello,16.053,39.563,60
+103,Centallo,7.588,44.499,60
+176,Marina,15.161,40.15,72
+363,Cirie,7.599,45.235,86
 60,Arlena di Castro,11.821,42.463,50
 103,Pieve del Cairo,8.804,45.047,50
-363,Spoleto,12.714,42.748,176
-253,Pergola,12.836,43.558,123
-86,Pieve Vergonte,8.268,46.007,72
-123,Gioiosa Ionica,16.302,38.337,60
-626,Capri,14.243,40.55,123
-72,Pogno,8.385,45.755,60
-72,Rofrano,15.429,40.213,0
-211,Sansepolcro,12.141,43.575,103
-147,Vittoria,14.53,36.952,147
-303,Acri,16.385,39.494,147
-522,Como,9.087,45.806,211
-211,Baunei,9.664,40.032,103
-253,Vercelli,8.415,45.323,147
+363,Spoleto,12.714,42.748,147
+253,Pergola,12.836,43.558,103
+86,Pieve Vergonte,8.268,46.007,50
+123,Gioiosa Ionica,16.302,38.337,50
+626,Capri,14.243,40.55,103
+72,Pogno,8.385,45.755,50
+72,Rofrano,15.429,40.213,72
+211,Sansepolcro,12.141,43.575,86
+147,Vittoria,14.53,36.952,123
+303,Acri,16.385,39.494,123
+522,Como,9.087,45.806,176
+211,Baunei,9.664,40.032,86
+253,Vercelli,8.415,45.323,123
 72,Gavi,8.806,44.688,50
-103,Tursi,16.471,40.248,72
-103,Marcellina,12.807,42.022,72
-176,Velletri,12.778,41.67,0
-123,Savigliano,7.657,44.65,103
-86,Lido Adriano,12.304,44.42,72
+103,Tursi,16.471,40.248,60
+103,Marcellina,12.807,42.022,50
+176,Velletri,12.778,41.67,176
+123,Savigliano,7.657,44.65,86
+86,Lido Adriano,12.304,44.42,60
 60,Bottrighe,12.087,45.026,50
 60,Villa Badessa,14.038,42.353,50
-123,Neri,11.461,43.534,86
+123,Neri,11.461,43.534,60
 103,Velina,15.16,40.204,50
 60,Passatempo,13.444,43.45,50
 60,Ortezzano,13.606,43.03,50
-123,Telti,9.352,40.876,72
+123,Telti,9.352,40.876,60
 60,Casale Marittimo,10.615,43.296,50
-72,Villafranca di Verona,10.846,45.351,0
-901,Ancona,13.506,43.588,751
-103,Carraia,11.183,43.896,60
-176,Nova Siri Scalo,16.636,40.132,86
-72,San Godenzo,11.618,43.926,72
+72,Villafranca di Verona,10.846,45.351,72
+901,Ancona,13.506,43.588,522
+103,Carraia,11.183,43.896,50
+176,Nova Siri Scalo,16.636,40.132,60
+72,San Godenzo,11.618,43.926,60
 72,Salve,18.295,39.862,50
-176,Campodolcino,9.353,46.402,86
-176,Locana,7.46,45.417,103
+176,Campodolcino,9.353,46.402,72
+176,Locana,7.46,45.417,72
 60,Costigliole Saluzzo,7.485,44.565,50
 86,Campobello di Mazara,12.744,37.635,50
 60,Illorai,9.001,40.355,50
-86,Scalo di Baragiano,15.573,40.693,60
+86,Scalo di Baragiano,15.573,40.693,50
 86,Occhiobello,11.581,44.92,50
-123,Rivanazzano,9.014,44.926,72
-86,San Demetrio Corone,16.36,39.57,72
-253,Senigallia,13.218,43.71,147
+123,Rivanazzano,9.014,44.926,50
+86,San Demetrio Corone,16.36,39.57,60
+253,Senigallia,13.218,43.71,123
 60,Cerchio,13.601,42.063,50
-176,Sarentino,11.356,46.643,147
+176,Sarentino,11.356,46.643,103
 72,Rumanedda,8.359,40.687,50
 60,Joppolo,15.894,38.58,50
 103,Canelli,8.292,44.721,50
 103,Ripalimosani,14.664,41.611,50
-103,Cimina,16.142,38.247,60
-103,Lazzate,9.085,45.672,60
-86,Corinaldo,13.048,43.65,86
-176,Langhirano,10.267,44.614,86
-303,Foligno,12.704,42.959,253
+103,Cimina,16.142,38.247,50
+103,Lazzate,9.085,45.672,50
+86,Corinaldo,13.048,43.65,72
+176,Langhirano,10.267,44.614,72
+303,Foligno,12.704,42.959,211
 86,Minerbe,11.357,45.235,50
-176,Solofra,14.837,40.83,86
+176,Solofra,14.837,40.83,72
 72,Marone,10.094,45.736,50
 72,Tuenno,11.024,46.33,50
-176,Trebisacce,16.531,39.871,147
+176,Trebisacce,16.531,39.871,123
 60,San Leonardo in Passiria,11.246,46.813,50
 86,Grumo Appula,16.709,41.012,50
 72,Pereta,11.323,42.645,50
 103,Licusati,15.365,40.052,50
-176,Enna,14.284,37.56,176
-303,Ciro Marina,17.126,39.373,303
-147,Filiano,15.71,40.811,72
+176,Enna,14.284,37.56,147
+303,Ciro Marina,17.126,39.373,253
+147,Filiano,15.71,40.811,50
 103,Valmontone,12.92,41.778,50
 72,Morgex,7.038,45.76,50
-435,Civitavecchia,11.801,42.092,363
-253,Punta Ala,10.753,42.805,103
-103,Poggio Bustone,12.887,42.502,72
-123,Venzone,13.138,46.331,60
+435,Civitavecchia,11.801,42.092,303
+253,Punta Ala,10.753,42.805,72
+103,Poggio Bustone,12.887,42.502,50
+123,Venzone,13.138,46.331,50
 60,Motta San Giovanni,15.698,38.002,50
 72,La Caletta,9.748,40.608,50
 86,Bolognola,13.229,42.993,50
 147,Cantoira,7.386,45.339,50
-86,Porto Azzurro,10.399,42.766,60
+86,Porto Azzurro,10.399,42.766,50
 60,Dazio,9.601,46.161,50
 86,Sozza,9.492,40.728,50
-60,San Cassiano,11.688,44.147,0
-303,Capo d'Orlando,14.73,38.144,0
-176,Santa Valburga,11.004,46.548,103
-86,La Grancia,13.433,41.862,86
+60,San Cassiano,11.688,44.147,60
+303,Capo d'Orlando,14.73,38.144,303
+176,Santa Valburga,11.004,46.548,86
+86,La Grancia,13.433,41.862,72
 72,Pizzone,14.037,41.672,50
 86,Piano,12.212,44.977,50
-72,Sant'Alberto,12.153,44.54,72
-253,Predoi,12.106,47.041,103
-123,Agnone,14.378,41.81,0
-86,Sassano,15.56,40.337,60
+72,Sant'Alberto,12.153,44.54,60
+253,Predoi,12.106,47.041,86
+123,Agnone,14.378,41.81,123
+86,Sassano,15.56,40.337,50
 60,Casaletto di Sopra,9.782,45.418,50
-123,Dicomano,11.523,43.891,72
+123,Dicomano,11.523,43.891,50
 72,La Serra,7.879,44.399,50
-72,Sant'Anna Arresi,8.646,39.002,0
-86,Rocchetta di Vara,9.758,44.251,60
-103,Conselice,11.834,44.512,86
-147,Partanna,12.889,37.727,72
+72,Sant'Anna Arresi,8.646,39.002,72
+86,Rocchetta di Vara,9.758,44.251,50
+103,Conselice,11.834,44.512,72
+147,Partanna,12.889,37.727,60
 72,Tatti,11.028,43.023,50
-522,Bardonecchia,6.703,45.078,253
-123,Ceggia,12.646,45.691,60
+522,Bardonecchia,6.703,45.078,211
+123,Ceggia,12.646,45.691,50
 72,Pergusa,14.308,37.524,50
 103,Olevano Romano,13.032,41.86,50
-176,La Villa,11.904,46.586,103
-435,Rovigo,11.793,45.08,253
-176,Prazzo,7.054,44.484,103
-147,Montalbano Jonico,16.569,40.288,86
+176,La Villa,11.904,46.586,86
+435,Rovigo,11.793,45.08,211
+176,Prazzo,7.054,44.484,86
+147,Montalbano Jonico,16.569,40.288,72
 60,Sant'Agata di Esaro,15.983,39.623,50
-72,Camalo,12.172,45.751,60
-86,Segrate,9.28,45.494,72
-123,Valle Agricola,14.255,41.425,86
+72,Camalo,12.172,45.751,50
+86,Segrate,9.28,45.494,60
+123,Valle Agricola,14.255,41.425,72
 60,Morano Calabro,16.136,39.843,50
 103,Paolo VI,17.276,40.52,50
-72,Valsinni,16.444,40.17,60
-72,Vasanello,12.347,42.414,60
+72,Valsinni,16.444,40.17,50
+72,Vasanello,12.347,42.414,50
 86,Blera,12.032,42.272,50
-176,Scansano,11.33,42.687,103
-211,Caorle,12.881,45.599,176
+176,Scansano,11.33,42.687,86
+211,Caorle,12.881,45.599,147
 60,Belfiore,11.21,45.382,50
-626,L'Aquila,13.396,42.364,303
-86,Montegrosso,16.141,41.173,60
+626,L'Aquila,13.396,42.364,253
+86,Montegrosso,16.141,41.173,50
 103,La Fiora,13.198,41.335,50
 72,Sant'Anna,12.272,45.16,50
-176,Chiari,9.924,45.534,60
-86,Travagliato,10.085,45.519,72
-123,Mogliano,13.474,43.183,60
-103,Bosco Chiesanuova,11.032,45.622,86
+176,Chiari,9.924,45.534,50
+86,Travagliato,10.085,45.519,60
+123,Mogliano,13.474,43.183,50
+103,Bosco Chiesanuova,11.032,45.622,72
 72,Mareson-Pecol,12.107,46.392,50
 60,Marina di Casal Velino,15.125,40.179,50
-72,Abbiategrasso,8.919,45.401,72
-253,Vigevano,8.861,45.314,176
-60,San Gimignano,11.043,43.469,0
-123,Tirano,10.165,46.216,0
-176,Cariati,16.96,39.491,147
-435,Crotone,17.125,39.08,435
-303,Quasano,16.575,40.967,103
+72,Abbiategrasso,8.919,45.401,60
+253,Vigevano,8.861,45.314,147
+60,San Gimignano,11.043,43.469,50
+123,Tirano,10.165,46.216,123
+176,Cariati,16.96,39.491,103
+435,Crotone,17.125,39.08,303
+303,Quasano,16.575,40.967,86
 86,Ruinas,8.898,39.907,50
 72,Soverano,16.252,39.542,50
-363,Manfredonia,15.91,41.625,253
+363,Manfredonia,15.91,41.625,211
 60,Ghiffa,8.617,45.958,50
-176,Santeramo in Colle,16.755,40.793,147
-303,Pomarance,10.871,43.298,103
+176,Santeramo in Colle,16.755,40.793,103
+303,Pomarance,10.871,43.298,86
 60,Canaro,11.675,44.933,50
-103,Madonna di Campiglio,10.825,46.225,72
-60,Gravina in Puglia,16.416,40.82,0
-147,Pennabilli,12.267,43.818,72
+103,Madonna di Campiglio,10.825,46.225,60
+60,Gravina in Puglia,16.416,40.82,60
+147,Pennabilli,12.267,43.818,60
 147,Tuturano,17.949,40.545,50
-103,Marzabotto,11.206,44.34,72
+103,Marzabotto,11.206,44.34,50
 103,Campello sul Clitunno,12.769,42.825,50
-60,Decimoputzu,8.915,39.335,0
+60,Decimoputzu,8.915,39.335,60
 103,Pico,13.558,41.45,50
-60,Pomarico,16.547,40.518,0
+60,Pomarico,16.547,40.518,60
 72,Ponte della Maddalena,10.461,43.901,50
-72,Senis,8.938,39.822,60
+72,Senis,8.938,39.822,50
 60,Colle di Fuori,12.181,46.776,50
-123,Panni,15.275,41.222,60
+123,Panni,15.275,41.222,50
 86,Genola,7.661,44.589,50
-147,Acquapendente,11.865,42.744,147
-1297,Messina,15.55,38.191,626
+147,Acquapendente,11.865,42.744,123
+1297,Messina,15.55,38.191,522
 60,Ruvo del Monte,15.542,40.849,50
-103,San Giorgio del Sannio,14.852,41.07,60
-147,Pizzo,16.167,38.736,72
+103,San Giorgio del Sannio,14.852,41.07,50
+147,Pizzo,16.167,38.736,50
 86,Guardamiglio,9.681,45.108,50
-86,Coloretta,9.757,44.343,60
-86,Santa Caterina Villarmosa,14.037,37.591,0
-86,Avigna,11.353,46.564,60
-86,Palagonia,14.744,37.329,86
-72,Prata,10.986,43.084,72
-435,Monasterace Marina,16.571,38.435,211
-147,Firenzuola,11.38,44.119,103
-86,Canolo Nuova,16.162,38.332,60
-1297,Taranto,17.233,40.473,626
+86,Coloretta,9.757,44.343,50
+86,Santa Caterina Villarmosa,14.037,37.591,86
+86,Avigna,11.353,46.564,50
+86,Palagonia,14.744,37.329,72
+72,Prata,10.986,43.084,60
+435,Monasterace Marina,16.571,38.435,176
+147,Firenzuola,11.38,44.119,86
+86,Canolo Nuova,16.162,38.332,50
+1297,Taranto,17.233,40.473,522
 60,Varna,11.638,46.738,50
-123,Falcone,15.082,38.117,103
-72,Lamporecchio,10.894,43.809,60
-1081,Terni,12.638,42.566,522
-147,Paggese-Santa Maria,13.417,42.778,103
-147,Dolianova,9.178,39.379,72
-86,Solanas,9.428,39.138,72
-211,Massafra,17.112,40.589,103
-123,Leonessa,12.96,42.566,123
+123,Falcone,15.082,38.117,72
+72,Lamporecchio,10.894,43.809,50
+1081,Terni,12.638,42.566,435
+147,Paggese-Santa Maria,13.417,42.778,86
+147,Dolianova,9.178,39.379,60
+86,Solanas,9.428,39.138,60
+211,Massafra,17.112,40.589,86
+123,Leonessa,12.96,42.566,103
 103,Stresa,8.533,45.883,50
 60,Pompiano,9.989,45.432,50
 72,Camposanto,11.142,44.787,50
 86,Santa Caterina dello Ionio Marina,16.568,38.527,50
-86,Cesate,9.075,45.596,72
+86,Cesate,9.075,45.596,50
 86,Carisio,8.199,45.409,50
-60,Briatico,16.028,38.723,60
-86,Perdasdefogu,9.44,39.682,72
+60,Briatico,16.028,38.723,50
+86,Perdasdefogu,9.44,39.682,50
 60,San Pellegrino Terme,9.665,45.838,50
 103,Vivo d'Orcia,11.641,42.932,50
-176,Ferriere,9.499,44.644,86
-103,Campo Tizzoro,10.859,44.04,0
-123,Piazza al Serchio-San Michele,10.294,44.185,86
-72,Lagosanto,12.143,44.761,60
-60,Ronsecco,8.278,45.252,60
-86,Caraglio,7.435,44.415,60
+176,Ferriere,9.499,44.644,72
+103,Campo Tizzoro,10.859,44.04,103
+123,Piazza al Serchio-San Michele,10.294,44.185,72
+72,Lagosanto,12.143,44.761,50
+60,Ronsecco,8.278,45.252,50
+86,Caraglio,7.435,44.415,50
 86,Fraine,14.487,41.905,50
 60,Portocannone,15.008,41.916,50
 72,Aune,11.822,46.07,50
-103,Borgo San Pietro,13.066,42.272,72
+103,Borgo San Pietro,13.066,42.272,50
 86,Marsico Nuovo,15.735,40.424,50
 72,Mezzojuso,13.465,37.865,50
 103,Padula,15.655,40.337,50
 60,Velo,11.566,45.773,50
 86,Ciavolo,12.538,37.777,50
-176,Soresina,9.854,45.289,123
-103,Pila,12.483,44.967,72
-60,Contrada Cardeto Nord,15.8,38.107,0
+176,Soresina,9.854,45.289,86
+103,Pila,12.483,44.967,60
+60,Contrada Cardeto Nord,15.8,38.107,60
 103,Le Castella,17.021,38.913,50
-363,Rovereto,11.045,45.886,176
-60,Palagano,10.648,44.322,60
-211,Villamaina,15.088,40.97,60
-60,Monteleone di Spoleto,12.951,42.651,0
-72,Campitello,10.606,45.088,60
-522,Gioia Tauro,15.896,38.431,253
-363,Solda,10.593,46.525,103
+363,Rovereto,11.045,45.886,147
+60,Palagano,10.648,44.322,50
+211,Villamaina,15.088,40.97,50
+60,Monteleone di Spoleto,12.951,42.651,60
+72,Campitello,10.606,45.088,50
+522,Gioia Tauro,15.896,38.431,211
+363,Solda,10.593,46.525,72
 86,Vernazza,9.683,44.135,50
-147,Regalbuto,14.639,37.653,103
-103,Caselle in Pittari,15.541,40.174,72
-123,Cave del Predil,13.57,46.442,60
-86,Bagnoregio,12.087,42.629,72
-253,Polla,15.5,40.515,123
-103,Grottaglie,17.437,40.54,0
-103,Calvello,15.85,40.475,103
-86,Ussassai,9.395,39.81,60
+147,Regalbuto,14.639,37.653,72
+103,Caselle in Pittari,15.541,40.174,60
+123,Cave del Predil,13.57,46.442,50
+86,Bagnoregio,12.087,42.629,60
+253,Polla,15.5,40.515,103
+103,Grottaglie,17.437,40.54,86
+103,Calvello,15.85,40.475,72
+86,Ussassai,9.395,39.81,50
 72,Dozza,11.632,44.36,50
 60,Muggia,13.768,45.604,50
 86,Tufo Basso,13.114,42.151,50
-86,Casciano,11.326,43.162,86
+86,Casciano,11.326,43.162,72
 60,Villagrande,12.359,43.841,50
-211,Pachino,15.094,36.716,211
-176,Ploaghe,8.742,40.665,123
+211,Pachino,15.094,36.716,147
+176,Ploaghe,8.742,40.665,103
 60,Sassa,10.692,43.26,50
-123,San Giuliano Milanese,9.29,45.395,86
-1297,Foggia,15.549,41.461,901
+123,San Giuliano Milanese,9.29,45.395,60
+1297,Foggia,15.549,41.461,751
 72,Motina,12.038,43.573,50
-60,Trevignano Romano,12.232,42.161,60
+60,Trevignano Romano,12.232,42.161,50
 60,Sant'Angelo in Colle,11.462,42.995,50
-60,Montefalcone nel Sannio,14.639,41.867,60
+60,Montefalcone nel Sannio,14.639,41.867,50
 147,Pocenia,13.1,45.835,50
 60,Quarto,12.087,43.892,50
-123,Storo,10.576,45.85,0
+123,Storo,10.576,45.85,123
 72,Pont-Canavese,7.596,45.423,50
-123,Sepino,14.618,41.408,60
-1081,Potenza,15.811,40.643,522
+123,Sepino,14.618,41.408,50
+1081,Potenza,15.811,40.643,435
 86,Ispica,14.906,36.788,50
 60,Montecerboli,10.88,43.248,50
-60,Sarroch,9.01,39.064,60
+60,Sarroch,9.01,39.064,50
 72,Salerni,16.229,39.387,50
-123,Poggio Renatico,11.486,44.767,72
-303,Pesaro,12.891,43.903,253
+123,Poggio Renatico,11.486,44.767,50
+303,Pesaro,12.891,43.903,176
 176,Atri,13.992,42.577,50
 72,Mascalucia,15.033,37.592,50
 60,Fiumana,11.986,44.141,50
 72,Marliana,10.77,43.934,50
 72,Marrara,11.686,44.722,50
-103,Altavilla Irpina,14.781,41.006,72
-72,Silanus,8.891,40.288,60
-253,Pigna,7.657,43.932,86
+103,Altavilla Irpina,14.781,41.006,50
+72,Silanus,8.891,40.288,50
+253,Pigna,7.657,43.932,72
 86,Mezzano,12.088,44.464,50
 60,Ingria,7.57,45.467,50
-176,Buonconvento,11.483,43.133,103
+176,Buonconvento,11.483,43.133,86
 60,San Giacomo,7.9,44.721,50
 60,Oria,17.643,40.501,50
-253,Civita Castellana,12.408,42.295,147
-103,Faiano,14.903,40.662,60
+253,Civita Castellana,12.408,42.295,123
+103,Faiano,14.903,40.662,50
 60,Sipicciano,12.229,42.545,50
 72,Pettorano sul Gizio,13.961,41.972,50
 60,Ponte Filo-Barca,15.556,40.421,50
-211,Rozzano,9.151,45.381,86
+211,Rozzano,9.151,45.381,72
 86,Bergantino,11.253,45.062,50
 72,Sessano del Molise,14.329,41.64,50
-60,Villafranca-San Martino,12.018,44.293,0
-123,Pellestrina,12.302,45.278,86
-86,Masarolis,13.43,46.173,72
-901,Udine,13.244,46.066,435
-176,Pescopagano,15.398,40.835,86
-435,Bernalda,16.69,40.412,176
-211,Corvaro,13.267,42.202,103
-211,Courmayeur,6.968,45.794,0
-363,Cassino,13.831,41.493,211
+60,Villafranca-San Martino,12.018,44.293,60
+123,Pellestrina,12.302,45.278,72
+86,Masarolis,13.43,46.173,60
+901,Udine,13.244,46.066,363
+176,Pescopagano,15.398,40.835,60
+435,Bernalda,16.69,40.412,147
+211,Corvaro,13.267,42.202,86
+211,Courmayeur,6.968,45.794,211
+363,Cassino,13.831,41.493,176
 86,Lido di Spina,12.249,44.65,50
 123,Crucoli,17.002,39.424,50
-72,Giazza,11.123,45.654,60
-147,Calendano,16.411,41.081,72
-363,Ozieri,9.002,40.584,253
+72,Giazza,11.123,45.654,50
+147,Calendano,16.411,41.081,60
+363,Ozieri,9.002,40.584,211
 60,Bagnolo San Vito,10.875,45.088,50
-147,Castel del Rio,11.504,44.214,60
-211,Giulianova,13.958,42.757,176
-147,San Valentino alla Muta,10.533,46.765,72
+147,Castel del Rio,11.504,44.214,50
+211,Giulianova,13.958,42.757,147
+147,San Valentino alla Muta,10.533,46.765,50
 72,Sant'Eufemia a Maiella,14.027,42.126,50
-123,Samassi,8.907,39.481,60
+123,Samassi,8.907,39.481,50
 60,Sant'Andrea-Pizzone-Ciamprisco,14.04,41.142,50
-103,Frassinoro,10.57,44.295,60
+103,Frassinoro,10.57,44.295,50
 72,Monti,11.425,43.402,50
 86,Vitorchiano,12.172,42.465,50
-86,Castelbelforte,10.894,45.215,86
+86,Castelbelforte,10.894,45.215,72
 72,Mezzanego,9.377,44.384,50
-147,Montella,15.018,40.844,123
-60,Riva di Tures,12.066,46.949,0
-123,Borgo San Lorenzo,11.384,43.956,123
+147,Montella,15.018,40.844,103
+60,Riva di Tures,12.066,46.949,60
+123,Borgo San Lorenzo,11.384,43.956,103
 86,Limone Piemonte,7.577,44.201,50
-103,Pozzol Groppo,9.034,44.868,60
-86,Dueville,11.553,45.635,72
+103,Pozzol Groppo,9.034,44.868,50
+86,Dueville,11.553,45.635,60
 72,Lama,11.249,43.1,50
-86,Valle Lomellina,8.668,45.153,60
-751,Verona,10.997,45.434,626
+86,Valle Lomellina,8.668,45.153,50
+751,Verona,10.997,45.434,522
 72,Castilenti,13.917,42.534,50
 60,Robella,7.307,44.653,50
 72,Planol,10.579,46.722,50
-103,Arcevia,12.944,43.501,72
-103,Camigliano,16.852,39.547,72
-147,Melfi,15.651,40.995,103
+103,Arcevia,12.944,43.501,50
+103,Camigliano,16.852,39.547,60
+147,Melfi,15.651,40.995,86
 60,Torre San Giorgio,7.528,44.735,50
 103,Canova-San Zeno,9.403,45.729,50
-103,Venturina,10.603,43.028,103
-72,Casteldelci,12.153,43.792,0
+103,Venturina,10.603,43.028,86
+72,Casteldelci,12.153,43.792,72
 60,Manoppello,14.06,42.258,50
 60,Villapiana,16.457,39.845,50
 72,Marola,11.628,45.541,50
-103,Acerno,15.06,40.737,86
+103,Acerno,15.06,40.737,72
 60,Minturno,13.735,41.252,50
 86,Carovigno,17.66,40.703,50
-86,Terontola,12.01,43.21,86
-522,Siniscola,9.692,40.572,303
+86,Terontola,12.01,43.21,72
+522,Siniscola,9.692,40.572,253
 72,Carcoforo,8.048,45.91,50
-253,Caiazzo,14.36,41.181,60
+253,Caiazzo,14.36,41.181,50
 86,Ciano d'Enza,10.41,44.599,50
-86,Bellante Stazione,13.834,42.706,72
+86,Bellante Stazione,13.834,42.706,60
 86,Sinagra,14.849,38.08,50
 86,Montemurlo,11.037,43.927,50
 86,Montaquila,14.113,41.567,50
 72,Rivamonte Agordino,12.024,46.253,50
-72,Torretta,17.036,39.453,60
-72,Castelfranco in Miscano,15.084,41.298,72
-147,Santo Stefano di Camastra,14.351,38.013,86
+72,Torretta,17.036,39.453,50
+72,Castelfranco in Miscano,15.084,41.298,60
+147,Santo Stefano di Camastra,14.351,38.013,72
 72,Sassoleone,11.484,44.262,50
 60,Campertogno,8.032,45.799,50
-147,Verzino,16.857,39.313,86
-86,Santa Teresa Gallura,9.188,41.24,0
+147,Verzino,16.857,39.313,72
+86,Santa Teresa Gallura,9.188,41.24,86
 60,Sant'Eusanio del Sangro,14.326,42.169,50
 72,Cravagliana,8.201,45.849,50
-211,Antrodoco,13.08,42.417,147
+211,Antrodoco,13.08,42.417,123
 60,Fiume Veneto,12.746,45.925,50
 60,Carpasio,7.867,43.961,50
-72,Magliano in Toscana,11.294,42.598,0
-147,Orta Nova,15.711,41.33,123
-1297,Ustica,13.192,38.711,522
-363,Sulmona,13.928,42.048,303
-901,Olbia,9.505,40.923,751
+72,Magliano in Toscana,11.294,42.598,72
+147,Orta Nova,15.711,41.33,103
+1297,Ustica,13.192,38.711,435
+363,Sulmona,13.928,42.048,253
+901,Olbia,9.505,40.923,626
 72,Pabillonis,8.722,39.591,50
-253,Ambra,11.603,43.416,60
+253,Ambra,11.603,43.416,50
 72,Lanuvio,12.692,41.672,50
-176,Bosconero,7.764,45.267,72
+176,Bosconero,7.764,45.267,50
 60,Ponsacco,10.631,43.624,50
-123,Cavarzere,12.082,45.137,86
-123,Caserma,12.179,44.243,72
+123,Cavarzere,12.082,45.137,60
+123,Caserma,12.179,44.243,60
 86,Carignano,7.675,44.907,50
-147,Claut,12.513,46.269,147
+147,Claut,12.513,46.269,103
 103,Tergu,8.716,40.867,50
-72,Proves,11.02,46.476,72
-60,Raddusa,14.535,37.475,0
-626,La Maddalena,9.412,41.221,303
-103,Rivoli,7.527,45.071,86
-60,Mioglia,8.415,44.491,60
-626,Altamura,16.548,40.828,303
+72,Proves,11.02,46.476,60
+60,Raddusa,14.535,37.475,60
+626,La Maddalena,9.412,41.221,253
+103,Rivoli,7.527,45.071,72
+60,Mioglia,8.415,44.491,50
+626,Altamura,16.548,40.828,253
 60,Vagli Sotto,10.289,44.11,50
-176,Pescasseroli,13.785,41.804,123
+176,Pescasseroli,13.785,41.804,103
 60,Pietracatella,14.873,41.581,50
 123,Montebello Vicentino,11.383,45.456,50
-103,Sella di Corno,13.184,42.365,72
-123,San Piero in Bagno,11.978,43.858,123
+103,Sella di Corno,13.184,42.365,60
+123,San Piero in Bagno,11.978,43.858,103
 123,Sambucetole,12.437,42.598,50
-60,Cersosimo,16.351,40.047,0
+60,Cersosimo,16.351,40.047,50
 72,Terraseo,8.626,39.205,50
 60,Strovina,8.849,39.525,50
 72,Casalborsetti,12.276,44.553,50
 86,Pescopennataro,14.294,41.878,50
-86,Codogne,12.427,45.871,72
-211,Prato,11.077,43.884,123
-60,Borgo Vodice,13.105,41.34,60
-86,Azzano Decimo,12.713,45.882,86
+86,Codogne,12.427,45.871,60
+211,Prato,11.077,43.884,103
+60,Borgo Vodice,13.105,41.34,50
+86,Azzano Decimo,12.713,45.882,72
 60,Parabiago,8.946,45.555,50
-86,Ovodda,9.162,40.096,72
-123,San Demetrio ne' Vestini,13.557,42.29,72
+86,Ovodda,9.162,40.096,50
+123,San Demetrio ne' Vestini,13.557,42.29,50
 60,Montefiorino,10.624,44.353,50
-86,Piano,7.9,44.351,60
-103,Sant'Ilario d'Enza,10.447,44.757,60
+86,Piano,7.9,44.351,50
+103,Sant'Ilario d'Enza,10.447,44.757,50
 60,Motta Montecorvino,15.115,41.508,50
-86,Servigliano,13.492,43.08,86
+86,Servigliano,13.492,43.08,72
 60,San Romualdo,12.171,44.496,50
-103,Predazzo,11.599,46.309,103
-123,Acqualagna,12.678,43.628,60
+103,Predazzo,11.599,46.309,86
+123,Acqualagna,12.678,43.628,50
 86,Vicero,13.314,41.737,50
-176,Palmadula,8.189,40.748,147
-211,Lucera,15.335,41.508,176
-147,Riccia,14.833,41.482,123
+176,Palmadula,8.189,40.748,123
+211,Lucera,15.335,41.508,123
+147,Riccia,14.833,41.482,103
 86,Valva,15.269,40.74,50
 72,Limana,12.189,46.104,50
 123,Lama dei Peligni,14.186,42.041,50
 72,Zovello,12.951,46.529,50
 103,Martinsicuro,13.913,42.882,50
-123,Alicudi Porto,14.36,38.536,0
-103,Samo,16.06,38.074,60
-86,Sambuca di Sicilia,13.11,37.649,72
-253,Cana,11.427,42.797,86
-123,Santa Rania,16.788,39.188,72
-626,Borgo Val di Taro,9.77,44.486,253
-72,Cittaducale,12.956,42.387,72
-103,Lanzo Torinese,7.484,45.279,86
+123,Alicudi Porto,14.36,38.536,123
+103,Samo,16.06,38.074,50
+86,Sambuca di Sicilia,13.11,37.649,60
+253,Cana,11.427,42.797,72
+123,Santa Rania,16.788,39.188,60
+626,Borgo Val di Taro,9.77,44.486,211
+72,Cittaducale,12.956,42.387,50
+103,Lanzo Torinese,7.484,45.279,60
 72,Montecalvo Irpino,15.033,41.195,50
-123,Castelfiorentino,10.971,43.606,60
+123,Castelfiorentino,10.971,43.606,50
 60,Macari,12.74,38.141,50
 86,Foza,11.629,45.899,50
-123,Vulcano Porto,14.956,38.412,60
-86,Cataeggio,9.638,46.215,86
-72,Selva,11.761,46.554,72
-60,Santo Stefano Quisquina,13.491,37.626,0
-253,Carsoli,13.086,42.102,176
+123,Vulcano Porto,14.956,38.412,50
+86,Cataeggio,9.638,46.215,60
+72,Selva,11.761,46.554,50
+60,Santo Stefano Quisquina,13.491,37.626,60
+253,Carsoli,13.086,42.102,123
 86,Verzago,9.168,45.771,50
-72,Magliano de' Marsi,13.364,42.091,60
+72,Magliano de' Marsi,13.364,42.091,50
 60,Borgo San Michele,12.967,41.439,50
-103,Lavena Ponte Tresa,8.865,45.959,86
-86,Casacalenda,14.847,41.738,72
+103,Lavena Ponte Tresa,8.865,45.959,60
+86,Casacalenda,14.847,41.738,60
 60,Forno,11.628,46.349,50
-211,Valenza,8.642,45.014,103
+211,Valenza,8.642,45.014,86
 60,Lamporo,8.093,45.23,50
-123,Mercatale-San Quirico,11.153,44.046,60
-176,Putignano,17.121,40.852,123
-303,Staffa,7.966,45.97,103
-72,Teglio,10.064,46.173,60
-103,Tubre,10.463,46.644,60
-147,Oderzo,12.498,45.789,147
-123,Roccasecca,13.667,41.552,72
+123,Mercatale-San Quirico,11.153,44.046,50
+176,Putignano,17.121,40.852,103
+303,Staffa,7.966,45.97,86
+72,Teglio,10.064,46.173,50
+103,Tubre,10.463,46.644,50
+147,Oderzo,12.498,45.789,123
+123,Roccasecca,13.667,41.552,60
 86,Foiano della Chiana,11.815,43.255,50
 60,Ceriale,8.22,44.089,50
-147,Frigole,18.246,40.428,72
-123,Mortara,8.738,45.252,86
-86,Sambuco,7.074,44.339,72
-123,Reggio nell'Emilia,10.619,44.709,0
-72,Santa Croce Camerina,14.527,36.83,0
-147,Montorio al Vomano,13.637,42.583,86
+147,Frigole,18.246,40.428,60
+123,Mortara,8.738,45.252,72
+86,Sambuco,7.074,44.339,60
+123,Reggio nell'Emilia,10.619,44.709,123
+72,Santa Croce Camerina,14.527,36.83,72
+147,Montorio al Vomano,13.637,42.583,72
 103,Sorano,11.715,42.681,50
-522,Lecce,18.178,40.357,0
+522,Lecce,18.178,40.357,522
 103,Crispiano,17.231,40.605,50
 86,Dodici Morelli,11.291,44.793,50
-72,Italba,12.16,44.889,60
+72,Italba,12.16,44.889,50
 72,Rivarolo del Re,10.475,45.032,50
-103,Melle,7.319,44.562,86
-363,Scalea,15.796,39.811,303
-147,Cividale del Friuli,13.427,46.095,123
-253,Transacqua,11.834,46.176,147
+103,Melle,7.319,44.562,72
+363,Scalea,15.796,39.811,253
+147,Cividale del Friuli,13.427,46.095,103
+253,Transacqua,11.834,46.176,103
 72,Tre Re-Mezzana Corti,9.12,45.126,50
 60,Caprile,11.995,46.438,50
-123,Geraci Siculo,14.151,37.854,60
+123,Geraci Siculo,14.151,37.854,50
 103,Palo del Colle,16.702,41.058,50
-303,Novi Ligure,8.793,44.76,147
+303,Novi Ligure,8.793,44.76,123
 60,Martignana,10.991,43.674,50
 86,Bardineto,8.134,44.191,50
 72,San Damiano d'Asti,8.063,44.834,50
 86,Tavernole,10.24,45.748,50
 60,Aglie,7.765,45.363,50
-147,Chianni,10.642,43.482,72
+147,Chianni,10.642,43.482,60
 86,Baiso,10.604,44.501,50
-253,Longarone,12.301,46.272,103
-522,Sala Consilina,15.599,40.391,253
+253,Longarone,12.301,46.272,72
+522,Sala Consilina,15.599,40.391,211
 60,Filo,11.93,44.59,50
-211,Montereale,13.245,42.524,86
-176,Alfonsine,12.041,44.506,86
-72,Verecchie,13.251,42.036,72
-176,Favignana,12.329,37.93,123
+211,Montereale,13.245,42.524,72
+176,Alfonsine,12.041,44.506,72
+72,Verecchie,13.251,42.036,50
+176,Favignana,12.329,37.93,103
 86,Anzola dell'Emilia,11.198,44.543,50
-123,Airali,7.247,44.818,60
-123,Villanova Tulo,9.212,39.781,86
-253,Codogno,9.701,45.162,123
-147,Valguarnera Caropepe,14.39,37.496,86
-253,Varese,8.824,45.819,147
+123,Airali,7.247,44.818,50
+123,Villanova Tulo,9.212,39.781,60
+253,Codogno,9.701,45.162,103
+147,Valguarnera Caropepe,14.39,37.496,72
+253,Varese,8.824,45.819,123
 86,Castellaneta Marina,16.937,40.47,50
-123,Campodarsego,11.909,45.501,86
-123,Triora,7.766,43.993,72
-176,Darfo Boario Terme,10.183,45.883,147
+123,Campodarsego,11.909,45.501,72
+123,Triora,7.766,43.993,60
+176,Darfo Boario Terme,10.183,45.883,123
 86,Simbario,16.338,38.612,50
 147,Termini,14.628,42.197,50
 86,Roveredo in Piano,12.619,46.011,50
 72,Parmezzana Calzana,10.099,45.634,50
 60,Montegrotto Terme,11.788,45.331,50
-72,Marzolara,10.172,44.632,60
-103,Ospedaletto,12.219,42.835,86
-72,Mareta,11.352,46.892,60
+72,Marzolara,10.172,44.632,50
+103,Ospedaletto,12.219,42.835,72
+72,Mareta,11.352,46.892,50
 60,Scampitella,15.305,41.093,50
-72,San Biagio Platani,13.526,37.509,72
-303,Ladispoli,12.078,41.95,211
+72,San Biagio Platani,13.526,37.509,60
+303,Ladispoli,12.078,41.95,176
 72,Zibello,10.13,45.019,50
-103,Noventa Vicentina,11.547,45.295,60
+103,Noventa Vicentina,11.547,45.295,50
 86,Chamois,7.621,45.838,50
-147,Giglio Porto,10.923,42.358,147
-86,Volpiano,7.777,45.198,60
+147,Giglio Porto,10.923,42.358,123
+86,Volpiano,7.777,45.198,50
 72,Tirli,10.894,42.845,50
 60,Piana Ferrara,14.934,41.205,50
-363,Caltagirone,14.516,37.217,211
+363,Caltagirone,14.516,37.217,176
 72,Cusino,9.153,46.074,50
 86,Santa Ninfa,12.877,37.771,50
-60,Ardea,12.523,41.605,60
-103,Castelbianco,8.062,44.116,72
+60,Ardea,12.523,41.605,50
+103,Castelbianco,8.062,44.116,60
 123,Stroppiana,8.453,45.23,50
-60,Abetone,10.664,44.145,60
+60,Abetone,10.664,44.145,50
 72,Montalto Dora,7.863,45.491,50
-211,Rilievo,12.54,37.918,60
-103,Gioia dei Marsi,13.695,41.953,60
-60,Eboli,15.058,40.614,60
-86,Castelmauro,14.71,41.829,0
+211,Rilievo,12.54,37.918,50
+103,Gioia dei Marsi,13.695,41.953,50
+60,Eboli,15.058,40.614,50
+86,Castelmauro,14.71,41.829,86
 60,Scorze,12.104,45.576,50
 103,Tobia,12.101,42.36,50
-123,Fasano,17.358,40.835,103
+123,Fasano,17.358,40.835,86
 72,Madesimo,9.357,46.437,50
-86,Naturno,11.005,46.649,0
-86,San Bonifacio,11.285,45.399,0
-147,Meldola,12.062,44.129,86
-72,Montescaglioso,16.663,40.55,72
+86,Naturno,11.005,46.649,86
+86,San Bonifacio,11.285,45.399,86
+147,Meldola,12.062,44.129,72
+72,Montescaglioso,16.663,40.55,60
 60,Salcito,14.51,41.748,50
-363,Termini Imerese,13.696,37.984,147
-103,Montecchio,12.762,43.855,86
+363,Termini Imerese,13.696,37.984,123
+103,Montecchio,12.762,43.855,72
 60,Erbe,10.969,45.242,50
 72,Alto,8.002,44.11,50
-103,Santo Stefano di Cadore,12.552,46.558,72
-103,Armeno,8.443,45.821,60
-72,Torre Santa Susanna,17.742,40.464,72
-60,Prasco,8.549,44.65,60
-123,Tolfa,11.926,42.148,86
+103,Santo Stefano di Cadore,12.552,46.558,60
+103,Armeno,8.443,45.821,50
+72,Torre Santa Susanna,17.742,40.464,60
+60,Prasco,8.549,44.65,50
+123,Tolfa,11.926,42.148,72
 103,Zappulla,14.803,36.787,50
-103,Vallermosa,8.796,39.365,60
+103,Vallermosa,8.796,39.365,50
 72,Mansue,12.536,45.822,50
 60,Romagnese,9.33,44.839,50
 72,Borgomale,8.131,44.621,50
-72,Forni Avoltri,12.776,46.587,0
+72,Forni Avoltri,12.776,46.587,72
 60,Castrofilippo,13.751,37.35,50
 60,Fabbrico,10.81,44.873,50
-626,Caltanissetta,14.047,37.49,435
+626,Caltanissetta,14.047,37.49,303
 176,Novate Mezzola,9.449,46.22,50
-147,Molveno,10.964,46.142,72
-123,Ragalna,14.952,37.644,72
-176,Podenzano,9.685,44.956,86
-86,Villadose,11.894,45.069,72
-60,Burgio,13.287,37.601,60
-86,Valsavarenche,7.21,45.592,0
-60,Casteldelfino,7.069,44.59,0
+147,Molveno,10.964,46.142,50
+123,Ragalna,14.952,37.644,60
+176,Podenzano,9.685,44.956,72
+86,Villadose,11.894,45.069,60
+60,Burgio,13.287,37.601,50
+86,Valsavarenche,7.21,45.592,86
+60,Casteldelfino,7.069,44.59,60
 72,Casei,8.927,45.008,50
 72,Ostiano,10.255,45.221,50
-435,Porto Santo Stefano,11.123,42.433,363
-303,Edolo,10.332,46.178,123
+435,Porto Santo Stefano,11.123,42.433,253
+303,Edolo,10.332,46.178,86
 72,Livo,9.305,46.169,50
-72,Castiglione in Teverina,12.203,42.65,72
-176,Bolotana,8.962,40.325,86
+72,Castiglione in Teverina,12.203,42.65,60
+176,Bolotana,8.962,40.325,72
 60,Chiusa Sclafani,13.27,37.678,50
 60,Gonzaga,10.82,44.952,50
-147,Balme,7.215,45.303,72
-176,Imola,11.711,44.349,0
-123,Stilo,16.468,38.477,86
+147,Balme,7.215,45.303,60
+176,Imola,11.711,44.349,176
+123,Stilo,16.468,38.477,72
 72,Alfedena,14.034,41.733,50
-123,Custonaci,12.688,38.074,103
-72,Valentano,11.832,42.561,72
+123,Custonaci,12.688,38.074,86
+72,Valentano,11.832,42.561,60
 123,Porto Ceresio,8.897,45.904,50
-147,Ala dei Sardi,9.328,40.65,72
-86,Givoletto,7.493,45.156,72
-123,Mira Taglio,12.137,45.434,60
-123,Badolato Marina,16.567,38.574,123
+147,Ala dei Sardi,9.328,40.65,60
+86,Givoletto,7.493,45.156,60
+123,Mira Taglio,12.137,45.434,50
+123,Badolato Marina,16.567,38.574,86
 60,Aiello Calabro,16.166,39.117,50
-86,Nusco,15.094,40.886,60
-253,Brindisi,17.938,40.628,253
-103,Gissi,14.545,42.018,72
+86,Nusco,15.094,40.886,50
+253,Brindisi,17.938,40.628,211
+103,Gissi,14.545,42.018,60
 72,Ciro,17.066,39.382,50
-123,Badesi,8.885,40.965,123
+123,Badesi,8.885,40.965,103
 60,Agra,8.77,46.036,50
-60,Villafrati,13.484,37.906,60
-253,Giaveno,7.349,45.041,103
+60,Villafrati,13.484,37.906,50
+253,Giaveno,7.349,45.041,86
 60,Pancole,11.007,43.501,50
-211,Corvara,11.149,46.872,72
-60,Badia Tedalda,12.183,43.71,0
+211,Corvara,11.149,46.872,60
+60,Badia Tedalda,12.183,43.71,60
 60,Secchiano,12.315,43.923,50
-72,Villa Literno,14.074,41.01,0
-72,Montone,12.326,43.361,60
+72,Villa Literno,14.074,41.01,72
+72,Montone,12.326,43.361,50
 60,Pisticci Scalo,16.548,40.421,50
-253,Acate,14.492,37.024,72
-72,Montechiaro d'Asti,8.111,45.007,0
-176,Modigliana,11.794,44.161,123
+253,Acate,14.492,37.024,60
+72,Montechiaro d'Asti,8.111,45.007,72
+176,Modigliana,11.794,44.161,103
 103,Roncone,10.668,45.982,50
 60,Laghi di Sibari,16.497,39.714,50
 60,Cecci,15.655,40.827,50
@@ -2846,645 +2846,645 @@ rs,name,lon,lat,r1
 86,Scorrano,13.82,42.591,50
 72,Materdomini,17.96,40.662,50
 72,Cappella,15.263,40.89,50
-72,San Nicola,15.684,41.08,0
+72,San Nicola,15.684,41.08,72
 72,San Pasquale,15.958,41.675,50
-60,Colle di Val d'Elsa,11.131,43.415,60
-103,Pescia Romana,11.496,42.398,86
+60,Colle di Val d'Elsa,11.131,43.415,50
+103,Pescia Romana,11.496,42.398,72
 103,Cerzeto,16.115,39.508,50
-253,Bono,9.033,40.415,176
-123,Nicotera,15.936,38.548,60
-103,Mesagne,17.809,40.56,86
-123,Terlizzi,16.544,41.13,72
+253,Bono,9.033,40.415,147
+123,Nicotera,15.936,38.548,50
+103,Mesagne,17.809,40.56,72
+123,Terlizzi,16.544,41.13,60
 103,Castelverde,9.996,45.189,50
-60,Aidone,14.445,37.416,60
-72,Lecore,11.074,43.8,60
-86,Antronapiana,8.115,46.061,0
-86,Rauscedo-Domanins,12.829,46.04,72
-211,Cairo Montenotte,8.277,44.402,147
-103,Sindia,8.656,40.296,86
-147,Morcone,14.672,41.343,86
+60,Aidone,14.445,37.416,50
+72,Lecore,11.074,43.8,50
+86,Antronapiana,8.115,46.061,86
+86,Rauscedo-Domanins,12.829,46.04,60
+211,Cairo Montenotte,8.277,44.402,123
+103,Sindia,8.656,40.296,72
+147,Morcone,14.672,41.343,72
 103,Nurallao,9.08,39.79,50
 60,Barbasso,10.907,45.12,50
 86,Serravalle Scrivia,8.859,44.722,50
-303,Canicatti,13.851,37.36,147
+303,Canicatti,13.851,37.36,123
 123,Lozzo di Cadore,12.444,46.487,50
-103,Pontecorvo,13.666,41.46,0
-211,Laconi,9.052,39.852,103
+103,Pontecorvo,13.666,41.46,103
+211,Laconi,9.052,39.852,72
 103,Pilastri,11.288,44.947,50
-60,Villaggio Quadrifoglio,16.687,40.9,0
+60,Villaggio Quadrifoglio,16.687,40.9,60
 72,Faieto,13.587,42.62,50
 72,Giancola,17.874,40.682,50
-60,Rezzanello,9.518,44.911,60
+60,Rezzanello,9.518,44.911,50
 103,San Nicola,16.395,39.61,50
 60,Casette,12.673,43.959,50
-103,Scopello,12.814,38.076,60
+103,Scopello,12.814,38.076,50
 72,Pozzillo,14.682,36.863,50
-123,Varsi,9.848,44.662,86
-123,Fano,13.015,43.842,86
+123,Varsi,9.848,44.662,72
+123,Fano,13.015,43.842,72
 72,Pastina,10.563,43.461,50
-86,Cleulis,13.006,46.567,86
-147,Modica,14.768,36.848,72
-147,Vignola,11.005,44.482,123
+86,Cleulis,13.006,46.567,60
+147,Modica,14.768,36.848,60
+147,Vignola,11.005,44.482,86
 86,Granieri,14.578,37.128,50
-60,Le Gotte,13.499,41.612,60
-303,Norcia,13.097,42.79,253
+60,Le Gotte,13.499,41.612,50
+303,Norcia,13.097,42.79,211
 60,Imposte,13.526,42.687,50
-86,Pisciotta,15.234,40.107,60
-86,San Martino in Pensilis,15.014,41.87,72
+86,Pisciotta,15.234,40.107,50
+86,San Martino in Pensilis,15.014,41.87,60
 72,Montemesola,17.338,40.565,50
 60,Cassano,14.715,41.031,50
 103,Castenaso,11.465,44.509,50
-86,Gallo,12.772,42.311,60
-253,Corleone,13.298,37.817,147
+86,Gallo,12.772,42.311,50
+253,Corleone,13.298,37.817,123
 60,Supersano,18.243,40.018,50
-147,Bianco,16.151,38.089,72
+147,Bianco,16.151,38.089,60
 86,Scalo dei Saraceni,15.897,41.53,50
 103,Sciali di Lauro,15.888,41.573,50
-147,Arpinova,15.593,41.532,72
-176,Segezia,15.494,41.386,72
-60,Marina di Lesina,15.277,41.895,60
+147,Arpinova,15.593,41.532,60
+176,Segezia,15.494,41.386,60
+60,Marina di Lesina,15.277,41.895,50
 60,Tivoli,15.185,37.056,50
-103,Pezzo,14.79,37.888,60
+103,Pezzo,14.79,37.888,50
 60,Santa Lucia,9.476,40.972,50
 60,Tavazzano,9.403,45.328,50
 72,Tesis,12.786,46.113,50
 103,Isola Rossa,8.876,41.013,50
-363,Castel di Sangro,14.104,41.775,176
+363,Castel di Sangro,14.104,41.775,147
 60,Bonito,15,41.097,50
 60,Dalmine,9.598,45.649,50
-211,Ascoli Piceno,13.602,42.848,211
-72,Bobbio Pellice,7.117,44.809,0
+211,Ascoli Piceno,13.602,42.848,176
+72,Bobbio Pellice,7.117,44.809,72
 103,Cassolnovo,8.808,45.362,50
-176,San Vero Milis,8.599,40.015,60
+176,San Vero Milis,8.599,40.015,50
 60,Caderzone Terme,10.757,46.13,50
 60,Pezzo,10.522,46.288,50
 72,Maschito,15.83,40.909,50
-86,Granitola Torretta,12.659,37.575,72
-86,San Benedetto Po,10.932,45.048,0
+86,Granitola Torretta,12.659,37.575,50
+86,San Benedetto Po,10.932,45.048,86
 60,Campi,13.097,42.852,50
-72,Serralonga A,16.353,39.417,72
-72,Riano,12.517,42.095,60
+72,Serralonga A,16.353,39.417,60
+72,Riano,12.517,42.095,50
 60,Selvino,9.757,45.788,50
-211,Vallo della Lucania,15.262,40.23,211
-147,Camigliatello Silano,16.445,39.339,103
+211,Vallo della Lucania,15.262,40.23,176
+147,Camigliatello Silano,16.445,39.339,72
 86,Limone sul Garda,10.787,45.807,50
 86,Fratta Todina,12.369,42.857,50
-303,Senorbi,9.13,39.535,123
-253,Adrano,14.836,37.662,86
-103,Finale Ligure,8.346,44.173,72
+303,Senorbi,9.13,39.535,103
+253,Adrano,14.836,37.662,72
+103,Finale Ligure,8.346,44.173,60
 72,Carassai,13.69,43.033,50
-86,Premilcuore,11.778,43.979,86
-123,Cisterna di Latina,12.829,41.595,72
+86,Premilcuore,11.778,43.979,72
+123,Cisterna di Latina,12.829,41.595,60
 147,Taverna,16.582,39.02,50
-103,Scardovari,12.452,44.899,103
-103,San Salvo,14.728,42.044,86
-176,Roseto degli Abruzzi,14.022,42.667,86
-435,Stintino,8.219,40.954,147
-123,Moie,13.132,43.503,72
-72,Correggio,10.785,44.768,72
-147,Rosignano Solvay-Castiglioncello,10.439,43.388,72
-86,Vianino,9.935,44.681,60
+103,Scardovari,12.452,44.899,72
+103,San Salvo,14.728,42.044,60
+176,Roseto degli Abruzzi,14.022,42.667,72
+435,Stintino,8.219,40.954,103
+123,Moie,13.132,43.503,60
+72,Correggio,10.785,44.768,60
+147,Rosignano Solvay-Castiglioncello,10.439,43.388,60
+86,Vianino,9.935,44.681,50
 72,Pian Cardillo,15.812,40.611,50
-72,Lagaro' Lupinacci,16.47,39.411,72
-86,Villaggio Gaudiano,15.878,41.087,60
-901,Oristano,8.594,39.902,522
+72,Lagaro' Lupinacci,16.47,39.411,60
+86,Villaggio Gaudiano,15.878,41.087,50
+901,Oristano,8.594,39.902,435
 60,Carpenedolo,10.432,45.365,50
-123,Cardinale,16.386,38.649,72
-60,Gibellina,12.964,37.796,0
-72,Celenza Valfortore,14.981,41.56,0
-103,La Salute di Livenza,12.801,45.654,60
-86,Carrega Ligure,9.174,44.62,60
+123,Cardinale,16.386,38.649,60
+60,Gibellina,12.964,37.796,60
+72,Celenza Valfortore,14.981,41.56,72
+103,La Salute di Livenza,12.801,45.654,50
+86,Carrega Ligure,9.174,44.62,50
 72,Cansano,14.014,42.003,50
-147,Fondi,13.429,41.355,147
-72,Ostia Parmense,9.846,44.519,60
-86,Vasari,13.236,43.654,60
+147,Fondi,13.429,41.355,123
+72,Ostia Parmense,9.846,44.519,50
+86,Vasari,13.236,43.654,50
 86,Carra,16.476,38.876,50
 60,Concio-Via Bellini,16.672,40.182,50
 72,Localita Montagnola,16.33,40.56,50
-60,Calvisi,16.306,39.128,60
-123,Castiglion Fiorentino,11.92,43.342,123
-103,Montemilone,15.968,41.029,86
+60,Calvisi,16.306,39.128,50
+123,Castiglion Fiorentino,11.92,43.342,103
+103,Montemilone,15.968,41.029,60
 303,Ghigo,7.051,44.889,50
-147,Carloforte,8.303,39.143,123
-147,Ficuzza,13.378,37.883,72
+147,Carloforte,8.303,39.143,103
+147,Ficuzza,13.378,37.883,60
 60,Pietramala,11.336,44.165,50
-176,Sassoferrato,12.857,43.433,86
-86,Brienza,15.628,40.478,86
-123,Patti,14.965,38.147,0
-123,Ceccano,13.329,41.567,72
-103,Siddi,8.888,39.673,60
-211,Sant'Antioco,8.454,39.063,103
-176,Sora,13.613,41.718,0
-72,Grottole,16.378,40.604,72
-147,Orroli,9.251,39.693,103
+176,Sassoferrato,12.857,43.433,72
+86,Brienza,15.628,40.478,72
+123,Patti,14.965,38.147,123
+123,Ceccano,13.329,41.567,60
+103,Siddi,8.888,39.673,50
+211,Sant'Antioco,8.454,39.063,86
+176,Sora,13.613,41.718,147
+72,Grottole,16.378,40.604,60
+147,Orroli,9.251,39.693,86
 103,Olivadi,16.423,38.726,50
 72,Cavedine,10.974,45.995,50
-123,Pignola,15.784,40.573,72
-147,Settimo Torinese,7.768,45.142,86
-103,Petrosino,12.496,37.712,72
-176,Bolsena,11.984,42.644,103
+123,Pignola,15.784,40.573,60
+147,Settimo Torinese,7.768,45.142,72
+103,Petrosino,12.496,37.712,60
+176,Bolsena,11.984,42.644,86
 60,Vinca,10.158,44.138,50
-72,Ceriana,7.773,43.882,60
+72,Ceriana,7.773,43.882,50
 72,Sovicille,11.226,43.279,50
-147,Villagrande,13.301,42.295,72
-147,Pontebba,13.308,46.509,103
-176,Viadana,10.519,44.93,147
-901,Domodossola,8.291,46.112,176
+147,Villagrande,13.301,42.295,60
+147,Pontebba,13.308,46.509,86
+176,Viadana,10.519,44.93,103
+901,Domodossola,8.291,46.112,147
 86,Bortolani,11.075,44.339,50
 60,Moscano,12.952,43.4,50
-72,Campione I,17.168,39.015,60
-147,Loconia,15.938,41.159,103
-147,Trevi,12.736,42.878,86
+72,Campione I,17.168,39.015,50
+147,Loconia,15.938,41.159,72
+147,Trevi,12.736,42.878,60
 60,Murgetta,16.439,40.849,50
 103,Cassari,16.296,38.44,50
 147,Casalvecchio di Puglia,15.111,41.594,50
 60,Cantorato II,17.102,39.177,50
 72,Castrignano del Capo,18.352,39.832,50
 86,Porpetto,13.218,45.858,50
-303,San Teodoro,9.672,40.775,147
-86,Momo,8.555,45.575,60
-147,Milena,13.737,37.469,60
+303,San Teodoro,9.672,40.775,123
+86,Momo,8.555,45.575,50
+147,Milena,13.737,37.469,50
 72,Ussana,9.074,39.394,50
 103,Davagna,9.092,44.467,50
 103,Viano,10.625,44.545,50
-72,San Giovanni a Piro,15.453,40.053,60
+72,San Giovanni a Piro,15.453,40.053,50
 60,Becerica,13.579,43.37,50
 60,Musebbi I,14.824,36.833,50
 86,San Giacomo Mulino,14.829,36.98,50
 60,Localita Piano Spito,13.273,37.471,50
 60,Borgo Europa,14.464,36.927,50
-60,Santa Maria di Rispescia,11.135,42.707,60
+60,Santa Maria di Rispescia,11.135,42.707,50
 60,Greggio,8.384,45.451,50
-211,Bra,7.855,44.698,123
+211,Bra,7.855,44.698,103
 86,Villa Castelli,17.474,40.585,50
 86,Fontanarosa,15.021,41.019,50
-103,Bedonia,9.634,44.501,103
+103,Bedonia,9.634,44.501,86
 103,Gonte,8.652,45.995,50
-522,Biella,8.058,45.573,253
-86,Bassacutena,9.261,41.11,60
+522,Biella,8.058,45.573,211
+86,Bassacutena,9.261,41.11,50
 72,Bussi sul Tirino,13.824,42.214,50
-72,Saluzzo,7.488,44.646,0
+72,Saluzzo,7.488,44.646,72
 60,Ellera,8.466,44.363,50
-176,Gallipoli,17.999,40.056,86
-86,Capriati a Volturno,14.146,41.468,72
-72,Cassano all'Ionio,16.317,39.784,0
-72,Prato allo Stelvio,10.593,46.62,0
-176,San Vito lo Capo,12.734,38.172,103
+176,Gallipoli,17.999,40.056,60
+86,Capriati a Volturno,14.146,41.468,60
+72,Cassano all'Ionio,16.317,39.784,72
+72,Prato allo Stelvio,10.593,46.62,72
+176,San Vito lo Capo,12.734,38.172,86
 86,Castronovo di Sicilia,13.603,37.678,50
-363,San Nicandro Garganico,15.565,41.838,123
-176,Verres,7.688,45.662,72
+363,San Nicandro Garganico,15.565,41.838,103
+176,Verres,7.688,45.662,60
 86,Strove,11.171,43.378,50
 72,Rangasile,14.515,37.184,50
 72,Masseria d'Amari,13.452,37.992,50
 103,Larderia,15.505,38.14,50
-211,Sparta',15.535,38.292,86
-86,Quadrato,12.787,41.452,86
+211,Sparta',15.535,38.292,72
+86,Quadrato,12.787,41.452,72
 103,Bucine,11.612,43.477,50
 103,Molochio,16.031,38.307,50
-86,Santadi,8.715,39.094,0
-60,Montalto delle Marche,13.609,42.99,0
+86,Santadi,8.715,39.094,86
+60,Montalto delle Marche,13.609,42.99,60
 60,Arquata Scrivia,8.88,44.692,50
-86,Cuggiono,8.815,45.511,60
-176,Tuscania,11.87,42.421,123
-103,Monticelli d'Ongina,9.93,45.09,60
-86,San Leo Bastia,12.156,43.324,60
+86,Cuggiono,8.815,45.511,50
+176,Tuscania,11.87,42.421,103
+103,Monticelli d'Ongina,9.93,45.09,50
+86,San Leo Bastia,12.156,43.324,50
 72,San Chirico Nuovo,16.081,40.677,50
-176,Melito di Porto Salvo,15.772,37.923,176
-60,Bucchianico,14.183,42.303,60
+176,Melito di Porto Salvo,15.772,37.923,147
+60,Bucchianico,14.183,42.303,50
 60,Pederobba,11.95,45.876,50
-103,Fondachelli-Fantina,15.162,37.981,86
-147,Fiumefreddo di Sicilia,15.21,37.791,72
+103,Fondachelli-Fantina,15.162,37.981,60
+147,Fiumefreddo di Sicilia,15.21,37.791,50
 103,Donori,9.127,39.431,50
-103,Castel di Iudica,14.651,37.494,72
-86,Buja,13.116,46.207,60
-522,Novara,8.614,45.441,211
-435,Campobasso,14.668,41.56,435
-211,Tempio Pausania,9.108,40.902,0
-103,Trani,16.413,41.276,86
-522,Iglesias,8.537,39.313,363
-751,Tortoli,9.666,39.929,363
-176,Massa,10.114,44.022,0
-522,Forli,12.053,44.222,363
-176,Barletta,16.289,41.312,86
-303,Villacidro,8.738,39.458,176
-86,Monza,9.274,45.583,72
-211,Castelnovo ne' Monti,10.404,44.434,176
-86,Lemie,7.29,45.229,60
-86,Almese,7.394,45.119,72
+103,Castel di Iudica,14.651,37.494,60
+86,Buja,13.116,46.207,50
+522,Novara,8.614,45.441,176
+435,Campobasso,14.668,41.56,363
+211,Tempio Pausania,9.108,40.902,211
+103,Trani,16.413,41.276,72
+522,Iglesias,8.537,39.313,303
+751,Tortoli,9.666,39.929,303
+176,Massa,10.114,44.022,147
+522,Forli,12.053,44.222,303
+176,Barletta,16.289,41.312,72
+303,Villacidro,8.738,39.458,123
+86,Monza,9.274,45.583,50
+211,Castelnovo ne' Monti,10.404,44.434,147
+86,Lemie,7.29,45.229,50
+86,Almese,7.394,45.119,60
 103,Carru,7.877,44.481,50
 86,Fiorentina,10.536,42.964,50
 72,Brucciano,11.288,43.243,50
 72,Lido Rossello,13.458,37.298,50
 60,Prato Fiorito,14.843,37.69,50
-123,Baratz,8.242,40.67,72
+123,Baratz,8.242,40.67,50
 86,Eden Beach,8.593,40.84,50
 72,Porto Tramatzu,9.639,39.454,50
 72,Barega,8.55,39.261,50
 72,Capestrano,13.766,42.269,50
 60,Sant'Angelo Muxaro,13.546,37.479,50
 72,Mercatale,11.43,44.391,50
-86,Piazza,10.423,45.511,72
+86,Piazza,10.423,45.511,60
 72,Campo Ligure,8.698,44.537,50
 60,Ferruccia,10.998,43.883,50
 60,San Giuseppe,12.218,44.722,50
 60,Piana Battolla,9.854,44.193,50
-86,Domus de Maria,8.863,38.944,72
+86,Domus de Maria,8.863,38.944,60
 60,Avelengo,11.225,46.646,50
-123,Malles Venosta,10.543,46.69,72
-72,Migliaro,12.01,44.81,72
+123,Malles Venosta,10.543,46.69,60
+72,Migliaro,12.01,44.81,60
 60,Coredo,11.089,46.351,50
-123,Borgoforte,10.749,45.051,60
+123,Borgoforte,10.749,45.051,50
 72,Inno,11.097,43.728,50
-72,Capo Comino,9.792,40.535,72
+72,Capo Comino,9.792,40.535,60
 123,Monti Nieddu,9.322,39.276,50
-147,Mandriola,8.397,40.034,72
+147,Mandriola,8.397,40.034,60
 103,Don,11.956,46.222,50
-60,Montenero,11.473,42.943,60
+60,Montenero,11.473,42.943,50
 86,Collagna,10.275,44.347,50
-103,Maratea,15.715,39.998,72
+103,Maratea,15.715,39.998,60
 72,Arba,12.79,46.146,50
 60,Pradamano,13.306,46.034,50
-60,Pescorocchiano,13.148,42.205,0
-103,Venosa,15.816,40.964,86
-60,Etroubles,7.231,45.821,60
-103,San Luca,16.065,38.148,86
-303,Alba,8.025,44.691,211
-211,Calitri,15.41,40.916,176
-176,Prizzi,13.432,37.722,103
-103,Chiaramonte Gulfi,14.702,37.03,86
+60,Pescorocchiano,13.148,42.205,60
+103,Venosa,15.816,40.964,72
+60,Etroubles,7.231,45.821,50
+103,San Luca,16.065,38.148,72
+303,Alba,8.025,44.691,176
+211,Calitri,15.41,40.916,147
+176,Prizzi,13.432,37.722,86
+103,Chiaramonte Gulfi,14.702,37.03,72
 72,Baia Azzurra-Levagnole,13.849,41.148,50
 72,Trignano,10.032,45.378,50
 60,San Pietro,11.612,46.603,50
 60,San Cipriano,11.557,46.472,50
 60,Trabia,13.634,38.005,50
-176,Adria,12.056,45.057,123
+176,Adria,12.056,45.057,103
 60,Incoronata,15.661,41.392,50
-72,Talava,9.635,40.682,60
+72,Talava,9.635,40.682,50
 103,Molino-Pera,8.309,44.49,50
-86,Santu Lussurgiu,8.658,40.141,0
-72,Balestrate,13.004,38.052,72
-522,Termoli,14.999,41.989,303
+86,Santu Lussurgiu,8.658,40.141,86
+72,Balestrate,13.004,38.052,60
+522,Termoli,14.999,41.989,253
 60,Cabanette,8.583,44.885,50
-123,Bondione,10.006,46.034,60
-60,Centro Climatico San Paolo,17.326,40.645,60
-72,Carpinone,14.324,41.591,60
+123,Bondione,10.006,46.034,50
+60,Centro Climatico San Paolo,17.326,40.645,50
+72,Carpinone,14.324,41.591,50
 123,San Vito Chietino,14.443,42.292,50
-86,Bagolino,10.462,45.824,86
+86,Bagolino,10.462,45.824,60
 60,Miratoio,12.244,43.762,50
 72,Surbo,18.135,40.396,50
 60,Orsogna,14.276,42.221,50
-103,Guiglia,10.965,44.423,60
+103,Guiglia,10.965,44.423,50
 86,Ceresole Alba,7.822,44.8,50
 60,Belverde,11.31,43.349,50
-60,Montefalco,12.649,42.891,60
+60,Montefalco,12.649,42.891,50
 60,Valprato Soana,7.554,45.527,50
-103,Tavernelle,12.149,43.003,103
-72,Cannara,12.579,42.996,60
+103,Tavernelle,12.149,43.003,86
+72,Cannara,12.579,42.996,50
 72,Torre di Santa Maria,9.852,46.233,50
-176,Ravanusa,13.969,37.267,103
+176,Ravanusa,13.969,37.267,86
 72,Presta,14.462,41.11,50
 72,Masseria Maiorano,15.242,40.983,50
 60,Carosina di Sopra,15.3,41.039,50
 60,Casilina Sud,13.419,41.543,50
 103,Pila-Ciel Blu,7.298,45.691,50
 72,Calvo,7.555,43.829,50
-72,Vignola,12.296,43.998,60
+72,Vignola,12.296,43.998,50
 60,Montagnana,10.83,44.479,50
-147,Loiano,11.33,44.261,123
+147,Loiano,11.33,44.261,103
 72,Bibbiano,10.478,44.664,50
-176,Pozzuoli,14.101,40.834,103
+176,Pozzuoli,14.101,40.834,86
 60,Ravina,11.112,46.04,50
-211,Ballao,9.362,39.548,60
-103,Oliena,9.403,40.272,72
+211,Ballao,9.362,39.548,50
+103,Oliena,9.403,40.272,60
 60,Scarlino,10.852,42.907,50
 72,Sticciano Scalo,11.119,42.926,50
-147,Camaiore,10.304,43.938,72
-86,Piazza,11.152,45.878,60
-103,Acciaroli,15.027,40.179,72
+147,Camaiore,10.304,43.938,50
+86,Piazza,11.152,45.878,50
+103,Acciaroli,15.027,40.179,60
 86,Castell'Arquato,9.875,44.855,50
-123,San Vito,12.207,46.46,72
+123,San Vito,12.207,46.46,60
 60,Mellame,11.747,45.991,50
-86,Noto,15.069,36.892,60
-103,Portoscuso,8.381,39.209,60
+86,Noto,15.069,36.892,50
+103,Portoscuso,8.381,39.209,50
 60,Sternatia,18.228,40.219,50
-103,Riola,11.058,44.23,60
+103,Riola,11.058,44.23,50
 86,Cesuna,11.457,45.837,50
-72,Torre Rinalda,18.179,40.469,60
+72,Torre Rinalda,18.179,40.469,50
 72,Compart,10.118,46.498,50
 86,Santa Maria,11.535,43.58,50
-253,Casamassima,16.919,40.958,60
+253,Casamassima,16.919,40.958,50
 60,Mezzaselva,11.574,46.807,50
-435,Teramo,13.714,42.662,176
+435,Teramo,13.714,42.662,147
 103,Smerillo,13.444,43.005,50
-103,Longastrino,12.011,44.588,86
+103,Longastrino,12.011,44.588,72
 72,Borno,10.204,45.946,50
 60,Scano di Montiferro,8.587,40.215,50
 86,Savazza,11.399,44.3,50
 60,Villa Inferno,12.315,44.231,50
 72,Cura Carpignano,9.254,45.213,50
-86,Villa San Giovanni,15.64,38.217,72
+86,Villa San Giovanni,15.64,38.217,60
 60,Astura,12.784,41.423,50
-123,Vairano,9.254,45.272,60
+123,Vairano,9.254,45.272,50
 72,Sant'Isidoro,17.937,40.222,50
 103,San Giorgio,11.738,42.197,50
 72,San Cataldo,18.3,40.391,50
 60,Spineto,15.116,40.591,50
 72,Marina,12.366,41.979,50
 60,Olmo,14.912,40.603,50
-72,Braies,12.133,46.72,60
-211,Roure,7.129,45.001,72
-123,Sorbolo,10.444,44.849,86
-86,Colli Verdi,9.273,44.928,86
-60,Ca' d'Andrea,10.278,45.12,0
-103,Valdilana,8.161,45.664,86
+72,Braies,12.133,46.72,50
+211,Roure,7.129,45.001,60
+123,Sorbolo,10.444,44.849,72
+86,Colli Verdi,9.273,44.928,72
+60,Ca' d'Andrea,10.278,45.12,60
+103,Valdilana,8.161,45.664,72
 103,Valmala,7.342,44.514,50
-60,Valchiusa,7.777,45.495,60
+60,Valchiusa,7.777,45.495,50
 86,Presicce,18.263,39.899,50
-123,Valbrenta,11.668,45.849,86
+123,Valbrenta,11.668,45.849,72
 72,Ro,11.76,44.946,50
-72,Salorno sulla strada del vino#Salurn an der Weinstrasse,11.212,46.239,0
+72,Salorno sulla strada del vino#Salurn an der Weinstrasse,11.212,46.239,72
 86,Conco,11.609,45.8,50
-147,Riva del Po,11.979,44.979,86
-123,Tresignana,11.897,44.818,72
-103,Barberino Tavarnelle,11.172,43.561,86
-72,Sassocorvaro Auditore,12.499,43.779,0
-147,Borgo Valbelluna,12.079,46.062,103
-123,Pieve del Grappa,11.839,45.827,72
-147,Negrar di Valpolicella,10.938,45.53,103
-100000,Milano,9.182,45.541,0
-9627,Napoli,14.339,40.851,4644
-2240,Roma,12.501,41.883,1556
-1297,Torino,7.644,45.067,1081
-1556,Catania,15.067,37.536,1556
-2240,Bologna,11.336,44.494,1556
-1081,Firenze,11.238,43.774,751
-363,Bergamo,9.651,45.707,363
-147,Busto Arsizio,8.905,45.6,0
-3225,Cagliari,9.143,39.237,2688
-435,Caserta,14.304,41.064,211
-1867,Padova,11.871,45.412,901
-626,Brescia,10.217,45.562,435
-1867,Pescara,14.202,42.466,1297
-303,Mestre,12.225,45.491,253
-253,Gallarate,8.795,45.665,72
-303,Pisa,10.439,43.705,147
-5572,Sassari,8.556,40.734,1556
-147,Acireale,15.127,37.608,72
-2688,Cosenza,16.242,39.317,1081
-901,Trento,11.129,46.071,435
-751,Trapani,12.538,38.021,626
-363,Savona,8.475,44.31,303
-123,Venezia,12.346,45.426,86
-363,Pordenone,12.659,45.967,303
-176,Battipaglia,14.973,40.61,147
-253,Sassuolo,10.815,44.539,123
-176,Bagheria,13.519,38.081,147
-435,Avellino,14.802,40.918,211
-123,San Giuseppe Vesuviano,14.495,40.837,86
-303,Lecco,9.389,45.854,176
-176,Osio Di Sotto,9.598,45.621,86
-123,Nola,14.534,40.941,103
-123,Sesto Fiorentino-Padule,11.2,43.836,60
-86,Ariccia,12.668,41.723,86
-176,Bassano del Grappa-Quartiere Largo Parolini,11.744,45.765,0
+147,Riva del Po,11.979,44.979,60
+123,Tresignana,11.897,44.818,60
+103,Barberino Tavarnelle,11.172,43.561,72
+72,Sassocorvaro Auditore,12.499,43.779,72
+147,Borgo Valbelluna,12.079,46.062,72
+123,Pieve del Grappa,11.839,45.827,50
+147,Negrar di Valpolicella,10.938,45.53,72
+100000,Milano,9.182,45.541,100000
+9627,Napoli,14.339,40.851,3870
+2240,Roma,12.501,41.883,1081
+1297,Torino,7.644,45.067,901
+1556,Catania,15.067,37.536,1081
+2240,Bologna,11.336,44.494,1297
+1081,Firenze,11.238,43.774,626
+363,Bergamo,9.651,45.707,253
+147,Busto Arsizio,8.905,45.6,147
+3225,Cagliari,9.143,39.237,2240
+435,Caserta,14.304,41.064,176
+1867,Padova,11.871,45.412,751
+626,Brescia,10.217,45.562,303
+1867,Pescara,14.202,42.466,1081
+303,Mestre,12.225,45.491,211
+253,Gallarate,8.795,45.665,60
+303,Pisa,10.439,43.705,123
+5572,Sassari,8.556,40.734,1297
+147,Acireale,15.127,37.608,60
+2688,Cosenza,16.242,39.317,901
+901,Trento,11.129,46.071,363
+751,Trapani,12.538,38.021,522
+363,Savona,8.475,44.31,253
+123,Venezia,12.346,45.426,72
+363,Pordenone,12.659,45.967,253
+176,Battipaglia,14.973,40.61,123
+253,Sassuolo,10.815,44.539,103
+176,Bagheria,13.519,38.081,123
+435,Avellino,14.802,40.918,176
+123,San Giuseppe Vesuviano,14.495,40.837,60
+303,Lecco,9.389,45.854,147
+176,Osio Di Sotto,9.598,45.621,72
+123,Nola,14.534,40.941,86
+123,Sesto Fiorentino-Padule,11.2,43.836,50
+86,Ariccia,12.668,41.723,72
+176,Bassano del Grappa-Quartiere Largo Parolini,11.744,45.765,176
 103,Capurso,16.925,41.058,50
-253,Casamicciola Terme,13.912,40.74,147
-176,Sant'Agnello-Maiano,14.401,40.631,86
-147,Empoli-Terrafino,10.943,43.721,147
-86,Pieve a Nievole,10.783,43.88,0
-147,Talsano,17.267,40.403,72
-147,San Donà di Piave,12.569,45.631,0
-363,Carlentini-Masseria Piano Viola,15.005,37.28,211
-147,Borgetto,13.122,38.047,123
-123,Magenta,8.901,45.469,103
-363,Chiavari-Sampierdicanne,9.326,44.315,303
-435,Giarre-Altarello,15.192,37.725,123
-253,Monfalcone,13.528,45.805,123
-86,Conca dei Marini,14.586,40.638,86
-147,Colle Laghetto,12.628,41.987,72
+253,Casamicciola Terme,13.912,40.74,123
+176,Sant'Agnello-Maiano,14.401,40.631,72
+147,Empoli-Terrafino,10.943,43.721,123
+86,Pieve a Nievole,10.783,43.88,72
+147,Talsano,17.267,40.403,50
+147,San Donà di Piave,12.569,45.631,147
+363,Carlentini-Masseria Piano Viola,15.005,37.28,176
+147,Borgetto,13.122,38.047,103
+123,Magenta,8.901,45.469,86
+363,Chiavari-Sampierdicanne,9.326,44.315,253
+435,Giarre-Altarello,15.192,37.725,103
+253,Monfalcone,13.528,45.805,103
+86,Conca dei Marini,14.586,40.638,60
+147,Colle Laghetto,12.628,41.987,60
 103,Olginate,9.421,45.806,50
 103,Santa Maria,16.613,38.841,50
-103,Orbassano,7.533,45.006,72
-147,Lomagna,9.377,45.662,86
+103,Orbassano,7.533,45.006,50
+147,Lomagna,9.377,45.662,60
 60,Municipio 5,16.759,41.156,50
-103,Baiano,14.618,40.951,60
-147,Santa Maria a Vico,14.478,41.023,72
+103,Baiano,14.618,40.951,50
+147,Santa Maria a Vico,14.478,41.023,60
 86,Vimercate-White Towers,9.371,45.613,50
 103,Porto Sant'Elpidio,13.762,43.252,50
-123,Quartiere Primavera,12.499,41.668,123
+123,Quartiere Primavera,12.499,41.668,103
 86,Casaletto Lodigiano,9.329,45.356,50
-901,Racale,18.09,39.968,211
+901,Racale,18.09,39.968,176
 60,Castel Volturno,13.961,41.005,50
-86,Augusta,15.223,37.228,0
-72,Cattolica,12.738,43.962,60
+86,Augusta,15.223,37.228,86
+72,Cattolica,12.738,43.962,50
 60,Merate-Cicognola,9.426,45.69,50
-147,Bastia Umbra-Bastiola,12.556,43.066,123
-60,Venetico-Piano del bosco,15.373,38.219,0
-626,Clusone,9.966,45.888,211
-303,Jesolo,12.639,45.515,123
-211,Terrasini,13.091,38.155,103
-103,Costa di Mezzate,9.808,45.668,72
+147,Bastia Umbra-Bastiola,12.556,43.066,86
+60,Venetico-Piano del bosco,15.373,38.219,60
+626,Clusone,9.966,45.888,176
+303,Jesolo,12.639,45.515,86
+211,Terrasini,13.091,38.155,86
+103,Costa di Mezzate,9.808,45.668,60
 60,Rutigliano,17.006,41.006,50
-60,Villongo,9.947,45.668,0
-86,San Pietro in Lama,18.142,40.303,60
-123,Tortoreto,13.934,42.819,60
-60,Maserada sul Piave,12.344,45.716,60
-435,Orvieto,12.118,42.725,303
-72,Noventa Padovana,11.952,45.419,60
-303,Poggiardo,18.392,40.023,176
-176,Castel Maggiore,11.36,44.581,86
-147,Anguillara Sabazia,12.281,42.081,147
-86,Cavaion Veronese,10.75,45.532,0
-123,Trinitapoli,16.089,41.357,0
-72,San Ferdinando di Puglia,16.072,41.303,60
-103,Borgo Valsugana,11.491,46.061,0
-176,Fiano Romano,12.594,42.15,86
-123,Ossi,8.575,40.672,60
-253,San Giovanni Gemini,13.639,37.63,253
-303,Chiavenna-Crotti di Pratogiano,9.395,46.313,0
-211,Tricesimo,13.222,46.162,103
-211,San Cipirello,13.181,37.967,86
-103,Inverso Pinasca-Haute Perlà,7.227,44.933,72
-522,Santa Teresa di Riva,15.382,37.959,176
-147,Telese Terme,14.523,41.215,0
-123,Zogno,9.67,45.811,86
-147,Renate,9.282,45.733,72
-435,Gemona del Friuli,13.115,46.274,103
-176,Bussoleno-Cervetto,7.188,45.133,0
+60,Villongo,9.947,45.668,60
+86,San Pietro in Lama,18.142,40.303,50
+123,Tortoreto,13.934,42.819,50
+60,Maserada sul Piave,12.344,45.716,50
+435,Orvieto,12.118,42.725,253
+72,Noventa Padovana,11.952,45.419,50
+303,Poggiardo,18.392,40.023,147
+176,Castel Maggiore,11.36,44.581,72
+147,Anguillara Sabazia,12.281,42.081,123
+86,Cavaion Veronese,10.75,45.532,86
+123,Trinitapoli,16.089,41.357,103
+72,San Ferdinando di Puglia,16.072,41.303,50
+103,Borgo Valsugana,11.491,46.061,103
+176,Fiano Romano,12.594,42.15,72
+123,Ossi,8.575,40.672,50
+253,San Giovanni Gemini,13.639,37.63,211
+303,Chiavenna-Crotti di Pratogiano,9.395,46.313,253
+211,Tricesimo,13.222,46.162,72
+211,San Cipirello,13.181,37.967,60
+103,Inverso Pinasca-Haute Perlà,7.227,44.933,60
+522,Santa Teresa di Riva,15.382,37.959,147
+147,Telese Terme,14.523,41.215,123
+123,Zogno,9.67,45.811,72
+147,Renate,9.282,45.733,60
+435,Gemona del Friuli,13.115,46.274,86
+176,Bussoleno-Cervetto,7.188,45.133,176
 72,Manziana,12.123,42.14,50
-123,Municipio Roma V,12.607,41.916,72
-147,Borghetto Santo Spirito,8.251,44.119,72
-303,Maniago,12.705,46.163,211
-123,Narni,12.519,42.525,86
-72,Lurate Caccivio,9.01,45.771,60
-123,Scandiano,10.691,44.596,86
-86,Sesto Calende,8.638,45.721,60
-211,Felino,10.248,44.699,103
-176,Valperga,7.653,45.388,147
-86,Buti,10.607,43.721,60
-103,Solesino,11.749,45.185,60
-147,Tremezzina-Monti di Nava,9.212,45.97,123
-86,Cosio Valtellino-Mellarolo,9.567,46.134,0
-123,Lovere-Porto Turistico di Lovere,10.084,45.82,72
-123,Polistena-Primogenito,16.08,38.408,60
-103,Pontassieve-Podere Catese,11.435,43.774,0
-60,Vanzaghello,8.799,45.58,0
-103,Tarcento-Borgo Patochis,13.196,46.219,60
-86,Leffe,9.893,45.804,72
-123,Gavardo,10.445,45.591,86
-123,Carrara,10.098,44.078,60
-60,Municipio Roma XII,12.353,41.877,0
-211,Sessa Aurunca,13.926,41.222,103
-86,Capaccio Paestum,15.009,40.429,86
-253,Satriano,16.548,38.689,147
-123,Matelica,13.009,43.258,86
+123,Municipio Roma V,12.607,41.916,60
+147,Borghetto Santo Spirito,8.251,44.119,50
+303,Maniago,12.705,46.163,147
+123,Narni,12.519,42.525,72
+72,Lurate Caccivio,9.01,45.771,50
+123,Scandiano,10.691,44.596,72
+86,Sesto Calende,8.638,45.721,50
+211,Felino,10.248,44.699,86
+176,Valperga,7.653,45.388,123
+86,Buti,10.607,43.721,50
+103,Solesino,11.749,45.185,50
+147,Tremezzina-Monti di Nava,9.212,45.97,103
+86,Cosio Valtellino-Mellarolo,9.567,46.134,86
+123,Lovere-Porto Turistico di Lovere,10.084,45.82,60
+123,Polistena-Primogenito,16.08,38.408,50
+103,Pontassieve-Podere Catese,11.435,43.774,103
+60,Vanzaghello,8.799,45.58,60
+103,Tarcento-Borgo Patochis,13.196,46.219,50
+86,Leffe,9.893,45.804,60
+123,Gavardo,10.445,45.591,72
+123,Carrara,10.098,44.078,50
+60,Municipio Roma XII,12.353,41.877,60
+211,Sessa Aurunca,13.926,41.222,86
+86,Capaccio Paestum,15.009,40.429,72
+253,Satriano,16.548,38.689,123
+123,Matelica,13.009,43.258,60
 60,Azzano Mella,10.107,45.459,50
-363,Calto,11.295,45.014,176
-176,La Storta,12.38,42.013,72
+363,Calto,11.295,45.014,123
+176,La Storta,12.38,42.013,60
 86,Soliera-Villa Gaddi,10.917,44.73,50
-303,Salemi,12.796,37.828,103
-303,Châtillon-Govergnau,7.628,45.748,211
-103,Vitulazio,14.22,41.162,60
-253,Rogliano,16.317,39.193,123
+303,Salemi,12.796,37.828,72
+303,Châtillon-Govergnau,7.628,45.748,176
+103,Vitulazio,14.22,41.162,50
+253,Rogliano,16.317,39.193,103
 72,Arcisate,8.862,45.856,50
-626,Barge,7.321,44.744,123
-123,Casorate Primo,9.016,45.315,86
-211,Tropea,15.891,38.675,176
-211,Nizza Monferrato,8.358,44.773,103
-60,San Giorgio di Piano-Corte Ca' Ramandola,11.36,44.645,60
-103,Campagnano di Roma,12.374,42.131,72
-72,Sortino,15.033,37.16,0
-86,Camisano Vicentino,11.715,45.522,0
-72,Latina Scalo,12.949,41.531,72
-147,Val Polcevera,8.902,44.498,72
-72,San Daniele del Friuli,13.001,46.168,72
-303,Portomaggiore,11.807,44.694,103
-253,Tolmezzo,13.017,46.401,123
-123,Torgiano,12.378,43.023,72
+626,Barge,7.321,44.744,86
+123,Casorate Primo,9.016,45.315,72
+211,Tropea,15.891,38.675,123
+211,Nizza Monferrato,8.358,44.773,86
+60,San Giorgio di Piano-Corte Ca' Ramandola,11.36,44.645,50
+103,Campagnano di Roma,12.374,42.131,60
+72,Sortino,15.033,37.16,72
+86,Camisano Vicentino,11.715,45.522,86
+72,Latina Scalo,12.949,41.531,50
+147,Val Polcevera,8.902,44.498,60
+72,San Daniele del Friuli,13.001,46.168,60
+303,Portomaggiore,11.807,44.694,72
+253,Tolmezzo,13.017,46.401,103
+123,Torgiano,12.378,43.023,60
 103,Nepi,12.351,42.245,50
-147,VII Circoscrizione,13.277,38.2,86
-123,Lendinara,11.604,45.087,103
-211,Porlezza-Monte di Palo,9.133,46.041,72
-211,Penne,13.926,42.452,176
-86,Amelia,12.43,42.549,72
-363,Cetraro,15.948,39.511,147
-123,Cividate Camuno-Borgo Olcese,10.28,45.939,72
-103,Lume,15.652,38.031,86
-123,Strambino,7.882,45.389,72
-303,Ilartzi/Ghilarza,8.827,40.128,147
-123,Magione,12.22,43.141,123
-123,Girifalco,16.417,38.831,123
-435,Cavalese,11.45,46.29,123
-123,Subbiano-Fighille,11.862,43.565,103
-72,Spinetta Marengo,8.7,44.88,60
-147,Monteroni d'Arbia,11.403,43.244,72
+147,VII Circoscrizione,13.277,38.2,72
+123,Lendinara,11.604,45.087,86
+211,Porlezza-Monte di Palo,9.133,46.041,60
+211,Penne,13.926,42.452,123
+86,Amelia,12.43,42.549,50
+363,Cetraro,15.948,39.511,123
+123,Cividate Camuno-Borgo Olcese,10.28,45.939,60
+103,Lume,15.652,38.031,60
+123,Strambino,7.882,45.389,60
+303,Ilartzi/Ghilarza,8.827,40.128,103
+123,Magione,12.22,43.141,103
+123,Girifalco,16.417,38.831,103
+435,Cavalese,11.45,46.29,103
+123,Subbiano-Fighille,11.862,43.565,72
+72,Spinetta Marengo,8.7,44.88,50
+147,Monteroni d'Arbia,11.403,43.244,60
 86,Trescore Cremasco,9.625,45.409,50
-147,Robecco d'Oglio,10.086,45.268,86
-72,Grazzanise,14.111,41.09,72
-103,Sedico,12.106,46.124,60
-86,Lanusèi/Lanusei,9.544,39.884,0
-303,Subiaco,13.09,41.93,123
-253,Chianciano Terme,11.818,43.059,0
-86,Casteltermini,13.643,37.541,86
+147,Robecco d'Oglio,10.086,45.268,72
+72,Grazzanise,14.111,41.09,60
+103,Sedico,12.106,46.124,50
+86,Lanusèi/Lanusei,9.544,39.884,72
+303,Subiaco,13.09,41.93,103
+253,Chianciano Terme,11.818,43.059,211
+86,Casteltermini,13.643,37.541,72
 86,Giardinello,13.17,38.09,50
-123,Taormina,15.282,37.847,60
-103,Chiusi,11.957,43.004,103
-86,Laureana di Borrello,16.084,38.49,86
-123,Rivolta d'Adda,9.515,45.467,60
-176,Bojano,14.473,41.491,147
+123,Taormina,15.282,37.847,50
+103,Chiusi,11.957,43.004,86
+86,Laureana di Borrello,16.084,38.49,60
+123,Rivolta d'Adda,9.515,45.467,50
+176,Bojano,14.473,41.491,103
 86,Archi,15.661,38.15,50
 103,Urbino,12.63,43.735,50
-72,Barberino di Mugello,11.236,43.994,0
-72,Cavallino-Treporti,12.439,45.455,60
-363,Castelnuovo di Garfagnana-Alla Chiossa,10.408,44.121,176
-123,Argenta,11.834,44.612,86
-60,Brolo,14.841,38.157,0
-123,Santi Cosma e Damiano,13.815,41.282,60
-211,Aulla,9.964,44.222,72
-103,Sommatino,13.997,37.335,72
-147,Vallerano,12.272,42.384,103
-303,Busalla-Prele,8.962,44.569,72
-123,Pontinia-Borgo Pasubio,13.046,41.41,86
-103,Volterra,10.861,43.402,0
-147,Brugnera,12.531,45.903,60
-103,Casteggio-Cascina Monteriolo,9.122,45.01,86
-86,Guardia Sanframondi,14.615,41.253,72
-147,Spezzano Albanese,16.301,39.67,123
-60,Morrovalle,13.591,43.274,60
+72,Barberino di Mugello,11.236,43.994,60
+72,Cavallino-Treporti,12.439,45.455,50
+363,Castelnuovo di Garfagnana-Alla Chiossa,10.408,44.121,147
+123,Argenta,11.834,44.612,72
+60,Brolo,14.841,38.157,60
+123,Santi Cosma e Damiano,13.815,41.282,50
+211,Aulla,9.964,44.222,50
+103,Sommatino,13.997,37.335,60
+147,Vallerano,12.272,42.384,72
+303,Busalla-Prele,8.962,44.569,60
+123,Pontinia-Borgo Pasubio,13.046,41.41,72
+103,Volterra,10.861,43.402,103
+147,Brugnera,12.531,45.903,50
+103,Casteggio-Cascina Monteriolo,9.122,45.01,72
+86,Guardia Sanframondi,14.615,41.253,50
+147,Spezzano Albanese,16.301,39.67,86
+60,Morrovalle,13.591,43.274,50
 103,Levico Terme,11.311,46.01,50
-72,Belgioioso-Ca' Po,9.316,45.162,72
-147,Genzano di Lucania,16.024,40.847,0
-123,Castellabate,14.951,40.287,60
-60,Castellarano-Le Malee,10.73,44.509,60
-72,Pont-Saint-Martin-Pra Signore,7.792,45.598,0
-211,Gangi,14.206,37.795,123
-103,Cori,12.915,41.644,60
+72,Belgioioso-Ca' Po,9.316,45.162,60
+147,Genzano di Lucania,16.024,40.847,123
+123,Castellabate,14.951,40.287,50
+60,Castellarano-Le Malee,10.73,44.509,50
+72,Pont-Saint-Martin-Pra Signore,7.792,45.598,72
+211,Gangi,14.206,37.795,103
+103,Cori,12.915,41.644,50
 72,Campogalliano,10.847,44.692,50
 103,Rufina-Docciolino,11.488,43.826,50
-176,Arzachena,9.39,41.077,147
-86,Bisignano,16.28,39.505,86
-86,Caluso,7.888,45.294,0
+176,Arzachena,9.39,41.077,123
+86,Bisignano,16.28,39.505,72
+86,Caluso,7.888,45.294,72
 103,Rudiano,9.882,45.486,50
-86,Campofelice di Roccella,13.891,37.996,0
+86,Campofelice di Roccella,13.891,37.996,86
 60,Casinalbo,10.861,44.599,50
-123,Filottrano,13.354,43.433,86
-86,Cartoceto,12.94,43.775,72
-103,Lignano Sabbiadoro,13.117,45.684,0
-147,Dronero-Pragermano,7.355,44.466,147
-60,Bagnaria Arsa-La Franca,13.32,45.899,0
+123,Filottrano,13.354,43.433,72
+86,Cartoceto,12.94,43.775,60
+103,Lignano Sabbiadoro,13.117,45.684,103
+147,Dronero-Pragermano,7.355,44.466,103
+60,Bagnaria Arsa-La Franca,13.32,45.899,60
 60,Venice-Favaro Veneto,12.293,45.489,50
-72,Tortorici,14.823,38.036,0
-253,Belvedere Marittimo,15.849,39.631,123
-253,Todi,12.421,42.776,123
-123,Susa,7.056,45.136,103
-626,Lipari,14.956,38.473,253
+72,Tortorici,14.823,38.036,72
+253,Belvedere Marittimo,15.849,39.631,86
+253,Todi,12.421,42.776,103
+123,Susa,7.056,45.136,72
+626,Lipari,14.956,38.473,211
 72,Capranica,12.171,42.258,50
 86,Pineto,14.054,42.614,50
-176,Aviano,12.581,46.073,86
-211,Sant'Arcangelo,16.262,40.254,103
-86,Crescentino,8.098,45.196,0
-123,Alto Reno Terme-Cà di Maggio,10.975,44.169,0
-60,San Michele Salentino,17.628,40.632,60
-72,Casalbordino,14.594,42.153,0
-103,San Paolo di Civitate,15.262,41.739,86
-103,Busca,7.478,44.516,86
-72,Duino-Aurisina,13.632,45.767,72
-72,Ceprano,13.513,41.541,0
+176,Aviano,12.581,46.073,72
+211,Sant'Arcangelo,16.262,40.254,86
+86,Crescentino,8.098,45.196,86
+123,Alto Reno Terme-Cà di Maggio,10.975,44.169,123
+60,San Michele Salentino,17.628,40.632,50
+72,Casalbordino,14.594,42.153,72
+103,San Paolo di Civitate,15.262,41.739,72
+103,Busca,7.478,44.516,72
+72,Duino-Aurisina,13.632,45.767,60
+72,Ceprano,13.513,41.541,72
 103,Camerano,13.556,43.529,50
-147,Mileto,16.062,38.601,72
-123,Calatafimi-Segesta,12.871,37.909,72
-211,Massa Marittima,10.893,43.047,123
-72,Porto Corsini,12.27,44.5,0
-147,Sersale,16.732,39.013,72
-103,Montecassiano,13.46,43.357,60
-72,Grottaminarda,15.059,41.069,0
-123,Lioni,15.18,40.883,123
-103,Guardiagrele,14.209,42.193,0
-253,Ala,11.001,45.761,86
+147,Mileto,16.062,38.601,60
+123,Calatafimi-Segesta,12.871,37.909,60
+211,Massa Marittima,10.893,43.047,103
+72,Porto Corsini,12.27,44.5,72
+147,Sersale,16.732,39.013,50
+103,Montecassiano,13.46,43.357,50
+72,Grottaminarda,15.059,41.069,72
+123,Lioni,15.18,40.883,103
+103,Guardiagrele,14.209,42.193,103
+253,Ala,11.001,45.761,72
 72,Canepina,12.239,42.42,50
-60,Premolo,9.888,45.871,60
-211,Grosotto-Bedol,10.268,46.292,72
-123,Pedaso,13.831,43.097,72
-86,Montenero di Bisaccia,14.781,41.967,72
-147,Tito,15.679,40.59,103
+60,Premolo,9.888,45.871,50
+211,Grosotto-Bedol,10.268,46.292,60
+123,Pedaso,13.831,43.097,60
+86,Montenero di Bisaccia,14.781,41.967,60
+147,Tito,15.679,40.59,86
 103,Cavezzo,11.025,44.835,50
-211,Cingoli,13.212,43.386,103
-86,Pontenure,9.785,44.999,60
+211,Cingoli,13.212,43.386,86
+86,Pontenure,9.785,44.999,50
 60,Ponte nelle Alpi,12.285,46.178,50
-435,Pula,9.002,39.008,147
-176,Ascoli Satriano,15.562,41.206,123
-363,Larino,14.92,41.804,147
-86,Montopoli di Sabina,12.688,42.257,0
-147,Arezzo,11.853,43.402,60
-211,Lauria,15.838,40.044,147
-253,Grassano,16.285,40.633,147
+435,Pula,9.002,39.008,103
+176,Ascoli Satriano,15.562,41.206,103
+363,Larino,14.92,41.804,123
+86,Montopoli di Sabina,12.688,42.257,86
+147,Arezzo,11.853,43.402,50
+211,Lauria,15.838,40.044,123
+253,Grassano,16.285,40.633,123
 86,Calvisano,10.338,45.357,50
 211,Gonars,13.244,45.898,50
 86,Stornara,15.77,41.287,50
-123,Mirabella Imbaccari,14.447,37.325,60
-86,Centuripe,14.738,37.622,72
-123,Vigone,7.501,44.846,86
-176,Cagli,12.652,43.548,123
-147,Silandro/Schlanders,10.766,46.629,0
-86,Reggello-Case Pippo,11.528,43.685,72
-253,Atessa,14.452,42.072,103
+123,Mirabella Imbaccari,14.447,37.325,50
+86,Centuripe,14.738,37.622,60
+123,Vigone,7.501,44.846,72
+176,Cagli,12.652,43.548,103
+147,Silandro/Schlanders,10.766,46.629,147
+86,Reggello-Case Pippo,11.528,43.685,50
+253,Atessa,14.452,42.072,86
