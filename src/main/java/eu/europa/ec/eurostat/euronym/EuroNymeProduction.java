@@ -74,8 +74,9 @@ public class EuroNymeProduction {
 				fs = generate(fs, 14, lod, 100000, 1.2, 40, 40);
 				System.out.println(fs.size());
 
-				// refine with
-				
+				// refine with r1 setting
+				setR1(fs);
+
 				// save
 				//System.out.println("save as GPKG");
 				//GeoData.save(fs, basePath + "euronymes.gpkg", CRSUtil.getETRS89_LAEA_CRS());
@@ -88,6 +89,14 @@ public class EuroNymeProduction {
 		System.out.println("End");
 	}
 
+
+	
+	private static void setR1(ArrayList<Feature> fs) {
+		
+	}
+
+	
+	
 	/**
 	 * @param fs       The labels
 	 * @param fontSize The label font size
