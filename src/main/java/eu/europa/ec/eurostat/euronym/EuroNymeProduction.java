@@ -35,11 +35,19 @@ public class EuroNymeProduction {
 	private static String basePath = "/home/juju/Bureau/";
 	private static String namesStruct = basePath + "gisco/tmp/namesStruct.gpkg";
 
-	//TODO add other aggregates: EFTA, UE, etc.
-	//TODO imporve coverage for CH, RO, etc. Why is Vaduz missing?
-	//TODO check euro gazeeter.
-	//TODO elaborate: different font size and weight depending on population
 
+	//show fewer.
+	//Check too long names from REGIO and filter. the ones with "/" ?
+	//GISCO WS ?
+	//Add r/imp parameter on the local importance of the toponym
+
+	//TODO add other aggregates: EFTA, UE, etc.
+	//TODO improve coverage for CH, RO, etc. Why is Vaduz missing?
+	//TODO check euro gazeeter.
+	//TODO elaborate: different font size, weight, etc. depending on population
+
+	
+	
 	public static void main(String[] args) throws Exception {
 		System.out.println("Start");
 
