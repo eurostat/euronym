@@ -37,7 +37,7 @@ public class EuroNymeProduction {
 
 
 	//Add r/imp parameter on the local importance of the toponym
-	//GISCO WS ?
+	//GISCO WS ? https://ec.europa.eu/statistical-atlas/arcgis/rest/services/Basemaps/StatAtlas_Cities_Labels_2014/MapServer/0/query?where=POPL_SIZE%3E50000&outSR=3035&inSR=3035&geometry=3428439.0697888224,2356253.0645389506,4339693.4974049805,2548197.243346825&geometryType=esriGeometryEnvelope&f=json&outFields=STTL_NAME,POPL_SIZE
 
 	//TODO add other aggregates: EFTA, UE, etc.
 	//TODO improve coverage for CH, RO, etc. Why is Vaduz missing?
@@ -50,7 +50,7 @@ public class EuroNymeProduction {
 		System.out.println("Start");
 
 		//
-		//structure();
+		structure();
 
 
 		//get country codes
@@ -223,7 +223,11 @@ public class EuroNymeProduction {
 					}
 				}
 			}
+			if(name.contains("Arrondissement"))
+				name = name.replace(" Arrondissement", "");
 			f_.setAttribute("name", name);
+
+
 
 			// lon / lat
 			Point g = (Point) f.getGeometry();
