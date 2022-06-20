@@ -56,12 +56,12 @@ public class EuroNymeProduction {
 
 		//get country codes
 		HashSet<String> ccs = new HashSet<>();
-		ccs.addAll(FeatureUtil.getIdValues(GeoData.getFeatures(namesStruct), "cc"));
-		ccs.add("EUR");
+		//ccs.addAll(FeatureUtil.getIdValues(GeoData.getFeatures(namesStruct), "cc"));
+		//ccs.add("EUR");
 		//ccs.add("EU");
 		//ccs.add("EFTA");
 
-		//ccs.add("FR");
+		ccs.add("FR");
 
 
 		//generate
@@ -80,7 +80,7 @@ public class EuroNymeProduction {
 				System.out.println(fs.size());
 
 				// refine with r1 setting
-				int radR1Pix = 120;
+				int radR1Pix = 100;
 				setR1(fs, lod, 1.2, radR1Pix);
 
 				// clean attributes
