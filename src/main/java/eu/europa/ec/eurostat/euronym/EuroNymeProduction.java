@@ -113,13 +113,13 @@ public class EuroNymeProduction {
 		//go through all features
 		for(Feature f : fs) {
 
-			//set r1 with maximum importance
-			f.setAttribute("r1", "0");
-
 			//get rs
 			int rs = (int) f.getAttribute("rs");
 			//get pop
 			int pop = Integer.parseInt(f.getAttribute("pop").toString());
+
+			//initialise r1 with maximum importance
+			f.setAttribute("r1", rs);
 
 			for (int res = resMin; res <= rs; res *= zf) {
 
