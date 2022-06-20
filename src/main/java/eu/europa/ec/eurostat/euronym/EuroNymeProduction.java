@@ -37,7 +37,7 @@ public class EuroNymeProduction {
 	private static String namesStruct = basePath + "gisco/tmp/namesStruct.gpkg";
 
 
-	//Add r/imp parameter on the local importance of the toponym
+	//check cize <-> champagnole
 	//GISCO WS ? https://ec.europa.eu/statistical-atlas/arcgis/rest/services/Basemaps/StatAtlas_Cities_Labels_2014/MapServer/0/query?where=POPL_SIZE%3E50000&outSR=3035&inSR=3035&geometry=3428439.0697888224,2356253.0645389506,4339693.4974049805,2548197.243346825&geometryType=esriGeometryEnvelope&f=json&outFields=STTL_NAME,POPL_SIZE
 
 	//TODO add other aggregates: EFTA, UE, etc.
