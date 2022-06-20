@@ -1,87 +1,83 @@
 rmax,name,lon,lat
 100000,Sarajevo,18.363,43.849
-2042,Banja Luka,17.204,44.79
-1419,Mostar,17.814,43.338
+1702,Banja Luka,17.204,44.79
+1183,Mostar,17.814,43.338
 986,Tuzla,18.682,44.539
-822,Zenica,17.923,44.2
-685,Bijeljina,19.212,44.757
-230,Brčko-Dizdaruša,18.806,44.866
+685,Zenica,17.923,44.2
+571,Bijeljina,19.212,44.757
+192,Brčko-Dizdaruša,18.806,44.866
 822,Bihać-Centar,15.871,44.815
 397,Prijedor,16.72,44.981
-160,Gornje Dubrave / Rainci Gornji / Kalesija,18.795,44.465
 397,Doboj-Usora,18.083,44.726
-2940,Trebinje,18.349,42.714
+2450,Trebinje,18.349,42.714
 685,Modriča,18.298,44.96
-476,Bardaci,17.849,44.596
-1419,Zagrad,15.825,45.164
+331,Bardaci,17.849,44.596
+685,Zagrad,15.825,45.164
 571,Stara Gradiška,17.259,45.143
 230,Sanski Most-Muhići,16.663,44.765
 192,Slivnice-Povezice,18.116,44.129
-276,Pirota,17.652,44.226
+230,Pirota,17.652,44.226
 55,Lukavac-Turski Lukavac,18.529,44.538
-476,Bugojno,17.446,44.057
-397,Ljubuški-Baščina,17.513,43.213
-822,Foča-Foca,18.777,43.505
-160,Gračanica,18.307,44.699
-94,Козарац / Kozarac,16.838,44.971
-134,Mali Zvornik,19.099,44.385
-331,Ozrakovići,18.177,43.991
-476,Goražde-Vinarići,18.979,43.666
-192,Priluk,18.538,44.472
-192,Pale-Koran,18.57,43.812
-822,Livno-Žabljak,17.006,43.824
+397,Bugojno,17.446,44.057
+331,Ljubuški-Baščina,17.513,43.213
+685,Foča-Foca,18.777,43.505
+134,Gračanica,18.307,44.699
+476,Mali Zvornik,19.099,44.385
+276,Ozrakovići,18.177,43.991
+397,Goražde-Vinarići,18.979,43.666
+160,Priluk,18.538,44.472
+160,Pale-Koran,18.57,43.812
+685,Livno-Žabljak,17.006,43.824
 230,Hrvatska Dubica,16.812,45.178
-397,Puškari,15.922,44.963
+331,Puškari,15.922,44.963
 192,Kupusnica,16.024,45.074
-134,Krivoglavci,18.34,43.901
-160,Gradačac-Požarike,18.422,44.882
-331,Potkleče,18.143,44.439
+112,Krivoglavci,18.34,43.901
+134,Gradačac-Požarike,18.422,44.882
+276,Potkleče,18.143,44.439
 112,Zivinice,18.657,44.44
-571,Konjic,17.961,43.65
-46,Orahovica-Ćofine žrtve,18.051,44.427
-160,Carica-Luka,17.899,44.085
-476,Posušje,17.326,43.47
-134,Dẑakići,19.014,44.501
+476,Konjic,17.961,43.65
+39,Orahovica-Ćofine žrtve,18.051,44.427
+134,Carica-Luka,17.899,44.085
+397,Posušje,17.326,43.47
+230,Dẑakići,19.014,44.501
 192,Derventa-Ukrina,17.904,44.983
-192,Daljan,17.398,44.137
-276,Šamac,18.473,45.063
+160,Daljan,17.398,44.137
+230,Šamac,18.473,45.063
 276,Nevesinje,18.121,43.257
-94,Kiseljak,18.066,43.962
-397,Mrkonjić Grad-Kasimovac,17.085,44.416
-571,Dvor,16.382,45.045
-276,Klašnice,17.301,44.895
-134,Rapatnica-Bare,18.483,44.708
-230,Janja,19.245,44.663
-134,Isakovići,17.651,44.172
-230,Bosanska Krupa,16.15,44.884
-397,Vučine,19.295,43.786
+79,Kiseljak,18.066,43.962
+331,Mrkonjić Grad-Kasimovac,17.085,44.416
+476,Dvor,16.382,45.045
+230,Klašnice,17.301,44.895
+112,Rapatnica-Bare,18.483,44.708
+192,Janja,19.245,44.663
+112,Isakovići,17.651,44.172
+160,Bosanska Krupa,16.15,44.884
+331,Vučine,19.295,43.786
 134,Široki Brijeg,17.594,43.382
-134,Davor / Srbac,17.52,45.1
-397,Bileća-Bileca,18.429,42.872
-160,Hanke,18.521,44.407
-160,Čelinac Gornji,17.325,44.721
-276,Ključ-Pervici,16.76,44.54
-276,Okolica-Jug II,17.657,44.869
-134,Jajce-Stari grad,17.271,44.344
-331,Šipovo,17.086,44.283
-822,Bratunac-Danići,19.331,44.183
-134,Odžak,18.325,45.011
-192,Previle / Tinja Gornja,18.569,44.63
+331,Bileća-Bileca,18.429,42.872
+134,Hanke,18.521,44.407
+134,Čelinac Gornji,17.325,44.721
+230,Ključ-Pervici,16.76,44.54
+230,Okolica-Jug II,17.657,44.869
+112,Jajce-Stari grad,17.271,44.344
+276,Šipovo,17.086,44.283
+397,Bratunac-Danići,19.331,44.183
+112,Odžak,18.325,45.011
 276,Vlasenica,18.945,44.183
 192,Kostajnica,16.543,45.22
-79,Bulbulušići,18.262,44.016
+66,Bulbulušići,18.262,44.016
 134,Hadžići,18.203,43.821
 230,Maglaj,18.1,44.55
-230,Tomislavgrad,17.227,43.717
+192,Tomislavgrad,17.227,43.717
 66,Ilijaš-Gornja Misoča,18.267,43.961
 230,Topovina-Krajšina,17.948,43.08
-276,Sokolac-Đurkovića Brdo,18.798,43.939
-112,Čapljina-Brajkovići,17.703,43.113
-822,Gacko,18.535,43.167
-230,Zlate,17.757,43.661
+230,Sokolac-Đurkovića Brdo,18.798,43.939
+94,Čapljina-Brajkovići,17.703,43.113
+685,Gacko,18.535,43.167
+192,Zlate,17.757,43.661
 112,Kotlanice-Kantića Gaj,17.983,44.613
-230,Gornji Vakuf-Uskoplje-Košute,17.583,43.942
+192,Gornji Vakuf-Uskoplje-Košute,17.583,43.942
 160,Котор Варош-Donja Varosh,17.377,44.622
-134,Rogatica-Zaganovići,19.006,43.8
-160,Teočak,18.997,44.603
+112,Rogatica-Zaganovići,19.006,43.8
+192,Teočak,18.997,44.603
 94,Gracanica & Ulica Tupkovici,18.766,44.399

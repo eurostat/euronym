@@ -1,486 +1,439 @@
 rmax,name,lon,lat
-66,Giolou,32.472,34.925
-28,Miliou,32.461,34.939
-24,Kato Akourdaleia,32.45,34.952
-28,Tera,32.423,34.967
-28,Choli,32.444,34.98
-571,Polis,32.426,35.033
-55,Neo Chorio,32.365,35.026
-66,Goudi,32.443,34.992
-46,Pano Arodes,32.408,34.937
-134,Drouseia,32.397,34.962
+55,Giolou,32.472,34.925
+24,Miliou,32.461,34.939
+24,Tera,32.423,34.967
+33,Loukrounou,32.464,34.952
+476,Polis,32.426,35.033
+46,Neo Chorio,32.365,35.026
+55,Goudi,32.443,34.992
+39,Pano Arodes,32.408,34.937
+112,Drouseia,32.397,34.962
 39,Fasli,32.37,34.982
 46,Androlikou,32.382,34.999
-66,Pelathousa,32.476,35.028
-28,Kynousa,32.507,35.034
-46,Makounta,32.486,35.05
-112,Argaka,32.493,35.067
-33,Gialia,32.518,35.101
+55,Pelathousa,32.476,35.028
+24,Kynousa,32.507,35.034
+39,Makounta,32.486,35.05
+94,Argaka,32.493,35.067
+28,Gialia,32.518,35.101
 134,Agia Marina (Chrysochous),32.534,35.111
-46,Nea Dimmata,32.521,35.135
-112,Pomos,32.545,35.16
+39,Nea Dimmata,32.521,35.135
+94,Pomos,32.545,35.16
 24,Livadi,32.594,35.102
-33,Palaiosofos,33.208,35.326
-33,Mansoura,32.632,35.189
-39,Synoikismos Anthoupolis,33.288,35.104
-39,Tochni,33.324,34.781
-39,Choirokoitia,33.336,34.797
+28,Palaiosofos,33.208,35.326
+24,Mansoura,32.632,35.189
+33,Synoikismos Anthoupolis,33.288,35.104
+33,Tochni,33.324,34.781
+33,Choirokoitia,33.336,34.797
 55,Maroni,33.357,34.756
-66,Agios Theodoros,33.383,34.801
-33,Skarinou,33.357,34.821
-192,Kofinou,33.391,34.827
+55,Agios Theodoros,33.383,34.801
+28,Skarinou,33.357,34.821
+160,Kofinou,33.391,34.827
 66,Pano Lefkara,33.307,34.868
-39,Kato Drys,33.304,34.852
-94,Vavla,33.269,34.842
+33,Kato Drys,33.304,34.852
+79,Vavla,33.269,34.842
 24,Lageia,33.247,34.843
-66,Ora,33.195,34.862
-39,Melini,33.157,34.867
-55,Odou,33.151,34.886
-39,Agioi Vavatsinias,33.191,34.878
+46,Ora,33.195,34.862
+33,Melini,33.157,34.867
+39,Odou,33.151,34.886
+33,Agioi Vavatsinias,33.191,34.878
 66,Vavatsinia,33.23,34.893
-66,Sia,33.39,34.955
+55,Sia,33.39,34.955
 46,Mathiatis,33.337,34.963
-24,Alampra,33.399,34.989
-46,Agia Varvara,33.369,34.998
-24,Kotsiatis,33.35,35.013
+39,Agia Varvara,33.369,34.998
 46,Lympia,33.463,34.998
-230,Lythrodontas,33.294,34.95
-33,Louroukina,33.464,35.011
-46,Potamia,33.446,35.042
+160,Lythrodontas,33.294,34.95
+28,Louroukina,33.464,35.011
+39,Potamia,33.446,35.042
 39,Agios Sozomenos,33.44,35.066
 66,Pyrogi,33.491,35.079
-230,Agia,33.566,35.109
+192,Agia,33.566,35.109
 66,Tymvou,33.512,35.135
 46,Mora,33.549,35.175
 46,Mia Milia,33.42,35.207
-79,Mandres,33.377,35.223
+66,Mandres,33.377,35.223
 79,Palaikythro,33.494,35.207
-46,Epicho,33.513,35.228
-28,Trachoni,33.481,35.222
-24,Neo Chorio,33.474,35.234
-39,Kythrea,33.479,35.246
-192,Petra Tou Digeni,33.546,35.239
-46,Kalyvakia,33.549,35.258
-24,Kourou Monastiri,33.556,35.225
-39,Apliki,33.119,34.932
-160,Gourri,33.159,34.958
+55,Epicho,33.513,35.228
+24,Trachoni,33.481,35.222
+33,Kythrea,33.479,35.246
+39,Petra Tou Digeni,33.546,35.239
+39,Kalyvakia,33.549,35.258
+33,Apliki,33.119,34.932
+55,Gourri,33.159,34.958
 66,Agios Epifanios (Oreinis),33.12,34.995
-39,Kalo Chorio (Oreinis),33.162,35.006
+33,Kalo Chorio (Oreinis),33.162,35.006
 24,Malounta,33.183,35.036
-160,Klirou,33.178,35.019
-46,Arediou,33.195,35.047
-39,Agios Ioannis,33.183,35.066
+134,Klirou,33.178,35.019
+39,Arediou,33.195,35.047
+28,Agios Ioannis,33.183,35.066
 28,Agrokipia,33.156,35.044
-66,Mitsero,33.125,35.042
+55,Mitsero,33.125,35.042
 46,Kapedes,33.255,34.976
-28,Kataliontas,33.297,34.993
-39,Analiontas,33.29,35.007
-94,Kampia,33.256,35.005
-94,Margi,33.327,35.024
-46,Pera,33.253,35.032
-28,Psimolofou,33.26,35.061
-94,Ergates,33.243,35.053
-24,Anageia,33.252,35.073
+24,Kataliontas,33.297,34.993
+33,Analiontas,33.29,35.007
+79,Kampia,33.256,35.005
+79,Margi,33.327,35.024
+39,Pera,33.253,35.032
+24,Psimolofou,33.26,35.061
+79,Ergates,33.243,35.053
 46,Pano Deftera,33.269,35.082
 66,Palaiometocho,33.191,35.125
-94,Deneia,33.144,35.167
+55,Deneia,33.144,35.167
 55,Kokkinotrimithia,33.2,35.153
-55,Mammari,33.205,35.175
-79,Gerolakkos,33.252,35.184
-33,Agia Marina (Skyllouras),33.129,35.227
-79,Skylloura,33.165,35.231
-33,Dyo Potamoi,33.091,35.246
+46,Mammari,33.205,35.175
+39,Gerolakkos,33.252,35.184
+28,Agia Marina (Skyllouras),33.129,35.227
+160,Skylloura,33.165,35.231
+28,Dyo Potamoi,33.091,35.246
 55,Kanli,33.26,35.223
 66,Kioneli,33.306,35.217
-94,Palaichori (Morfou),33.09,34.923
-24,Polystypos,33.018,34.939
-39,Lagoudera,33.01,34.963
+79,Palaichori (Morfou),33.09,34.923
+33,Lagoudera,33.01,34.963
 33,Platanistasa,33.048,34.947
-79,Xyliatos,33.042,35.029
-94,Nikitari,32.994,35.074
+66,Xyliatos,33.042,35.029
+79,Nikitari,32.994,35.074
 28,Agia Marina (Xyliatou),33.057,35.05
-33,Kato Moni,33.092,35.061
+28,Kato Moni,33.092,35.061
 46,Orounta,33.094,35.102
-39,Kato Koutrafas,32.978,35.101
-134,Potami,33.029,35.105
-160,Morfou,33.019,35.215
-39,Pano Zodeia,33.016,35.162
-94,Kazivera,32.917,35.17
-39,Nikitas,32.957,35.177
+33,Kato Koutrafas,32.978,35.101
+230,Potami,33.029,35.105
+134,Morfou,33.019,35.215
+28,Pano Zodeia,33.016,35.162
+79,Kazivera,32.917,35.17
+33,Nikitas,32.957,35.177
 55,Syrianochori,32.939,35.226
 55,Kalo Chorio Kapouti,33.04,35.244
-276,Akaki,33.13,35.134
+66,Akaki,33.13,35.134
 28,Peristerona,33.08,35.131
-66,Astromeritis,33.039,35.141
-39,Avlona,33.107,35.162
-79,Katokopia,33.052,35.175
-39,Masari,33.074,35.187
-46,Meniko,33.144,35.109
-28,Kyra,33.06,35.203
-46,Spilia,32.957,34.967
-46,Kannavia,32.976,34.981
-79,Kakopetria,32.905,34.99
-28,Agios Theodoros (Soleas),32.93,35.041
-39,Sinaoros,32.898,35.01
-33,Temvria,32.892,35.028
-192,Evrychou,32.899,35.04
-55,Flasou,32.887,35.068
-39,Katydata,32.889,35.083
+55,Astromeritis,33.039,35.141
+33,Avlona,33.107,35.162
+66,Katokopia,33.052,35.175
+33,Masari,33.074,35.187
+39,Meniko,33.144,35.109
+24,Kyra,33.06,35.203
+39,Spilia,32.957,34.967
+39,Kannavia,32.976,34.981
+66,Kakopetria,32.905,34.99
+24,Agios Theodoros (Soleas),32.93,35.041
+33,Sinaoros,32.898,35.01
+160,Evrychou,32.899,35.04
+46,Flasou,32.887,35.068
+33,Katydata,32.889,35.083
 134,Pedoulas,32.829,34.967
 55,Mylikouri,32.75,34.963
-24,Moutoullas,32.826,34.984
 46,Kalopanagiotis,32.828,34.992
-24,Gerakies,32.805,35.001
-39,Tsakistra,32.723,35.025
+33,Tsakistra,32.723,35.025
 79,Kampos,32.733,35.04
-39,Agios Georgios (Lefkas),32.888,35.108
+33,Agios Georgios (Lefkas),32.888,35.108
 39,Lefka,32.85,35.114
 94,Ampelikou,32.803,35.12
 24,Peristeronari,32.864,35.134
-94,Elia,32.911,35.132
-55,Karavostasi,32.83,35.138
-33,Pentageia,32.884,35.152
-33,Angolemi,32.948,35.118
+79,Elia,32.911,35.132
+39,Karavostasi,32.83,35.138
+28,Pentageia,32.884,35.152
+28,Angolemi,32.948,35.118
 28,Galini,32.767,35.139
-55,Xerovounos,32.732,35.148
-33,Pano Pyrgos,32.683,35.155
-476,Kato Pyrgos,32.686,35.182
+46,Xerovounos,32.732,35.148
+331,Kato Pyrgos,32.686,35.182
 28,Selladi tou Appi,32.618,35.155
-46,Pigenia,32.656,35.17
-46,Pachyammos,32.584,35.171
-33,Kokkina,32.608,35.179
-55,Frodisia,32.66,35.066
-24,Keryneia,33.321,35.34
-55,Pano Dikomo,33.322,35.278
-24,Kato Dikomo,33.322,35.267
-94,Koutsoventis,33.421,35.266
+39,Pigenia,32.656,35.17
+39,Pachyammos,32.584,35.171
+28,Kokkina,32.608,35.179
+46,Frodisia,32.66,35.066
+28,Keryneia,33.321,35.34
+46,Kato Dikomo,33.322,35.267
+79,Koutsoventis,33.421,35.266
 39,Vouno,33.389,35.272
-33,Fota,33.222,35.264
-24,Krini,33.236,35.289
-276,Kiomourtzou,33.257,35.293
-24,Agia Trias,34.216,35.539
-79,Agios Ermolaos,33.173,35.278
+28,Fota,33.222,35.264
+160,Kiomourtzou,33.257,35.293
+46,Agios Ermolaos,33.173,35.278
 33,Asomatos,33.106,35.279
 28,Kampyli,33.107,35.301
-160,Karpaseia,33.071,35.298
-28,Myrtou,33.075,35.308
-79,Agia Eirini,32.963,35.299
+94,Karpaseia,33.071,35.298
+24,Myrtou,33.075,35.308
+66,Agia Eirini,32.963,35.299
 46,Kormakitis,33.01,35.344
-571,Livera,32.954,35.383
-160,Kalograia,33.631,35.338
-28,Agios Amvrosios,33.583,35.341
-55,Charkeia,33.553,35.32
+476,Livera,32.954,35.383
+134,Kalograia,33.631,35.338
+24,Agios Amvrosios,33.583,35.341
+46,Charkeia,33.553,35.32
 46,Trapeza,33.469,35.308
 24,Klepini,33.433,35.307
-79,Agios Epiktitos,33.391,35.322
-55,Bellapais,33.354,35.308
-28,Kazafani,33.354,35.32
-46,Karakoumi,33.343,35.334
-55,Karmi,33.255,35.317
-33,Trimithi,33.261,35.33
-24,Elia,33.217,35.334
-134,Agios Georgios,33.272,35.342
+66,Agios Epiktitos,33.391,35.322
+46,Bellapais,33.354,35.308
+24,Kazafani,33.354,35.32
+46,Karmi,33.255,35.317
+28,Trimithi,33.261,35.33
+112,Agios Georgios,33.272,35.342
 55,Larnakas Lapithou,33.139,35.311
-94,Lapithos,33.175,35.34
+79,Lapithos,33.175,35.34
 46,Vasileia,33.123,35.344
-94,Panagra,33.068,35.336
-66,Orga,33.031,35.36
-94,Ammochostos,33.956,35.116
+79,Panagra,33.068,35.336
+39,Orga,33.031,35.36
+79,Ammochostos,33.956,35.116
 55,Agia Napa,34.002,34.989
 55,Liopetri,33.893,35.01
-46,Frenaros,33.923,35.041
-160,Avgorou,33.84,35.037
-79,Achna,33.785,35.055
-28,Makrasyka,33.76,35.074
-46,Kalopsida,33.793,35.098
+39,Frenaros,33.923,35.041
+55,Avgorou,33.84,35.037
+134,Achna,33.785,35.055
+24,Makrasyka,33.76,35.074
+39,Kalopsida,33.793,35.098
 134,Acheritou,33.862,35.1
-55,Egkomi,33.883,35.162
-331,Agios Sergios,33.874,35.196
-79,Stylloi,33.834,35.172
-66,Aloda,33.827,35.21
-46,Arnadi,33.861,35.237
-134,Agios Georgios,33.863,35.256
-112,Perivolia (Trikomou),33.912,35.286
-33,Sygkrasi,33.852,35.273
-24,Lapathos,33.826,35.271
-112,Kouklia,33.751,35.108
-39,Kontea,33.716,35.105
-46,Lysi,33.682,35.106
+46,Egkomi,33.883,35.162
+276,Agios Sergios,33.874,35.196
+66,Stylloi,33.834,35.172
+55,Aloda,33.827,35.21
+39,Arnadi,33.861,35.237
+79,Agios Georgios,33.863,35.256
+94,Perivolia (Trikomou),33.912,35.286
+28,Sygkrasi,33.852,35.273
+94,Kouklia,33.751,35.108
+33,Kontea,33.716,35.105
+39,Lysi,33.682,35.106
 66,Vatili,33.657,35.133
-55,Strongylos,33.64,35.167
-55,Sinta,33.702,35.157
+46,Strongylos,33.64,35.167
+46,Sinta,33.702,35.157
 33,Gaidouras / Nea Sparti,33.788,35.167
-112,Prastio,33.757,35.176
+94,Prastio,33.757,35.176
 39,Pyrga,33.725,35.18
-46,Mousoulita,33.641,35.193
-55,Peristerona,33.757,35.217
+94,Mousoulita,33.641,35.193
+46,Peristerona,33.757,35.217
 66,Genagra,33.7,35.217
 39,Milia,33.779,35.24
-94,Gypsou,33.785,35.261
+112,Gypsou,33.785,35.261
 39,Lefkonoiko,33.732,35.26
-28,Psyllatos,33.686,35.255
-55,Knodara,33.661,35.264
+24,Psyllatos,33.686,35.255
+46,Knodara,33.661,35.264
 55,Goufes,33.688,35.283
-134,Afanteia,33.587,35.159
-55,Angastina,33.588,35.204
-39,Marathovounos,33.616,35.223
-55,Vitsada,33.648,35.243
-79,Kiados,33.6,35.256
-46,Kornokipos,33.567,35.286
-94,Agios Chariton,33.604,35.304
-28,Trypimeni,33.633,35.309
+112,Afanteia,33.587,35.159
+46,Angastina,33.588,35.204
+46,Marathovounos,33.616,35.223
+46,Vitsada,33.648,35.243
+276,Kiados,33.6,35.256
+39,Kornokipos,33.567,35.286
+79,Agios Chariton,33.604,35.304
+24,Trypimeni,33.633,35.309
 39,Agios Nikolaos,33.678,35.329
-94,Platani,33.751,35.334
-331,Akanthou,33.753,35.374
+55,Platani,33.751,35.334
+276,Akanthou,33.753,35.374
 66,Agios Iakovos,33.814,35.327
-39,Mandres,33.799,35.348
-55,Ardana,33.888,35.355
-112,Flamoudi,33.857,35.397
-24,Monarga,33.944,35.316
+33,Mandres,33.799,35.348
+46,Ardana,33.888,35.355
+94,Flamoudi,33.857,35.397
 160,Agios Ilias,33.927,35.33
-79,Gastria,33.999,35.343
-28,Avgolida,33.963,35.355
+66,Gastria,33.999,35.343
+24,Avgolida,33.963,35.355
 28,Patriki,33.997,35.364
-24,Gerani,33.923,35.36
-55,Ovgoros,33.939,35.366
-94,Davlos,33.905,35.423
-276,Agios Theodoros,34.029,35.367
-33,Vokolida,34.07,35.38
-79,Tavrou,34.077,35.398
-39,Agios Efstathios,34.014,35.389
-33,Livadia,34.025,35.399
-66,Krideia,33.974,35.395
-55,Komi,33.996,35.411
-46,Galateia,34.073,35.423
-134,Eptakomi,34.032,35.444
+46,Ovgoros,33.939,35.366
+79,Davlos,33.905,35.423
+134,Agios Theodoros,34.029,35.367
+28,Vokolida,34.07,35.38
+66,Tavrou,34.077,35.398
+33,Agios Efstathios,34.014,35.389
+28,Livadia,34.025,35.399
+55,Krideia,33.974,35.395
+39,Komi,33.996,35.411
+39,Galateia,34.073,35.423
+112,Eptakomi,34.032,35.444
 94,Koma tou Gialou,34.131,35.428
-24,Neta,34.214,35.47
-24,Vothylakas,34.187,35.483
-46,Lythragkomi,34.169,35.479
-24,Vasili,34.152,35.473
-1183,Platanissos,34.106,35.479
-24,Koilanemos,34.143,35.493
-112,Agios Andronikos (Karpasias),34.161,35.509
-39,Melanarga,34.199,35.514
+33,Neta,34.214,35.47
+39,Lythragkomi,34.169,35.479
+24,Leonarisso,34.138,35.469
+986,Platanissos,34.106,35.479
+94,Agios Andronikos (Karpasias),34.161,35.509
+28,Melanarga,34.199,35.514
 66,Aigialousa,34.189,35.536
-79,Koroveia,34.273,35.512
-46,Galinoporni,34.302,35.523
-476,Rizokarpaso,34.379,35.598
-55,Kellia,33.623,34.977
-66,Troulloi,33.614,35.033
-55,Avdellero,33.57,35.01
-79,Pyla,33.693,35.015
-39,Xylotymvou,33.744,35.018
-55,Ormideia,33.782,34.992
-39,Pergamos,33.709,35.042
-24,Kiti,33.574,34.844
-55,Perivolia,33.58,34.829
+66,Koroveia,34.273,35.512
+39,Galinoporni,34.302,35.523
+397,Rizokarpaso,34.379,35.598
+33,Kellia,33.623,34.977
+55,Troulloi,33.614,35.033
+66,Avdellero,33.57,35.01
+66,Pyla,33.693,35.015
+33,Xylotymvou,33.744,35.018
+46,Ormideia,33.782,34.992
+66,Pergamos,33.709,35.042
+46,Perivolia,33.58,34.829
 24,Tersefanou,33.547,34.855
-28,Softades,33.552,34.837
+24,Softades,33.552,34.837
 94,Mazotos,33.49,34.804
-46,Alaminos,33.436,34.807
-33,Anafotida,33.463,34.824
+39,Alaminos,33.436,34.807
+28,Anafotida,33.463,34.824
 39,Kivisili,33.506,34.84
-39,Alethriko,33.493,34.859
+28,Alethriko,33.493,34.859
 79,Klavdia,33.516,34.894
-94,Anglisides,33.456,34.853
-33,Menogeia,33.441,34.843
-66,Petrofani,33.52,35.045
-46,Melouseia,33.584,35.077
-33,Tremetousia,33.608,35.085
-24,Arsos,33.628,35.089
+79,Anglisides,33.456,34.853
+24,Menogeia,33.441,34.843
+46,Petrofani,33.52,35.045
+39,Melouseia,33.584,35.077
+28,Tremetousia,33.608,35.085
 55,Kalo Chorio,33.535,34.928
-66,Mosfiloti,33.427,34.951
+55,Mosfiloti,33.427,34.951
 28,Psevdas,33.463,34.952
-39,Pyrga,33.431,34.926
-79,Kornos,33.397,34.923
-28,Delikipos,33.363,34.919
+33,Pyrga,33.431,34.926
+66,Kornos,33.397,34.923
+24,Delikipos,33.363,34.919
 94,Kochi,33.517,34.973
-79,Zygi,33.338,34.729
+66,Zygi,33.338,34.729
 46,Mari,33.3,34.741
-192,Kalavasos,33.296,34.771
+160,Kalavasos,33.296,34.771
 79,Palodeia,33.003,34.747
-24,Paramytha,32.995,34.76
-55,Fasoula,33.027,34.764
+46,Fasoula,33.027,34.764
 24,Mathikoloni,33.049,34.776
-24,Gerasa,32.998,34.801
-46,Apsiou,33.018,34.798
-79,Apesia,32.978,34.789
-39,Limnatis,32.949,34.814
-39,Kapileio,32.958,34.831
-24,Mouttagiaka,33.101,34.72
-24,Armenochori,33.13,34.745
-66,Akrounta,33.081,34.766
-66,Agios Tychon,33.141,34.727
-55,Parekklisia,33.161,34.744
-79,Pentakomo,33.242,34.741
-24,Monagroulli,33.213,34.748
-33,Moni,33.202,34.739
+39,Apsiou,33.018,34.798
+66,Apesia,32.978,34.789
+33,Limnatis,32.949,34.814
+33,Kapileio,32.958,34.831
+79,Akrounta,33.081,34.766
+55,Agios Tychon,33.141,34.727
+46,Parekklisia,33.161,34.744
+94,Pentakomo,33.242,34.741
+28,Moni,33.202,34.739
 46,Asgata,33.255,34.78
-28,Vasa (Kellakiou),33.215,34.803
-24,Sanida,33.19,34.808
-24,Prastio (Kellakiou),33.143,34.812
-33,Klonari,33.182,34.826
-33,Kellaki,33.158,34.818
-24,Akapnou,33.186,34.839
-94,Eptagoneia,33.158,34.846
-33,Dierona,33.111,34.831
+24,Vasa (Kellakiou),33.215,34.803
+28,Klonari,33.182,34.826
+28,Kellaki,33.158,34.818
+112,Eptagoneia,33.158,34.846
+28,Dierona,33.111,34.831
 39,Arakapas,33.112,34.845
-28,Agios Konstantinos,33.065,34.868
-39,Sykopetra,33.113,34.879
-28,Louvaras,33.04,34.837
-79,Kalo Chorio,33.032,34.85
-24,Zoopigi,33.017,34.864
-276,Akrotiri,32.957,34.601
+24,Agios Konstantinos,33.065,34.868
+33,Sykopetra,33.113,34.879
+24,Louvaras,33.04,34.837
+66,Kalo Chorio,33.032,34.85
+230,Akrotiri,32.957,34.601
 39,Asomatos,32.96,34.639
-39,Trachoni,32.963,34.657
-46,Erimi,32.917,34.677
+33,Trachoni,32.963,34.657
+24,Erimi,32.917,34.677
 24,Episkopi,32.902,34.67
-24,Kantou,32.908,34.69
-46,Sotira,32.859,34.714
+39,Sotira,32.859,34.714
 46,Prastio (Avdimou),32.778,34.73
-39,Paramali,32.799,34.694
-94,Avdimou,32.762,34.694
-33,Agios Thomas,32.726,34.716
-79,Alektora,32.683,34.708
-94,Anogyra,32.733,34.739
-276,Pissouri,32.702,34.671
-79,Souni-Zanakia,32.876,34.731
-134,Alassa,32.927,34.764
-24,Kato Kivides,32.863,34.765
-46,Pano Kivides,32.859,34.756
-24,Agios Amvrosios,32.826,34.781
+33,Paramali,32.799,34.694
+79,Avdimou,32.762,34.694
+28,Agios Thomas,32.726,34.716
+66,Alektora,32.683,34.708
+79,Anogyra,32.733,34.739
+230,Pissouri,32.702,34.671
+66,Souni-Zanakia,32.876,34.731
+79,Alassa,32.927,34.764
+39,Pano Kivides,32.859,34.756
+33,Agios Amvrosios,32.826,34.781
 55,Agios Therapon,32.84,34.798
-46,Lofou,32.874,34.816
+79,Lofou,32.874,34.816
 276,Pachna,32.795,34.778
-33,Laneia,32.921,34.824
-33,Silikou,32.89,34.832
-94,Monagri,32.912,34.81
-112,Trimiklini,32.91,34.847
+39,Laneia,32.921,34.824
+28,Silikou,32.89,34.832
+33,Monagri,32.912,34.81
+79,Trimiklini,32.91,34.847
 28,Agios Mamas,32.948,34.85
-39,Moniatis,32.896,34.868
-79,Dora,32.738,34.782
-28,Gerovasa,32.742,34.814
-46,Arsos,32.769,34.84
-46,Malia,32.782,34.818
-33,Vasa (Koilaniou),32.792,34.833
+33,Moniatis,32.896,34.868
+66,Dora,32.738,34.782
+24,Gerovasa,32.742,34.814
+39,Arsos,32.769,34.84
+39,Malia,32.782,34.818
+28,Vasa (Koilaniou),32.792,34.833
 24,Vouni,32.834,34.823
-33,Pera Pedi,32.873,34.858
+28,Pera Pedi,32.873,34.858
 24,Mandria Lemesou,32.833,34.87
-112,Omodos,32.807,34.848
+94,Omodos,32.807,34.848
 46,Koilani,32.86,34.846
-66,Agios Dimitrios,32.809,34.926
-28,Palaiomylos,32.823,34.936
-46,Prodromos,32.828,34.947
-28,Kato Platres,32.842,34.88
-28,Pano Platres,32.862,34.888
+55,Agios Dimitrios,32.809,34.926
+24,Palaiomylos,32.823,34.936
+39,Prodromos,32.828,34.947
+24,Kato Platres,32.842,34.88
+24,Pano Platres,32.862,34.888
 134,Foini,32.836,34.892
-39,Amiantos,32.935,34.92
-55,Agios Ioannis,33.022,34.896
-46,Dymes,32.984,34.916
-112,Pelendri,32.966,34.896
-39,Agros,33.018,34.917
-24,Chandria,32.995,34.944
-230,Kyperounta,32.975,34.938
-33,Konia,32.46,34.785
-24,Agia Marinouda,32.474,34.76
+33,Amiantos,32.935,34.92
+46,Agios Ioannis,33.022,34.896
+39,Dymes,32.984,34.916
+94,Pelendri,32.966,34.896
+33,Agros,33.018,34.917
+476,Kyperounta,32.975,34.938
+28,Konia,32.46,34.785
 24,Acheleia,32.485,34.739
-79,Empa,32.424,34.808
-39,Mesogi,32.453,34.816
-66,Tala,32.431,34.834
+66,Empa,32.424,34.808
+33,Mesogi,32.453,34.816
+55,Tala,32.431,34.834
 134,Kouklia,32.575,34.709
-33,Mandria,32.534,34.718
-46,Nikokleia,32.577,34.729
-55,Timi,32.516,34.731
-39,Anarita,32.535,34.741
-66,Foinikas,32.569,34.753
-33,Armou,32.48,34.799
-66,Episkopi,32.526,34.796
-24,Nata,32.571,34.779
-192,Choletria,32.586,34.774
-46,Axylou,32.563,34.807
-24,Eledio,32.564,34.819
-112,Tsada,32.475,34.839
-39,Koili,32.455,34.86
-24,Stroumpi,32.482,34.887
+28,Mandria,32.534,34.718
+39,Nikokleia,32.577,34.729
+46,Timi,32.516,34.731
+33,Anarita,32.535,34.741
+55,Foinikas,32.569,34.753
+79,Armou,32.48,34.799
+55,Episkopi,32.526,34.796
+160,Choletria,32.586,34.774
+39,Axylou,32.563,34.807
+79,Tsada,32.475,34.839
+33,Koili,32.455,34.86
 134,Polemi,32.507,34.886
-33,Kallepeia,32.5,34.847
-66,Letymvou,32.513,34.857
-33,Pitargou,32.534,34.838
-55,Choulou,32.557,34.871
-46,Akoursos,32.421,34.887
-55,Kathikas,32.425,34.912
-230,Pegeia,32.381,34.884
+28,Kallepeia,32.5,34.847
+55,Letymvou,32.513,34.857
+28,Pitargou,32.534,34.838
+46,Choulou,32.557,34.871
+39,Akoursos,32.421,34.887
+46,Kathikas,32.425,34.912
+192,Pegeia,32.381,34.884
 28,Pano Archimandrita,32.677,34.75
-39,Fasoula,32.625,34.76
-39,Mousere,32.716,34.771
-24,Mamonia,32.636,34.77
-55,Agios Georgios,32.654,34.778
+33,Fasoula,32.625,34.76
+33,Mousere,32.716,34.771
+46,Agios Georgios,32.654,34.778
 24,Stavrokonnou,32.618,34.784
-24,Trachypedoula,32.678,34.801
 66,Kelokedara,32.651,34.811
-112,Salamiou,32.69,34.841
-46,Kidasi,32.717,34.813
-33,Kedares,32.736,34.836
-28,Mesana,32.707,34.849
-24,Praitori,32.746,34.849
+94,Salamiou,32.69,34.841
+39,Kidasi,32.717,34.813
+28,Kedares,32.736,34.836
+24,Mesana,32.707,34.849
 33,Agios Nikolaos,32.753,34.861
 39,Agios Ioannis,32.691,34.87
-112,Amargeti,32.583,34.824
+94,Amargeti,32.583,34.824
 66,Pentalia,32.621,34.856
-39,Faleia,32.59,34.86
-24,Galataria,32.631,34.877
-28,Vretsia,32.657,34.892
-79,Statos-Agios Fotios,32.609,34.893
-230,Pano Panagia,32.629,34.921
-46,Psathi,32.533,34.899
-28,Agios Dimitrianos,32.549,34.906
-33,Kannaviou-Melamiou,32.575,34.916
-55,Fyti,32.544,34.928
-33,Drymou,32.513,34.925
-66,Simou,32.504,34.942
-33,Anadiou,32.549,34.94
-24,Sarama,32.529,34.956
-33,Evretou,32.484,34.961
-33,Filousa (Chrysochous),32.504,34.973
-94,Peristerona,32.49,34.991
-28,Theletra,32.456,34.913
-112,Lefkosia,33.378,35.191
-39,Aradippou,33.582,34.953
-55,Dali,33.415,35.029
-685,Paralimni,34,35.032
-79,Geroskipou,32.458,34.754
-94,Germasogeia,33.086,34.715
-24,Agios Athanasios,33.06,34.705
-33,Mesa Geitonia,33.03,34.721
-28,Kato Polemidia,32.999,34.689
-79,Ypsonas,32.975,34.676
-46,Agios Dometios,33.323,35.185
-28,Egkomi,33.336,35.163
-46,Strovolos,33.363,35.125
-55,Larnaka,33.633,34.898
-822,Pafos,32.406,34.78
-33,Lemesos,33.015,34.711
-79,Deryneia,33.967,35.071
-79,Sotira,33.956,35.012
-39,Livadia (Larnakas),33.627,34.958
-55,Dromolaxia-Meneou,33.581,34.876
-192,Voroklini,33.656,34.993
-160,Xylofagou,33.835,34.976
+33,Faleia,32.59,34.86
+24,Vretsia,32.657,34.892
+66,Statos-Agios Fotios,32.609,34.893
+134,Pano Panagia,32.629,34.921
+39,Psathi,32.533,34.899
+24,Agios Dimitrianos,32.549,34.906
+28,Kannaviou-Melamiou,32.575,34.916
+94,Fyti,32.544,34.928
+28,Drymou,32.513,34.925
+46,Simou,32.504,34.942
+28,Anadiou,32.549,34.94
+28,Evretou,32.484,34.961
+28,Filousa (Chrysochous),32.504,34.973
+79,Peristerona,32.49,34.991
+24,Theletra,32.456,34.913
+94,Lefkosia,33.378,35.191
+33,Aradippou,33.582,34.953
+46,Dali,33.415,35.029
+571,Paralimni,34,35.032
+66,Geroskipou,32.458,34.754
+79,Germasogeia,33.086,34.715
+24,Mesa Geitonia,33.03,34.721
+24,Kato Polemidia,32.999,34.689
+66,Ypsonas,32.975,34.676
+39,Agios Dometios,33.323,35.185
+24,Egkomi,33.336,35.163
+39,Strovolos,33.363,35.125
+46,Larnaka,33.633,34.898
+685,Pafos,32.406,34.78
+28,Lemesos,33.015,34.711
+55,Deryneia,33.967,35.071
+66,Sotira,33.956,35.012
+33,Livadia (Larnakas),33.627,34.958
+46,Dromolaxia-Meneou,33.581,34.876
+134,Voroklini,33.656,34.993
+192,Xylofagou,33.835,34.976
 66,Athienou,33.548,35.066
-79,Kolossi,32.925,34.655
-24,Chlorakas,32.405,34.79
-46,Aglantzia / Aglangia,33.393,35.139
-79,Lakatameia,33.297,35.127
+66,Kolossi,32.925,34.655
+39,Aglantzia / Aglangia,33.393,35.139
+66,Lakatameia,33.297,35.127
 66,Latsia / Lakkia,33.379,35.094
-33,Geri,33.416,35.119
-112,Tseri,33.332,35.068
+28,Geri,33.416,35.119
+94,Tseri,33.332,35.068
 39,Troodos,32.88,34.922
 100000,Lefkosia,33.346,35.149
-1183,Lemesos,33.032,34.692
-397,Larnaka,33.614,34.927
-33,Πάφος,32.431,34.778
+986,Lemesos,33.032,34.692
+276,Larnaka,33.614,34.927
+28,Πάφος,32.431,34.778
 160,Pera Chorio,33.401,35.009
-192,Kiti,33.582,34.852
-28,Latsia,33.386,35.107
-24,Ypsonas,32.963,34.689
+160,Kiti,33.582,34.852
+24,Latsia,33.386,35.107

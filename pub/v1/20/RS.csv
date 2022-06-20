@@ -1,150 +1,142 @@
 rmax,name,lon,lat
 100000,Beograd,20.454,44.786
-986,Novi Sad,19.799,45.255
-3528,Niš,21.905,43.32
-1419,Kragujevac,20.902,44.009
-2940,Subotica,19.662,46.096
+822,Novi Sad,19.799,45.255
+2940,Niš,21.905,43.32
+1183,Kragujevac,20.902,44.009
+2450,Subotica,19.662,46.096
 986,Novi Pazar,20.505,43.139
-276,Pančevo,20.657,44.868
-476,Zrenjanin,20.393,45.375
-822,Kraljevo,20.676,43.722
-192,Borča,20.472,44.866
-397,Čačak,20.353,43.887
-571,Kruševac,21.327,43.574
-822,Leskovac,21.942,42.996
-986,Valjevo,19.905,44.276
+230,Pančevo,20.657,44.868
+397,Zrenjanin,20.393,45.375
+685,Kraljevo,20.676,43.722
+160,Borča,20.472,44.866
+331,Čačak,20.353,43.887
+476,Kruševac,21.327,43.574
+685,Leskovac,21.942,42.996
+822,Valjevo,19.905,44.276
 822,Šabac,19.69,44.749
-2042,Vranje,21.898,42.55
-476,Smederevo,20.925,44.652
-1183,Užice,19.843,43.855
-571,Pirot,22.59,43.158
-160,Batajnica,20.277,44.904
+1702,Vranje,21.898,42.55
+397,Smederevo,20.925,44.652
+986,Užice,19.843,43.855
+476,Pirot,22.59,43.158
+134,Batajnica,20.277,44.904
 192,Požarevac,21.185,44.619
-276,Jagodina,21.26,43.978
+230,Jagodina,21.26,43.978
 986,Zaječar,22.272,43.904
-986,Sombor,19.11,45.776
-685,Kikinda,20.463,45.829
+822,Sombor,19.11,45.776
+571,Kikinda,20.463,45.829
 397,Sremska Mitrovica,19.61,44.973
-192,Zeleznik,20.373,44.723
-986,Vršac,21.299,45.12
-331,Bor,22.104,44.065
-276,Belgrade / Obrenovac,20.195,44.66
-685,Loznica,19.229,44.537
-134,Ruma,19.818,45.007
+160,Zeleznik,20.373,44.723
+822,Vršac,21.299,45.12
+276,Bor,22.104,44.065
+571,Loznica,19.229,44.537
+112,Ruma,19.818,45.007
 230,Bačka Palanka,19.388,45.248
-331,Belgrade / Lazarevac,20.261,44.381
-230,Paraćin,21.413,43.86
-276,Prokuplje,21.596,43.241
-276,Inđija,20.077,45.048
-276,Belgrade / Mladenovac,20.695,44.444
-571,Vrbas,19.646,45.571
-112,Smederevska Palanka,20.961,44.371
-134,Arandjelovac,20.562,44.309
-230,Gornji Milanovac,20.461,44.027
-134,Stara Pazova,20.159,44.987
-112,Ćuprija,21.379,43.932
-331,Temerin,19.891,45.408
-476,Ada,20.13,45.784
-276,Apatin,18.984,45.671
-685,Knjaževac,22.265,43.57
-331,Senta,20.082,45.927
-822,Negotin,22.529,44.229
-822,Priboj,19.533,43.568
-397,Becej,20.038,45.619
-79,Nova Pazova,20.218,44.944
-331,Aleksinac,21.704,43.54
+192,Paraćin,21.413,43.86
+230,Prokuplje,21.596,43.241
+230,Inđija,20.077,45.048
+476,Vrbas,19.646,45.571
+685,Smederevska Palanka,20.961,44.371
+230,Arandjelovac,20.562,44.309
+192,Gornji Milanovac,20.461,44.027
+112,Stara Pazova,20.159,44.987
+94,Ćuprija,21.379,43.932
+276,Temerin,19.891,45.408
+397,Ada,20.13,45.784
+230,Apatin,18.984,45.671
+571,Knjaževac,22.265,43.57
+276,Senta,20.082,45.927
+685,Negotin,22.529,44.229
+685,Priboj,19.533,43.568
+331,Becej,20.038,45.619
+66,Nova Pazova,20.218,44.944
+276,Aleksinac,21.704,43.54
 476,Kuršumlija,21.266,43.138
 160,Vlasotince,22.131,42.966
 476,Sjenica,20.006,43.276
-2042,Kladovo,22.615,44.614
-160,Kocane / Pukovac / Brestovac / Doljevac,21.839,43.178
-476,Vladičin Han,22.072,42.707
-94,Gorica,20.386,44.682
-822,Šid,19.227,45.127
-160,Кула,19.528,45.608
+1702,Kladovo,22.615,44.614
+397,Vladičin Han,22.072,42.707
+79,Gorica,20.386,44.682
+685,Šid,19.227,45.127
+134,Кула,19.528,45.608
 276,Trstenik,21.004,43.617
-160,Surcin,20.278,44.794
+134,Surcin,20.278,44.794
 276,Bačka Topola,19.633,45.817
-66,Novi Banovci,20.282,44.962
-24,Banja Koviljaca / Zvornik,19.162,44.535
-230,Bujanovac,21.759,42.469
-397,Tutin,20.331,42.988
-331,Arilje,20.097,43.751
+55,Novi Banovci,20.282,44.962
+192,Bujanovac,21.759,42.469
+331,Tutin,20.331,42.988
+276,Arilje,20.097,43.751
 66,Surdulica,22.174,42.69
-46,Radinac,20.96,44.631
-230,Kovin,20.978,44.744
-66,Velika Plana,21.071,44.331
-397,Raška,20.617,43.285
+39,Radinac,20.96,44.631
+192,Kovin,20.978,44.744
+55,Velika Plana,21.071,44.331
+331,Raška,20.617,43.285
 160,Жабаљ,20.074,45.373
 55,Vrnjačka Banja,20.898,43.625
-685,Svilajnac,21.195,44.234
-160,Kać-Каћ,19.941,45.304
-331,Kanjiza,20.052,46.063
+230,Svilajnac,21.195,44.234
+134,Kać-Каћ,19.941,45.304
+276,Kanjiza,20.052,46.063
 66,Palić,19.75,46.11
-230,Požega,20.039,43.844
-230,Bajina Bašta,19.564,43.973
-192,Чуруг,20.066,45.47
-276,Dimitrovgrad,22.763,43.014
-66,Zemun Polje,20.32,44.875
+192,Požega,20.039,43.844
+192,Bajina Bašta,19.564,43.973
+160,Чуруг,20.066,45.47
+230,Dimitrovgrad,22.763,43.014
+55,Zemun Polje,20.32,44.875
 160,Srbobran,19.795,45.549
-476,Ivanjica,20.234,43.578
-476,Ub,20.073,44.459
-66,Sremska Kamenica-Сремска Каменица,19.848,45.223
-397,Petrovac na Mlavi,21.418,44.378
-192,Bela Palanka,22.314,43.221
-276,Sivac,19.38,45.705
-66,Dobanovci,20.227,44.827
-55,Nis,21.879,43.345
+397,Ivanjica,20.234,43.578
+397,Ub,20.073,44.459
+55,Sremska Kamenica-Сремска Каменица,19.848,45.223
+192,Petrovac na Mlavi,21.418,44.378
+160,Bela Palanka,22.314,43.221
+230,Sivac,19.38,45.705
+55,Dobanovci,20.227,44.827
+46,Nis,21.879,43.345
 134,Ripanj,20.514,44.647
-476,Bela Crkva,21.423,44.902
-230,Kacarevo,20.7,44.965
-192,Kostolac,21.167,44.711
+397,Bela Crkva,21.423,44.902
+192,Kacarevo,20.7,44.965
+160,Kostolac,21.167,44.711
 230,Cantavir,19.768,45.918
-79,Lajkovac,20.166,44.371
+160,Lajkovac,20.166,44.371
 192,Bajmok-Бајмок,19.418,45.973
-112,Novi Bečej,20.136,45.598
-134,Lapovo Municipality-Lapovo,21.1,44.185
-46,Novi Knezevac Municipality-Novi Knezevac,20.099,46.042
-397,Titel / Knicanin,20.304,45.2
-331,Nova Varoš,19.817,43.462
-79,Banatsko Novo Selo,20.784,44.991
-66,Sevojno,19.895,43.845
-276,Prijepolje,19.63,43.368
-331,Aleksandrovac,21.049,43.46
-276,Lebane,21.734,42.917
-276,Mali Iđoš,19.694,45.673
-112,Guncati,20.412,44.595
+94,Novi Bečej,20.136,45.598
+112,Lapovo Municipality-Lapovo,21.1,44.185
+39,Novi Knezevac Municipality-Novi Knezevac,20.099,46.042
+276,Nova Varoš,19.817,43.462
+66,Banatsko Novo Selo,20.784,44.991
+55,Sevojno,19.895,43.845
+230,Prijepolje,19.63,43.368
+276,Aleksandrovac,21.049,43.46
+230,Lebane,21.734,42.917
+230,Mali Iđoš,19.694,45.673
+397,Guncati,20.412,44.595
 192,Grocka,20.714,44.674
-192,Backo Petrovo Selo,20.081,45.707
-28,Sremski Karlovci,19.932,45.203
-94,Jabuka,20.6,44.949
-79,Rumenka,19.742,45.295
+160,Backo Petrovo Selo,20.081,45.707
+24,Sremski Karlovci,19.932,45.203
+79,Jabuka,20.6,44.949
+66,Rumenka,19.742,45.295
 192,Omoljica,20.739,44.76
-160,Kovačica,20.621,45.112
-94,Crvenka,19.457,45.658
-46,Sremčica,20.402,44.662
-79,Vrčin,20.595,44.667
-94,Ugrinovci,20.189,44.875
-230,Grdelica,22.07,42.891
-160,Dolovo,20.88,44.903
-28,Podina / Lukomir / Recica / Zitoradja / Glasince,21.698,43.197
-134,Zrenjanin,20.447,45.311
-79,Batočina,21.083,44.154
-192,Bački Petrovac,19.592,45.359
-192,Beška,20.067,45.131
-331,Svrljig,22.128,43.413
-94,Topola,20.684,44.256
-331,Čajetina,19.707,43.742
+476,Kovačica,20.621,45.112
+79,Crvenka,19.457,45.658
+39,Sremčica,20.402,44.662
+66,Vrčin,20.595,44.667
+79,Ugrinovci,20.189,44.875
+192,Grdelica,22.07,42.891
+134,Dolovo,20.88,44.903
+112,Zrenjanin,20.447,45.311
+66,Batočina,21.083,44.154
+160,Bački Petrovac,19.592,45.359
+160,Beška,20.067,45.131
+276,Svrljig,22.128,43.413
+79,Topola,20.684,44.256
+276,Čajetina,19.707,43.742
 94,Vranjska Banja,21.995,42.557
-276,Majdanpek,21.936,44.425
-331,Sokobanja,21.875,43.643
-331,Melenci,20.319,45.516
-134,Bolec,20.606,44.732
-397,Odžaci,19.258,45.505
-160,Bavanište,20.874,44.82
-79,Belotinac / Malosiste / Batusinac / Gornje Medjurovo,21.847,43.253
-79,Umka,20.312,44.683
+397,Majdanpek,21.936,44.425
+276,Sokobanja,21.875,43.643
+276,Melenci,20.319,45.516
+112,Bolec,20.606,44.732
+331,Odžaci,19.258,45.505
+134,Bavanište,20.874,44.82
+94,Umka,20.312,44.683
 94,Novo Miloševo,20.3,45.715
-331,Veliko Gradište,21.514,44.762
-397,Blace,21.287,43.298
+276,Veliko Gradište,21.514,44.762
+331,Blace,21.287,43.298
 79,Padina,20.726,45.117

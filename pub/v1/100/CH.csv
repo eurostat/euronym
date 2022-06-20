@@ -1,115 +1,95 @@
 rmax,name,lon,lat
 100000,Zürich,8.539,47.377
-2629,Genève,6.154,46.197
-1058,Basel,7.606,47.557
-735,Lausanne,6.632,46.527
+2191,Genève,6.154,46.197
+882,Basel,7.606,47.557
+613,Lausanne,6.632,46.527
 1269,Bern,7.443,46.943
-735,Luzern,8.302,47.059
-296,Winterthur,8.734,47.502
-882,St. Gallen,9.376,47.431
-3154,Lugano,8.955,46.013
-511,Biel/Bienne,7.253,47.134
-355,Fribourg,7.151,46.798
-511,Thun,7.635,46.748
-296,Baar,8.513,47.183
-206,Neuchâtel-Pré Louiset,6.927,46.994
-735,Schaffhausen,8.633,47.697
-511,Olten,7.912,47.343
-426,Bellinzona-Monti di Padevilla,9.023,46.196
-247,Wettingen,8.319,47.464
-172,La Tour-de-Peilz,6.847,46.463
-172,Aarau-Rohr,8.063,47.392
-206,La Chaux-de-Fonds,6.827,47.1
-1269,Chur,9.526,46.857
+613,Luzern,8.302,47.059
+247,Winterthur,8.734,47.502
+735,St. Gallen,9.376,47.431
+2629,Lugano,8.955,46.013
+426,Biel/Bienne,7.253,47.134
+296,Fribourg,7.151,46.798
+426,Thun,7.635,46.748
+247,Baar,8.513,47.183
+172,Neuchâtel-Pré Louiset,6.927,46.994
+613,Schaffhausen,8.633,47.697
+426,Olten,7.912,47.343
+355,Bellinzona-Monti di Padevilla,9.023,46.196
+172,Wettingen,8.319,47.464
+144,La Tour-de-Peilz,6.847,46.463
+144,Aarau-Rohr,8.063,47.392
+172,La Chaux-de-Fonds,6.827,47.1
+1058,Chur,9.526,46.857
 172,Solothurn,7.545,47.208
-247,Yverdon-les-Bains,6.641,46.778
-120,Rorschacherberg-Steggenweid,9.499,47.477
-172,Uster-Niederuster,8.718,47.349
+206,Yverdon-les-Bains,6.641,46.778
+144,Uster-Niederuster,8.718,47.349
 206,Wil (SG),9.048,47.464
-355,Alpnach / Sarnen / Sachseln,8.234,46.888
-355,Rapperswil-Jona,8.83,47.229
-172,Liestal-Talacher,7.734,47.49
-1269,Sion,7.358,46.231
+296,Rapperswil-Jona,8.83,47.229
+144,Liestal-Talacher,7.734,47.49
+1058,Sion,7.358,46.231
 120,Morges,6.502,46.514
-172,Buelach,8.544,47.516
-426,Nyon,6.229,46.383
-144,Frauenfeld,8.899,47.559
+144,Buelach,8.544,47.516
+355,Nyon,6.229,46.383
+120,Frauenfeld,8.899,47.559
 355,Monthey,6.948,46.264
-120,Grenchen,7.397,47.195
-120,Wädenswil,8.667,47.23
-144,Villmergen,8.27,47.35
-120,Zofingen,7.94,47.291
-355,Bulle,7.058,46.617
-355,Brig-Glis-Unners Nesseltal,7.989,46.319
-296,Martigny,7.071,46.099
-144,Oensingen,7.68,47.266
-247,Burgdorf,7.621,47.052
-206,Sierre,7.527,46.293
-296,Glarus Nord-Vogelgut,9.061,47.11
-247,Landquart-Igis,9.564,46.956
+120,Villmergen,8.27,47.35
+296,Bulle,7.058,46.617
+296,Brig-Glis-Unners Nesseltal,7.989,46.319
+247,Martigny,7.071,46.099
+120,Oensingen,7.68,47.266
+172,Arbon,9.426,47.51
+206,Burgdorf,7.621,47.052
+172,Sierre,7.527,46.293
+247,Glarus Nord-Vogelgut,9.061,47.11
+206,Landquart-Igis,9.564,46.956
 247,Interlaken,7.855,46.683
-296,Langenthal,7.785,47.214
-206,Versoix,6.165,46.287
-144,Glarus,9.062,47.049
-120,Altdorf (UR),8.644,46.871
-144,Lyss,7.302,47.074
+247,Langenthal,7.785,47.214
+172,Versoix,6.165,46.287
+120,Glarus,9.062,47.049
+426,Altdorf (UR),8.644,46.871
+120,Lyss,7.302,47.074
 144,Mels-Hinterspina,9.425,47.05
-172,Buchs (SG)-Malbun,9.473,47.165
-144,Saxon,7.197,46.166
-172,Neuenkirch,8.191,47.127
+144,Buchs (SG)-Malbun,9.473,47.165
+120,Saxon,7.197,46.166
+144,Neuenkirch,8.191,47.127
 247,Burg,8.181,47.252
 120,Frick,8.007,47.499
-120,Spreitenbach,8.364,47.419
 120,Aadorf,8.914,47.472
-172,Affoltern am Albis,8.452,47.278
-120,Herisau,9.283,47.386
-355,Romanshorn,9.376,47.565
-172,Münsingen,7.56,46.874
-882,Celerina/Schlarigna-Alp dal Staz,9.854,46.511
-206,Wattwil,9.087,47.31
+144,Affoltern am Albis,8.452,47.278
+120,Romanshorn,9.376,47.565
+144,Münsingen,7.56,46.874
+735,Celerina/Schlarigna-Alp dal Staz,9.854,46.511
+172,Wattwil,9.087,47.31
 172,Widnau,9.636,47.408
-247,Appenzell,9.421,47.328
-144,Aigle,6.962,46.319
-426,Delémont,7.351,47.365
+206,Appenzell,9.421,47.328
+120,Aigle,6.962,46.319
+355,Delémont,7.351,47.365
 355,Davos,9.833,46.799
-120,Eglisau / Glattfelden,8.515,47.567
-206,Cossonay / Penthalaz,6.52,46.608
-120,Sursee,8.104,47.171
-172,Rolle,6.338,46.46
-144,Therwil,7.559,47.499
-172,Sulgen,9.204,47.537
-120,Bad Ragaz / Maienfeld,9.513,47.005
-206,Buochs,8.413,46.98
-120,Estavayer-Estavayer-le-Lac,6.829,46.834
-144,Eschenz,8.864,47.659
-172,Langnau im Emmental,7.795,46.939
-172,Oberdorf (BL),7.754,47.403
-144,Muri,8.334,47.272
+144,Rolle,6.338,46.46
+120,Therwil,7.559,47.499
+144,Sulgen,9.204,47.537
+172,Buochs,8.413,46.98
+120,Payerne,6.938,46.82
+120,Eschenz,8.864,47.659
+247,Langnau im Emmental,7.795,46.939
+144,Oberdorf (BL),7.754,47.403
+120,Muri,8.334,47.272
 296,Schwyz,8.644,47.02
 172,Porrentruy,7.074,47.413
 206,Einsiedeln,8.747,47.129
-247,Möhlin,7.842,47.563
-120,Bonstetten,8.473,47.326
-172,Murten,7.116,46.927
-172,Val-de-Travers,6.605,46.911
-120,Augst,7.723,47.538
-144,Visp,7.884,46.293
-120,Hinwil,8.844,47.299
-144,Orbe,6.534,46.725
-144,Worb,7.576,46.928
-144,Küssnacht (SZ),8.441,47.078
-144,Spiez,7.677,46.688
-206,Thusis / Scharans / Summaprada / Pratval / Scharans,9.445,46.712
-296,Biasca,8.965,46.36
+206,Möhlin,7.842,47.563
+144,Murten,7.116,46.927
+247,Val-de-Travers,6.605,46.911
+120,Visp,7.884,46.293
+120,Orbe,6.534,46.725
+120,Worb,7.576,46.928
+120,Küssnacht (SZ),8.441,47.078
+120,Spiez,7.677,46.688
+735,Biasca,8.965,46.36
 120,Bagnes,7.225,46.081
-144,Gordola,8.868,46.179
-120,Unterägeri,8.577,47.139
-120,Cortaillod,6.847,46.946
-247,Willisau,7.992,47.118
-120,Düdingen,7.196,46.846
-120,Balsthal,7.696,47.316
-511,Zermatt,7.749,46.021
-120,Bösingen,7.233,46.897
-206,Moutier,7.371,47.278
-247,Melano / Maroggia / Rovio,8.978,45.922
-120,Saint-Maurice,7.004,46.211
+120,Gordola,8.868,46.179
+247,Echallens,6.633,46.643
+206,Willisau,7.992,47.118
+426,Zermatt,7.749,46.021
+144,Moutier,7.371,47.278

@@ -1,1428 +1,1209 @@
 rmax,name,lon,lat
-94,Kobilje,16.394,46.685
-28,Cersak,15.668,46.698
-46,Vucja Gomila,16.277,46.703
-94,Puconci,16.159,46.705
-28,Predanovci,16.125,46.694
-28,Skakovci,16.049,46.707
-39,Motvarjevci,16.35,46.705
+79,Kobilje,16.394,46.685
+24,Cersak,15.668,46.698
+39,Vucja Gomila,16.277,46.703
+79,Puconci,16.159,46.705
+24,Predanovci,16.125,46.694
+24,Skakovci,16.049,46.707
+33,Motvarjevci,16.35,46.705
 33,Sebeborci,16.2,46.708
-134,Cankova,16.02,46.718
-39,Andrejci,16.227,46.722
-24,Salamenci,16.138,46.727
-46,Zenkovci,16.082,46.727
-55,Vaneca,16.169,46.727
-33,Fokovci,16.268,46.734
-66,Ivanovci,16.229,46.737
-28,Domajinci,16.044,46.741
-28,Slamna vas,15.335,45.674
-55,Osojnik,15.213,45.68
+112,Cankova,16.02,46.718
+28,Andrejci,16.227,46.722
+39,Zenkovci,16.082,46.727
+46,Vaneca,16.169,46.727
+79,Fokovci,16.268,46.734
+28,Ivanovci,16.229,46.737
+24,Domajinci,16.044,46.741
+66,Osojnik,15.213,45.68
 55,Crmosnjice,15.102,45.673
-55,Bereca vas,15.276,45.681
-94,Radovica,15.35,45.69
-39,Dolnje Lozine,14.808,45.689
-134,Ursna sela,15.126,45.718
-230,Ribnica,14.727,45.739
+46,Bereca vas,15.276,45.681
+79,Radovica,15.35,45.69
+33,Dolnje Lozine,14.808,45.689
+66,Ursna sela,15.126,45.718
+192,Ribnica,14.727,45.739
 33,Dolenje Jezero,14.358,45.777
-24,Potok,15.101,45.785
 39,Soteska,15.028,45.778
-28,Loz,14.469,45.725
-33,Trnje,14.225,45.686
-28,Zerovnica,14.426,45.759
-112,Dutovlje,13.833,45.756
-66,Hrusevje,14.111,45.762
-46,Razdrto,14.062,45.757
-55,Kazlje,13.908,45.761
+24,Loz,14.469,45.725
+28,Trnje,14.225,45.686
+24,Zerovnica,14.426,45.759
+94,Dutovlje,13.833,45.756
+55,Hrusevje,14.111,45.762
+39,Razdrto,14.062,45.757
+46,Kazlje,13.908,45.761
 66,Sodrazica,14.633,45.764
 55,Veliki Dol,13.752,45.77
-39,Hrenovice,14.146,45.779
-46,Skopo,13.824,45.773
-39,Lozice,13.999,45.781
-28,Zimarice,14.599,45.777
-33,Brje pri Komnu,13.718,45.785
-46,Zagon,14.176,45.794
+33,Skopo,13.824,45.773
+33,Lozice,13.999,45.781
+24,Zimarice,14.599,45.777
+28,Brje pri Komnu,13.718,45.785
+39,Zagon,14.176,45.794
 33,Velike Poljane,14.686,45.798
-66,Mala Slevica,14.628,45.809
+55,Mala Slevica,14.628,45.809
 33,Brestovica pri Komnu,13.626,45.814
-46,Visnje,14.835,45.809
-24,Kompolje,14.714,45.817
-24,Veliki Otok,14.198,45.784
-24,Visejec,14.87,45.811
-39,Goce,13.925,45.821
-24,Belsko,14.155,45.82
-112,Ambrus,14.816,45.827
+39,Visnje,14.835,45.809
+33,Goce,13.925,45.821
+94,Ambrus,14.816,45.827
 39,Podgora,14.702,45.827
-46,Vojscica,13.672,45.829
-79,Stanjel,13.844,45.823
+33,Vojscica,13.672,45.829
+66,Stanjel,13.844,45.823
 39,Unec,14.291,45.82
 24,Sadinja vas pri Dvoru,14.962,45.82
-33,Brezovi Dol,14.847,45.822
-33,Tomacevica,13.773,45.817
-192,Zuzemberk,14.929,45.831
-39,Gaberje,13.884,45.838
-28,Rosnja,15.744,46.479
-39,Sutna,15.501,45.855
-24,Fuzina,14.831,45.862
-39,Mihovica,15.332,45.857
-28,Podbocje,15.467,45.863
-33,Dobrava pri Skocjanu,15.32,45.875
+28,Brezovi Dol,14.847,45.822
+28,Tomacevica,13.773,45.817
+160,Zuzemberk,14.929,45.831
+33,Gaberje,13.884,45.838
+24,Rosnja,15.744,46.479
+28,Sutna,15.501,45.855
+33,Mihovica,15.332,45.857
+24,Podbocje,15.467,45.863
+28,Dobrava pri Skocjanu,15.32,45.875
 28,Skalske Cirkovce,15.136,46.396
-66,Paka pri Velenju,15.141,46.376
-66,Boharina,15.372,46.401
-79,Kozjak,15.199,46.404
-28,Srednji Dolic,15.237,46.413
-55,Cirkovce,15.728,46.395
-28,Padeski Vrh,15.371,46.415
-79,Zgornja Polskava,15.611,46.426
-39,Gornji Dolic,15.188,46.427
-94,Plesivec,15.105,46.41
+55,Paka pri Velenju,15.141,46.376
+55,Boharina,15.372,46.401
+28,Kozjak,15.199,46.404
+24,Strazgonjca,15.691,46.406
+24,Cirkovce,15.728,46.395
+66,Zgornja Polskava,15.611,46.426
+33,Gornji Dolic,15.188,46.427
+79,Plesivec,15.105,46.41
 24,Spodnja Gorica,15.692,46.417
-24,Starosince,15.729,46.426
 28,Ravne,15.062,46.397
-33,Paka,15.299,46.394
+28,Paka,15.299,46.394
 24,Skomarje,15.342,46.413
-33,Graska Gora,15.122,46.423
-24,Bukovec,15.627,46.435
-39,Resnik,15.353,46.43
-112,Zvirce,14.824,45.783
-24,Zalog,15.12,45.794
+28,Graska Gora,15.122,46.423
+33,Resnik,15.353,46.43
+94,Zvirce,14.824,45.783
 24,Veliki Lipovec,15.025,45.806
 24,Podgora,15.095,45.805
-39,Precna,15.125,45.813
-33,Gorenje Kamence,15.14,45.836
-39,Zdinja vas,15.171,45.847
-46,Golek,15.452,45.96
-28,Kisovec,14.964,46.139
-66,Imeno,15.599,46.131
-33,Cerovec,15.36,46.251
-66,Lopata,15.232,46.262
-33,Irje,15.63,46.252
-79,Ljubecna,15.322,46.259
-24,Lokrovec,15.255,46.261
-33,Kamence,15.038,46.268
+33,Precna,15.125,45.813
+28,Gorenje Kamence,15.14,45.836
+33,Zdinja vas,15.171,45.847
+39,Golek,15.452,45.96
+24,Kisovec,14.964,46.139
+55,Imeno,15.599,46.131
+24,Cerovec,15.36,46.251
+55,Lopata,15.232,46.262
+28,Ljubecna,15.322,46.259
+28,Kamence,15.038,46.268
 24,Zgornje Negonje,15.624,46.27
-28,Dolga Gora,15.511,46.278
-33,Smarje,13.852,45.848
-33,Slap,13.936,45.84
-55,Klecet,14.876,45.85
-46,Videm,14.695,45.849
-79,Gabrovka,14.988,46.001
-33,Rovte,14.178,45.986
-46,Planica,15.582,46.469
-79,Opatje selo,13.583,45.851
+24,Dolga Gora,15.511,46.278
+28,Smarje,13.852,45.848
+28,Slap,13.936,45.84
+46,Klecet,14.876,45.85
+39,Videm,14.695,45.849
+112,Gabrovka,14.988,46.001
+28,Rovte,14.178,45.986
+39,Planica,15.582,46.469
+94,Opatje selo,13.583,45.851
 33,Dobje pri Planini,15.394,46.137
-24,Marija Gradec,15.243,46.145
-24,Marno,15.14,46.143
-33,Semnik,14.934,46.143
-39,Belovo,15.162,46.145
-24,Tevce,15.288,46.144
+24,Semnik,14.934,46.143
+33,Belovo,15.162,46.145
+39,Tevce,15.288,46.144
 33,Trobni Dol,15.345,46.138
-55,Krtina,14.65,46.151
-66,Kostrivnica,15.375,46.154
+39,Krtina,14.65,46.151
+33,Kostrivnica,15.375,46.154
 28,Ojstro,15.278,46.165
-24,Mala Breza,15.332,46.162
-66,Izlake,14.929,46.156
+55,Izlake,14.929,46.156
 55,Hudinja,15.309,46.414
-24,Jesenca,15.654,46.444
 33,Smiklavz,15.12,46.451
 39,Mestni Vrh,15.857,46.445
 39,Kicar,15.917,46.449
-28,Fram,15.63,46.456
-39,Radizel,15.653,46.471
+24,Fram,15.63,46.456
+33,Radizel,15.653,46.471
 28,Mislinjska Dobrava,15.125,46.469
-160,Mislinja,15.199,46.443
-24,Golavabuka,15.159,46.482
-28,Tratna pri Grobelnem,15.441,46.202
-33,Kokrica,14.356,46.267
-66,Naklo,14.317,46.273
-33,Smartno pri Slovenj Gradcu,15.107,46.494
-160,Spodnje Hoce,15.649,46.5
-39,Razvanje,15.635,46.515
-28,Gradisce,15.111,46.519
-24,Zgornji Gabernik,15.573,46.273
-39,Nadole,15.769,46.294
+112,Mislinja,15.199,46.443
+24,Tratna pri Grobelnem,15.441,46.202
+28,Kokrica,14.356,46.267
+55,Naklo,14.317,46.273
+28,Smartno pri Slovenj Gradcu,15.107,46.494
+134,Spodnje Hoce,15.649,46.5
+33,Razvanje,15.635,46.515
+28,Nadole,15.769,46.294
 33,Kupcinji Vrh,15.738,46.274
-39,Stoperce,15.718,46.291
-55,Polzela,15.077,46.28
-24,Straza na Gori,15.391,46.296
-24,Zaloze,15.086,46.289
-39,Zbelovo,15.526,46.299
-55,Stari Grad,15.665,46.296
-24,Jelovec pri Makolah,15.673,46.307
-79,Kocice,15.795,46.307
-46,Stare Slemene,15.374,46.309
+33,Stoperce,15.718,46.291
+79,Polzela,15.077,46.28
+28,Zbelovo,15.526,46.299
+46,Stari Grad,15.665,46.296
+66,Kocice,15.795,46.307
+39,Stare Slemene,15.374,46.309
 66,Poljcane,15.578,46.313
-24,Stanovsko,15.559,46.323
-28,Breg,15.737,46.339
-134,Slovenske Konjice,15.425,46.339
-28,Dolena,15.81,46.342
-24,Tepanje,15.475,46.346
-28,Slape,15.767,46.342
-79,Majsperk,15.734,46.35
-28,Sovice,15.942,46.35
-55,Smlednik,14.431,46.163
+24,Breg,15.737,46.339
+112,Slovenske Konjice,15.425,46.339
+24,Dolena,15.81,46.342
+24,Slape,15.767,46.342
+66,Majsperk,15.734,46.35
+46,Smlednik,14.431,46.163
 24,Olimje,15.563,46.15
 66,Olesce,15.308,46.162
-160,Podcetrtek,15.597,46.157
+134,Podcetrtek,15.597,46.157
 112,Lasko,15.236,46.154
-28,Srpenica,13.498,46.292
+24,Srpenica,13.498,46.292
 134,Breginj,13.426,46.262
-28,Drezniske Ravne,13.607,46.269
-28,Podnart,14.259,46.293
-24,Tupalice,14.427,46.291
-112,Kropa,14.205,46.298
-160,Preddvor,14.422,46.303
-79,Nova Stifta,14.745,46.27
-46,Male Braslovce,15.043,46.299
-33,Nomenj,14.006,46.292
-112,Gornji Grad,14.806,46.296
+24,Drezniske Ravne,13.607,46.269
+24,Podnart,14.259,46.293
+94,Kropa,14.205,46.298
+134,Preddvor,14.422,46.303
+55,Nova Stifta,14.745,46.27
+39,Male Braslovce,15.043,46.299
+28,Nomenj,14.006,46.292
+94,Gornji Grad,14.806,46.296
 28,Bocna,14.853,46.289
-55,Tenetise,14.347,46.295
-28,Letenice,14.337,46.307
-46,Kamna Gorica,14.194,46.315
+46,Tenetise,14.347,46.295
+33,Kamna Gorica,14.194,46.315
+24,Ljubno,14.247,46.314
 33,Dobrovlje,14.996,46.301
-33,Varpolje,14.91,46.313
-66,Trnovska vas,15.887,46.52
-24,Lobnica,15.526,46.524
-94,Veliko Mrasevo,15.479,45.876
-24,Cerklje ob Krki,15.519,45.884
-39,Dobruska vas,15.305,45.889
-55,Sela pri Sumberku,14.889,45.896
-46,Gorica,15.479,45.9
-39,Vrh nad Zelimljami,14.592,45.905
-94,Drnovo,15.484,45.918
+28,Varpolje,14.91,46.313
+55,Trnovska vas,15.887,46.52
+79,Veliko Mrasevo,15.479,45.876
+33,Dobruska vas,15.305,45.889
+46,Sela pri Sumberku,14.889,45.896
+39,Gorica,15.479,45.9
+33,Vrh nad Zelimljami,14.592,45.905
+79,Drnovo,15.484,45.918
 66,Gradisce nad Pijavo Gorico,14.589,45.921
-55,Sklendrovec,15.017,46.093
-33,Veliki Dol,15.545,46.021
-55,Pece,14.81,46.147
-33,Ciginj,13.71,46.163
-46,Sv. Ema,15.604,46.177
-28,Rifengozd,15.258,46.188
-39,Zibika,15.557,46.192
-28,Skofija,15.546,46.203
-33,Konjiska vas,15.446,46.324
-66,Slatina,15.974,46.323
-28,Pobrez,15.462,46.359
-28,Gradisca,15.972,46.358
-39,Sestrze,15.69,46.357
-33,Zgornja Pristava,15.832,46.352
-39,Bezina,15.434,46.355
-33,Malahorna,15.436,46.375
-33,Cresnjevec,15.613,46.373
-66,Zrece,15.391,46.37
-55,Sostanj,15.048,46.38
-28,Strmec nad Dobrno,15.204,46.372
-24,Leskovec,15.622,46.387
-33,Lesane,15.899,46.665
-24,Rozengrunt,15.824,46.678
-55,Ciringa,15.596,46.687
-134,Sentilj v Slov. goricah,15.653,46.679
-28,Selnica ob Muri,15.695,46.689
-24,Sladki Vrh,15.735,46.697
+66,Sklendrovec,15.017,46.093
+39,Veliki Dol,15.545,46.021
+46,Pece,14.81,46.147
+28,Ciginj,13.71,46.163
+39,Sv. Ema,15.604,46.177
+24,Rifengozd,15.258,46.188
+33,Zibika,15.557,46.192
+24,Skofija,15.546,46.203
+46,Slatina,15.974,46.323
+24,Gradisca,15.972,46.358
+33,Sestrze,15.69,46.357
+28,Zgornja Pristava,15.832,46.352
+33,Bezina,15.434,46.355
+28,Malahorna,15.436,46.375
+28,Cresnjevec,15.613,46.373
+55,Zrece,15.391,46.37
+46,Sostanj,15.048,46.38
+24,Strmec nad Dobrno,15.204,46.372
+24,Lesane,15.899,46.665
+46,Ciringa,15.596,46.687
+112,Sentilj v Slov. goricah,15.653,46.679
+24,Selnica ob Muri,15.695,46.689
+24,Svecane,15.749,46.693
 24,Trate,15.787,46.703
-28,Podgorje,15.818,46.706
-55,Podbrezje,14.276,46.304
-94,Koprivnik v Bohinju,13.982,46.307
-55,Nazarje,14.949,46.318
-33,Zakl,15.873,46.322
-33,Letus,15.02,46.317
-24,Gorjuse,14.012,46.316
-66,Smartno ob Paki,15.033,46.329
-66,Podvolovljek,14.7,46.315
-46,Cezsoca,13.547,46.319
-94,Golnik,14.33,46.324
-94,Zaga,13.482,46.304
-33,Radmirje,14.85,46.329
+24,Podgorje,15.818,46.706
+46,Podbrezje,14.276,46.304
+79,Koprivnik v Bohinju,13.982,46.307
+46,Nazarje,14.949,46.318
+28,Zakl,15.873,46.322
+28,Letus,15.02,46.317
+55,Smartno ob Paki,15.033,46.329
+55,Podvolovljek,14.7,46.315
+39,Cezsoca,13.547,46.319
+79,Golnik,14.33,46.324
+79,Zaga,13.482,46.304
+28,Radmirje,14.85,46.329
 24,Mosnje,14.21,46.335
-24,Florjan pri Gornjem Gradu,14.831,46.305
-28,Lancovo,14.166,46.329
-24,Baselj,14.4,46.314
-66,Mozirje,14.96,46.339
-33,Veliki Vrh,15.048,46.352
-55,Ljubno ob Savinji,14.834,46.344
+24,Lancovo,14.166,46.329
+55,Mozirje,14.96,46.339
+28,Veliki Vrh,15.048,46.352
+46,Ljubno ob Savinji,14.834,46.344
 55,Bohinjska Bela,14.061,46.337
-33,Zapotok,14.677,45.762
-28,Repisce,15.95,46.336
+39,Dolenji Lazi,14.715,45.759
+24,Repisce,15.95,46.336
 46,Cirkulane,15.995,46.344
-33,Turski Vrh,16.052,46.362
-24,Dolane,16,46.364
-94,Trzic,14.31,46.364
-79,Hrastovec,16.053,46.374
-28,Gajevci,16.017,46.396
-28,Sikole,15.702,46.404
-79,Gorisnica,16.013,46.408
+39,Turski Vrh,16.052,46.362
+79,Trzic,14.31,46.364
+24,Hrastovec,16.053,46.374
+94,Gorisnica,16.013,46.408
 24,Cvetkovci,16.066,46.414
-39,Zamusani,16.036,46.422
-39,Godeninci,16.268,46.421
-33,Sodinci,16.078,46.427
-33,Vodranci,16.248,46.434
-33,Bresnica,16.038,46.443
-79,Vicanci,16.077,46.441
-55,Spodnji Razbor,15.057,46.446
+33,Zamusani,16.036,46.422
+33,Godeninci,16.268,46.421
+28,Sodinci,16.078,46.427
+24,Vodranci,16.248,46.434
+28,Bresnica,16.038,46.443
+66,Vicanci,16.077,46.441
+46,Spodnji Razbor,15.057,46.446
 28,Runec,16.127,46.463
 79,Apace,15.909,46.698
-39,Zepovci,15.865,46.695
-66,Zabice,14.344,45.515
-24,Podgraje,14.345,45.526
-112,Race,15.681,46.452
-28,Placar,15.89,46.458
-33,Zlatolicje,15.789,46.451
-33,Dravski Dvor,15.716,46.466
-24,Rance,15.62,46.467
+33,Zepovci,15.865,46.695
+55,Zabice,14.344,45.515
+33,Kutezevo,14.33,45.531
+94,Race,15.681,46.452
+24,Placar,15.89,46.458
+28,Zlatolicje,15.789,46.451
+28,Dravski Dvor,15.716,46.466
 134,Destrnik,15.876,46.493
-24,Loka,15.73,46.489
 33,Rogoznica,15.82,46.502
 24,Pivola,15.624,46.504
 55,Moravci v Slov. goricah,16.026,46.521
-28,Pince-Marof,16.51,46.515
+24,Pince-Marof,16.51,46.515
 24,Radoslavci,16.101,46.525
-94,Petisovci,16.46,46.527
-33,Zgornji Duplek,15.725,46.517
-28,Pince,16.522,46.526
+79,Petisovci,16.46,46.527
+28,Zgornji Duplek,15.725,46.517
+24,Pince,16.522,46.526
 28,Buckovci,16.055,46.532
-46,Zimica,15.755,46.535
+39,Zimica,15.755,46.535
 24,Kostanjevica na Krasu,13.642,45.844
 24,Velike Zablje,13.851,45.867
 39,Ustje,13.895,45.87
-33,Visnje,14.023,45.872
-39,Planina,14.251,45.83
-39,Ponikve,14.652,45.861
-39,Ivanje selo,14.299,45.835
-24,Zdenska vas,14.705,45.857
-28,Hocevje,14.752,45.871
-55,Krka,14.778,45.881
-112,Grcarevec,14.213,45.873
+28,Visnje,14.023,45.872
+33,Planina,14.251,45.83
+33,Ponikve,14.652,45.861
+33,Ivanje selo,14.299,45.835
+24,Hocevje,14.752,45.871
+28,Cesta,14.692,45.862
+46,Krka,14.778,45.881
+94,Grcarevec,14.213,45.873
 66,Col,14.001,45.88
-24,Petrovce,15.188,46.245
-46,Primoz pri Sentjurju,15.4,46.238
-24,Hotunje,15.418,46.251
-112,Zalec,15.165,46.252
-24,Trnovlje pri Celju,15.288,46.246
+39,Primoz pri Sentjurju,15.4,46.238
+94,Zalec,15.165,46.252
+33,Trnovlje pri Celju,15.288,46.246
 39,Gomilsko,15.043,46.253
-46,Ponikva,15.444,46.254
-94,Pijovci,15.538,46.256
-66,Sv. Florijan,15.673,46.258
-33,Pristava,15.333,46.278
-276,Vinica,15.255,45.46
-55,Rakitovec,13.971,45.469
-66,Movraz,13.917,45.477
-24,Stari trg ob Kolpi,15.077,45.494
-33,Novokracine,14.308,45.493
-46,Hrast pri Vinici,15.227,45.48
-24,Dol pri Hrastovljah,13.911,45.501
-66,Gracisce,13.874,45.503
+79,Ponikva,15.444,46.254
+55,Pijovci,15.538,46.256
+79,Sv. Florijan,15.673,46.258
+28,Pristava,15.333,46.278
+230,Vinica,15.255,45.46
+46,Rakitovec,13.971,45.469
+55,Movraz,13.917,45.477
+28,Novokracine,14.308,45.493
+39,Hrast pri Vinici,15.227,45.48
+55,Gracisce,13.874,45.503
 112,Jelsane,14.271,45.501
-24,Hrastovlje,13.901,45.511
 33,Veliko Brdo,14.22,45.514
 55,Adlesici,15.312,45.522
-66,Dragatus,15.178,45.521
+55,Dragatus,15.178,45.521
 39,Kubed,13.87,45.52
-134,Podgrad,14.146,45.522
-33,Mala Bukovica,14.241,45.534
+112,Podgrad,14.146,45.522
+28,Mala Bukovica,14.241,45.534
 28,Rizana,13.848,45.544
-33,Tanca Gora,15.155,45.535
-33,Obrov,14.087,45.543
+24,Tanca Gora,15.155,45.535
+28,Obrov,14.087,45.543
 94,Podgorje,13.945,45.534
-55,Dolnji Zemon,14.26,45.547
-39,Butoraj,15.206,45.544
-46,Crni Kal,13.878,45.55
-66,Tribuce,15.248,45.544
-28,Podbeze,14.152,45.547
-39,Dekani,13.812,45.548
-55,Morava,14.863,45.551
-33,Hrusica,14.121,45.54
-33,Kanizarica,15.17,45.561
-24,Doblice,15.143,45.559
+46,Dolnji Zemon,14.26,45.547
+33,Butoraj,15.206,45.544
+28,Crni Kal,13.878,45.55
+55,Tribuce,15.248,45.544
+24,Podbeze,14.152,45.547
+33,Dekani,13.812,45.548
+39,Morava,14.863,45.551
+28,Hrusica,14.121,45.54
+28,Kanizarica,15.17,45.561
+39,Bertoki,13.766,45.544
 24,Zarecica,14.224,45.558
-55,Zirovnica,14.136,46.404
-33,Prvenci,15.956,46.406
-28,Robanov Kot,14.702,46.408
-28,Kocna,14.081,46.415
-24,Borovci,15.937,46.418
-46,Topolsica,15.021,46.4
+46,Zirovnica,14.136,46.404
+24,Robanov Kot,14.702,46.408
+24,Kocna,14.081,46.415
+39,Topolsica,15.021,46.4
 39,Begunje na Gorenjskem,14.198,46.375
 112,Zgornje Jezersko,14.499,46.393
-79,Konjski Vrh,14.785,46.387
-24,Trimlini,16.463,46.543
-55,Hotiza,16.361,46.549
-28,Dolina pri Lendavi,16.506,46.538
-33,Centiba,16.487,46.551
-192,Lendava,16.451,46.565
+66,Konjski Vrh,14.785,46.387
+46,Hotiza,16.361,46.549
+24,Dolina pri Lendavi,16.506,46.538
+28,Centiba,16.487,46.551
+160,Lendava,16.451,46.565
 39,Velika Polana,16.344,46.573
-46,Dolga vas,16.448,46.583
-46,Gomilica,16.312,46.603
-39,Mostje,16.428,46.602
-24,Nedelica,16.341,46.611
-24,Genterovci,16.406,46.62
-33,Radmozanci,16.384,46.612
-66,Turnisce,16.32,46.622
-28,Renkovci,16.296,46.635
-66,Plintovec,15.618,46.637
-24,Kremberk,15.842,46.637
+39,Dolga vas,16.448,46.583
+39,Gomilica,16.312,46.603
+33,Mostje,16.428,46.602
+28,Radmozanci,16.384,46.612
+55,Turnisce,16.32,46.622
+24,Renkovci,16.296,46.635
+55,Plintovec,15.618,46.637
 66,Sv. Ana v Slov. goricah,15.845,46.647
-28,Pusca,16.139,46.655
+24,Pusca,16.139,46.655
 39,Ivanci,16.256,46.658
-112,Dobrovnik,16.35,46.651
-39,Vanca vas,16.095,46.669
-33,Norsinci,16.206,46.67
-39,Lutrje,15.442,46.27
-33,Arclin,15.301,46.278
-24,Gorica pri Smartnem,15.229,46.272
-79,Zetale,15.794,46.275
-55,Dramlje,15.393,46.273
-55,Loce,15.256,46.286
-28,Braslovce,15.04,46.288
-39,Zbelovska Gora,15.552,46.283
-33,Pletovarje,15.433,46.284
-79,Vojnik,15.302,46.292
-24,Brezova,15.261,46.295
-55,Pernovo,15.187,46.287
-33,Dolz,15.249,45.761
+94,Dobrovnik,16.35,46.651
+24,Norsinci,16.206,46.67
+33,Lutrje,15.442,46.27
+28,Arclin,15.301,46.278
+66,Zetale,15.794,46.275
+39,Dramlje,15.393,46.273
+46,Loce,15.256,46.286
+24,Braslovce,15.04,46.288
+66,Zbelovska Gora,15.552,46.283
+28,Pletovarje,15.433,46.284
+112,Vojnik,15.302,46.292
+46,Pernovo,15.187,46.287
 66,Stopice,15.21,45.77
-33,Praprece pri Strazi,15.105,45.774
-33,Sentjost,15.209,45.783
-94,Straza,15.074,45.784
-28,Smolenja vas,15.202,45.816
-79,Otocec,15.222,45.834
-46,Ponikve,15.642,45.848
-24,Obrezje,15.688,45.851
+28,Praprece pri Strazi,15.105,45.774
+28,Sentjost,15.209,45.783
+79,Straza,15.074,45.784
+24,Smolenja vas,15.202,45.816
+55,Otocec,15.222,45.834
+39,Ponikve,15.642,45.848
 33,Rozno,15.423,45.993
-33,Kandrse - del,14.839,46.132
-46,Loka pri Zusmu,15.515,46.159
-46,Harije,14.194,45.554
-46,Markovscina,14.035,45.561
-79,Javorje,14.103,45.556
-24,Tominje,14.174,45.563
+28,Kandrse - del,14.839,46.132
+39,Loka pri Zusmu,15.515,46.159
+39,Harije,14.194,45.554
+33,Markovscina,14.035,45.561
+66,Javorje,14.103,45.556
 46,Spodnje Skofije,13.792,45.571
-28,Zarecje,14.209,45.574
+24,Zarecje,14.209,45.574
 39,Stalcerji,14.871,45.57
-94,Griblje,15.293,45.571
-28,Straznji Vrh,15.14,45.579
-94,Presnica,13.939,45.571
+79,Griblje,15.293,45.571
+79,Presnica,13.939,45.571
 33,Osp,13.858,45.571
 46,Bac pri Materiji,14.002,45.58
-112,Ankaran,13.736,45.579
-55,Pregarje,14.134,45.578
-39,Krasinec,15.278,45.589
-28,Tublje pri Hrpeljah,13.973,45.594
+94,Ankaran,13.736,45.579
+46,Pregarje,14.134,45.578
+33,Krasinec,15.278,45.589
+24,Tublje pri Hrpeljah,13.973,45.594
 28,Lokve,15.182,45.588
-28,Vranovici,15.234,45.602
-55,Rodine,15.146,45.599
-79,Mozelj,14.933,45.586
-230,Hrpelje,13.943,45.607
-28,Podzemelj,15.272,45.61
-94,Gradac,15.245,45.614
-39,Dolga vas,14.877,45.624
-28,Livold,14.891,45.612
-39,Krizevska vas,15.307,45.635
-39,Bozakovo,15.373,45.646
-24,Salka vas,14.879,45.651
+24,Vranovici,15.234,45.602
+46,Rodine,15.146,45.599
+39,Mozelj,14.933,45.586
+192,Hrpelje,13.943,45.607
+24,Podzemelj,15.272,45.61
+66,Gradac,15.245,45.614
+33,Dolga vas,14.877,45.624
+24,Livold,14.891,45.612
+33,Krizevska vas,15.307,45.635
+24,Mahovnik,14.841,45.653
+33,Bozakovo,15.373,45.646
 79,Solcava,14.692,46.42
 39,Bele Vode,14.967,46.407
 66,Trenta,13.752,46.381
 66,Zavodnje,15.017,46.424
-79,Podljubelj,14.288,46.398
-192,Log pod Mangartom,13.603,46.407
+66,Podljubelj,14.288,46.398
+134,Log pod Mangartom,13.603,46.407
 39,Jelendol,14.346,46.399
-24,Potoki,14.118,46.416
-55,Dornava,15.955,46.435
-24,Prihodi,14.042,46.452
+46,Dornava,15.955,46.435
 79,Mojstrana,13.939,46.461
-39,Koroska Bela,14.099,46.426
-33,Javorje,14.891,46.456
-28,Javorniski Rovt,14.092,46.453
+33,Koroska Bela,14.099,46.426
+28,Javorje,14.891,46.456
+24,Javorniski Rovt,14.092,46.453
 24,Zgornji Razbor,15.008,46.449
-39,Hrusica,14.011,46.449
-39,Zerjav,14.87,46.485
-79,Koprivna,14.759,46.457
-33,Grlinci,15.945,46.503
+33,Hrusica,14.011,46.449
+33,Zerjav,14.87,46.485
+66,Koprivna,14.759,46.457
 79,Kranjska Gora,13.79,46.486
-39,Podpeca,14.823,46.496
-28,Podkoren,13.756,46.494
+46,Podpeca,14.823,46.496
+24,Podkoren,13.756,46.494
 24,Gozd Martuljek,13.832,46.484
-33,Belca,13.91,46.476
-331,Ratece,13.716,46.498
-46,Kotlje,14.985,46.522
-192,Mezica,14.852,46.522
-28,Vitomarci,15.934,46.526
-33,Podgora,14.987,46.509
-28,Sele - del,15.02,46.503
-46,Lese,14.903,46.531
-94,Ribnica na Pohorju,15.268,46.535
-24,Poljana,14.892,46.548
+28,Belca,13.91,46.476
+66,Ratece,13.716,46.498
+39,Kotlje,14.985,46.522
+160,Mezica,14.852,46.522
+24,Vitomarci,15.934,46.526
+24,Podgora,14.987,46.509
+33,Sele - del,15.02,46.503
+33,Lese,14.903,46.531
+46,Ribnica na Pohorju,15.268,46.535
 33,Prevalje,14.918,46.546
-79,Lokovica,14.86,46.554
-46,Filovci,16.299,46.661
-39,Polana,16.138,46.682
-24,Korovci,16.003,46.729
+66,Lokovica,14.86,46.554
+39,Filovci,16.299,46.661
+28,Polana,16.138,46.682
 24,Dolina,16.185,46.738
-134,Prosenjakovci,16.313,46.74
+33,Prosenjakovci,16.313,46.74
 24,Krasci,16.035,46.754
-79,Bodonci,16.112,46.744
-39,Vadarci,16.071,46.754
-28,Gerlinci,16.006,46.761
+66,Bodonci,16.112,46.744
+33,Vadarci,16.071,46.754
+24,Gerlinci,16.006,46.761
 33,Pecarovci,16.152,46.747
-28,Dankovci,16.167,46.764
-28,Poznanovci,16.126,46.77
+24,Dankovci,16.167,46.764
+55,Poznanovci,16.126,46.77
 66,Pertoca,16.038,46.771
-28,Kruplivnik,16.084,46.775
 24,Kustanovci,16.193,46.774
-28,Veceslavci,16.018,46.783
-28,Kovacevci,16.121,46.792
+24,Veceslavci,16.018,46.783
 24,Mackovci,16.163,46.784
-55,Krizevci,16.231,46.78
-39,Domanjsevci,16.289,46.783
-331,Rogasovci,16.035,46.805
-39,Dolnji Slaveci,16.067,46.787
+46,Krizevci,16.231,46.78
+33,Domanjsevci,16.289,46.783
+276,Rogasovci,16.035,46.805
 134,Gornji Petrovci,16.219,46.804
-33,Krplivnik,16.317,46.812
-28,Stanjevci,16.183,46.808
-24,Otovci,16.15,46.808
-46,Vidonci,16.125,46.817
+24,Krplivnik,16.317,46.812
+24,Stanjevci,16.183,46.808
+33,Vidonci,16.125,46.817
 39,Grad,16.092,46.802
 28,Adrijanci,16.239,46.819
-28,Serdica,16.022,46.818
+24,Serdica,16.022,46.818
 39,Sotina,16.039,46.827
-39,Boreca,16.143,46.835
-28,Gornji Slaveci,16.066,46.816
-55,Salovci,16.281,46.822
-79,Kuzma,16.082,46.834
+33,Boreca,16.143,46.835
+24,Gornji Slaveci,16.066,46.816
+46,Salovci,16.281,46.822
+66,Kuzma,16.082,46.834
 112,Nova vas,14.506,45.773
-55,Grahovo,14.424,45.77
-79,Ponikve,13.863,45.788
-24,Grajenscak,15.828,46.48
-112,Jesenice,15.691,45.86
-24,Ribnica,15.667,45.866
-39,Sobenja vas,15.587,45.867
-24,Biska vas,15.075,45.87
-33,Catez ob Savi,15.603,45.891
-24,Dolenje Skopice,15.554,45.903
-33,Trebelno,15.149,45.912
+46,Grahovo,14.424,45.77
+66,Ponikve,13.863,45.788
+79,Jesenice,15.691,45.86
+33,Sobenja vas,15.587,45.867
+33,Cirnik,15.656,45.869
+28,Catez ob Savi,15.603,45.891
+28,Trebelno,15.149,45.912
 33,Cuznja vas,15.195,45.912
 24,Mrtvice,15.51,45.913
-79,Raka,15.382,45.929
-55,Bucka,15.319,45.929
-79,Kapele,15.682,45.934
-33,Veliki Gaber,14.907,45.937
-33,Veliko Mlacevo,14.677,45.94
-33,Kriska vas,14.739,45.937
-24,Vrhje,15.693,45.943
+66,Raka,15.382,45.929
+46,Bucka,15.319,45.929
+66,Kapele,15.682,45.934
+28,Veliki Gaber,14.907,45.937
+28,Veliko Mlacevo,14.677,45.94
+39,Kriska vas,14.739,45.937
 39,Globoko,15.627,45.955
-33,Rovisce pri Studencu,15.355,45.958
-94,Artice,15.585,45.952
-66,Mirna,15.06,45.95
-28,Pirsenbreg,15.653,45.966
-24,Zupelevec,15.678,45.954
-39,Studenec,15.35,45.971
-24,Curnovec,15.604,45.969
+28,Rovisce pri Studencu,15.355,45.958
+39,Artice,15.585,45.952
+55,Mirna,15.06,45.95
+24,Pirsenbreg,15.653,45.966
+33,Studenec,15.35,45.971
 39,Dednja vas,15.639,45.989
 79,Arto,15.393,45.985
-94,Grcarice,14.755,45.651
-192,Metlika,15.316,45.651
-24,Repnje,14.482,46.172
-33,Zgornje Tinsko,15.538,46.171
-55,Blagovica,14.804,46.176
-28,Javorje,15.452,46.175
-24,Krajno Brdo,14.764,46.176
-24,Godesic,14.353,46.166
-28,Babna Brda,15.495,46.178
-24,Dragocajna,14.418,46.175
+79,Grcarice,14.755,45.651
+160,Metlika,15.316,45.651
+28,Zgornje Tinsko,15.538,46.171
+39,Blagovica,14.804,46.176
 39,Zgornja Recica,15.162,46.169
-28,Mavcice,14.406,46.185
-24,Cece - del,15.074,46.173
-66,Trojane,14.884,46.188
-66,Jesenovo,14.97,46.182
-79,Vodruz,15.364,46.184
-33,Javornik,15.324,46.191
-66,Gorica pri Slivnici,15.431,46.187
-79,Pristava pri Mestinju,15.595,46.196
-55,Trboje,14.41,46.197
-28,Krajncica,15.365,46.206
-33,Dolga Brda,14.84,46.567
+24,Mavcice,14.406,46.185
+55,Trojane,14.884,46.188
+55,Jesenovo,14.97,46.182
+55,Vodruz,15.364,46.184
+28,Javornik,15.324,46.191
+55,Gorica pri Slivnici,15.431,46.187
+55,Pristava pri Mestinju,15.595,46.196
+46,Trboje,14.41,46.197
+24,Krajncica,15.365,46.206
+24,Dolga Brda,14.84,46.567
 55,Pernica,15.727,46.58
-24,Sentanel,14.876,46.573
-46,Sv. Primoz na Pohorju,15.163,46.558
-46,Otiski Vrh,15.032,46.571
+39,Sentanel,14.876,46.573
+39,Sv. Primoz na Pohorju,15.163,46.558
+39,Otiski Vrh,15.032,46.571
 24,Sentjanz nad Dravcami,15.15,46.57
-33,Tolsti Vrh pri Ravnah na Koroskem - del,14.957,46.558
-39,Janzevski Vrh,15.31,46.552
-192,Dravograd,15.018,46.59
-28,Vukovje,15.729,46.592
-94,Strojna,14.914,46.596
-28,Vic,15,46.602
-33,Zgornje Partinje,15.759,46.595
-33,Jurovski Dol,15.785,46.607
-28,Libeliska Gora,14.944,46.609
+28,Tolsti Vrh pri Ravnah na Koroskem - del,14.957,46.558
+33,Janzevski Vrh,15.31,46.552
+160,Dravograd,15.018,46.59
+24,Vukovje,15.729,46.592
+79,Strojna,14.914,46.596
+24,Vic,15,46.602
+28,Zgornje Partinje,15.759,46.595
+39,Jurovski Dol,15.785,46.607
+24,Libeliska Gora,14.944,46.609
 55,Libelice,14.948,46.62
-24,Gradiska,15.647,46.611
-33,Malna,15.776,46.622
-39,Ranca,15.668,46.63
+28,Malna,15.776,46.622
+33,Ranca,15.668,46.63
 28,Zitence,15.791,46.643
-39,Vukovski Dol,15.72,46.621
-24,Zgornji Gasteraj,15.785,46.634
-94,Goriski Vrh,15.018,46.628
-28,Spodnja Velka,15.78,46.664
-24,Pocenik,15.724,46.667
-33,Slatinski Dol,15.601,46.651
-33,Velike Bloke,14.477,45.788
-24,Gabrovica pri Komnu,13.78,45.806
+33,Vukovski Dol,15.72,46.621
+79,Goriski Vrh,15.018,46.628
+28,Slatinski Dol,15.601,46.651
+28,Velike Bloke,14.477,45.788
 112,Cerknica,14.362,45.796
 24,Smihel pod Nanosom,14.12,45.795
-46,Rakek,14.323,45.811
-66,Begunje pri Cerknici,14.383,45.82
-134,Studeno,14.179,45.825
-55,Jablan,15.095,45.838
-33,Skrbina,13.735,45.842
-28,Zabnica,14.405,45.998
-28,Sv. Andrej,14.303,46.137
-33,Trzin,14.563,46.133
-94,Miklavz pri Ormozu,16.214,46.458
-39,Hlaponci,15.981,46.469
-66,Gomila pri Kogu,16.239,46.483
-112,Sveti Tomaz,16.08,46.483
+39,Rakek,14.323,45.811
+55,Begunje pri Cerknici,14.383,45.82
+94,Studeno,14.179,45.825
+46,Jablan,15.095,45.838
+28,Skrbina,13.735,45.842
+24,Sv. Andrej,14.303,46.137
+28,Trzin,14.563,46.133
+79,Miklavz pri Ormozu,16.214,46.458
+33,Hlaponci,15.981,46.469
+55,Gomila pri Kogu,16.239,46.483
+79,Sveti Tomaz,16.08,46.483
 33,Savci,16.047,46.473
-24,Gorenji Globodol,15.043,45.852
-112,Mirna Pec,15.082,45.86
-33,Podkraj,14.059,45.866
-94,Zapotok,14.567,45.876
-33,Budanje,13.952,45.872
-28,Loce,15.664,45.884
-24,Visoko,14.576,45.885
-24,Dolenje Ponikve,15.045,45.894
-33,Batuje,13.777,45.895
+94,Mirna Pec,15.082,45.86
+79,Podkraj,14.059,45.866
+79,Zapotok,14.567,45.876
+24,Loce,15.664,45.884
 55,Dobova,15.661,45.895
-24,Mostec,15.629,45.899
-28,Dolenja Nemska vas,15.036,45.904
+24,Dolenja Nemska vas,15.036,45.904
 55,Rakitna,14.44,45.891
-55,Golo,14.546,45.911
-39,Zagorica pri Velikem Gabru,14.889,45.922
-24,Straza pri Raki,15.411,45.927
-33,Pobrezje,15.878,46.384
-39,Skale,15.095,46.387
-33,Brezen,15.264,46.378
+46,Golo,14.546,45.911
+33,Zagorica pri Velikem Gabru,14.889,45.922
+28,Pobrezje,15.878,46.384
+28,Brezen,15.264,46.378
 39,Pragersko,15.66,46.395
-28,Loska gora pri Zrecah,15.374,46.389
-24,Brezno,15.157,46.154
-33,Mizni Dol,14.231,45.983
-33,Studenec,15.002,45.922
-28,Zagorica pri Dolskem,14.714,46.11
-24,Sv. Duh,15.053,46.62
-33,Strajna,15.832,46.311
-46,Jesenica,13.949,46.15
-24,Lopar,13.832,45.51
-24,Kamence,15.624,46.205
+24,Loska gora pri Zrecah,15.374,46.389
+28,Mizni Dol,14.231,45.983
+28,Studenec,15.002,45.922
+24,Limbarska Gora,14.78,46.159
+24,Strajna,15.832,46.311
+24,Ojstrica,15.04,46.617
+39,Jesenica,13.949,46.15
+39,Lopar,13.832,45.51
 24,Gornji Suhor pri Metliki,15.273,45.693
-24,Susica,14.823,45.892
-39,Cesnjice pri Trebelnem,15.147,45.898
+33,Cesnjice pri Trebelnem,15.147,45.898
 24,Borovak pri Podkumu,15.061,46.077
-55,Sutna,14.329,46.199
-46,Grobelno - del,15.443,46.213
-24,Breg ob Savi,14.384,46.213
-28,Hajnsko,15.589,46.208
+46,Sutna,14.329,46.199
+39,Grobelno - del,15.443,46.213
+24,Hajnsko,15.589,46.208
 66,Zabukovica,15.159,46.212
+24,Serovo,15.552,46.215
 24,Liboje,15.193,46.206
-33,Kosnica pri Celju,15.241,46.211
-24,Pecovje,15.301,46.213
-46,Voglje,14.438,46.213
-28,Lahovce,14.506,46.219
-28,Loke,15.007,46.222
+28,Kosnica pri Celju,15.241,46.211
+39,Voglje,14.438,46.213
+24,Lahovce,14.506,46.219
 28,Kristan Vrh,15.585,46.223
-55,Zgornje Bitnje,14.338,46.22
+46,Zgornje Bitnje,14.338,46.22
 33,Spitalic,14.833,46.215
 134,Sentjur,15.395,46.216
 55,Dobovec pri Rogatcu,15.759,46.209
-28,Marija Reka,15.073,46.185
-46,Matke,15.117,46.22
-55,Store,15.31,46.222
-28,Botricnica,15.397,46.227
-46,Smarje pri Jelsah,15.519,46.229
-39,Zalog pri Cerkljah,14.518,46.23
+24,Marija Reka,15.073,46.185
+33,Matke,15.117,46.22
+46,Store,15.31,46.222
+24,Botricnica,15.397,46.227
+39,Smarje pri Jelsah,15.519,46.229
+33,Zalog pri Cerkljah,14.518,46.23
 46,Zgornji Jakobski Dol,15.719,46.643
 160,Piran,13.568,45.528
 39,Laze,14.266,45.862
 39,Gozd,13.967,45.898
-24,Stomaz,13.857,45.9
-33,Kovk,13.935,45.914
-112,Ivancna Gorica,14.805,45.938
+24,Kovk,13.935,45.914
+94,Ivancna Gorica,14.805,45.938
 55,Hotedrsica,14.139,45.931
-39,Sentvid pri Sticni,14.837,45.954
+33,Sentvid pri Sticni,14.837,45.954
 39,Zadlog,14.003,45.941
 24,Zibrse,14.176,45.936
-46,Otlica,13.911,45.928
-33,Vrtovin,13.813,45.899
-55,Catez,14.96,45.97
-55,Vipolze,13.536,45.974
-79,Petkovec,14.201,45.971
-33,Metnaj,14.805,45.98
-28,Velika Stara vas,14.677,45.979
-33,Stara Vrhnika,14.283,45.976
+33,Otlica,13.911,45.928
+28,Vrtovin,13.813,45.899
+46,Catez,14.96,45.97
+46,Vipolze,13.536,45.974
+66,Petkovec,14.201,45.971
+24,Metnaj,14.805,45.98
+24,Velika Stara vas,14.677,45.979
+28,Stara Vrhnika,14.283,45.976
 33,Medvedje Brdo,14.137,45.968
-28,Jelicni Vrh,14.062,45.969
+24,Jelicni Vrh,14.062,45.969
 55,Mali Lipoglav,14.648,45.992
-28,Solkan,13.642,45.97
-134,Predmeja,13.88,45.946
-112,Borovnica,14.364,45.918
-28,Iska,14.517,45.93
+112,Predmeja,13.88,45.946
+94,Borovnica,14.364,45.918
+24,Iska,14.517,45.93
 28,Sela pri Dobovi,15.633,45.916
-33,Lokavec,13.88,45.902
-39,Brezovica pri Mirni,15.042,45.936
+28,Lokavec,13.88,45.902
+33,Brezovica pri Mirni,15.042,45.936
 24,Dobravica,14.541,45.938
-39,Trebez,15.576,45.937
+33,Trebez,15.576,45.937
 33,Ponova vas,14.631,45.939
-24,Sv. Vrh,15.176,45.941
-55,Klenovik,15.251,45.932
-55,Novi Svet,14.138,45.909
-46,Iska vas,14.511,45.941
+46,Klenovik,15.251,45.932
+46,Novi Svet,14.138,45.909
+39,Iska vas,14.511,45.941
 112,Mokronog,15.147,45.944
-28,Libna,15.53,45.95
+24,Libna,15.53,45.95
 39,Visnja Gora,14.744,45.955
-28,Dol pri Borovnici,14.352,45.93
-28,Puscava,15.122,45.956
-46,Trzisce,15.195,45.96
-24,Straza,15.079,45.959
-33,Tomiselj,14.48,45.964
-55,Senuse,15.427,45.937
-33,Smrjene,14.583,45.933
-46,Leskovec pri Krskem,15.477,45.94
-28,Arnovo selo,15.567,45.964
+24,Dol pri Borovnici,14.352,45.93
+24,Puscava,15.122,45.956
+39,Trzisce,15.195,45.96
+28,Tomiselj,14.48,45.964
+46,Senuse,15.427,45.937
+24,Smrjene,14.583,45.933
+39,Leskovec pri Krskem,15.477,45.94
+24,Arnovo selo,15.567,45.964
 46,Zdole,15.544,45.976
-24,Sinja Gorica,14.315,45.984
-66,Skofljica,14.571,45.986
-55,Bevke,14.354,45.981
-55,Brestanica,15.477,45.996
-28,Lavrica,14.554,45.999
-39,Vnanje Gorice,14.413,46.008
-39,Crna vas,14.491,46.006
-33,Kostanjek,15.54,46.008
-28,Orle,14.574,46.012
-66,Podmolnik,14.597,46.019
-24,Gozd-Reka,14.761,46.025
-24,Cesnjica,14.622,46.034
-94,Brezovica pri Ljubljani,14.417,46.024
-79,Dobrova,14.417,46.053
-39,Hrusevo,14.386,46.07
-28,Kasaze,15.186,46.222
-24,Hrastje,14.38,46.222
-39,Prebold,15.094,46.237
-46,Crni Vrh,14.973,46.218
+55,Skofljica,14.571,45.986
+46,Bevke,14.354,45.981
+46,Brestanica,15.477,45.996
+24,Lavrica,14.554,45.999
+33,Crna vas,14.491,46.006
+28,Kostanjek,15.54,46.008
+24,Orle,14.574,46.012
+24,Dragomer,14.386,46.019
+55,Podmolnik,14.597,46.019
+79,Brezovica pri Ljubljani,14.417,46.024
+55,Dobrova,14.417,46.053
+33,Hrusevo,14.386,46.07
+24,Kasaze,15.186,46.222
+55,Prebold,15.094,46.237
+55,Crni Vrh,14.973,46.218
 28,Rogatec,15.699,46.229
 39,Mekinje,14.614,46.235
-55,Tabor,15.016,46.235
-28,Sesce pri Preboldu,15.123,46.236
+39,Tabor,15.016,46.235
+24,Sesce pri Preboldu,15.123,46.236
+28,Preloge pri Smarju,15.544,46.24
 24,Prosenisko,15.348,46.239
-24,Bukovzlak,15.309,46.236
-24,Dvor,15.507,46.239
-24,Mestinje,15.564,46.236
+24,Tuncovec,15.666,46.24
 33,Zahenberc,15.727,46.244
+28,Vrh,15.498,46.244
+46,Levec,15.219,46.241
 94,Zgornji Tuhinj,14.77,46.227
-276,Vransko,14.953,46.245
-66,Sencur,14.419,46.243
-39,Log,15.772,46.225
-33,Prekopa,14.99,46.251
-66,Cerklje na Gorenjskem,14.487,46.253
+230,Vransko,14.953,46.245
+55,Sencur,14.419,46.243
+28,Prekopa,14.99,46.251
+55,Cerklje na Gorenjskem,14.487,46.253
 46,Hum,13.581,45.995
-112,Dobrovo,13.527,45.997
-39,Podsabotin,13.608,45.989
+94,Dobrovo,13.527,45.997
 66,Podlipa,14.223,46.006
-24,Kojsko,13.575,46.006
 28,Zazar,14.256,46.008
-46,Vedrijan,13.543,46.015
-112,Grgar,13.671,46.001
+94,Grgar,13.671,46.001
 24,Smrecje,14.194,46.014
-28,Hrusevlje,13.507,46.015
-160,Horjul,14.301,46.021
-33,Malo Trebeljevo,14.74,46.017
-33,Javor,14.679,46.02
-24,Vrhovlje pri Kojskem,13.573,46.024
-79,Dole pri Litiji,15.022,46.031
+46,Visnjevik,13.53,46.019
+112,Horjul,14.301,46.021
+28,Javor,14.679,46.02
+28,Vrhovlje pri Kojskem,13.573,46.024
+66,Dole pri Litiji,15.022,46.031
 66,Zgornja Besnica,14.685,46.034
 28,Sentjost nad Horjulom,14.226,46.032
-33,Smartno pri Litiji,14.843,46.044
-33,Besnica,14.647,46.042
-46,Butajnova,14.235,46.043
-33,Plave,13.588,46.04
-28,Breg pri Litiji,14.854,46.064
+28,Smartno pri Litiji,14.843,46.044
+28,Besnica,14.647,46.042
+24,Butajnova,14.235,46.043
+28,Plave,13.588,46.04
 33,Setnik,14.278,46.066
 24,Zgornji Log,14.828,46.08
-24,Smolnik,14.28,46.075
 24,Ponovice,14.865,46.078
-33,Kresniski Vrh,14.785,46.087
+28,Kresniski Vrh,14.785,46.087
 39,Kresnice,14.785,46.101
 46,Dolenja Trebusa,13.84,46.094
-79,Crni Vrh,14.259,46.088
-46,Kamnik pod Krimom,14.408,45.956
-55,Vrh pri Visnji Gori,14.746,45.97
-33,Hrastovica,15.151,45.966
-39,Jezero,14.435,45.971
-79,Sentrupert,15.091,45.977
-112,Ig,14.527,45.959
-28,Iska Loka,14.515,45.971
-66,Krmelj,15.187,45.984
-28,Notranje Gorice,14.4,45.987
-24,Podborst,15.153,46.003
-24,Vintarjevec,14.829,46.015
-24,Lesno Brdo,14.325,46.017
-112,Sentjanz,15.169,46.011
-39,Jablanica,15.214,46.01
-192,Sevnica,15.305,46.007
+66,Crni Vrh,14.259,46.088
+24,Trstenik,15.07,45.961
+55,Kamnik pod Krimom,14.408,45.956
+28,Vrh pri Visnji Gori,14.746,45.97
+28,Hrastovica,15.151,45.966
+28,Jezero,14.435,45.971
+66,Sentrupert,15.091,45.977
+192,Ig,14.527,45.959
+24,Iska Loka,14.515,45.971
+94,Krmelj,15.187,45.984
+46,Notranje Gorice,14.4,45.987
+55,Sentjanz,15.169,46.011
+33,Jablanica,15.214,46.01
+160,Sevnica,15.305,46.007
 24,Podolnica,14.328,46.027
-79,Crni Potok,14.838,46.025
-28,Orehovo,15.268,46.024
-33,Podsmreka,14.43,46.039
-33,Osredek pri Krmelju,15.136,46.027
-24,Vranje,15.343,46.037
+66,Crni Potok,14.838,46.025
+24,Orehovo,15.268,46.024
+28,Osredek pri Krmelju,15.136,46.027
 39,Poklek nad Blanco,15.389,46.019
-55,Ledina,15.288,46.035
-24,Metni Vrh,15.312,46.044
-66,Breg,15.243,46.045
-28,Loka pri Zidanem Mostu,15.208,46.057
-28,Zabukovje nad Sevnico,15.364,46.052
-39,Podgorica,15.291,46.056
-46,Polhov Gradec,14.313,46.066
+46,Ledina,15.288,46.035
+55,Breg,15.243,46.045
+24,Racica,15.216,46.053
+24,Zabukovje nad Sevnico,15.364,46.052
+33,Razbor,15.257,46.059
+28,Podgorica,15.291,46.056
+28,Radez,15.229,46.063
+39,Polhov Gradec,14.313,46.066
 79,Dol pri Ljubljani,14.642,46.089
 39,Senozeti,14.733,46.09
-55,Topol pri Medvodah,14.37,46.093
-66,Stanezice,14.437,46.111
-28,Ihan,14.618,46.121
-24,Medno,14.436,46.123
-46,Zlebe,14.395,46.12
+39,Topol pri Medvodah,14.37,46.093
+55,Stanezice,14.437,46.111
+24,Ihan,14.618,46.121
+39,Zlebe,14.395,46.12
 28,Srednje Gameljne,14.5,46.126
-66,Medvode,14.413,46.14
-39,Skarucna,14.484,46.155
-112,Utik,14.508,46.169
-39,Topole,14.556,46.178
-55,Smarca,14.595,46.19
-24,Moste,14.548,46.195
+55,Medvode,14.413,46.14
+33,Skarucna,14.484,46.155
+94,Utik,14.508,46.169
+33,Rova,14.631,46.181
+33,Topole,14.556,46.178
+46,Smarca,14.595,46.19
 39,Vodice,14.495,46.191
 55,Komenda,14.539,46.205
 28,Zgornji Porcic,15.865,46.589
-28,Pecovnik,15.271,46.198
-28,Rdeci Breg - del,15.392,46.559
-112,Podnanos,13.972,45.797
-39,Gorjansko,13.712,45.802
-24,Kobjeglava,13.81,45.815
-331,Komen,13.745,45.817
-24,Gradisce pri Vipavi,13.965,45.835
-94,Vipava,13.961,45.845
-46,Strmica,14.243,45.95
+24,Pecovnik,15.271,46.198
+39,Rdeci Breg - del,15.392,46.559
+94,Podnanos,13.972,45.797
+33,Gorjansko,13.712,45.802
+94,Komen,13.745,45.817
+79,Vipava,13.961,45.845
+39,Strmica,14.243,45.95
 33,Loke,13.698,45.96
-46,Bukovo,13.902,46.151
-112,Crna na Koroskem,14.85,46.47
+39,Bukovo,13.902,46.151
+94,Crna na Koroskem,14.85,46.47
 112,Branik,13.787,45.86
-46,Dobravlje,13.842,45.885
-24,Preserje,13.789,45.869
-24,Osevljek,13.696,45.881
-24,Rence,13.67,45.89
-33,Bilje,13.635,45.894
-160,Miren,13.607,45.893
-39,Prvacina,13.713,45.89
-66,Bukovica,13.669,45.899
-39,Kalce,14.201,45.901
-33,Vrtojba,13.636,45.914
-46,Lome,14.077,45.905
-66,Vinje,14.67,46.115
-24,Prapetno Brdo,13.848,46.111
-28,Vrhpolje pri Moravcah,14.709,46.125
-24,Volca,14.179,46.134
-134,Moravce,14.745,46.136
-66,Gorenji Novaki,14.059,46.15
-33,Preserje pri Radomljah,14.598,46.168
-39,Jagoce,15.238,46.169
-46,Kolovrat,14.873,46.169
-33,Lukovica pri Domzalah,14.693,46.17
-28,Kanjuce,15.304,46.174
-112,Gabrsko,15.049,46.174
-46,Spodnja Lusa,14.222,46.184
-28,Studenice,15.614,46.301
-79,Loce,15.497,46.302
-24,Kale,15.129,46.304
+39,Dobravlje,13.842,45.885
+28,Bilje,13.635,45.894
+134,Miren,13.607,45.893
+33,Prvacina,13.713,45.89
+55,Bukovica,13.669,45.899
+33,Kalce,14.201,45.901
+28,Vrtojba,13.636,45.914
+39,Lome,14.077,45.905
+55,Vinje,14.67,46.115
+33,Kokosnje,14.686,46.134
+66,Moravce,14.745,46.136
+55,Gorenji Novaki,14.059,46.15
+33,Jagoce,15.238,46.169
+39,Kolovrat,14.873,46.169
+79,Lukovica pri Domzalah,14.693,46.17
+24,Kanjuce,15.304,46.174
+94,Gabrsko,15.049,46.174
+33,Spodnja Lusa,14.222,46.184
+66,Loce,15.497,46.302
 39,Dobrina,15.836,46.289
 33,Zgornje Gruskovje,15.877,46.291
 39,Ivanjkovci,16.155,46.461
-79,Planina pod Golico,14.051,46.466
+66,Planina pod Golico,14.051,46.466
 28,Levanjci,15.913,46.486
 46,Zerovinci,16.155,46.486
-79,Jursinci,15.971,46.485
-33,Rucmanci,16.036,46.49
-39,Trnovci,16.036,46.506
-39,Sakusak,15.991,46.5
-33,Presika,16.241,46.496
-24,Strocja vas,16.224,46.511
+66,Jursinci,15.971,46.485
+33,Sakusak,15.991,46.5
 24,Hvaletinci,15.952,46.513
-33,Pristava,16.238,46.525
-33,Razkrizje,16.279,46.522
-33,Precetinci,16.089,46.539
-39,Slavsina,15.982,46.543
-192,Ljutomer,16.196,46.518
+28,Pristava,16.238,46.525
+28,Razkrizje,16.279,46.522
+33,Slavsina,15.982,46.543
+230,Ljutomer,16.196,46.518
 24,Kot,16.386,46.543
-46,Dolnja Bistrica,16.29,46.536
+39,Dolnja Bistrica,16.29,46.536
 24,Cven,16.212,46.55
-24,Lukavci,16.15,46.54
-66,Kljucarovci pri Ljutomeru,16.138,46.55
-66,Motnik,14.885,46.215
+55,Kljucarovci pri Ljutomeru,16.138,46.55
+55,Motnik,14.885,46.215
 28,Srednja vas pri Kamniku,14.683,46.226
-66,Poreber,14.662,46.241
-24,Grajska vas,15.056,46.242
-46,Godic,14.609,46.255
+39,Poreber,14.662,46.241
+39,Godic,14.609,46.255
 39,Velika Varnica,15.93,46.305
 24,Tolsti Vrh,15.418,46.309
-79,Sedlasek,15.878,46.304
-24,Podgorje,15.078,46.361
-24,Apace,15.801,46.379
-28,Drazenci,15.844,46.39
+28,Stanosina,15.86,46.309
+24,Drazenci,15.844,46.39
 39,Obrez,16.233,46.398
-134,Sredisce ob Dravi,16.271,46.396
+112,Sredisce ob Dravi,16.271,46.396
 230,Ormoz,16.149,46.407
-46,Zgornja Hajdina,15.839,46.406
-24,Njiverce,15.811,46.404
-33,Spodnja Polskava,15.637,46.412
-94,Kidricevo,15.8,46.388
-28,Strnisce,15.767,46.401
+39,Zgornja Hajdina,15.839,46.406
+28,Spodnja Polskava,15.637,46.412
+79,Kidricevo,15.8,46.388
+24,Strnisce,15.767,46.401
+28,Dobrava,16.149,46.421
 24,Podova,15.698,46.433
-55,Salovci,16.224,46.422
-39,Hajdose,15.824,46.43
-66,Sempeter pri Gorici,13.64,45.93
-46,Sempas,13.746,45.928
-33,Ozeljan,13.73,45.942
-79,Crni Vrh,14.043,45.926
-28,Rozna Dolina,13.64,45.942
-112,Godovic,14.092,45.957
-39,Ravne,13.785,45.916
-33,Trnovo,13.741,45.972
+46,Salovci,16.224,46.422
+33,Hajdose,15.824,46.43
+55,Sempeter pri Gorici,13.64,45.93
+39,Sempas,13.746,45.928
+28,Ozeljan,13.73,45.942
+94,Crni Vrh,14.043,45.926
+55,Godovic,14.092,45.957
+33,Ravne,13.785,45.916
+24,Trnovo,13.741,45.972
 33,Ravnica,13.698,45.984
-66,Cekovnik,14.002,45.978
+55,Cekovnik,14.002,45.978
 55,Zavratec,14.13,45.993
 39,Dole,14.096,45.989
-79,Voglarji,13.736,45.985
-33,Gore,14.057,46.003
-66,Lokve,13.792,46.012
+66,Voglarji,13.736,45.985
+28,Gore,14.057,46.003
+55,Lokve,13.792,46.012
 33,Gorenji Vrsnik,14.09,46.025
-33,Srednja Kanomlja,13.976,46.022
-33,Grgarske Ravne,13.668,46.032
-28,Raceva,14.132,46.042
-46,Bate,13.677,46.045
-46,Spodnja Idrija,14.023,46.033
-134,Ziri,14.11,46.047
+24,Srednja Kanomlja,13.976,46.022
+28,Grgarske Ravne,13.668,46.032
+24,Raceva,14.132,46.042
+39,Bate,13.677,46.045
+39,Spodnja Idrija,14.023,46.033
+94,Ziri,14.11,46.047
 94,Vojsko,13.903,46.024
-79,Deskle,13.614,46.053
-39,Gorenja Kanomlja,13.898,46.061
-66,Lucine,14.196,46.062
-39,Selo,14.1,46.062
-28,Zirovski Vrh,14.16,46.049
-46,Idrijske Krnice,13.977,46.052
-55,Banjsice,13.704,46.062
-33,Gorenja Trebusa,13.842,46.027
-24,Polsnik,14.961,46.069
-24,Morsko,13.634,46.076
-24,Brebovnica,14.174,46.072
-33,Mamolj,14.922,46.065
-24,Jazne,14.007,46.069
-134,Podkum,15.034,46.07
-46,Fuzine,14.095,46.086
-66,Tepe,14.942,46.078
-55,Otalez,13.991,46.08
-28,Male Dole,15.328,46.309
-46,Nova Cerkev,15.285,46.312
-112,Makole,15.669,46.318
-39,Koble,15.503,46.316
-24,Ponikva pri Zalcu,15.142,46.312
-24,Rove,15.336,46.32
-39,Hramse,15.204,46.321
-24,Mala Varnica,15.94,46.314
-79,Frankolovo,15.316,46.33
-28,Studence,15.153,46.299
-39,Zlatece,15.272,46.333
-39,Podkraj,15.156,46.322
-33,Arnace,15.121,46.336
-66,Stara vas-Bizeljsko,15.696,45.988
-24,Anze,15.521,45.991
-39,Ravne pri Zdolah,15.541,45.993
-39,Lukovec,15.307,45.992
-33,Brezovica na Bizeljskem,15.689,46.001
-24,Dolnje Brezovo,15.363,45.996
+66,Deskle,13.614,46.053
+79,Gorenja Kanomlja,13.898,46.061
+55,Lucine,14.196,46.062
+33,Selo,14.1,46.062
+24,Zirovski Vrh,14.16,46.049
+33,Idrijske Krnice,13.977,46.052
+46,Banjsice,13.704,46.062
+28,Gorenja Trebusa,13.842,46.027
+28,Mamolj,14.922,46.065
+24,Zirovski Vrh Sv. Urbana,14.169,46.075
+24,Podkum,15.034,46.07
+39,Fuzine,14.095,46.086
+55,Tepe,14.942,46.078
+46,Otalez,13.991,46.08
+24,Male Dole,15.328,46.309
+39,Nova Cerkev,15.285,46.312
+66,Makole,15.669,46.318
+46,Ponikva pri Zalcu,15.142,46.312
+24,Hramse,15.204,46.321
+66,Frankolovo,15.316,46.33
+33,Sveti Jernej,15.517,46.323
+24,Studence,15.153,46.299
+33,Zlatece,15.272,46.333
+55,Stara vas-Bizeljsko,15.696,45.988
+33,Ravne pri Zdolah,15.541,45.993
+33,Lukovec,15.307,45.992
 33,Terbegovci,16.025,46.547
-24,Mota,16.23,46.546
-24,Zenik,16.002,46.56
-39,Gornji Lakos,16.418,46.552
-33,Gornja Bistrica,16.269,46.556
+28,Gornji Lakos,16.418,46.552
+39,Gornja Bistrica,16.269,46.556
 24,Krizevci pri Ljutomeru,16.14,46.563
 39,Sveti Jurij ob Scavnici,16.022,46.569
-24,Krapje,16.206,46.56
-28,Banovci,16.165,46.571
-33,Melinci,16.234,46.571
-79,Crensovci,16.289,46.575
-28,Grabonos,16.001,46.588
-24,Stara Nova vas,16.119,46.584
-79,Verzej,16.162,46.582
+24,Melinci,16.234,46.571
+66,Crensovci,16.289,46.575
+24,Grabonos,16.001,46.588
+66,Verzej,16.162,46.582
 24,Dragotinci,16.032,46.583
-24,Odranci,16.274,46.586
-33,Izakovci,16.214,46.585
-39,Vucja vas,16.102,46.598
-24,Stanetinci,16.056,46.602
-39,Rozicki Vrh,16.044,46.593
-39,Doklezovje,16.179,46.601
-33,Lipa,16.285,46.605
-28,Kapelski Vrh,16.031,46.617
-112,Beltinci,16.237,46.608
-66,Hrastje-Mota,16.081,46.614
-39,Bakovci,16.149,46.617
-33,Janzev Vrh,16.01,46.631
-24,Brezula,15.696,46.442
-55,Litmerk,16.154,46.438
-55,Brunsvik,15.724,46.44
-24,Slovenja vas,15.806,46.441
-28,Grajena,15.841,46.458
-66,Dragonja,13.662,45.455
+28,Izakovci,16.214,46.585
+33,Vucja vas,16.102,46.598
+33,Rozicki Vrh,16.044,46.593
+33,Doklezovje,16.179,46.601
+28,Oceslavci,16.006,46.604
+28,Lipa,16.285,46.605
+94,Beltinci,16.237,46.608
+55,Hrastje-Mota,16.081,46.614
+33,Bakovci,16.149,46.617
+28,Janzev Vrh,16.01,46.631
+46,Litmerk,16.154,46.438
+46,Brunsvik,15.724,46.44
+55,Dragonja,13.662,45.455
 28,Preloka,15.34,45.47
-39,Zilje,15.312,45.461
-94,Borst,13.798,45.485
-55,Puce,13.718,45.476
-39,Padna,13.684,45.491
-28,Korte,13.656,45.489
-112,Parecag,13.625,45.482
-28,Seca,13.612,45.496
-24,Pomjan,13.755,45.499
-24,Marezige,13.8,45.507
-24,Manzan,13.753,45.509
+55,Zilje,15.312,45.461
+79,Borst,13.798,45.485
+46,Puce,13.718,45.476
+33,Padna,13.684,45.491
+24,Korte,13.656,45.489
+94,Parecag,13.625,45.482
+24,Seca,13.612,45.496
 33,Sared,13.653,45.51
-33,Vanganel,13.779,45.518
-28,Kampel,13.747,45.52
-39,Gazon,13.701,45.517
-28,Podgora,14.11,46.099
-230,Gorenja vas,14.141,46.103
+28,Vanganel,13.779,45.518
+24,Kampel,13.747,45.52
+46,Salara,13.716,45.51
+24,Podgora,14.11,46.099
+134,Gorenja vas,14.141,46.103
 39,Srednje Brdo,14.114,46.123
-55,Poljane nad Skofjo Loko,14.185,46.123
-24,Log nad Skofjo Loko,14.227,46.13
-46,Sora,14.373,46.142
+46,Poljane nad Skofjo Loko,14.185,46.123
 28,Spodnje Koseze,14.69,46.15
-28,Rzise,14.96,46.167
-46,Sovodenj,14.038,46.085
+24,Rzise,14.96,46.167
+39,Sovodenj,14.038,46.085
 66,Sava,14.893,46.089
-230,Kanal,13.634,46.085
-24,Bodrez,13.644,46.095
-192,Cepovan,13.792,46.048
-66,Straza,13.948,46.102
-79,Kal nad Kanalom,13.741,46.084
-24,Sebrelje,13.918,46.093
-39,Levpa,13.704,46.091
-39,Lig,13.61,46.096
-46,Podlanisce,14.013,46.11
-24,Planina pri Cerknem,14.012,46.124
-39,Slap ob Idrijci,13.805,46.122
-66,Rocinj,13.671,46.11
-160,Cerkno,13.99,46.129
-112,Ponikve,13.819,46.138
-46,Zminec,14.283,46.149
+192,Kanal,13.634,46.085
+160,Cepovan,13.792,46.048
+55,Straza,13.948,46.102
+66,Kal nad Kanalom,13.741,46.084
+28,Stopnik,13.9,46.091
+33,Levpa,13.704,46.091
+33,Lig,13.61,46.096
+39,Podlanisce,14.013,46.11
+33,Slap ob Idrijci,13.805,46.122
+55,Rocinj,13.671,46.11
+134,Cerkno,13.99,46.129
+79,Ponikve,13.819,46.138
+39,Zminec,14.283,46.149
 46,Most na Soci,13.742,46.153
-66,Javorje,14.178,46.159
-66,Rove,14.991,46.156
-46,Kambresko,13.649,46.128
-24,Modrejce,13.741,46.163
-55,Kneza,13.829,46.161
-94,Hudajuzna,13.915,46.175
-28,Koritnica,13.873,46.164
-571,Tolmin,13.732,46.183
+55,Javorje,14.178,46.159
+55,Rove,14.991,46.156
+39,Kambresko,13.649,46.128
+46,Kneza,13.829,46.161
+79,Hudajuzna,13.915,46.175
+24,Koritnica,13.873,46.164
+476,Tolmin,13.732,46.183
 24,Volce,13.709,46.176
-33,Bukovica,14.244,46.199
-24,Armesko,15.489,46.009
-33,Canje,15.384,46.007
+55,Bukovica,14.244,46.199
+24,Canje,15.384,46.007
 24,Loncarjev Dol,15.343,46.013
 24,Pecice,15.579,46.013
-28,Drenovec pri Bukovju,15.71,46.025
-39,Zurkov Dol,15.335,46.023
-39,Trnovec,15.379,46.036
-24,Vrhovo,15.22,46.04
-160,Bizeljsko,15.693,46.015
-33,Mali Kamen,15.495,46.033
-79,Gorjane,15.564,46.04
-46,Trebce,15.623,46.041
-28,Mocilno,15.147,46.051
-33,Mrcna sela,15.521,46.056
-79,Bistrica ob Sotli,15.663,46.057
-28,Svibno,15.097,46.064
-24,Hrastje ob Bistrici,15.647,46.066
-39,Podgorje ob Sevnicni,15.341,46.066
+24,Drenovec pri Bukovju,15.71,46.025
+33,Trnovec,15.379,46.036
+79,Bizeljsko,15.693,46.015
+28,Mali Kamen,15.495,46.033
+66,Gorjane,15.564,46.04
+39,Trebce,15.623,46.041
+24,Mocilno,15.147,46.051
+28,Mrcna sela,15.521,46.056
+112,Bistrica ob Sotli,15.663,46.057
+33,Podgorje ob Sevnicni,15.341,46.066
 39,Jagnjenica,15.125,46.064
-33,Vetrnik,15.517,46.069
-134,Radece,15.182,46.066
-39,Pecke,15.675,46.334
-33,Dol pod Gojko,15.31,46.344
+28,Vetrnik,15.517,46.069
+112,Radece,15.182,46.066
+28,Hosnica,15.585,46.33
+33,Pecke,15.675,46.334
+28,Dol pod Gojko,15.31,46.344
+24,Kocno ob Loznici,15.615,46.337
 33,Vinska Gora,15.174,46.341
-112,Dobrna,15.226,46.336
-28,Andraz nad Polzelo,15.087,46.323
-39,Licenca,15.528,46.344
-24,Loznica,15.65,46.338
-39,Polene,15.388,46.345
-46,Lipovci,16.225,46.626
-55,Krog,16.135,46.637
-79,Radenci,16.04,46.643
-39,Tisina,16.086,46.654
-33,Cresnjevci,15.994,46.663
-94,Gornja Radgona,15.991,46.677
-24,Suhi Vrh,16.255,46.714
+79,Dobrna,15.226,46.336
+24,Andraz nad Polzelo,15.087,46.323
+33,Polene,15.388,46.345
+46,Krog,16.135,46.637
+66,Radenci,16.04,46.643
+46,Gancani,16.246,46.63
+33,Tisina,16.086,46.654
+79,Gornja Radgona,15.991,46.677
 55,Moravske Toplice,16.222,46.687
-39,Lemerje,16.101,46.709
-55,Sulinci,16.196,46.828
-192,Pregara,13.867,45.444
-46,Ucakovci,15.23,45.441
-24,Strekljevec,15.217,45.671
-24,Gornja Lokvica,15.28,45.67
-24,Reka,15.28,46.156
-79,Vrbovec,14.997,45.863
+33,Lemerje,16.101,46.709
+46,Sulinci,16.196,46.828
+160,Pregara,13.867,45.444
+39,Ucakovci,15.23,45.441
+24,Trnovec,15.29,45.667
+66,Vrbovec,14.997,45.863
 55,Smarjeske Toplice,15.222,45.862
-28,Rasica,14.623,45.853
+24,Rasica,14.623,45.853
 33,Gorenje Karteljevo,15.143,45.868
-39,Velike Lese,14.808,45.872
-28,Zalovice,15.214,45.876
-55,Gradez,14.628,45.878
-24,Gabrovcec,14.797,45.882
-28,Cusperk,14.7,45.892
-160,Predgrad,15.055,45.505
-79,Lipa,13.708,45.847
+33,Velike Lese,14.808,45.872
+24,Zalovice,15.214,45.876
+46,Gradez,14.628,45.878
+24,Cusperk,14.7,45.892
+134,Predgrad,15.055,45.505
+66,Lipa,13.708,45.847
 24,Logarska Dolina,14.642,46.418
-46,Drbetinci,15.932,46.537
-39,Log,15.539,46.533
-39,Hrastje,15.58,46.539
-55,Zrkovci,15.707,46.544
+39,Drbetinci,15.932,46.537
+46,Log,15.539,46.533
+33,Hrastje,15.58,46.539
+46,Zrkovci,15.707,46.544
 24,Gocova,15.868,46.548
-39,Selnica ob Dravi,15.489,46.551
-33,Cagona,15.924,46.55
-28,Fala,15.451,46.547
-55,Spodnja Volicina,15.816,46.545
-28,Malecnik,15.69,46.557
-66,Limbus,15.581,46.555
-33,Hrastovec v Slov. goricah,15.786,46.565
+28,Selnica ob Dravi,15.489,46.551
+24,Cagona,15.924,46.55
+24,Fala,15.451,46.547
+46,Spodnja Volicina,15.816,46.545
+24,Malecnik,15.69,46.557
+55,Limbus,15.581,46.555
+24,Hrastovec v Slov. goricah,15.786,46.565
 24,Zgornja Orlica,15.262,46.549
 39,Cerkvenjak,15.943,46.567
-33,Ruperce,15.746,46.559
 28,Vodole,15.696,46.572
-66,Davca,14.035,46.18
-94,Martinj Vrh,14.144,46.187
-39,Livek,13.6,46.202
-46,Gabrje,13.699,46.201
-46,Zali Log,14.101,46.206
-230,Podbrdo,13.973,46.214
-79,Kamno,13.638,46.214
-39,Dolenja vas,14.221,46.215
-24,Volarje,13.674,46.21
-33,Idrsko,13.593,46.232
-39,Ljubinj,13.773,46.168
-28,Bukovscica,14.263,46.224
-134,Zelezniki,14.167,46.225
-28,Vrsno,13.644,46.225
-39,Zgornja Sorica,14.028,46.222
+55,Davca,14.035,46.18
+55,Martinj Vrh,14.144,46.187
+33,Livek,13.6,46.202
+33,Gabrje,13.699,46.201
+33,Zali Log,14.101,46.206
+192,Podbrdo,13.973,46.214
+66,Kamno,13.638,46.214
+28,Idrsko,13.593,46.232
+46,Bukovscica,14.263,46.224
+112,Zelezniki,14.167,46.225
+24,Vrsno,13.644,46.225
+46,Zgornja Sorica,14.028,46.222
 134,Kobarid,13.58,46.246
-33,Staro selo,13.532,46.247
-39,Podlonk,14.125,46.233
-24,Spodnja Besnica,14.318,46.255
+28,Staro selo,13.532,46.247
+33,Podlonk,14.125,46.233
 28,Dreznica,13.614,46.257
-24,Kred,13.512,46.251
-46,Britof,14.391,46.262
+39,Britof,14.391,46.262
 24,Podblica,14.21,46.259
 24,Zgornja Besnica,14.269,46.269
-28,Zatolmin,13.727,46.195
-46,Borjana,13.476,46.255
-28,Velesovo,14.452,46.266
+24,Zatolmin,13.727,46.195
+24,Bistricica,14.586,46.267
+39,Borjana,13.476,46.255
 134,Podlehnik,15.879,46.336
 66,Krizni Vrh,15.572,46.345
-28,Klanc,15.226,46.347
-24,Bevce,15.145,46.357
+24,Klanc,15.226,46.347
 28,Vrhole pri Slov. Konjicah,15.523,46.37
-24,Stenica,15.321,46.384
-112,Vitanje,15.296,46.381
-55,Oplotnica,15.447,46.387
-24,Bukovci,15.959,46.388
-39,Gladomes,15.498,46.39
-24,Ljubnica,15.332,46.394
-46,Markovci,15.93,46.394
-28,Kebelj,15.455,46.411
-55,Smarjeta,15.25,45.885
-28,Radovlja,15.24,45.896
-192,Skocjan,15.291,45.907
-55,Gmajna,15.37,45.906
-24,Hrastov Dol,14.86,45.907
-33,Velika Racna,14.689,45.904
+55,Vitanje,15.296,46.381
+79,Oplotnica,15.447,46.387
+33,Gladomes,15.498,46.39
+55,Markovci,15.93,46.394
+24,Kebelj,15.455,46.411
+46,Smarjeta,15.25,45.885
+160,Skocjan,15.291,45.907
+46,Gmajna,15.37,45.906
+28,Velika Racna,14.689,45.904
 66,Muljava,14.799,45.902
-55,Zbure,15.246,45.911
-112,Trebnje,15.006,45.908
-46,Luce,14.731,45.92
-79,Temenica,14.895,45.98
-79,Senovo,15.477,46.02
-28,Sedem,15.463,46.038
-112,Dobrova,15.436,46.052
-24,Jelovo,15.148,46.074
-39,Podgrad,14.638,46.07
-39,Polana,15.285,46.083
-33,Cogetinci,15.962,46.58
-28,Bresternica,15.578,46.567
+46,Zbure,15.246,45.911
+94,Trebnje,15.006,45.908
+33,Luce,14.731,45.92
+66,Temenica,14.895,45.98
+112,Senovo,15.477,46.02
+24,Sedem,15.463,46.038
+66,Dobrova,15.436,46.052
+33,Podgrad,14.638,46.07
+33,Polana,15.285,46.083
+28,Cogetinci,15.962,46.58
+24,Bresternica,15.578,46.567
 55,Podvelka,15.328,46.59
-55,Sv. Anton na Pohorju,15.217,46.574
-28,Dravce,15.129,46.589
-33,Osek,15.918,46.583
+46,Sv. Anton na Pohorju,15.217,46.574
+24,Dravce,15.129,46.589
+28,Osek,15.918,46.583
 134,Lenart v Slov. goricah,15.83,46.576
-55,Spodnji Boc,15.506,46.58
-55,Vuhred,15.231,46.594
-24,Kamnica,15.614,46.573
-24,Dolnja Pocehova,15.663,46.597
-33,Kunova,15.948,46.596
-39,Vuzenica,15.166,46.595
-28,Zgornji Slemen - del,15.501,46.598
+46,Spodnji Boc,15.506,46.58
+39,Vuhred,15.231,46.594
+28,Kunova,15.948,46.596
+33,Vuzenica,15.166,46.595
+24,Zgornji Slemen - del,15.501,46.598
 46,Ozbalt,15.389,46.584
 24,Vurmat - del,15.413,46.574
-55,Sober,15.577,46.602
-39,Negova,15.937,46.61
-55,Rospoh - del,15.629,46.588
-28,Veliki Boc,15.498,46.61
-39,Javnik,15.358,46.604
-66,Pesnica pri Mariboru,15.676,46.608
-55,Zice,15.845,46.625
-39,Gaj nad Mariborom,15.568,46.623
-28,Ivanjsevski Vrh,15.967,46.621
-39,Remsnik,15.301,46.625
-33,Pesnica,15.568,46.636
-24,Radelca,15.3,46.649
+79,Sober,15.577,46.602
+33,Negova,15.937,46.61
+46,Rospoh - del,15.629,46.588
+46,Veliki Boc,15.498,46.61
+33,Javnik,15.358,46.604
+55,Pesnica pri Mariboru,15.676,46.608
+46,Zice,15.845,46.625
+33,Gaj nad Mariborom,15.568,46.623
+24,Ivanjsevski Vrh,15.967,46.621
+28,Pesnica,15.568,46.636
 79,Spodnja Kapla,15.389,46.632
-24,Ledinek,15.818,46.647
-24,Gradisce na Kozjaku,15.424,46.639
-33,Kamnje,13.919,46.272
+28,Kamnje,13.919,46.272
 94,Bohinjska Bistrica,13.953,46.272
-46,Rovt pod Menino,14.888,46.266
-66,Drazgose,14.177,46.252
-24,Mlaka pri Kranju,14.353,46.276
-33,Zupanje Njive,14.598,46.269
-55,Hotemaze,14.423,46.282
-28,Trnovo ob Soci,13.553,46.28
-24,Strahinj,14.313,46.284
-55,Smartno ob Dreti,14.89,46.284
-276,Luce,14.745,46.355
-28,Ribno,14.123,46.35
-55,Lese,14.256,46.356
-28,Kal-Koritnica,13.578,46.337
-66,Kokra,14.498,46.306
-28,Zapuze,14.194,46.364
-134,Soca,13.667,46.342
+39,Rovt pod Menino,14.888,46.266
+55,Drazgose,14.177,46.252
+33,Adergas,14.465,46.271
+46,Hotemaze,14.423,46.282
+66,Trnovo ob Soci,13.553,46.28
+46,Smartno ob Dreti,14.89,46.284
+230,Luce,14.745,46.355
+24,Ribno,14.123,46.35
+33,Spodnje Grusovje,15.5,46.351
+33,Lese,14.256,46.356
+24,Kal-Koritnica,13.578,46.337
+55,Kokra,14.498,46.306
+24,Zapuze,14.194,46.364
+112,Soca,13.667,46.342
 28,Poljane,14.897,46.338
-192,Bovec,13.552,46.338
+331,Bovec,13.552,46.338
 28,Lom pod Storzicem,14.337,46.368
-39,Lesce,14.159,46.36
-79,Videm pri Ptuju,15.901,46.369
-46,Skorno,15.014,46.35
-24,Hrase,14.167,46.37
-28,Koritno,15.436,46.401
+33,Lesce,14.159,46.36
+66,Videm pri Ptuju,15.901,46.369
+33,Skorno,15.014,46.35
+24,Koritno,15.436,46.401
 33,Spuhlja,15.911,46.413
-55,Planina na Pohorju,15.391,46.424
+46,Planina na Pohorju,15.391,46.424
 28,Podvinci,15.917,46.432
-28,Zgornje Prebukovje,15.547,46.432
-46,Morje,15.622,46.445
+24,Zgornje Prebukovje,15.547,46.432
+39,Morje,15.622,46.445
 28,Kot na Pohorju,15.462,46.423
 33,Smartno na Pohorju,15.538,46.446
-24,Smrecno,15.511,46.45
-94,Podgorje,15.088,46.472
+79,Podgorje,15.088,46.472
 28,Raduse,15.058,46.479
-28,Skoke,15.694,46.486
-46,Krcevina pri Vurbergu,15.817,46.471
+24,Skoke,15.694,46.486
+39,Krcevina pri Vurbergu,15.817,46.471
 94,Frajhajm,15.529,46.49
-24,Zgornje Hoce,15.621,46.491
-66,Spodnji Duplek,15.755,46.501
-39,Lovrenc na Pohorju,15.389,46.539
-94,Ruse,15.495,46.536
-55,Pamece,15.082,46.53
-46,Sv. Danijel,15.097,46.579
+24,Vurberk,15.787,46.485
+55,Spodnji Duplek,15.755,46.501
+46,Lovrenc na Pohorju,15.389,46.539
+160,Ruse,15.495,46.536
+46,Pamece,15.082,46.53
+39,Sv. Danijel,15.097,46.579
 28,Zgornji Kozji Vrh,15.264,46.598
-66,Muta,15.166,46.612
+55,Muta,15.166,46.612
 134,Radlje ob Dravi,15.216,46.615
-94,Benedikt,15.889,46.608
-28,Lokavci,15.931,46.622
-39,Gortina,15.124,46.607
-24,Ihova,15.908,46.636
-39,Drvanja,15.883,46.624
-55,Pernice,15.104,46.64
+66,Benedikt,15.889,46.608
+24,Lokavci,15.931,46.622
+33,Gortina,15.124,46.607
+46,Pernice,15.104,46.64
 39,Brezni Vrh,15.324,46.639
 33,Obrezje pri Zidanem Mostu,15.174,46.085
-28,Kamnica,14.674,46.098
-94,Lokavec,15.242,46.099
+24,Kamnica,14.674,46.098
+79,Lokavec,15.242,46.099
 39,Lahov Graben,15.334,46.093
-66,Planina pri Sevnici,15.405,46.104
-24,Zupa,15.084,46.109
+55,Planina pri Sevnici,15.405,46.104
 28,Veliko Sirje,15.194,46.101
-55,Buce,15.575,46.109
+39,Buce,15.575,46.109
 24,Konjsica - del,14.971,46.097
-46,Dragomelj,14.593,46.11
+39,Dragomelj,14.593,46.11
 46,Podkraj,15.091,46.122
-24,Loke pri Planini,15.432,46.112
-39,Gore,15.138,46.115
-28,Dobovec,15.058,46.113
-33,Blatni Vrh,15.358,46.118
-55,Rimske Toplice,15.194,46.124
+33,Gore,15.138,46.115
+24,Dobovec,15.058,46.113
+28,Blatni Vrh,15.358,46.118
+46,Rimske Toplice,15.194,46.124
 28,Vrh nad Laskim,15.287,46.129
-33,Virstanj,15.56,46.13
+28,Virstanj,15.56,46.13
 46,Turje,15.15,46.131
 24,Zegar,15.449,46.134
-28,Neradnovci,16.195,46.84
-33,Markovci,16.235,46.845
+28,Markovci,16.235,46.845
 24,Matjasevci,16.088,46.846
 33,Hodos,16.326,46.824
-55,Trdkova,16.127,46.852
-160,Cepinci,16.21,46.86
+39,Trdkova,16.127,46.852
+112,Cepinci,16.21,46.86
 66,Dolenci,16.288,46.852
-28,Sv. Peter,13.682,45.466
-46,Sv. Trije Kralji,15.19,46.635
-39,Kaniza,15.669,46.649
-28,Grusena,15.568,46.651
-28,Spodnja Scavnica,15.925,46.652
-39,Strihovec,15.659,46.664
-46,Zgornja Scavnica,15.829,46.668
-33,Police,15.96,46.665
-134,Kocevska Reka,14.801,45.575
+24,Sv. Peter,13.682,45.466
+39,Sv. Trije Kralji,15.19,46.635
+33,Kaniza,15.669,46.649
+24,Grusena,15.568,46.651
+24,Spodnja Scavnica,15.925,46.652
+33,Strihovec,15.659,46.664
+39,Zgornja Scavnica,15.829,46.668
+28,Police,15.96,46.665
+112,Kocevska Reka,14.801,45.575
 66,Draga,14.654,45.633
 192,Babno Polje,14.549,45.646
-33,Podpreska,14.642,45.648
-66,Kozarisce,14.474,45.687
-33,Pudob,14.478,45.699
-46,Slavina,14.179,45.712
+28,Podpreska,14.642,45.648
+55,Kozarisce,14.474,45.687
+24,Pudob,14.478,45.699
+39,Slavina,14.179,45.712
 112,Stari trg pri Lozu,14.471,45.714
-55,Hrib-Loski Potok,14.591,45.701
-230,Sezana,13.873,45.709
-33,Dol pri Vogljah,13.813,45.726
-112,Prestranek,14.186,45.731
+46,Hrib-Loski Potok,14.591,45.701
+276,Sezana,13.873,45.709
+28,Dol pri Vogljah,13.813,45.726
+94,Prestranek,14.186,45.731
 46,Mali Log,14.586,45.722
-24,Matenja vas,14.191,45.74
-28,Kriz,13.865,45.744
-79,Storje,13.928,45.738
-28,Kreplje,13.834,45.744
-112,Senozece,14.039,45.721
-24,Dolenja vas,14.01,45.732
+24,Kriz,13.865,45.744
+66,Storje,13.928,45.738
+24,Kreplje,13.834,45.744
+134,Senozece,14.039,45.721
+33,Rakitnik,14.195,45.745
 33,Orehek,14.154,45.75
 28,Globel,14.602,45.763
-24,Hrusica,15.245,45.784
-55,Gabrje,15.272,45.779
-33,Stara Fuzina,13.894,46.288
+46,Gabrje,15.272,45.779
+28,Stara Fuzina,13.894,46.288
 24,Zgornje Gorje,14.069,46.381
-39,Radegunda,14.932,46.357
-33,Smokuc,14.167,46.388
+28,Radegunda,14.932,46.357
+28,Smokuc,14.167,46.388
 46,Lepa Njiva,14.974,46.369
-46,Ter,14.844,46.361
-571,Celje,15.264,46.231
-276,Velenje,15.106,46.353
-1419,Koper,13.722,45.531
-46,Trbovlje,15.044,46.146
-476,Jesenice,14.052,46.432
-571,Nova Gorica,13.646,45.958
-476,Murska Sobota,16.164,46.658
-192,Kamnik,14.604,46.215
-112,Skofja Loka,14.316,46.167
-230,Domzale,14.592,46.14
-39,Izola,13.669,45.53
-476,Kocevje,14.862,45.641
-397,Postojna,14.21,45.774
-112,Logatec,14.217,45.916
-276,Slovenj Gradec,15.084,46.508
+24,Breg,14.124,46.392
+39,Ter,14.844,46.361
+476,Celje,15.264,46.231
+230,Velenje,15.106,46.353
+1183,Koper,13.722,45.531
+39,Trbovlje,15.044,46.146
+397,Jesenice,14.052,46.432
+476,Nova Gorica,13.646,45.958
+397,Murska Sobota,16.164,46.658
+79,Kamnik,14.604,46.215
+160,Skofja Loka,14.316,46.167
+160,Domzale,14.592,46.14
+46,Izola,13.669,45.53
+397,Kocevje,14.862,45.641
+331,Postojna,14.21,45.774
+94,Logatec,14.217,45.916
+230,Slovenj Gradec,15.084,46.508
 55,Ravne na Koroskem,14.961,46.542
-276,Vrhnika,14.292,45.962
-276,Slovenska Bistrica,15.568,46.39
-276,Zagorje ob Savi,14.994,46.129
+192,Vrhnika,14.292,45.962
+331,Slovenska Bistrica,15.568,46.39
+230,Zagorje ob Savi,14.994,46.129
 112,Brezice,15.599,45.906
-192,Litija,14.823,46.059
-230,Grosuplje,14.656,45.957
+160,Litija,14.823,46.059
+192,Grosuplje,14.656,45.957
 160,Ajdovscina,13.906,45.888
-33,Hrastnik,15.083,46.139
+28,Hrastnik,15.083,46.139
 160,Radovljica,14.174,46.344
-46,Bled,14.103,46.363
-112,Idrija,14.023,46.002
-39,Menges,14.57,46.157
+39,Bled,14.103,46.363
+230,Idrija,14.023,46.002
 276,Crnomelj,15.186,45.573
 397,Rogaska Slatina,15.642,46.225
 100000,Ljubljana,14.512,46.056
-476,Kranj,14.358,46.243
-571,Novo mesto,15.165,45.806
-397,Krsko,15.497,45.958
-39,Sv. Jernej nad Muto,15.145,46.654
-55,Plac,15.588,46.665
-39,Bircna vas,15.147,45.752
-66,Dolenjske Toplice,15.059,45.757
-276,Kozje,15.556,46.072
-55,Lastnic,15.612,46.083
-46,Zdole,15.553,46.089
+397,Kranj,14.358,46.243
+476,Novo mesto,15.165,45.806
+331,Krsko,15.497,45.958
+33,Sv. Jernej nad Muto,15.145,46.654
+46,Plac,15.588,46.665
+33,Bircna vas,15.147,45.752
+39,Dolenjske Toplice,15.059,45.757
+230,Kozje,15.556,46.072
+46,Lastnic,15.612,46.083
+39,Zdole,15.553,46.089
 28,Zagorje,15.475,46.091
 33,Lesicno,15.515,46.101
-39,Tirna,14.907,46.104
-79,Vace,14.838,46.12
+33,Tirna,14.907,46.104
+66,Vace,14.838,46.12
 33,Gubno,15.513,46.119
-46,Mlinse,14.88,46.146
-33,Dobrina,15.482,46.148
-28,Kosnica,15.448,46.149
-112,Hrastje,15.474,46.131
-28,Bogojina,16.28,46.675
-24,Martjanci,16.192,46.685
-24,Borejci,16.1,46.678
+39,Mlinse,14.88,46.146
+24,Dobrina,15.482,46.148
+94,Hrastje,15.474,46.131
+33,Nemcavci,16.176,46.679
+24,Bogojina,16.28,46.675
+55,Borejci,16.1,46.678
+33,Krajna,16.058,46.685
 55,Lokavec,15.81,46.694
-39,Zgornja Velka,15.76,46.682
-24,Jagodje,13.644,45.529
-39,Strunjan,13.605,45.532
-112,Sv. Anton,13.818,45.531
-28,Jasen,14.255,45.558
-28,Topolc,14.216,45.584
+33,Zgornja Velka,15.76,46.682
+33,Strunjan,13.605,45.532
+94,Sv. Anton,13.818,45.531
+24,Jasen,14.255,45.558
+24,Topolc,14.216,45.584
 276,Ilirska Bistrica,14.241,45.572
-24,Smrje,14.187,45.594
-79,Sembije,14.236,45.604
-66,Prem,14.183,45.605
-55,Rucetna vas,15.165,45.621
+66,Sembije,14.236,45.604
+55,Prem,14.183,45.605
+46,Rucetna vas,15.165,45.621
 33,Ostrozno Brdo,14.125,45.62
-24,Knezak,14.245,45.624
-46,Rodik,13.981,45.625
-46,Narin,14.194,45.644
-46,Koritnice,14.285,45.623
-46,Barka,14.052,45.64
-33,Cresnjevec pri Semicu,15.232,45.653
-28,Zagorje,14.225,45.64
-55,Famlje,14.022,45.661
-160,Semic,15.181,45.652
-28,Gornje Vreme,14.05,45.653
-46,Parje,14.218,45.663
-55,Dolnja Kosana,14.126,45.665
+39,Rodik,13.981,45.625
+39,Narin,14.194,45.644
+39,Koritnice,14.285,45.623
+39,Barka,14.052,45.64
+28,Cresnjevec pri Semicu,15.232,45.653
+24,Zagorje,14.225,45.64
+46,Famlje,14.022,45.661
+134,Semic,15.181,45.652
+24,Gornje Vreme,14.05,45.653
+39,Parje,14.218,45.663
+39,Dolnja Kosana,14.126,45.665
 46,Drasici,15.373,45.666
-160,Bac,14.257,45.634
-55,Lokev,13.928,45.661
-112,Pivka,14.196,45.682
-46,Orlek,13.843,45.69
-39,Jursce,14.295,45.664
-39,Rakitnica,14.757,45.692
-94,Divaca,13.969,45.681
-28,Merce,13.901,45.7
-46,Povir,13.933,45.7
-79,Dolenja vas,14.754,45.708
+134,Bac,14.257,45.634
+46,Lokev,13.928,45.661
+94,Pivka,14.196,45.682
+39,Orlek,13.843,45.69
+33,Jursce,14.295,45.664
+33,Rakitnica,14.757,45.692
+79,Divaca,13.969,45.681
+24,Merce,13.901,45.7
+39,Povir,13.933,45.7
+66,Dolenja vas,14.754,45.708
 66,Palcje,14.257,45.676
-39,Podgrad,15.202,45.735
-24,Veliki Slatnik,15.228,45.795
-66,Hrastje,15.299,45.814
+46,Podgrad,15.202,45.735
+55,Hrastje,15.299,45.814
 24,Gorenje Vrhpolje,15.327,45.815
-28,Ostrc,15.441,45.832
-39,Loka,15.306,45.832
+24,Ostrc,15.441,45.832
+33,Loka,15.306,45.832
 112,Sentjernej,15.339,45.84
-112,Velike Lasce,14.636,45.834
-28,Lutrsko selo,15.241,45.845
+94,Velike Lasce,14.636,45.834
 55,Kostanjevica na Krki,15.422,45.844
-24,Dolnja Prekopa,15.382,45.854
-24,Gorenje Blato,14.586,45.961
 46,Pijava Gorica,14.573,45.952
-28,Sv. Barbara,14.317,46.125
+24,Sv. Barbara,14.317,46.125
 24,Spodnje Pirnice,14.441,46.133
 24,Janezovci,15.883,46.47
-79,Starse,15.768,46.466
-1419,Maribor,15.647,46.562
-94,Ptuj,15.874,46.425
+66,Starse,15.768,46.466
+1183,Maribor,15.647,46.562
+112,Ptuj,15.874,46.425
 160,Osilnica,14.698,45.53
-28,Zavrc,16.047,46.387
-331,Kostel,14.908,45.509
-33,Maribor,15.651,46.548
-24,Celje,15.264,46.242
-24,Koper / Capodistria,13.72,45.541
-28,Velenje,15.119,46.364
-46,Piran/Pirano,13.594,45.508
-94,Bled,14.114,46.382
-39,Tržič,14.297,46.347
-66,Prebold,15.092,46.258
-24,Jesenice,14.045,46.442
-66,Črnuče,14.531,46.102
-33,Rogaška Slatina,15.637,46.238
+39,Zavrc,16.047,46.387
+230,Kostel,14.908,45.509
+28,Maribor,15.651,46.548
+24,Velenje,15.119,46.364
+39,Piran/Pirano,13.594,45.508
+79,Bled,14.114,46.382
+33,Tržič,14.297,46.347
+79,Črnuče,14.531,46.102
 46,Nove Fužine,14.579,46.059

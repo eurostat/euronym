@@ -1,14 +1,12 @@
 rmax,name,lon,lat
-355,Saint-Philippe,55.768,-21.358
-206,Cilaos,55.471,-21.134
+296,Saint-Philippe,55.768,-21.358
+144,Cilaos,55.471,-21.134
 144,Les Trois-Bassins,55.295,-21.105
-206,Salazie,55.539,-21.027
+172,Salazie,55.539,-21.027
 247,Saint-Benoit,55.713,-21.033
-120,La Plaine-des-Palmistes,55.626,-21.134
-511,Saint-Paul,55.27,-21.009
-172,Le Port,55.287,-20.938
+426,Saint-Paul,55.27,-21.009
+144,Le Port,55.287,-20.938
 100000,Saint-Denis,55.448,-20.878
-144,Sainte-Suzanne,55.607,-20.905
-511,Saint-Pierre,55.478,-21.341
-120,Saint-Joseph,55.619,-21.378
-206,Le Tampon,55.515,-21.277
+120,Sainte-Suzanne,55.607,-20.905
+426,Saint-Pierre,55.478,-21.341
+144,Le Tampon,55.515,-21.277
