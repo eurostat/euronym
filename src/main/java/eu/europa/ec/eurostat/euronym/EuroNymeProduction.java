@@ -50,7 +50,7 @@ public class EuroNymeProduction {
 		System.out.println("Start");
 
 		//
-		structure();
+		//structure();
 
 
 		//get country codes
