@@ -1,1449 +1,1383 @@
 rmax,name,lon,lat
 39,"Tira, loc.st.c.f.",28.44,47.861
-39,"Petresti, loc.st.c.f",27.744,47.29
-33,Flaminzeni,28.074,47.494
-28,Dermengi,28.413,45.879
+33,"Petresti, loc.st.c.f",27.744,47.29
+28,Flaminzeni,28.074,47.494
+24,Dermengi,28.413,45.879
 66,Carbalia,28.446,45.873
-476,Gotesti,28.17,46.144
-28,Tataraseni,28.302,46.342
-66,Hanaseni,28.324,46.35
-33,Pleseni,28.342,46.36
-39,Cuporani,28.358,46.374
-79,Toceni,28.218,46.367
-46,Vilcele,28.253,46.38
-94,Taraclia,28.517,46.213
+276,Gotesti,28.17,46.144
+24,Tataraseni,28.302,46.342
+55,Hanaseni,28.324,46.35
+28,Pleseni,28.342,46.36
+33,Cuporani,28.358,46.374
+66,Toceni,28.218,46.367
+39,Vilcele,28.253,46.38
+55,Taraclia,28.517,46.213
 134,Sadic,28.515,46.269
-134,Larguta,28.329,46.31
-33,Floricica,28.411,46.235
+112,Larguta,28.329,46.31
+28,Floricica,28.411,46.235
 66,Enichioi,28.418,46.22
 55,Tolica,28.481,46.194
 66,Hanasenii Noi,28.255,46.417
-24,Nicolaevca,28.253,46.39
-66,Valea Florii,28.438,46.713
-33,Carpineanca,28.474,46.694
-192,Orac,28.458,46.67
-79,Sarata-Razesi,28.264,46.615
-66,Sarateni,28.467,46.61
-46,Saratica Noua,28.547,46.572
-33,Cimpul Drept,28.513,46.565
-112,Sirma,28.245,46.526
-66,Tigheci,28.377,46.387
+55,Valea Florii,28.438,46.713
+24,Carpineanca,28.474,46.694
+112,Orac,28.458,46.67
+66,Sarata-Razesi,28.264,46.615
+55,Sarateni,28.467,46.61
+39,Saratica Noua,28.547,46.572
+24,Cimpul Drept,28.513,46.565
+94,Sirma,28.245,46.526
+55,Tigheci,28.377,46.387
 39,Chircani,28.174,46.087
 28,Constantinesti,28.212,46.111
-66,Cucoara,28.169,46.055
-46,Pascani,28.185,45.825
-94,Manta,28.181,45.806
-66,Doina,28.328,46.112
+55,Cucoara,28.169,46.055
+39,Pascani,28.185,45.825
+79,Manta,28.181,45.806
+55,Doina,28.328,46.112
 33,Porumbesti,28.277,46.317
 66,Samalia,28.437,46.272
 94,Besalma,28.646,46.171
-79,Besghioz,28.873,46.119
-46,Chioselia Mare,28.488,46.1
-55,Pinzareni,27.679,47.618
-39,Pinzarenii Noi,27.646,47.602
-28,Albinetul Vechi,27.636,47.559
+66,Besghioz,28.873,46.119
+46,Pinzareni,27.679,47.618
+33,Pinzarenii Noi,27.646,47.602
+24,Albinetul Vechi,27.636,47.559
 46,Albinetul Nou,27.619,47.582
-112,Ilenuta,27.712,47.636
+94,Ilenuta,27.712,47.636
 55,Obreja Veche,27.659,47.676
 46,Navirnet,27.56,47.589
-46,Chetris,27.446,47.596
-55,Hincesti,27.501,47.545
-276,Izvoare,27.666,47.435
-39,Drujineni,27.533,47.525
+39,Chetris,27.446,47.596
+46,Hincesti,27.501,47.545
+192,Izvoare,27.666,47.435
 112,Pruteni,27.551,47.502
-28,Rediul de Sus,27.6,47.509
+24,Rediul de Sus,27.6,47.509
 39,Valea Rusului,27.584,47.472
-55,Hiliuti,27.762,47.669
-55,Pirlita,27.805,47.741
-55,Suvorovca,27.893,47.638
-24,Ivanovca,27.881,47.658
+46,Hiliuti,27.762,47.669
+46,Pirlita,27.805,47.741
+46,Suvorovca,27.893,47.638
 39,"Catranic, loc.st.c.f.",27.776,47.623
-28,Pietrosul Nou,27.769,47.582
-28,Lucaceni,27.598,47.457
+24,Pietrosul Nou,27.769,47.582
+24,Lucaceni,27.598,47.457
 66,Horesti,27.579,47.431
-33,Unteni,27.583,47.415
-39,Popovca,27.862,47.707
-24,Tapoc,27.891,47.708
-33,Beleuti,27.903,47.665
-39,Pietrosu,27.918,47.499
-66,Catranic,27.8,47.597
-33,Burghelea,27.86,47.536
-94,Andrusul de Jos,28.218,45.983
-66,Andrusul de Sus,28.247,46.007
-66,Larga Noua,28.223,46.071
-46,Tartaul de Salcie,28.409,45.963
+28,Unteni,27.583,47.415
+33,Popovca,27.862,47.707
+28,Beleuti,27.903,47.665
+33,Pietrosu,27.918,47.499
+55,Catranic,27.8,47.597
+28,Burghelea,27.86,47.536
+79,Andrusul de Jos,28.218,45.983
+55,Andrusul de Sus,28.247,46.007
+55,Larga Noua,28.223,46.071
+39,Tartaul de Salcie,28.409,45.963
 66,Badicul Moldovenesc,28.265,46.096
-160,Crihana Veche,28.192,45.846
-112,Rosu,28.197,45.949
+134,Crihana Veche,28.192,45.846
+94,Rosu,28.197,45.949
 55,Cotihana,28.242,45.938
-55,Frumusica,28.477,46.082
+46,Frumusica,28.477,46.082
 39,Lucesti,28.329,45.989
-192,Giurgiulesti,28.198,45.481
-112,Vadul lui Isac,28.172,45.763
-192,Valeni,28.176,45.637
-24,Ciobanca,28.505,47.148
-66,Panasesti,28.521,47.155
-46,Condrita,28.575,47.054
+160,Giurgiulesti,28.198,45.481
+94,Vadul lui Isac,28.172,45.763
+160,Valeni,28.176,45.637
+55,Panasesti,28.521,47.155
+39,Condrita,28.575,47.054
 66,Scoreni,28.607,47.068
-55,Stejareni,28.416,47.109
+39,Stejareni,28.416,47.109
 55,Capriana,28.502,47.117
-33,Fagureni,28.565,47.147
-55,Soltoaia,27.814,47.462
-55,Fagadau,27.802,47.442
-94,Scumpia,27.737,47.469
-55,Taxobeni,27.586,47.388
-46,Hrubna Noua,27.616,47.406
-66,Firladeni,28.686,46.788
-39,Voinescu,28.304,46.657
-79,Boghiceni,28.324,46.947
-55,Tataresti,28.345,46.026
-33,Spicoasa,28.376,46.035
+28,Fagureni,28.565,47.147
+46,Soltoaia,27.814,47.462
+46,Fagadau,27.802,47.442
+79,Scumpia,27.737,47.469
+46,Taxobeni,27.586,47.388
+39,Hrubna Noua,27.616,47.406
+55,Firladeni,28.686,46.788
+33,Voinescu,28.304,46.657
+66,Boghiceni,28.324,46.947
+46,Tataresti,28.345,46.026
+28,Spicoasa,28.376,46.035
 55,Huluboaia,28.335,46.053
-24,Cortenul Nou,28.57,46.008
-28,Alexeevca,28.565,46.03
-55,Svetlii,28.569,46.018
-94,Sinesti,28.05,47.397
+24,Alexeevca,28.565,46.03
+46,Svetlii,28.569,46.018
+79,Sinesti,28.05,47.397
 55,Negrea,28.393,46.813
-55,Cioropcani,27.698,47.396
+46,Cioropcani,27.698,47.396
 55,Talaiesti,28.265,46.8
-79,Crasnoarmeiscoe,28.282,46.829
-33,Bobocica,28.459,46.225
+55,Crasnoarmeiscoe,28.282,46.829
+28,Bobocica,28.459,46.225
 160,Baimaclia,28.39,46.187
 28,Acui,28.429,46.184
 33,Rumeantev,28.281,46.112
 39,Suhat,28.344,46.162
-66,Cisla,28.339,46.137
-94,Cotovscoe,28.514,46.159
-33,Dimitrova,28.468,46.16
+55,Cisla,28.339,46.137
+79,Cotovscoe,28.514,46.159
+28,Dimitrova,28.468,46.16
 55,Ciietu,28.481,46.136
 46,Haragis,28.378,46.289
-66,Capaclia,28.4,46.329
-112,Cirpesti,28.34,46.261
-33,Visniovca,28.448,46.333
-94,Cociulia,28.413,46.353
-33,Iujnoe,28.476,45.75
-55,"Vulcanesti, loc.st.c.f.",28.482,45.685
-230,Burlaceni,28.505,45.759
-94,Alexanderfeld,28.428,45.809
+55,Capaclia,28.4,46.329
+94,Cirpesti,28.34,46.261
+28,Visniovca,28.448,46.333
+79,Cociulia,28.413,46.353
+28,Iujnoe,28.476,45.75
+46,"Vulcanesti, loc.st.c.f.",28.482,45.685
+192,Burlaceni,28.505,45.759
+66,Alexanderfeld,28.428,45.809
 79,Gavanoasa,28.385,45.76
-33,Satuc,28.353,45.803
-55,Vladimirovca,28.362,45.788
-94,Brinza,28.174,45.674
-55,Cislita-Prut,28.171,45.538
-39,Colibabovca,28.429,46.649
-39,Tochile-Raducani,28.253,46.569
-39,Dolna,28.269,47.121
+28,Satuc,28.353,45.803
+46,Vladimirovca,28.362,45.788
+79,Brinza,28.174,45.674
+46,Cislita-Prut,28.171,45.538
+33,Colibabovca,28.429,46.649
+33,Tochile-Raducani,28.253,46.569
+33,Dolna,28.269,47.121
 66,Dragusenii Noi,28.423,47.049
 33,Siscani,28.212,46.973
-79,Odaia,28.201,47.009
-28,Banesti,28.375,47.574
-46,Banestii Noi,28.402,47.584
+66,Odaia,28.201,47.009
+24,Banesti,28.375,47.574
+39,Banestii Noi,28.402,47.584
 79,Brinzenii Vechi,28.474,47.658
-66,Budai,28.347,47.452
-33,Cazanesti,28.473,47.615
-230,Chistelnita,28.651,47.573
-24,Chitcanii Vechi,28.499,47.592
-55,Codru,28.269,47.466
+55,Budai,28.347,47.452
+28,Cazanesti,28.473,47.615
+397,Chistelnita,28.651,47.573
+46,Codru,28.269,47.466
 66,Mindresti,28.27,47.504
-66,Crasnaseni,28.403,47.437
+55,Crasnaseni,28.403,47.437
 55,Nucareni,28.584,47.598
 46,Chersac,28.583,47.637
-66,Ordasei,28.496,47.683
-160,Scorteni,28.646,47.643
-24,Suhuluceni,28.525,47.465
-79,Ghermanesti,28.514,47.443
+55,Ordasei,28.496,47.683
+134,Scorteni,28.646,47.643
+66,Ghermanesti,28.514,47.443
 46,Tintareni,28.564,47.572
-55,Vasieni,28.445,47.459
-112,Verejeni,28.469,47.534
+46,Vasieni,28.445,47.459
+94,Verejeni,28.469,47.534
 66,Saratenii Vechi,28.554,47.527
 24,Mindra,28.526,47.536
-28,Ratus,28.503,47.539
+24,Ratus,28.503,47.539
 46,Chitcanii Noi,28.49,47.562
-24,Inesti,28.396,47.504
-55,Leuseni,28.434,47.482
+46,Leuseni,28.434,47.482
 112,Negureni,28.512,47.6
-230,Baurci-Moldoveni,28.238,46.035
-46,Saseni,28.492,47.378
-39,Buda,28.217,47.21
-79,Cabaiesti,28.149,47.218
+192,Baurci-Moldoveni,28.238,46.035
+39,Saseni,28.492,47.378
+33,Buda,28.217,47.21
+66,Cabaiesti,28.149,47.218
 33,Dereneu,28.245,47.381
-94,Frumoasa,28.4,47.331
-55,Oricova,28.235,47.301
-39,Leordoaia,28.152,47.343
-55,Bularda,28.217,47.357
+79,Frumoasa,28.4,47.331
+46,Oricova,28.235,47.301
+33,Leordoaia,28.152,47.343
+46,Bularda,28.217,47.357
 79,Palanca,28.204,47.335
 33,Hoginesti,28.321,47.373
-55,Niscani,28.345,47.268
-28,Oniscani,28.283,47.367
-24,Sverida,28.294,47.353
-24,Paulesti,28.371,47.267
-112,Raciula,28.347,47.302
-160,Radeni,28.213,47.396
-55,Temeleuti,28.073,47.254
-28,Ursari,28.189,47.221
-66,Peticeni,28.206,47.239
-46,Novaci,28.264,47.236
-33,Selistea Noua,28.312,47.24
-46,Paruceni,28.107,47.151
-94,Balauresti,28.137,46.942
-46,Barboieni,28.062,47.022
+46,Niscani,28.345,47.268
+24,Oniscani,28.283,47.367
+94,Raciula,28.347,47.302
+134,Radeni,28.213,47.396
+46,Temeleuti,28.073,47.254
+24,Ursari,28.189,47.221
+55,Peticeni,28.206,47.239
+39,Novaci,28.264,47.236
+24,Selistea Noua,28.312,47.24
+39,Paruceni,28.107,47.151
+79,Balauresti,28.137,46.942
+28,Barboieni,28.062,47.022
 94,Bolduresti,28.052,47.134
-46,Chilisoaia,28.032,47.111
+39,Chilisoaia,28.032,47.111
 79,Boltun,28.289,47.026
 55,Bratuleni,27.974,47.137
-55,Bursuc,28.301,47.097
+46,Bursuc,28.301,47.097
 33,Calimanesti,28.193,46.944
-46,Cristesti,28.284,47.058
+39,Cristesti,28.284,47.058
 79,Grozesti,28.079,47.001
 55,Iurceni,28.26,47.08
-66,Marinici,28.164,46.967
-79,Soltanesti,28.109,47.059
-46,Luminita,28.076,47.083
-39,Bacseni,28.02,47.086
+55,Marinici,28.164,46.967
+66,Soltanesti,28.109,47.059
+39,Luminita,28.076,47.083
+33,Bacseni,28.02,47.086
 28,Selisteni,28.069,47.064
-33,Odobesti,28.071,47.052
-66,Isaicani,28.029,47.068
-39,Vulcanesti,28.191,47.153
-66,Sendreni,28.193,47.129
-55,Varzaresti,28.183,47.101
-46,Zberoaia,28.107,46.97
-33,Saghieni,27.967,47.25
-28,Floresti,27.711,47.382
-55,Buciumeni,27.712,47.369
-33,Busila,27.809,47.388
-94,Chirileni,27.775,47.38
-94,Cetireni,27.914,47.215
-39,Stolniceni,27.712,47.41
-66,Bulhac,27.741,47.428
-33,Cornova,28.174,47.396
+24,Odobesti,28.071,47.052
+55,Isaicani,28.029,47.068
+33,Vulcanesti,28.191,47.153
+55,Sendreni,28.193,47.129
+46,Varzaresti,28.183,47.101
+39,Zberoaia,28.107,46.97
+28,Saghieni,27.967,47.25
+24,Floresti,27.711,47.382
+46,Buciumeni,27.712,47.369
+28,Busila,27.809,47.388
+79,Chirileni,27.775,47.38
+79,Cetireni,27.914,47.215
+33,Stolniceni,27.712,47.41
+55,Bulhac,27.741,47.428
+28,Cornova,28.174,47.396
 55,Costuleni,27.912,47.08
-33,Floritoaia Veche,27.905,47.203
-112,Radenii Vechi,27.997,47.298
-79,Gherman,27.605,47.362
-230,Sculeni,27.628,47.326
-39,Blindesti,27.669,47.314
-55,Floreni,27.663,47.346
-28,Hristoforovca,27.919,47.356
-160,Macaresti,27.98,47.046
+28,Floritoaia Veche,27.905,47.203
+94,Radenii Vechi,27.997,47.298
+66,Gherman,27.605,47.362
+94,Sculeni,27.628,47.326
+33,Blindesti,27.669,47.314
+46,Floreni,27.663,47.346
+24,Hristoforovca,27.919,47.356
+134,Macaresti,27.98,47.046
 28,Frasinesti,28.018,47.036
-94,Semeni,27.757,47.269
-33,Hircesti,28.086,47.394
+79,Semeni,27.757,47.269
+28,Hircesti,28.086,47.394
 33,Drujba,28.077,47.433
-55,Tighira,27.903,47.442
+46,Tighira,27.903,47.442
 28,Negurenii Vechi,27.88,47.412
-79,Hirtop,28.418,47.7
-66,Novaia Nicolaevca,27.835,47.26
-24,Zahareuca,28.599,47.532
-55,Hirova,28.283,47.413
+66,Hirtop,28.418,47.7
+39,Novaia Nicolaevca,27.835,47.26
+46,Hirova,28.283,47.413
 24,Parcani,28.374,47.296
-28,Balanesti,28.066,47.205
+24,Balanesti,28.066,47.205
 39,Todiresti,27.821,47.32
-66,Carabetovca,28.914,46.414
-55,Iordanovca,28.91,46.394
-134,Sadaclia,28.88,46.447
+55,Carabetovca,28.914,46.414
+39,Iordanovca,28.91,46.394
+112,Sadaclia,28.88,46.447
 55,Albina,28.64,46.705
-46,Bogdanovca Veche,28.829,46.475
-55,Bogdanovca Noua,28.843,46.493
-134,Cenac,28.637,46.477
-79,Ciucur-Mingir,28.755,46.439
-46,Costangalia,28.803,46.618
-66,Ecaterinovca,28.748,46.583
+39,Bogdanovca Veche,28.829,46.475
+46,Bogdanovca Noua,28.843,46.493
+112,Cenac,28.637,46.477
+66,Ciucur-Mingir,28.755,46.439
+39,Costangalia,28.803,46.618
+55,Ecaterinovca,28.748,46.583
 134,Gradiste,28.756,46.608
-28,Fetita,28.675,46.693
-160,Ialpug,28.588,46.652
-24,Marienfeld,28.617,46.599
-112,Ialpujeni,28.618,46.589
-55,Porumbrei,28.809,46.692
-46,Iurievca,28.764,46.668
+24,Fetita,28.675,46.693
+134,Ialpug,28.588,46.652
+94,Ialpujeni,28.618,46.589
+46,Porumbrei,28.809,46.692
+39,Iurievca,28.764,46.668
 33,Ivanovca Noua,28.696,46.745
-134,Javgur,28.615,46.539
-28,Maximeni,28.596,46.57
+112,Javgur,28.615,46.539
+24,Maximeni,28.596,46.57
 24,Schinosica,28.786,46.729
-112,Lipoveni,28.755,46.734
-39,Munteni,28.765,46.705
+94,Lipoveni,28.755,46.734
+33,Munteni,28.765,46.705
 39,Mereni,28.648,46.674
-55,Sagaidac,28.844,46.661
+79,Sagaidac,28.844,46.661
 24,Sagaidacul Nou,28.85,46.694
-94,Satul Nou,28.91,46.615
-46,Suric,28.871,46.633
-46,Topala,28.674,46.461
-79,Dimitrovca,28.716,46.485
-28,Balceana,28.406,46.845
-39,Draguseni,28.452,46.981
-39,Dubovca,28.607,46.748
-112,Bozieni,28.64,46.757
+66,Satul Nou,28.91,46.615
+39,Suric,28.871,46.633
+39,Topala,28.674,46.461
+66,Dimitrovca,28.716,46.485
+24,Balceana,28.406,46.845
+28,Dubovca,28.607,46.748
+94,Bozieni,28.64,46.757
 160,Bujor,28.267,46.923
-55,Caracui,28.54,46.7
-94,Calmatui,28.219,46.783
-24,Feteasca,28.191,46.788
-112,Cioara,28.224,46.735
-66,Horjesti,28.348,46.713
-39,Cotul Morii,28.12,46.87
-55,Dancu,28.207,46.758
-33,Sarateni,28.169,46.856
-39,Frasin,28.195,46.888
-28,Ivanovca,28.194,46.875
-28,Anini,28.464,46.889
-55,Rusca,28.475,46.876
-79,Leuseni,28.193,46.824
-112,Loganesti,28.541,46.897
-55,Mereseni,28.539,46.799
-112,Mingir,28.327,46.669
+46,Caracui,28.54,46.7
+46,Calmatui,28.219,46.783
+94,Cioara,28.224,46.735
+94,Horjesti,28.348,46.713
+28,Cotul Morii,28.12,46.87
+39,Dancu,28.207,46.758
+28,Sarateni,28.169,46.856
+33,Frasin,28.195,46.888
+24,Ivanovca,28.194,46.875
+24,Anini,28.464,46.889
+46,Rusca,28.475,46.876
+134,Leuseni,28.193,46.824
+94,Loganesti,28.541,46.897
+46,Mereseni,28.539,46.799
+192,Mingir,28.327,46.669
 46,Semionovca,28.304,46.699
-66,Miresti,28.254,46.97
-94,Nemteni,28.122,46.908
-55,Obileni,28.163,46.878
-66,Onesti,28.25,46.861
+33,Miresti,28.254,46.97
+79,Nemteni,28.122,46.908
+46,Obileni,28.163,46.878
+94,Onesti,28.25,46.861
 33,Marasesti,28.071,47.863
-28,Magura Noua,27.954,47.505
-39,Pervomaisc,27.978,47.632
-79,Pascani,28.371,46.971
-46,Pereni,28.369,47.002
-55,Pervomaiscoe,28.324,46.886
-39,Marchet,28.233,46.709
-79,Poganesti,28.233,46.694
-39,Secareni,28.327,47.023
-28,Cornesti,28.334,47.006
-112,Sofia,28.38,46.843
-66,Stolniceni,28.485,46.96
-55,Sipoteni,28.454,46.942
+24,Magura Noua,27.954,47.505
+33,Pervomaisc,27.978,47.632
+66,Pascani,28.371,46.971
+39,Pereni,28.369,47.002
+46,Pervomaiscoe,28.324,46.886
+33,Marchet,28.233,46.709
+66,Poganesti,28.233,46.694
+33,Secareni,28.327,47.023
+24,Cornesti,28.334,47.006
+94,Sofia,28.38,46.843
+79,Stolniceni,28.485,46.96
+46,Sipoteni,28.454,46.942
 28,Meseni,28.465,46.417
-160,Iargara,28.434,46.427
+134,Iargara,28.434,46.427
 55,Hirtop,28.504,46.494
-66,Bestemac,28.529,46.528
-39,Pitesti,28.545,46.503
-94,Borogani,28.519,46.371
-46,Seliste,28.429,46.528
-46,Troian,28.462,46.543
-66,Cazangic,28.435,46.51
+55,Bestemac,28.529,46.528
+33,Pitesti,28.545,46.503
+79,Borogani,28.519,46.371
+33,Seliste,28.429,46.528
+134,Troian,28.462,46.543
+55,Cazangic,28.435,46.51
 46,Ceadir,28.408,46.67
-28,Frumusica,28.427,46.556
-79,Covurlui,28.401,46.592
+24,Frumusica,28.427,46.556
+66,Covurlui,28.401,46.592
 39,Victoria,28.415,46.617
-46,Cupcui,28.357,46.517
-94,Filipeni,28.326,46.438
-66,Romanovca,28.351,46.459
-24,Chioselia Rusa,28.512,46.086
-112,Cioc-Maidan,28.819,46.363
-39,Dudulesti,28.519,46.323
-79,Congazcicul de Sus,28.564,46.332
+39,Cupcui,28.357,46.517
+79,Filipeni,28.326,46.438
+55,Romanovca,28.351,46.459
+94,Cioc-Maidan,28.819,46.363
+33,Dudulesti,28.519,46.323
+66,Congazcicul de Sus,28.564,46.332
 39,Congazcicul de Jos,28.571,46.311
-55,Etulia Noua,28.438,45.516
-79,Gaidar,28.765,46.107
-112,Joltai,28.873,46.18
-276,Tomai,28.323,46.573
-66,Cizlar,28.523,46.65
+33,Etulia Noua,28.438,45.516
+66,Gaidar,28.765,46.107
+94,Joltai,28.873,46.18
+192,Tomai,28.323,46.573
+46,Cizlar,28.523,46.65
 33,Drasliceni,28.783,47.157
-55,Gornoe,28.78,47.19
-33,Ratus,28.807,47.167
-33,Maiscoe,28.049,47.911
-79,Iliciovca,28.073,47.934
+46,Gornoe,28.78,47.19
+28,Ratus,28.807,47.167
+28,Maiscoe,28.049,47.911
+66,Iliciovca,28.073,47.934
 66,Nicolaevca,28.284,47.751
-39,Ion-Voda,28.325,47.728
-79,Negresti,28.625,47.177
+33,Ion-Voda,28.325,47.728
+66,Negresti,28.625,47.177
 79,Iabloana,27.618,47.81
-46,Vatra,28.739,47.074
-33,Malaiesti,27.35,47.882
-33,Ghindesti,28.376,47.853
-33,Marculesti,28.247,47.884
-33,Marculesti,28.236,47.872
-46,Stircea,27.526,47.79
-33,Trifanesti,28.13,47.944
+33,Vatra,28.739,47.074
+24,Malaiesti,27.35,47.882
+28,Ghindesti,28.376,47.853
+28,Marculesti,28.247,47.884
+28,Marculesti,28.236,47.872
+39,Stircea,27.526,47.79
+24,Trifanesti,28.13,47.944
 28,Piatra Alba,28.819,46.933
-55,Tomaiul Nou,28.55,46.623
+39,Tomaiul Nou,28.55,46.623
 46,Saratica Veche,28.53,46.602
-55,Vozneseni,28.469,46.584
-55,Troita,28.465,46.564
+46,Vozneseni,28.469,46.584
+39,Troita,28.465,46.564
 33,Albota de Jos,28.483,45.94
-24,Hagichioi,28.461,45.925
-94,Hirtop,28.492,45.919
+79,Hirtop,28.492,45.919
 112,Albota de Sus,28.473,45.972
 55,Rosita,28.474,46.032
 24,Sofievca,28.472,46.009
 94,Aluatu,28.582,45.869
-66,Balabanu,28.577,45.933
-55,Budai,28.461,45.848
-94,Cairaclia,28.622,45.777
-55,Cealic,28.556,45.996
-46,Samurza,28.57,45.976
-55,Corten,28.735,46.014
-66,Musaitu,28.502,45.821
-33,Vinogradovca,28.532,45.802
+55,Balabanu,28.577,45.933
+46,Budai,28.461,45.848
+79,Cairaclia,28.622,45.777
+46,Cealic,28.556,45.996
+33,Samurza,28.57,45.976
+46,Corten,28.735,46.014
+55,Musaitu,28.502,45.821
+28,Vinogradovca,28.532,45.802
 39,Novosiolovca,28.598,45.903
-55,Salcia,28.512,45.875
-39,Orehovca,28.527,45.907
-55,Ciumai,28.567,45.781
+46,Salcia,28.512,45.875
+33,Orehovca,28.527,45.907
+46,Ciumai,28.567,45.781
 55,Mirnoe,28.578,45.736
-79,Chirilovca,28.574,45.817
-39,Cateleni,28.187,46.92
+66,Chirilovca,28.574,45.817
+33,Cateleni,28.187,46.92
 28,Rassvet,28.426,47.205
-134,Bugeac,28.664,46.362
-192,Avdarma,28.838,46.252
-55,Cigirleni,28.823,46.755
-55,Codreni,28.884,46.677
-46,"Zloti, loc.st.c.f.",28.897,46.696
+112,Bugeac,28.664,46.362
+160,Avdarma,28.838,46.252
+46,Cigirleni,28.823,46.755
+46,Codreni,28.884,46.677
+24,"Zloti, loc.st.c.f.",28.897,46.696
 66,Sadova,28.342,47.196
-39,Veverita,28.103,47.35
-55,Buzduganii de Sus,27.864,47.16
-134,Valea Mare,27.863,47.132
-39,Sicovat,27.908,47.108
-33,Morenii Noi,27.911,47.133
-55,Ursoaia,28.315,45.85
-55,Lopatica,28.412,45.929
-55,Bucuria,28.346,45.968
+33,Veverita,28.103,47.35
+39,Buzduganii de Sus,27.864,47.16
+112,Valea Mare,27.863,47.132
+33,Sicovat,27.908,47.108
+28,Morenii Noi,27.911,47.133
+46,Ursoaia,28.315,45.85
+46,Lopatica,28.412,45.929
+66,Bucuria,28.346,45.968
 33,Trifestii Noi,28.352,45.948
-192,Moscovei,28.374,45.913
-94,Burlacu,28.413,46.046
-55,Taraclia de Salcie,28.414,46.009
-39,Tretesti,28.174,45.992
+160,Moscovei,28.374,45.913
+79,Burlacu,28.413,46.046
+46,Taraclia de Salcie,28.414,46.009
+33,Tretesti,28.174,45.992
 46,Zirnesti,28.166,46.011
-46,Paicu,28.155,46.038
-134,Borceag,28.527,46.049
-94,Antonesti,28.215,46.333
-66,Leca,28.205,46.308
-160,Cantemir,28.204,46.276
-39,Plopi,28.216,46.198
-39,Taraclia,28.221,46.222
+39,Paicu,28.155,46.038
+55,Borceag,28.527,46.049
+79,Antonesti,28.215,46.333
+55,Leca,28.205,46.308
+331,Cantemir,28.204,46.276
+33,Plopi,28.216,46.198
+33,Taraclia,28.221,46.222
 66,Hirtop,28.251,46.234
-94,Ghioltosu,28.16,46.193
-33,Tiganca Noua,28.166,46.211
-134,Tiganca,28.157,46.233
-66,Stoianovca,28.167,46.257
-112,Chioselia,28.404,46.14
+79,Ghioltosu,28.16,46.193
+28,Tiganca Noua,28.166,46.211
+112,Tiganca,28.157,46.233
+55,Stoianovca,28.167,46.257
+94,Chioselia,28.404,46.14
 55,Costangalia,28.385,46.113
-79,Ciobalaccia,28.284,46.172
-66,Flocoasa,28.251,46.152
-79,Lingura,28.324,46.232
-33,Popovca,28.31,46.248
-66,Tartaul,28.318,46.204
+66,Ciobalaccia,28.284,46.172
+55,Flocoasa,28.251,46.152
+66,Lingura,28.324,46.232
+28,Popovca,28.31,46.248
+55,Tartaul,28.318,46.204
 94,Sarata-Galbena,28.508,46.729
 28,Bratianovca,28.463,46.74
-192,Alexandru Ioan Cuza,28.449,45.595
-112,Bascalia,28.785,46.308
-39,Cociulia Noua,28.472,46.442
-66,Baius,28.481,46.455
+112,Alexandru Ioan Cuza,28.449,45.595
+94,Bascalia,28.785,46.308
+33,Cociulia Noua,28.472,46.442
+55,Baius,28.481,46.455
 79,Hirtop,28.684,46.652
-33,Hirtop,27.706,47.481
-79,Pelinei,28.323,45.826
+28,Hirtop,27.706,47.481
+66,Pelinei,28.323,45.826
 66,Hansca,28.751,46.834
-94,Horesti,28.874,46.825
+79,Horesti,28.874,46.825
 33,Horodca,28.493,47.045
-39,Horodca,28.458,47.06
-112,Molesti,28.777,46.787
-66,Ferapontievca,28.773,46.234
+33,Horodca,28.458,47.06
+94,Molesti,28.777,46.787
+55,Ferapontievca,28.773,46.234
 79,Ulmu,28.543,47.018
-66,Vasieni,28.59,46.968
-28,Gaureni,28.842,46.829
-24,Moldoveanca,27.611,47.622
-55,Calugar,27.687,47.54
-28,Socii Noi,27.653,47.534
-24,Rediul de Jos,27.607,47.526
+55,Vasieni,28.59,46.968
+46,Calugar,27.687,47.54
+24,Socii Noi,27.653,47.534
 28,Frumusica,27.684,47.514
-33,Falestii Noi,27.744,47.574
-94,Step-Soci,28.795,47.441
-79,Seliste,28.132,47.167
-79,Cirnesti,28,47.175
-134,Cioresti,28.22,47.166
+28,Falestii Noi,27.744,47.574
+79,Step-Soci,28.795,47.441
+66,Seliste,28.132,47.167
+66,Cirnesti,28,47.175
+112,Cioresti,28.22,47.166
 94,Grozasca,27.902,47.175
-94,Alexeevca,28.286,47.943
-46,Bahrinesti,28.243,47.857
-66,Casunca,28.395,47.786
+79,Alexeevca,28.286,47.943
+39,Bahrinesti,28.243,47.857
+55,Casunca,28.395,47.786
 55,Sirbesti,28.325,47.802
-160,Ciutulesti,28.391,47.761
+134,Ciutulesti,28.391,47.761
 33,Marinesti,28.385,47.733
-134,Cosernita,28.464,47.937
+112,Cosernita,28.464,47.937
 33,Domulgeni,28.437,47.791
-66,"Unchitesti, loc.st.c.f.",28.49,47.906
-79,Hirtop,28.458,47.883
-24,Bobulesti,28.346,47.884
+55,"Unchitesti, loc.st.c.f.",28.49,47.906
+112,Hirtop,28.458,47.883
 46,Gura Camencii,28.357,47.893
-24,Lunga,28.222,47.86
-160,Prajila,28.209,47.842
-39,Mihailovca,28.264,47.802
-28,Capresti,28.466,47.754
-33,Prodanesti,28.483,47.739
+28,Gura Cainarului,28.184,47.863
+134,Prajila,28.209,47.842
+33,Mihailovca,28.264,47.802
+24,Capresti,28.466,47.754
+28,Prodanesti,28.483,47.739
 55,Putinesti,28.125,47.838
-55,Sevirova,28.15,47.928
-46,Ivanovca,28.157,47.908
-46,Stefanesti,28.437,47.733
-39,Prodanestii Vechi,28.449,47.713
-33,Varvareuca,28.317,47.879
+46,Sevirova,28.15,47.928
+39,Ivanovca,28.157,47.908
+39,Stefanesti,28.437,47.733
+33,Prodanestii Vechi,28.449,47.713
+28,Varvareuca,28.317,47.879
 112,Rosieticii Vechi,28.395,47.82
-33,Rosietici,28.403,47.832
-39,Vinatori,28.103,47.187
+28,Rosietici,28.403,47.832
+28,Vinatori,28.103,47.187
 66,Hasnasenii Noi,27.911,47.857
-33,Petreni,27.954,47.944
-66,Buteni,28.674,46.829
-66,Fundul Galbenei,28.623,46.882
-160,Frunzesti,28.187,47.784
-134,Sarata Noua,28.391,46.491
-39,Cneazevca,28.49,46.632
+28,Petreni,27.954,47.944
+55,Buteni,28.674,46.829
+55,Fundul Galbenei,28.623,46.882
+28,Frunzesti,28.187,47.784
+112,Sarata Noua,28.391,46.491
+55,Cneazevca,28.49,46.632
 46,Micleuseni,28.307,47.128
-112,Varatic,27.258,47.917
-46,Dumeni,27.203,47.911
-46,Duruitoarea Noua,27.245,47.895
-160,Rautel,27.823,47.716
-46,Cajba,27.439,47.727
-33,Untesti,27.911,47.23
-94,Milesti,28.041,47.221
-46,Zagarancea,27.765,47.248
-79,Draganesti,28.254,47.717
-39,Duruitoarea,27.261,47.877
-79,Galaseni,27.34,47.871
-28,Sumna,27.703,47.922
-66,Bulhac,27.672,47.923
-28,Cucuietii Vechi,27.436,47.908
-66,Sturzeni,27.457,47.916
-112,Hiliuti,27.387,47.929
+94,Varatic,27.258,47.917
+39,Dumeni,27.203,47.911
+39,Duruitoarea Noua,27.245,47.895
+134,Rautel,27.823,47.716
+39,Cajba,27.439,47.727
+28,Untesti,27.911,47.23
+160,Milesti,28.041,47.221
+39,Zagarancea,27.765,47.248
+66,Draganesti,28.254,47.717
+24,Duruitoarea,27.261,47.877
+55,Galaseni,27.34,47.871
+24,Sumna,27.703,47.922
+55,Bulhac,27.672,47.923
+24,Cucuietii Vechi,27.436,47.908
+55,Sturzeni,27.457,47.916
+94,Hiliuti,27.387,47.929
 24,Damascani,27.304,47.869
-46,Petruseni,27.311,47.847
-39,Pascauti,27.277,47.835
-94,Alunis,27.652,47.848
+39,Petruseni,27.311,47.847
+33,Pascauti,27.277,47.835
+79,Alunis,27.652,47.848
 39,Slobozia-Recea,27.699,47.854
-55,Usurei,27.593,47.892
-28,Luparia,27.55,47.878
-46,Sverdiac,27.727,47.896
+66,Usurei,27.593,47.892
+24,Luparia,27.55,47.878
+39,Sverdiac,27.727,47.896
 112,Recea,27.67,47.895
-46,Grinauti,27.78,47.882
-94,Elizaveta,28.006,47.792
-94,Braviceni,28.657,47.432
-33,Andreevca,28.874,47.537
-134,Chiperceni,28.84,47.522
+39,Grinauti,27.78,47.882
+79,Elizaveta,28.006,47.792
+134,Braviceni,28.657,47.432
+24,Andreevca,28.874,47.537
+112,Chiperceni,28.84,47.522
 39,Vorotet,28.856,47.553
-33,Clisova,28.569,47.478
-66,Sirota,28.775,47.529
+28,Clisova,28.569,47.478
+55,Sirota,28.775,47.529
 33,Ghetlova,28.531,47.381
-66,Isacova,28.717,47.37
-39,Neculaieuca,28.696,47.357
-79,Malaiesti,28.666,47.462
-94,Mitoc,28.784,47.388
-28,Tirzieni,28.625,47.442
-46,Breanova,28.65,47.416
-66,Morozeni,28.636,47.378
-39,Pelivan,28.776,47.405
-94,Piatra,28.898,47.362
-66,Podgoreni,28.778,47.56
-39,Seliste,28.784,47.337
+55,Isacova,28.717,47.37
+33,Neculaieuca,28.696,47.357
+66,Malaiesti,28.666,47.462
+79,Mitoc,28.784,47.388
+24,Tirzieni,28.625,47.442
+39,Breanova,28.65,47.416
+55,Morozeni,28.636,47.378
+33,Pelivan,28.776,47.405
+79,Piatra,28.898,47.362
+55,Podgoreni,28.778,47.56
+33,Seliste,28.784,47.337
 24,Mana,28.684,47.342
-33,Curchi,28.655,47.337
+28,Curchi,28.655,47.337
 55,Teleseu,28.707,47.267
-55,Pocsesti,28.685,47.25
+39,Pocsesti,28.685,47.25
 46,Vatici,28.624,47.34
-94,Tabara,28.567,47.331
-46,Ciocilteni,28.619,47.497
+79,Tabara,28.567,47.331
+39,Ciocilteni,28.619,47.497
 55,Bolohan,28.873,47.43
-28,Cismea,28.751,47.414
-112,Pohrebeni,28.908,47.556
-39,Putintei,28.584,47.383
-55,Busauca,28.793,47.596
-230,Ciniseuti,28.857,47.696
-46,Cogilniceni,28.819,47.635
-33,Echimauti,28.901,47.693
-39,Gordinesti,28.803,47.69
+24,Cismea,28.751,47.414
+94,Pohrebeni,28.908,47.556
+28,Discova,28.6,47.379
+46,Busauca,28.793,47.596
+192,Ciniseuti,28.857,47.696
+39,Cogilniceni,28.819,47.635
+28,Echimauti,28.901,47.693
+33,Gordinesti,28.803,47.69
 39,Bahu,28.461,47.418
-33,Roscanii de Sus,28.736,47.649
-39,Ghiduleni,28.743,47.611
+28,Roscanii de Sus,28.736,47.649
+33,Ghiduleni,28.743,47.611
 24,Roscanii de Jos,28.769,47.63
-79,Pereni,28.778,47.656
-24,Trifesti,28.806,47.676
+66,Pereni,28.778,47.656
 33,Mincenii de Jos,28.883,47.635
-66,Mincenii de Sus,28.892,47.648
-46,Meseni,28.641,47.663
-33,Otac,28.828,47.588
-33,Lipceni,28.87,47.808
+28,Mincenii de Sus,28.892,47.648
+39,Meseni,28.641,47.663
+28,Otac,28.828,47.588
+28,Lipceni,28.87,47.808
 46,Piscaresti,28.811,47.76
-28,Pripiceni-Razesi,28.759,47.686
-79,Sircova,28.788,47.74
-28,Tahnauti,28.862,47.742
-33,Cucuruzenii de Sus,28.702,47.544
-46,Zahoreni,28.726,47.577
-24,Bogzesti,28.434,47.427
-79,Hiriseni,28.289,47.435
-28,Dobrusa,28.556,47.613
-46,Saratenii Noi,28.5,47.509
-24,Flutura,28.549,47.688
+24,Pripiceni-Razesi,28.759,47.686
+66,Sircova,28.788,47.74
+24,Tahnauti,28.862,47.742
+28,Cucuruzenii de Sus,28.702,47.544
+39,Zahoreni,28.726,47.577
+112,Hiriseni,28.289,47.435
+24,Dobrusa,28.556,47.613
+39,Saratenii Noi,28.5,47.509
 66,Tirsitei,28.575,47.693
-46,Chipesca,28.608,47.762
-94,Cobilea,28.673,47.864
-39,Fuzauca,28.743,47.743
-39,Gauzeni,28.565,47.755
-66,Oliscani,28.714,47.799
-33,Mihuleni,28.838,47.83
-55,Lelina,28.744,47.924
-66,Samascani,28.693,47.755
+39,Chipesca,28.608,47.762
+79,Cobilea,28.673,47.864
+33,Fuzauca,28.743,47.743
+33,Gauzeni,28.565,47.755
+55,Oliscani,28.714,47.799
+24,Mihuleni,28.838,47.83
+46,Lelina,28.744,47.924
+55,Samascani,28.693,47.755
 66,Sestaci,28.753,47.861
 46,Sipca,28.807,47.847
-33,Vadul-Rascov,28.825,47.932
-79,Socola,28.817,47.909
+28,Vadul-Rascov,28.825,47.932
+66,Socola,28.817,47.909
 24,Iantarnoe,28.841,47.902
-39,Poiana,28.856,47.887
+33,Poiana,28.856,47.887
 160,Raspopeni,28.623,47.742
-46,Hligeni,28.878,47.82
-331,Bravicea,28.439,47.368
-55,Mindra,28.265,47.32
-24,Leordoaia,28.138,47.337
+39,Hligeni,28.878,47.82
+276,Bravicea,28.439,47.368
+46,Mindra,28.265,47.32
 66,Hirbovat,28.312,47.34
-39,Podul Lung,28.24,47.26
-55,Tibirica,28.369,47.37
-55,Valcinet,28.127,47.267
+33,Podul Lung,28.24,47.26
+46,Tibirica,28.369,47.37
+46,Valcinet,28.127,47.267
 79,Alexeevca,27.936,47.268
-39,Lidovca,27.895,47.277
+33,Lidovca,27.895,47.277
 28,"Buciumeni, loc.st.c.f.",27.697,47.343
-66,Bumbata,27.969,47.344
-94,Magurele,27.97,47.461
+55,Bumbata,27.969,47.344
+66,Magurele,27.97,47.461
 94,Petresti,27.748,47.308
 28,Izvoreni,27.974,47.431
 79,Tescureni,27.942,47.414
-94,Cotiujenii Mari,28.554,47.846
-39,"Cobilea, loc.st.c.f.",28.603,47.859
+79,Cotiujenii Mari,28.554,47.846
+33,"Cobilea, loc.st.c.f.",28.603,47.859
 28,Cuselauca,28.567,47.876
-55,Pohoarna,28.498,47.832
-24,Recesti,28.567,47.791
-94,Dobrusa,28.595,47.789
-24,Vulpesti,27.884,47.239
-28,Rezina,27.879,47.216
-55,Codrul Nou,28.574,47.546
-79,Lazo,27.928,47.893
-39,Ceparia,27.714,47.933
+39,Pohoarna,28.498,47.832
+79,Dobrusa,28.595,47.789
+24,Rezina,27.879,47.216
+46,Codrul Nou,28.574,47.546
+66,Lazo,27.928,47.893
+33,Ceparia,27.714,47.933
 46,Graseni,27.836,47.353
-28,Bozieni,28.623,46.771
-24,Tiplesti,28.141,47.825
-46,Heciul Nou,28.062,47.774
-66,Chirileni,28.196,47.691
+24,Bozieni,28.623,46.771
+39,Heciul Nou,28.062,47.774
+55,Chirileni,28.196,47.691
 28,Izvoare,28.195,47.717
 39,Valea Norocului,28.201,47.767
 28,Petropavlovca,28.21,47.594
-33,Ciofu,28.22,47.563
+28,Ciofu,28.22,47.563
 39,Cliscauti,28.292,47.609
-33,Sestaci,28.29,47.623
-46,Mihailovca,28.263,47.592
+28,Sestaci,28.29,47.623
+33,Mihailovca,28.263,47.592
 24,Iezarenii Noi,28.094,47.589
 46,Iezarenii Vechi,28.088,47.565
 55,Octeabrscoe,27.948,47.715
-24,Palaria,27.939,47.685
-55,Tambula,27.924,47.698
+39,Tambula,27.924,47.698
 24,Grigorauca,28.198,47.62
-79,Copaceni,28.234,47.615
-33,Antonovca,28.236,47.672
+39,Copaceni,28.234,47.615
+28,Antonovca,28.236,47.672
 24,Gavrilovca,28.26,47.646
-66,Petrovca,28.231,47.657
-33,Dobrogea Veche,27.934,47.839
-33,Cotovca,27.974,47.853
-160,Cubolta,28.033,47.874
-24,Frumusica Noua,28.061,47.876
-160,Pepeni,28.341,47.64
-55,Vranesti,28.101,47.624
+55,Petrovca,28.231,47.657
+28,Dobrogea Veche,27.934,47.839
+28,Cotovca,27.974,47.853
+134,Cubolta,28.033,47.874
+134,Pepeni,28.341,47.64
+46,Vranesti,28.101,47.624
 24,Slobozia-Magura,27.967,47.488
-160,Bursuceni,28.018,47.488
-33,Mindrestii Noi,28.028,47.719
-94,Bilicenii Noi,28.036,47.696
-46,Lipovanca,27.985,47.678
+134,Bursuceni,28.018,47.488
+28,Mindrestii Noi,28.028,47.719
+79,Bilicenii Noi,28.036,47.696
+55,Lipovanca,27.985,47.678
 24,Coada Iazului,28.001,47.658
 46,Bilicenii Vechi,28.048,47.656
-112,Nicolaevca,28.029,47.608
-55,Balasesti,28.356,47.66
+94,Nicolaevca,28.029,47.608
+46,Balasesti,28.356,47.66
 39,Singereii Noi,28.085,47.724
-46,Trifanesti,28.097,47.743
-79,Biruinta,28.075,47.813
+39,Trifanesti,28.097,47.743
+66,Biruinta,28.075,47.813
 24,Miclesti,28.803,47.241
 24,Pascani,28.833,47.169
-39,Riscova,28.848,47.253
-55,Romanesti,28.714,47.222
-46,Galesti,28.494,47.224
+33,Riscova,28.848,47.253
+46,Romanesti,28.714,47.222
+39,Galesti,28.494,47.224
 24,Galestii Noi,28.495,47.207
 24,Ghelauza,28.596,47.193
 94,Micauti,28.748,47.173
 33,Gratiesti,28.832,47.088
-79,Pitusca,28.423,47.236
-33,Cuhurestii de Jos,28.591,47.93
-33,Cuhurestii de Sus,28.555,47.923
-160,Cunicea,28.644,47.908
-94,Bahmut,28.111,47.321
-66,Condratesti,28.109,47.413
-55,Boghenii Noi,28.01,47.426
-39,Mircesti,27.994,47.406
-33,Poiana,28.002,47.39
-28,Agronomovca,27.895,47.349
-33,Slobozia-Chiscareni,28.006,47.573
-230,Chiscareni,28.012,47.559
-24,Straisteni,28.861,46.907
-66,Peciste,28.707,47.715
+66,Pitusca,28.423,47.236
+24,Cuhurestii de Jos,28.591,47.93
+39,Cuhurestii de Sus,28.555,47.923
+134,Cunicea,28.644,47.908
+79,Bahmut,28.111,47.321
+55,Condratesti,28.109,47.413
+46,Boghenii Noi,28.01,47.426
+33,Mircesti,27.994,47.406
+28,Poiana,28.002,47.39
+39,Agronomovca,27.895,47.349
+28,Slobozia-Chiscareni,28.006,47.573
+192,Chiscareni,28.012,47.559
+55,Peciste,28.707,47.715
 28,Danceni,28.708,46.968
-33,Nimoreni,28.664,47.008
-28,Pojareni,28.69,46.886
-46,Sociteni,28.722,46.943
-94,Suruceni,28.674,46.984
-33,Tomestii Noi,27.354,47.674
-79,Lipovat,27.368,47.727
+28,Nimoreni,28.664,47.008
+24,Pojareni,28.69,46.886
+39,Sociteni,28.722,46.943
+79,Suruceni,28.674,46.984
+28,Tomestii Noi,27.354,47.674
+66,Lipovat,27.368,47.727
 55,Butesti,27.332,47.795
-24,Camenca,27.365,47.827
-94,Brinzeni,27.36,47.818
-79,Cobani,27.321,47.768
+39,Brinzeni,27.36,47.818
+66,Cobani,27.321,47.768
 66,Viisoara,27.446,47.618
-55,Bisericani,27.328,47.643
+46,Bisericani,27.328,47.643
 55,Petrunea,27.576,47.749
 46,Fundurii Vechi,27.713,47.742
-46,Limbenii Noi,27.623,47.722
-39,Chetrisul Nou,27.509,47.625
-79,Ustia,27.59,47.662
-39,Soroca,27.564,47.805
-46,Nicolaevca,27.554,47.823
+39,Limbenii Noi,27.623,47.722
+33,Chetrisul Nou,27.509,47.625
+66,Ustia,27.59,47.662
+33,Soroca,27.564,47.805
+39,Nicolaevca,27.554,47.823
 28,Camencuta,27.454,47.83
 55,Risipeni,27.66,47.462
-160,Calinesti,27.482,47.571
-55,Rautelul Nou,27.75,47.699
+134,Calinesti,27.482,47.571
+46,Rautelul Nou,27.75,47.699
 79,Pompa,27.939,47.656
-33,Ciuluc,27.785,47.651
-112,Marandeni,27.827,47.666
-112,Glinjeni,27.888,47.601
-160,Sarata Veche,27.736,47.508
+28,Ciuluc,27.785,47.651
+94,Marandeni,27.827,47.666
+94,Glinjeni,27.888,47.601
+134,Sarata Veche,27.736,47.508
 24,Sarata Noua,27.791,47.499
-46,Hitresti,27.765,47.556
-79,Logofteni,27.579,47.625
+28,Hitresti,27.765,47.556
+66,Logofteni,27.579,47.625
 66,Musteata,27.645,47.513
-28,Iscalau,27.821,47.572
+46,Iscalau,27.821,47.572
 66,Doltu,27.823,47.538
 55,Ciolacu Nou,27.828,47.483
-79,Taura Veche,27.953,47.538
-24,Heciul Vechi,28.101,47.799
-33,Tipletesti,28.12,47.817
-66,Hulboaca,28.808,47.112
-28,Limbenii Vechi,27.609,47.69
-112,Dusmani,27.482,47.719
+66,Taura Veche,27.953,47.538
+28,Tipletesti,28.12,47.817
+46,Hulboaca,28.808,47.112
+24,Limbenii Vechi,27.609,47.69
+94,Dusmani,27.482,47.719
 112,Ciuciulea,27.483,47.66
-134,Danu,27.497,47.831
-79,Ghindesti,28.384,47.865
-33,Grigoresti,28.063,47.801
-46,Cisla,28.225,47.499
-112,Ghiliceni,28.202,47.483
+112,Danu,27.497,47.831
+46,Ghindesti,28.384,47.865
+28,Grigoresti,28.063,47.801
+39,Cisla,28.225,47.499
+66,Ghiliceni,28.202,47.483
 46,Cucioaia,28.185,47.461
-66,Zgardesti,28.193,47.531
-46,Cozesti,28.182,47.569
-66,Bucovat,28.456,47.189
-46,Tataresti,28.538,47.206
-66,Voinova,28.49,47.271
-39,Chirianca,28.53,47.258
+55,Zgardesti,28.193,47.531
+39,Cozesti,28.182,47.569
+55,Bucovat,28.456,47.189
+39,Tataresti,28.538,47.206
+55,Voinova,28.49,47.271
+33,Chirianca,28.53,47.258
 39,Onesti,28.543,47.282
-33,Lupa-Recea,28.587,47.314
-134,Codreanca,28.59,47.286
-33,Tiganesti,28.55,47.301
-79,Zubresti,28.526,47.239
+24,Lupa-Recea,28.587,47.314
+112,Codreanca,28.59,47.286
+28,Tiganesti,28.55,47.301
+134,Zubresti,28.526,47.239
 33,Roscani,28.677,47.147
-46,Recea,28.58,47.224
-66,Greblesti,28.612,47.242
-28,Draguseni,28.662,47.215
-39,Radeni,28.698,47.207
-24,Zamcioji,28.721,47.206
+39,Recea,28.58,47.224
+55,Greblesti,28.612,47.242
+24,Draguseni,28.662,47.215
+33,Radeni,28.698,47.207
 33,Cotiujenii Mici,28.305,47.704
 33,Romanovca,28.298,47.656
-46,Alexeuca,28.288,47.691
-55,Cusmirca,28.706,47.905
-33,Curatura,28.911,47.877
-160,Alcedar,28.869,47.867
-33,Odaia,28.847,47.856
-94,Ignatei,28.661,47.682
-94,Cuizauca,28.815,47.614
-112,Coropceni,28.521,47.475
+28,Alexeuca,28.288,47.691
+46,Cusmirca,28.706,47.905
+28,Curatura,28.911,47.877
+134,Alcedar,28.869,47.867
+28,Odaia,28.847,47.856
+79,Ignatei,28.661,47.682
+79,Cuizauca,28.815,47.614
+94,Coropceni,28.521,47.475
 39,Donici,28.669,47.286
 66,Isnovat,28.865,47.233
-39,Brejeni,28.139,47.582
-39,Bobletici,28.054,47.466
-39,Bocancea-Schit,28.135,47.51
+66,Brejeni,28.139,47.582
+33,Bobletici,28.054,47.466
+33,Bocancea-Schit,28.135,47.51
 55,Dumbravita,28.117,47.48
 94,Prepelita,28.342,47.588
 33,Taura Noua,27.904,47.549
-112,Pirlita,27.88,47.321
-33,Medeleni,27.693,47.295
-112,Horodiste,28.248,47.206
-33,Parcani,28.836,47.817
-39,Dumbrava,28.744,47.041
-33,Fauresti,28.897,47.145
-46,Caterinovca,28.876,47.938
-24,Cornesti,28.008,47.357
-276,Cornesti,28.001,47.368
-39,Ocnita-Razesi,28.722,47.474
-39,Zorile,28.738,47.455
-46,Crihana,28.72,47.523
-94,Cucuruzeni,28.724,47.49
-66,Tareuca,28.884,47.75
-39,Clococenii Vechi,27.421,47.714
+276,Pirlita,27.88,47.321
+28,Medeleni,27.693,47.295
+94,Horodiste,28.248,47.206
+28,Parcani,28.836,47.817
+33,Dumbrava,28.744,47.041
+39,Caterinovca,28.876,47.938
+134,Cornesti,28.001,47.368
+33,Ocnita-Razesi,28.722,47.474
+33,Zorile,28.738,47.455
+39,Crihana,28.72,47.523
+79,Cucuruzeni,28.724,47.49
+46,Tareuca,28.884,47.75
+28,Clococenii Vechi,27.421,47.714
 79,Bocani,27.885,47.518
 55,Zazulenii Noi,27.872,47.383
-79,Hasnasenii Mari,27.985,47.918
-79,Saptebani,27.346,47.899
-24,Proscureni,27.257,47.863
-94,Costesti,27.255,47.854
-39,Reteni,27.259,47.811
+66,Hasnasenii Mari,27.985,47.918
+66,Saptebani,27.346,47.899
+192,Costesti,27.255,47.854
+33,Reteni,27.259,47.811
 55,Braniste,27.254,47.795
-46,Racaria,27.619,47.91
-66,Malinovscoe,27.505,47.883
-112,Ivancea,28.861,47.285
-192,Sofia,27.861,47.945
-39,Elizavetovca,27.827,47.244
-33,Moara de Piatra,28.005,47.892
-33,Nihoreni,27.558,47.939
-46,Alexandresti,27.424,47.894
-112,Sturzovca,27.719,47.8
-24,Frumusica,28.893,46.9
-39,Braila,28.839,46.916
-94,Malcoci,28.631,47.027
-66,Milestii Mici,28.806,46.905
-24,Rusestii Vechi,28.627,46.919
+39,Racaria,27.619,47.91
+46,Malinovscoe,27.505,47.883
+94,Ivancea,28.861,47.285
+112,Sofia,27.861,47.945
+55,Elizavetovca,27.827,47.244
+28,Moara de Piatra,28.005,47.892
+28,Nihoreni,27.558,47.939
+55,Alexandresti,27.424,47.894
+94,Sturzovca,27.719,47.8
+28,Braila,28.839,46.916
+66,Malcoci,28.631,47.027
+55,Milestii Mici,28.806,46.905
 24,Zimbreni,28.847,46.838
-276,Balatina,27.341,47.697
-39,Fundurii Noi,27.651,47.754
-39,Hijdieni,27.463,47.773
+192,Balatina,27.341,47.697
+33,Fundurii Noi,27.651,47.754
+33,Hijdieni,27.463,47.773
 55,Sadovoe,27.794,47.778
-79,Cuhnesti,27.373,47.658
-192,Colibasi,28.181,45.718
+66,Cuhnesti,27.373,47.658
+160,Colibasi,28.181,45.718
 331,Nisporeni,28.18,47.079
-571,Cimislia,28.783,46.517
-230,Gura Galbenei,28.699,46.7
+476,Cimislia,28.783,46.517
+192,Gura Galbenei,28.699,46.7
 160,Lapusna,28.413,46.886
 476,Leova,28.256,46.48
 134,Cazaclia,28.663,46.008
-94,Chirsova,28.648,46.229
+79,Chirsova,28.648,46.229
 112,Cismichioi,28.381,45.547
-230,Congaz,28.597,46.091
-276,Dezghingea,28.614,46.423
+192,Congaz,28.597,46.091
+230,Dezghingea,28.614,46.423
 39,Etulia,28.439,45.534
-24,"Etulia, loc.st.c.f.",28.428,45.546
-192,Ciuciuleni,28.414,47.015
-1183,Comrat,28.651,46.27
-79,Baurci,28.676,46.095
-2940,Cahul,28.198,45.906
-571,Hincesti,28.59,46.814
-112,Copceac,28.693,45.849
-192,Slobozia Mare,28.173,45.56
-230,Lozova,28.382,47.135
-230,Razeni,28.903,46.767
+160,Ciuciuleni,28.414,47.015
+822,Comrat,28.651,46.27
+66,Baurci,28.676,46.095
+2450,Cahul,28.198,45.906
+476,Hincesti,28.59,46.814
+94,Copceac,28.693,45.849
+160,Slobozia Mare,28.173,45.56
+192,Lozova,28.382,47.135
+192,Razeni,28.903,46.767
 160,Soldanesti,28.79,47.812
-112,Sipoteni,28.198,47.278
-160,Radoaia,28.162,47.725
-55,Bardar,28.666,46.902
+94,Sipoteni,28.198,47.278
+192,Radoaia,28.162,47.725
+46,Bardar,28.666,46.902
 276,Singerei,28.14,47.639
-192,Costesti,28.766,46.866
-79,Rusestii Noi,28.65,46.928
+160,Costesti,28.766,46.866
+66,Rusestii Noi,28.65,46.928
 100000,Chisinau,28.859,47.017
 134,Stauceni,28.879,47.083
-66,Ghidighici,28.767,47.094
-79,Sireti,28.714,47.132
-79,Durlesti,28.762,47.022
-192,Cricova,28.858,47.14
-28,Ciorescu,28.887,47.128
-1419,Balti,27.905,47.767
-66,Bacioi,28.895,46.916
-160,Truseni,28.689,47.066
-230,Straseni,28.62,47.147
-66,Cojusna,28.672,47.096
-476,Floresti,28.294,47.897
-822,Orhei,28.829,47.338
-476,Ceadir-Lunga,28.827,46.055
+55,Ghidighici,28.767,47.094
+66,Sireti,28.714,47.132
+66,Durlesti,28.762,47.022
+94,Cricova,28.858,47.14
+24,Ciorescu,28.887,47.128
+1183,Balti,27.905,47.767
+55,Bacioi,28.895,46.916
+134,Truseni,28.689,47.066
+192,Straseni,28.62,47.147
+55,Cojusna,28.672,47.096
+397,Floresti,28.294,47.897
+685,Orhei,28.829,47.338
+397,Ceadir-Lunga,28.827,46.055
 192,Pelinia,27.834,47.874
-986,Ungheni,27.796,47.197
-331,Glodeni,27.512,47.772
-230,Ialoveni,28.781,46.938
-476,Vulcanesti,28.406,45.683
-230,Carpineni,28.335,46.764
-112,Tomai,28.766,46.186
+822,Ungheni,27.796,47.197
+276,Glodeni,27.512,47.772
+192,Ialoveni,28.781,46.938
+397,Vulcanesti,28.406,45.683
+192,Carpineni,28.335,46.764
+94,Tomai,28.766,46.186
 476,Taraclia,28.668,45.902
-66,Vorniceni,28.432,47.153
-230,Telenesti,28.364,47.502
-331,Calarasi,28.329,47.249
-571,Falesti,27.707,47.576
-94,Codru,28.82,46.973
-112,Corlateni,27.831,47.827
-112,Peresecina,28.77,47.251
-33,"Ghizdita, loc.st.c.f",27.735,48.102
-24,Corjova,29.123,47.292
-46,Calfa,29.376,46.904
-55,Ciobanovca,29.195,46.815
-24,Mirnoe,29.227,46.806
-46,Batic,29.191,46.796
-66,Batir,28.998,46.575
-33,Milestii Noi,28.961,46.746
+55,Vorniceni,28.432,47.153
+192,Telenesti,28.364,47.502
+276,Calarasi,28.329,47.249
+476,Falesti,27.707,47.576
+79,Codru,28.82,46.973
+94,Corlateni,27.831,47.827
+94,Peresecina,28.77,47.251
+28,"Ghizdita, loc.st.c.f",27.735,48.102
+39,Calfa,29.376,46.904
+46,Ciobanovca,29.195,46.815
+39,Batic,29.191,46.796
+55,Batir,28.998,46.575
+28,Milestii Noi,28.961,46.746
 94,Carbuna,28.95,46.711
-66,Mihailovca,28.928,46.545
-79,Gangura,29.011,46.731
-94,Misovca,29.004,46.769
-192,Pervomaisc,29.964,46.737
-55,Speia,29.324,46.982
+55,Mihailovca,28.928,46.545
+66,Gangura,29.011,46.731
+79,Misovca,29.004,46.769
+276,Pervomaisc,29.964,46.737
+46,Speia,29.324,46.982
 79,Teiu,29.397,46.957
-39,Tocmagiu,29.377,46.945
+33,Tocmagiu,29.377,46.945
 66,Crasnogorca,29.459,46.966
-46,Novovladimirovca,29.521,46.939
-46,Merenesti,29.539,46.777
+39,Novovladimirovca,29.521,46.939
+39,Merenesti,29.539,46.777
 79,Nicolscoe,29.857,46.876
-28,Constantinovca,29.846,46.851
-94,Vladimirovca,29.823,46.843
+24,Constantinovca,29.846,46.851
+134,Vladimirovca,29.823,46.843
 39,Frunza,29.888,46.828
 79,Andriasevca Noua,29.957,46.831
-55,Prioziornoe,29.93,46.795
-79,Novocotovsc,29.953,46.77
+39,Prioziornoe,29.93,46.795
+66,Novocotovsc,29.953,46.77
 46,Tiraspolul Nou,29.575,46.84
-33,"Cainari, loc.st.c.f.",29.102,46.669
+28,"Cainari, loc.st.c.f.",29.102,46.669
 160,Cainari,29.052,46.679
-39,Surchiceni,29.055,46.621
-39,Baimaclia,29.093,46.59
-79,Chircaiestii Noi,28.977,46.66
-24,Baurci,28.951,46.658
-66,Ciuflesti,29.002,46.626
-94,Coscalia,29.158,46.688
-55,Picus,29.094,46.751
+33,Surchiceni,29.055,46.621
+33,Baimaclia,29.093,46.59
+66,Chircaiestii Noi,28.977,46.66
+55,Ciuflesti,29.002,46.626
+79,Coscalia,29.158,46.688
+46,Picus,29.094,46.751
 55,Ochiul Ros,29.113,46.769
-55,Constantinovca,29.114,46.721
-55,Pervomaisc,29.085,46.701
-160,Taraclia,29.116,46.569
+46,Constantinovca,29.114,46.721
+46,Pervomaisc,29.085,46.701
+112,Taraclia,29.116,46.569
 33,Larga,29.162,46.761
-46,Florica,29.22,46.693
-39,Plop,29.22,46.709
-33,Tricolici,29.24,46.738
-79,Zolotievca,29.191,46.738
+39,Florica,29.22,46.693
+33,Plop,29.22,46.709
+28,Tricolici,29.24,46.738
+66,Zolotievca,29.191,46.738
 55,Nicolaevca,29.202,46.762
 66,Cirnatenii Noi,29.139,46.648
 28,Salcuta Noua,29.191,46.632
-55,Antonesti,29.846,46.496
-79,Brezoaia,29.457,46.52
-112,Carahasani,29.812,46.465
-192,Caplani,29.872,46.387
+46,Antonesti,29.846,46.496
+66,Brezoaia,29.457,46.52
+94,Carahasani,29.812,46.465
+160,Caplani,29.872,46.387
 55,Cioburciu,29.713,46.598
-79,Copceac,29.523,46.451
-79,Crocmaz,29.986,46.45
-94,Ermoclia,29.513,46.58
-66,Festelita,29.566,46.544
-39,Alava,29.567,46.51
-94,Lazo,29.575,46.488
+66,Copceac,29.523,46.451
+66,Crocmaz,29.986,46.45
+79,Ermoclia,29.513,46.58
+55,Festelita,29.566,46.544
+33,Alava,29.567,46.51
+79,Lazo,29.575,46.488
 28,Marianca de Jos,29.603,46.521
-192,Palanca,30.094,46.409
+160,Palanca,30.094,46.409
 28,Viisoara,29.825,46.546
-66,Purcari,29.862,46.54
-134,Rascaieti,29.787,46.573
-55,Rascaietii Noi,29.775,46.533
-46,Semionovca,29.514,46.518
-55,Tudora,30.046,46.437
+55,Purcari,29.862,46.54
+112,Rascaieti,29.787,46.573
+46,Rascaietii Noi,29.775,46.533
+39,Semionovca,29.514,46.518
+46,Tudora,30.046,46.437
 192,Volintiri,29.609,46.43
 46,Slobozia,29.739,46.508
-79,Stefanesti,29.689,46.445
-55,Popeasca,29.534,46.599
-134,Hagimus,29.481,46.766
+66,Stefanesti,29.689,46.445
+46,Popeasca,29.534,46.599
+112,Hagimus,29.481,46.766
 112,Baccealia,29.278,46.692
 33,Grigorievca,29.327,46.694
-46,Stefanesti,29.372,46.706
-79,Zaim,29.343,46.616
+39,Stefanesti,29.372,46.706
+66,Zaim,29.343,46.616
 55,Marianca de Sus,29.312,46.648
-79,Opaci,29.345,46.58
-134,Tanatari,29.416,46.723
-33,Ursoaia,29.445,46.705
-79,Cirnateni,29.49,46.656
-33,Firladenii Noi,29.306,46.751
-55,Tanatarii Noi,29.325,46.735
+66,Opaci,29.345,46.58
+112,Tanatari,29.416,46.723
+24,Ursoaia,29.445,46.705
+66,Cirnateni,29.49,46.656
+24,Firladenii Noi,29.306,46.751
+46,Tanatarii Noi,29.325,46.735
 55,Chircaiesti,29.526,46.719
-331,Tocuz,29.297,46.524
-79,Zviozdocica,29.325,46.478
-66,Plop-Stiubei,29.526,46.679
-79,Salcuta,29.248,46.599
-55,Abaclia,28.938,46.362
-134,Ivanovca,28.948,46.506
-55,Iserlia,28.955,46.483
-39,Carabiber,28.994,46.473
+134,Tocuz,29.297,46.524
+66,Zviozdocica,29.325,46.478
+55,Plop-Stiubei,29.526,46.679
+134,Salcuta,29.248,46.599
+46,Abaclia,28.938,46.362
+46,Ivanovca,28.948,46.506
+94,Iserlia,28.955,46.483
+33,Carabiber,28.994,46.473
 160,Selemet,28.924,46.575
 94,Chiriet-Lunga,28.941,46.211
 33,Balabanesti,29.136,47.067
 94,Budesti,28.997,47.066
 160,Cimiseni,29.13,47.012
 24,Cruglic,29.027,47.22
-39,Constantinovca,27.106,48.249
-134,Tetcani,26.976,48.175
-39,Bogdanesti,26.997,48.142
-28,Grimesti,26.975,48.133
-33,Pavlovca,26.875,48.379
-79,Girbova,27.62,48.376
+33,Constantinovca,27.106,48.249
+112,Tetcani,26.976,48.175
+33,Bogdanesti,26.997,48.142
+24,Grimesti,26.975,48.133
+28,Pavlovca,26.875,48.379
+55,Girbova,27.62,48.376
 28,Tirgul-Vertiujeni,28.531,48.03
-33,Humulesti,28.978,46.996
+28,Humulesti,28.978,46.996
 46,Cuconestii Vechi,27.156,47.968
-46,Molochisul Mare,29.05,47.857
-66,Bic,28.948,46.947
-46,Izvoare,28.131,47.978
-55,Criscauti,27.853,48.267
+39,Molochisul Mare,29.05,47.857
+55,Bic,28.948,46.947
+39,Izvoare,28.131,47.978
+46,Criscauti,27.853,48.267
 46,Surii Noi,27.801,48.066
-55,Baroncea Noua,27.852,47.998
-55,Buschi,29.074,47.715
-46,Cremenciug,29.674,46.71
+46,Baroncea Noua,27.852,47.998
+46,Buschi,29.074,47.715
+39,Cremenciug,29.674,46.71
 55,Caragas,29.683,46.782
-33,Nezavertailovca,29.924,46.605
+28,Nezavertailovca,29.924,46.605
 46,Corotna,29.858,46.631
-46,Zahorna,29.596,46.746
-55,Dominteni,27.948,47.96
-55,Teleseuca,27.903,48.281
+66,Zahorna,29.596,46.746
+79,Dominteni,27.948,47.96
+46,Teleseuca,27.903,48.281
 24,Macareuca,27.974,48.142
-55,Septelici,28.155,48.2
-39,Vantina,28.189,48.099
-66,Popestii Noi,27.983,47.975
-66,Valea Perjei,28.928,46.029
-112,Geamana,29.138,46.821
+46,Septelici,28.155,48.2
+33,Vantina,28.189,48.099
+39,Popestii Noi,27.983,47.975
+55,Valea Perjei,28.928,46.029
+94,Geamana,29.138,46.821
 112,Gura Bicului,29.459,46.93
-160,Balmaz,29.284,46.798
-66,Hirbovatul Nou,29.279,46.832
+39,Balmaz,29.284,46.798
+55,Hirbovatul Nou,29.279,46.832
 46,Troita Noua,29.257,46.783
-94,Roscani,29.32,46.9
-24,Telita Noua,29.286,46.98
-66,Telita,29.306,46.957
-66,Troitcoe,29.028,46.518
-33,Varatic,29.064,46.81
-55,Gisca,29.438,46.781
-134,Saiti,29.405,46.498
-230,Ucrainca,29.275,46.431
-24,Leuntea,29.59,46.663
-46,Valea Verde,29.585,46.691
-39,Gradinita,29.583,46.654
-66,Firladeni,29.365,46.788
+79,Roscani,29.32,46.9
+79,Telita,29.306,46.957
+94,Troitcoe,29.028,46.518
+28,Varatic,29.064,46.81
+46,Gisca,29.438,46.781
+112,Saiti,29.405,46.498
+397,Ucrainca,29.275,46.431
+39,Valea Verde,29.585,46.691
+33,Gradinita,29.583,46.654
+55,Firladeni,29.365,46.788
 39,Varnita,29.476,46.866
-66,Tipala,28.973,46.828
-33,Budai,28.974,46.813
-28,Stalinesti,27.266,48.339
+55,Tipala,28.973,46.828
+28,Budai,28.974,46.813
+24,Stalinesti,27.266,48.339
 46,Corestauti,27.259,48.352
-79,Hadarauti,27.338,48.37
-55,Sauca,27.728,48.375
+66,Hadarauti,27.338,48.37
+46,Sauca,27.728,48.375
 46,Berezovca,27.778,48.382
-79,Mihalaseni,27.424,48.324
-28,Birladeni,27.426,48.262
+66,Mihalaseni,27.424,48.324
 94,Rujnita,27.435,48.25
 28,Dumitreni,28.319,47.971
-24,Chirilovca,28.326,47.961
-46,Cernita,28.467,47.965
-79,Ciripcau,28.386,47.982
-79,Frumusica,28.116,47.961
-28,Antoneuca,27.694,48.076
-39,Baroncea,27.912,48.033
-160,Cotova,27.948,48.161
-46,Drochia,27.811,48.113
-79,Miciurin,27.791,47.987
+39,Cernita,28.467,47.965
+66,Ciripcau,28.386,47.982
+66,Frumusica,28.116,47.961
+24,Antoneuca,27.694,48.076
+33,Baroncea,27.912,48.033
+134,Cotova,27.948,48.161
+39,Drochia,27.811,48.113
+66,Miciurin,27.791,47.987
 112,Nicoreni,27.698,47.967
-46,Ochiul Alb,27.67,48.018
-33,Iliciovca,27.879,48.156
-55,Salvirii Noi,27.919,48.144
-46,Palanca,27.917,48.125
-28,Sergheuca,27.729,48.063
-55,Pervomaiscoe,27.717,48.083
-66,Floriceni,28.013,48.02
+39,Ochiul Alb,27.67,48.018
+28,Iliciovca,27.879,48.156
+46,Salvirii Noi,27.919,48.144
+39,Palanca,27.917,48.125
+24,Sergheuca,27.729,48.063
+46,Pervomaiscoe,27.717,48.083
+55,Floriceni,28.013,48.02
 94,Popestii de Jos,28.029,48.072
-39,Popestii de Sus,28.019,48.091
-33,Salvirii Vechi,27.846,48.199
-28,Ceapaevca,27.866,48.206
+33,Popestii de Sus,28.019,48.091
+28,Salvirii Vechi,27.846,48.199
+24,Ceapaevca,27.866,48.206
 55,Darcauti,27.983,48.226
-28,Darcautii Noi,27.999,48.211
-46,Malcauti,27.944,48.214
-46,Dubna,28.314,48.013
-79,Egoreni,28.36,48.207
-79,Holosnita,28.175,48.246
-39,Curesnita,28.178,48.229
-24,Balinti,28.02,48.322
-331,Iarova,28.046,48.318
+24,Darcautii Noi,27.999,48.211
+39,Malcauti,27.944,48.214
+39,Dubna,28.314,48.013
+66,Egoreni,28.36,48.207
+66,Holosnita,28.175,48.246
+33,Curesnita,28.178,48.229
+276,Iarova,28.046,48.318
 55,Ocolina,28.256,48.124
-94,Parcani,28.288,48.062
-134,Racovat,28.402,48.08
+79,Parcani,28.288,48.062
+112,Racovat,28.402,48.08
 55,Rublenita,28.212,48.169
-33,Schineni,28.094,48.093
-24,Schinenii Noi,28.102,48.072
+66,Schineni,28.094,48.093
 94,Varancau,28.514,48.064
 55,Slobozia-Cremene,28.421,48.038
-55,Stoicani,28.359,48.026
-46,Solonet,28.403,47.999
-46,Rublenita Noua,28.135,48.153
-55,Solcani,28.112,48.175
+46,Stoicani,28.359,48.026
+39,Solonet,28.403,47.999
+39,Rublenita Noua,28.135,48.153
+46,Solcani,28.112,48.175
 94,Vasilcau,28.42,48.134
-46,Trifauti,28.381,48.162
-39,Voloave,28.289,48.093
-28,Lugovoe,28.185,48.07
+39,Trifauti,28.381,48.162
+33,Voloave,28.289,48.093
+24,Lugovoe,28.185,48.07
 66,Pirlita,28.212,48.077
 55,Regina Maria,28.141,48.057
-55,Vadeni,28.224,48.012
-46,Dumbraveni,28.226,48.052
-66,Volovita,28.322,48.105
-46,Inundeni,28.355,48.128
-94,Hristici,28.18,48.118
-79,Fintinita,27.691,48.109
+46,Vadeni,28.224,48.012
+39,Dumbraveni,28.226,48.052
+55,Volovita,28.322,48.105
+39,Inundeni,28.355,48.128
+55,Hristici,28.18,48.118
+66,Fintinita,27.691,48.109
 112,Mindic,27.791,48.151
-39,Niorcani,27.931,48.297
+33,Niorcani,27.931,48.297
 28,Rudi,27.898,48.329
 33,Tatarauca Noua,27.972,48.316
 46,Tatarauca Veche,27.982,48.297
-39,Decebal,27.992,48.28
-134,Visoca,27.924,48.247
+33,Decebal,27.992,48.28
+55,Visoca,27.924,48.247
 28,Armanca,27.524,47.986
-112,Vasileuti,27.512,48.008
+94,Vasileuti,27.512,48.008
 33,Climauti,27.613,48.314
 46,Horodiste,27.785,48.268
-192,Tirnova,27.654,48.163
-46,Donduseni,27.584,48.226
-24,Boroseni,27.736,48.284
+160,Tirnova,27.654,48.163
+39,Donduseni,27.584,48.226
 39,Elizavetovca,27.716,48.278
 94,Maramonovca,27.794,48.203
-33,Pivniceni,27.527,48.275
-46,Rediul Mare,27.515,48.234
-79,Plop,27.706,48.253
+39,Rediul Mare,27.515,48.234
+66,Plop,27.706,48.253
 39,Braicau,27.733,48.304
-94,Sudarca,27.783,48.305
-24,Elenovca,27.627,48.129
-230,Briceni,27.703,48.356
-94,Pocrovca,27.858,48.33
+39,Sudarca,27.783,48.305
+192,Briceni,27.703,48.356
+79,Pocrovca,27.858,48.33
 55,Scaieni,27.588,48.176
-66,Taul,27.674,48.211
-160,Cernoleuca,27.56,48.313
-33,Octeabriscoe,27.669,48.339
-79,Mosana,27.69,48.323
-55,Birnova,27.531,48.422
-55,Verejeni,27.615,48.44
+55,Taul,27.674,48.211
+134,Cernoleuca,27.56,48.313
+24,Octeabriscoe,27.669,48.339
+66,Mosana,27.69,48.323
+46,Birnova,27.531,48.422
+24,Verejeni,27.615,48.44
 24,Lencauti,27.65,48.433
 39,Unguri,27.87,48.402
-112,Gribova,27.931,48.014
-55,Badragii Vechi,27.106,48.037
-39,Chirca,29.108,46.922
-46,Floresti,29.181,46.997
-39,Delacau,29.303,47.099
-79,Gaspar,27.496,48.153
-134,Terebna,27.248,48.048
-33,Pociumbauti,27.321,47.997
-66,Horodiste,27.261,47.953
-33,Druta,27.298,47.964
-276,Viisoara,27.047,48.095
-46,Moseni,27.455,48.028
+94,Gribova,27.931,48.014
+39,Badragii Vechi,27.106,48.037
+28,Chirca,29.108,46.922
+39,Floresti,29.181,46.997
+33,Delacau,29.303,47.099
+66,Gaspar,27.496,48.153
+112,Terebna,27.248,48.048
+28,Pociumbauti,27.321,47.997
+55,Horodiste,27.261,47.953
+28,Druta,27.298,47.964
+230,Viisoara,27.047,48.095
+39,Moseni,27.455,48.028
 55,Pirjota,27.429,47.957
 28,Balanul Nou,27.502,47.961
-28,Ringaci,27.341,48.311
+24,Ringaci,27.341,48.311
 66,Cepeleuti,27.312,48.303
 33,Gordinestii Noi,27.226,48.169
-66,Alexandreni,27.261,48.147
-79,Hijdieni,28.916,47.458
-46,Berezlogi,28.933,47.436
+33,Alexandreni,27.261,48.147
+66,Hijdieni,28.916,47.458
+39,Berezlogi,28.933,47.436
 39,Lopatna,29.051,47.496
-79,Jora de Mijloc,29.092,47.474
-230,Susleni,28.987,47.412
-28,Butuceni,28.969,47.302
-28,Trebujeni,28.978,47.311
+39,Jora de Mijloc,29.092,47.474
+192,Susleni,28.987,47.412
+24,Butuceni,28.969,47.302
+24,Trebujeni,28.978,47.311
 33,Izvoare,28.957,47.552
 55,Sercani,28.927,47.515
-79,Viscauti,29.074,47.432
-39,Bosernita,28.984,47.788
-55,Ciorna,28.976,47.769
-33,Slobozia-Horodiste,28.939,47.598
-66,Horodiste,28.947,47.61
+66,Viscauti,29.074,47.432
+28,Bosernita,28.984,47.788
+46,Ciorna,28.976,47.769
+28,Slobozia-Horodiste,28.939,47.598
+55,Horodiste,28.947,47.61
 24,Tipova,28.979,47.603
-66,Lalova,29.021,47.562
+55,Lalova,29.021,47.562
 24,Saharna Noua,28.956,47.676
-46,Buciusca,28.988,47.641
-66,Mateuti,28.93,47.809
-33,Papauti,28.924,47.796
-66,Solonceni,29.002,47.829
-33,Cot,28.779,47.979
-66,Salcia,28.73,47.948
+55,Buciusca,28.988,47.641
+55,Mateuti,28.93,47.809
+28,Papauti,28.924,47.796
+55,Solonceni,29.002,47.829
+28,Cot,28.779,47.979
+55,Salcia,28.73,47.948
 39,Solnecinoe,28.636,48.04
-39,Crasnii Octeabri,28.548,48.013
+28,Crasnii Octeabri,28.548,48.013
 33,Briceva,27.649,48.115
-79,Ramazan,27.615,47.985
-112,Mihaileni,27.616,48.04
-55,Stiubeieni,27.514,48.031
-55,Ciubara,27.536,48.077
+66,Ramazan,27.615,47.985
+94,Mihaileni,27.616,48.04
+46,Stiubeieni,27.514,48.031
+46,Ciubara,27.536,48.077
 46,Caraiman,27.565,48.108
-28,Frasin,27.55,48.137
+24,Frasin,27.55,48.137
 66,Codrenii Noi,27.577,48.144
 160,Baraboi,27.623,48.085
-28,Hirtopul Mic,28.927,47.241
-33,Hirtopul Mare,28.94,47.228
-46,Ciopleni,28.943,47.133
-134,Izbiste,28.997,47.222
-55,Jevreni,29.062,47.258
-24,Morovaia,28.997,47.298
-112,Mascauti,29.002,47.288
+24,Hirtopul Mic,28.927,47.241
+28,Hirtopul Mare,28.94,47.228
+39,Ciopleni,28.943,47.133
+160,Izbiste,28.997,47.222
+46,Jevreni,29.062,47.258
+94,Mascauti,29.002,47.288
 46,Onitcani,29.069,47.145
-28,Raculesti,29.067,47.27
-39,Slobozia-Dusca,29.118,47.166
-79,Zaicana,28.952,47.167
-55,Cocieri,29.112,47.307
-46,Roghi,29.139,47.322
-28,Pohrebea,29.166,47.18
+24,Raculesti,29.067,47.27
+33,Slobozia-Dusca,29.118,47.166
+66,Zaicana,28.952,47.167
+46,Cocieri,29.112,47.307
+39,Roghi,29.139,47.322
+24,Pohrebea,29.166,47.18
 66,Dorotcaia,29.201,47.174
-33,Holercani,29.069,47.312
-134,Molovata,29.114,47.35
-79,Oxentea,29.12,47.382
-24,Zolonceni,29.138,47.245
-55,Ustia,29.129,47.258
-66,Zabriceni,27.259,48.073
-55,Stolniceni,27.346,48.038
+28,Holercani,29.069,47.312
+112,Molovata,29.114,47.35
+66,Oxentea,29.12,47.382
+46,Ustia,29.129,47.258
+55,Zabriceni,27.259,48.073
+46,Stolniceni,27.346,48.038
 66,Colonita,28.956,47.042
-28,Revaca,28.938,46.908
-28,Tohatin,28.941,47.058
-79,Blesteni,27.221,48.117
-33,Buzdugeni,27.156,48.108
-66,Brinzeni,27.174,48.083
+24,Revaca,28.938,46.908
+24,Tohatin,28.941,47.058
+55,Blesteni,27.221,48.117
+28,Buzdugeni,27.156,48.108
+55,Brinzeni,27.174,48.083
 55,Badragii Noi,27.074,48.063
-66,Fetesti,27.098,48.165
+55,Fetesti,27.098,48.165
 55,Burlanesti,27.128,48.126
-79,Lopatnic,27.055,48.134
+66,Lopatnic,27.055,48.134
 79,Gordinesti,27.169,48.16
-66,Branesti,28.925,47.305
-66,Furceni,28.92,47.334
+55,Branesti,28.925,47.305
+46,Furceni,28.92,47.334
 55,Maximovca,29.017,47.008
-28,Merenii Noi,29.066,46.927
-134,Puhaceni,29.346,47.088
+24,Merenii Noi,29.066,46.927
+66,Puhaceni,29.346,47.088
 66,Tintareni,29.138,46.9
 55,Suri,27.857,48.094
 39,Tarigrad,27.759,48.046
-66,Zgurita,28.006,48.128
+55,Zgurita,28.006,48.128
 55,Cerlina,28.608,48.081
 66,Napadova,28.598,48.02
-134,Nimereuca,28.538,48.11
-55,Temeleuti,28.498,47.979
-39,Vascauti,28.511,47.955
-160,Vertiujeni,28.538,47.994
+112,Nimereuca,28.538,48.11
+46,Temeleuti,28.498,47.979
+33,Vascauti,28.511,47.955
+134,Vertiujeni,28.538,47.994
 33,Zaluceni,28.556,48.052
 192,Badiceni,28.053,48.205
-134,Baxani,28.086,48.122
-192,Cainarii Vechi,28.125,48.004
+55,Baxani,28.086,48.122
+160,Cainarii Vechi,28.125,48.004
 39,Iorjnita,28.213,48.193
 160,Cosauti,28.279,48.225
-28,Oclanda,28.057,48.29
+24,Oclanda,28.057,48.29
 66,Cremenciug,28.083,48.274
-33,Grigorauca,28.096,48.21
-28,Valea,28.06,48.244
+28,Grigorauca,28.096,48.21
 55,Sobari,28.064,48.231
-46,Slobozia Noua,27.98,48.258
-28,Bezeda,27,48.159
-46,Mihailovca,29.116,47.488
-55,Podoimita,28.75,48.003
-276,Plopi,29.161,47.955
-33,Chetrosica Veche,27.404,48.12
+39,Slobozia Noua,27.98,48.258
+24,Bezeda,27,48.159
+46,Podoimita,28.75,48.003
+230,Plopi,29.161,47.955
+28,Chetrosica Veche,27.404,48.12
 55,Bratusenii Noi,27.485,48.062
-39,Poiana,27.351,48.251
-46,Hancauti,27.188,48.049
-28,Fintina Alba,27.432,48.161
-112,Ruseni,27.417,48.201
-28,Goleni,27.434,48.209
-28,Groznita,27.239,48.259
-33,Mihaileni,27.25,48.245
-39,Halahora de Sus,27.18,48.254
+33,Poiana,27.351,48.251
+39,Hancauti,27.188,48.049
+24,Fintina Alba,27.432,48.161
+94,Ruseni,27.417,48.201
+24,Goleni,27.434,48.209
+24,Groznita,27.239,48.259
+39,Mihaileni,27.25,48.245
+33,Halahora de Sus,27.18,48.254
 33,Halahora de Jos,27.171,48.231
-134,Caracusenii Vechi,27.074,48.269
-24,Codreni,27.713,48.427
-33,Valcinet,27.731,48.45
-55,Pirita,29.116,47.106
-66,Dobrogea,28.989,46.883
+112,Caracusenii Vechi,27.074,48.269
+28,Valcinet,27.731,48.45
+46,Pirita,29.116,47.106
+55,Dobrogea,28.989,46.883
 28,Buneti,28.916,47.079
-55,Ceroborta,28.952,47.095
-39,Japca,28.706,47.982
-94,Bursuc,28.739,47.973
-55,Sanatauca,28.676,48.012
-46,Chetrosica Noua,27.475,48.116
-66,Sofrincani,27.394,48.052
-55,Chiurt,27.342,48.062
-66,Bratuseni,27.4,48.077
+46,Ceroborta,28.952,47.095
+33,Japca,28.706,47.982
+79,Bursuc,28.739,47.973
+46,Sanatauca,28.676,48.012
+28,Chetrosica Noua,27.475,48.116
+55,Sofrincani,27.394,48.052
+46,Chiurt,27.342,48.062
+55,Bratuseni,27.4,48.077
 94,Rotunda,27.308,48.242
-39,Hincauti,27.307,48.272
+33,Hincauti,27.307,48.272
 94,Parcova,27.405,48.153
-33,Marcautii Noi,27.227,48.297
+28,Marcautii Noi,27.227,48.297
 39,Mirzesti,28.998,47.499
-79,Bulaiesti,28.986,47.477
-46,Marcauti,29.059,47.355
-55,Ohrincea,29.06,47.221
-55,Corjova,29.174,47.097
-66,Corpaci,27.138,48.008
+66,Bulaiesti,28.986,47.477
+39,Marcauti,29.059,47.355
+24,Ohrincea,29.06,47.221
+46,Corjova,29.174,47.097
+55,Corpaci,27.138,48.008
 79,Cuconestii Noi,27.205,47.988
 134,Rascov,28.83,47.95
-79,Stroiesti,28.934,47.888
-28,Beloci,28.977,47.884
+66,Stroiesti,28.934,47.888
 24,Vadul Turcului,28.99,47.938
 79,Haraba,29.09,47.897
-33,Lenin,29.189,47.67
+28,Lenin,29.189,47.67
 66,Pervomaisc,29.206,47.682
-33,Stanislavca,29.21,47.698
+28,Stanislavca,29.21,47.698
 230,Jura,29.04,47.516
-39,Butuceni,29.028,47.535
-46,Doibani 2,29.213,47.408
-55,Sagaidac,29.028,47.028
-46,Vaduleni,29.083,47.07
-134,Vadul lui Voda,29.075,47.09
-46,Frunzauca,28.587,48.157
-28,Hrusca,28.565,48.117
-46,Saharna,28.972,47.692
-24,Ghidirim,28.978,47.718
-55,Constantinovca,28.857,47.988
-94,Slobozia-Rascov,28.938,47.952
-55,Vasilievca,29.11,47.94
-24,Molochisul Mic,29.035,47.935
+33,Butuceni,29.028,47.535
+39,Doibani 2,29.213,47.408
+46,Sagaidac,29.028,47.028
+39,Vaduleni,29.083,47.07
+79,Vadul lui Voda,29.075,47.09
+39,Frunzauca,28.587,48.157
+24,Hrusca,28.565,48.117
+39,Saharna,28.972,47.692
+46,Constantinovca,28.857,47.988
+79,Slobozia-Rascov,28.938,47.952
+46,Vasilievca,29.11,47.94
 66,Ivanovca,29.174,47.878
-134,Brosteni,29.266,47.882
-276,Crasnencoe,29.142,47.847
-46,Mihailovca Noua,29.121,47.795
-28,Smalena,29.078,47.759
-66,Ulmu,29.106,47.745
-28,Ulmul Mic,29.123,47.754
-55,Andreevca,29.171,47.765
-28,Suhaia Ribnita,29.181,47.799
-134,Cobasna,29.211,47.782
-79,Ghersunovca,29.169,47.718
-112,Varancau,29.122,47.694
-33,Sevcenco,29.183,47.586
-112,Basarabca,29.161,47.577
+112,Brosteni,29.266,47.882
+230,Crasnencoe,29.142,47.847
+39,Mihailovca Noua,29.121,47.795
+24,Smalena,29.078,47.759
+55,Ulmu,29.106,47.745
+24,Ulmul Mic,29.123,47.754
+46,Andreevca,29.171,47.765
+24,Suhaia Ribnita,29.181,47.799
+112,Cobasna,29.211,47.782
+66,Ghersunovca,29.169,47.718
+94,Varancau,29.122,47.694
+24,Sevcenco,29.183,47.586
+94,Basarabca,29.161,47.577
 39,Novaia Jizni,29.08,47.657
-39,Vladimirovca,29.092,47.622
-55,Pobeda,29.195,47.62
-112,Mocra,29.146,47.629
-46,Tibuleuca,29.105,47.406
+33,Vladimirovca,29.092,47.622
+46,Pobeda,29.195,47.62
+192,Mocra,29.146,47.629
+39,Tibuleuca,29.105,47.406
 33,Goian,29.161,47.377
 33,Iagorlic,29.161,47.393
-66,Doibani 1,29.208,47.39
+112,Doibani 1,29.208,47.39
 46,Afanasievca,29.254,47.323
-192,Dubau,29.279,47.43
-46,Goianul Nou,29.32,47.385
-160,Popencu,29.025,47.587
-28,"Cobasna, loc.st.c.f.",29.206,47.756
-39,Maiac,29.383,47.238
-94,Crasnoe,29.36,47.181
-33,Dzerjinscoe,29.18,47.223
-230,Hlinaia,29.415,47.228
-79,Mocreachi,29.383,47.274
-79,Marian,29.332,47.235
-55,Crasnaia Gorca,29.324,47.127
-24,Delacau,29.299,47.131
-46,Taslic,29.397,47.072
-66,Butor,29.4,47.045
-46,Cotovca,29.478,47.284
-112,Carmanova,29.504,47.259
-39,Mocearovca,29.55,47.24
-134,Vesioloe,29.553,47.203
-112,Sipca,29.51,47.166
-112,Vinogradnoe,29.491,47.083
-112,Cernita,29.519,47.031
-94,Ocnita,28.636,48.131
-192,Hristovaia,28.731,48.104
-55,Rotari,28.811,48.104
+112,Dubau,29.279,47.43
+39,Goianul Nou,29.32,47.385
+134,Popencu,29.025,47.587
+24,"Cobasna, loc.st.c.f.",29.206,47.756
+33,Maiac,29.383,47.238
+79,Crasnoe,29.36,47.181
+28,Dzerjinscoe,29.18,47.223
+192,Hlinaia,29.415,47.228
+66,Mocreachi,29.383,47.274
+66,Marian,29.332,47.235
+46,Crasnaia Gorca,29.324,47.127
+39,Taslic,29.397,47.072
+55,Butor,29.4,47.045
+39,Cotovca,29.478,47.284
+94,Carmanova,29.504,47.259
+33,Mocearovca,29.55,47.24
+112,Vesioloe,29.553,47.203
+94,Sipca,29.51,47.166
+134,Vinogradnoe,29.491,47.083
+94,Cernita,29.519,47.031
+79,Ocnita,28.636,48.131
+160,Hristovaia,28.731,48.104
+46,Rotari,28.811,48.104
 66,Socolovca,28.837,48.062
-39,Bodeni,28.781,48.081
-24,Voitovca,28.604,48.106
-39,Cuzmin,28.63,48.094
-79,Hirjau,29.004,47.799
-112,Ofatinti,28.997,47.668
+33,Bodeni,28.781,48.081
+33,Cuzmin,28.63,48.094
+66,Hirjau,29.004,47.799
+94,Ofatinti,28.997,47.668
 33,Zazuleni,28.996,47.612
-24,Valea Adinca,28.842,48
-46,Vasilievca,29.305,47.369
-33,Crasnii Vinogradari,29.278,47.298
+39,Vasilievca,29.305,47.369
+28,Crasnii Vinogradari,29.278,47.298
 94,Lunga Noua,29.274,47.285
-79,Cosnita Noua,29.33,47.314
-28,Pohrebea Noua,29.378,47.31
-230,Comisarovca Noua,29.357,47.339
-79,Pobeda,29.496,47.351
-94,Crasnaia Besarabia,29.587,47.284
+66,Cosnita Noua,29.33,47.314
+24,Pohrebea Noua,29.378,47.31
+192,Comisarovca Noua,29.357,47.339
+66,Pobeda,29.496,47.351
+79,Crasnaia Besarabia,29.587,47.284
 94,Colosova,29.567,47.331
-39,Lunga,29.163,47.255
-46,Baltata,29.046,47.05
-33,Baltata de Sus,29.035,47.065
-79,Severinovca,28.724,48.074
-33,Ruseni,29.197,46.886
-39,Salcia,29.17,46.945
+33,Lunga,29.163,47.255
+39,Baltata,29.046,47.05
+28,Baltata de Sus,29.035,47.065
+66,Severinovca,28.724,48.074
+28,Ruseni,29.197,46.886
+33,Salcia,29.17,46.945
 28,Botnaresti,29.161,46.931
-55,Chetrosu,29.046,46.917
+46,Chetrosu,29.046,46.917
 66,Cobusca Noua,29.207,46.932
-39,Socoleni,29.188,46.907
-79,Cobusca Veche,29.181,46.971
-160,Zaicani,27.367,47.975
+33,Socoleni,29.188,46.907
+66,Cobusca Veche,29.181,46.971
+134,Zaicani,27.367,47.975
 39,Pociumbeni,27.304,47.978
-39,Alexeevca,27.264,48.093
-24,Radulenii Noi,28.246,47.957
-46,Radulenii Vechi,28.262,47.985
-39,Bulboci,28.092,48.045
-55,Borosenii Noi,27.47,47.989
-39,Corbu,27.574,48.264
+33,Alexeevca,27.264,48.093
+39,Radulenii Vechi,28.262,47.985
+33,Bulboci,28.092,48.045
+46,Borosenii Noi,27.47,47.989
+33,Corbu,27.574,48.264
 112,Arionesti,27.849,48.371
-66,Mereseuca,27.682,48.434
-39,Maiovca,27.394,48.371
-79,Ocnita,27.438,48.384
-79,Clocusna,27.346,48.427
+55,Mereseuca,27.682,48.434
+33,Maiovca,27.394,48.371
+66,Ocnita,27.438,48.384
+94,Clocusna,27.346,48.427
 28,Grinauti,27.468,48.314
 24,Grinauti,27.503,48.317
-79,Dingeni,27.481,48.346
-55,Tirnova,27.174,48.205
-79,Hlinaia,27.25,48.221
-66,Floreni,28.991,46.937
-66,Speia,29.296,47.009
-192,Serpeni,29.354,47.024
+66,Dingeni,27.481,48.346
+94,Tirnova,27.174,48.205
+55,Hlinaia,27.25,48.221
+55,Floreni,28.991,46.937
+55,Speia,29.296,47.009
+160,Serpeni,29.354,47.024
 66,Cretoaia,29.134,46.867
-79,Boscana,29,47.127
-46,Cosernita,29.049,47.12
-55,Trinca,27.114,48.209
+66,Boscana,29,47.127
+39,Cosernita,29.049,47.12
+46,Trinca,27.114,48.209
 55,Drepcauti,26.725,48.27
 55,Criva,26.667,48.269
-66,Coteala,26.863,48.331
-94,Hlina,26.874,48.291
-55,Pererita,26.92,48.207
+55,Coteala,26.863,48.331
+55,Hlina,26.874,48.291
+46,Pererita,26.92,48.207
 55,Balasinesti,26.962,48.244
-55,Frunza,27.597,48.409
-33,Grinauti-Moldova,27.448,48.282
-33,Lipnic,27.514,48.394
+94,Frunza,27.597,48.409
+66,Grinauti-Moldova,27.448,48.282
 39,Calarasovca,27.807,48.426
-33,Naslavcea,27.576,48.46
+134,Naslavcea,27.576,48.46
 33,Todiresti,29.094,46.909
-28,Baltati,28.955,46.843
+24,Baltati,28.955,46.843
 33,Slobodca,27.371,48.205
 24,Hlinaia Mica,27.269,48.253
 192,Corjeuti,27.044,48.215
-39,Caracusenii Noi,27.025,48.325
+33,Caracusenii Noi,27.025,48.325
 192,Bulboaca,27.202,48.371
 46,Trebisauti,27.185,48.352
-46,Sirauti,26.841,48.239
+39,Sirauti,26.841,48.239
 24,Slobozia-Sirauti,26.873,48.242
-112,Tabani,27.1,48.31
-112,Cotiujeni,26.938,48.347
+94,Tabani,27.1,48.31
+94,Cotiujeni,26.938,48.347
 66,Grimancauti,27.089,48.391
-46,Colicauti,27.151,48.311
-134,Marcauti,27.222,48.313
-39,Balcauti,27.2,48.287
-66,Beleavinti,26.934,48.292
-46,Berlinti,26.936,48.311
-46,Medveja,26.791,48.362
-33,Slobozia-Medveja,26.746,48.383
-46,Bulboaca,29.298,46.881
+39,Colicauti,27.151,48.311
+112,Marcauti,27.222,48.313
+66,Balcauti,27.2,48.287
+94,Beleavinti,26.934,48.292
+39,Berlinti,26.936,48.311
+39,Medveja,26.791,48.362
+28,Slobozia-Medveja,26.746,48.383
+39,Bulboaca,29.298,46.881
 230,Stefan Voda,29.661,46.513
-192,Talmaza,29.655,46.648
-134,Olanesti,29.918,46.498
-685,Causeni,29.421,46.634
-276,Tvardita,28.967,46.134
-94,Hirbovat,29.356,46.845
-192,Puhoi,29.037,46.822
-685,Tiraspol,29.633,46.852
-276,Malaiesti,29.55,46.981
-94,Blijnii Hutor,29.645,46.886
-66,Sucleia,29.661,46.822
-55,Tirnauca,29.556,46.81
-66,Parcani,29.516,46.842
-94,Copanca,29.611,46.705
-94,Rezina,28.962,47.729
-134,Cosnita,29.134,47.147
-112,Criuleni,29.158,47.213
-160,Singera,28.971,46.915
+160,Talmaza,29.655,46.648
+160,Olanesti,29.918,46.498
+476,Causeni,29.421,46.634
+230,Tvardita,28.967,46.134
+79,Hirbovat,29.356,46.845
+160,Puhoi,29.037,46.822
+571,Tiraspol,29.633,46.852
+230,Malaiesti,29.55,46.981
+66,Blijnii Hutor,29.645,46.886
+46,Sucleia,29.661,46.822
+46,Tirnauca,29.556,46.81
+46,Parcani,29.516,46.842
+79,Copanca,29.611,46.705
+79,Rezina,28.962,47.729
+55,Cosnita,29.134,47.147
+66,Criuleni,29.158,47.213
+134,Singera,28.971,46.915
 66,Bubuieci,28.942,46.988
-94,Anenii Noi,29.23,46.879
-822,Ocnita,27.48,48.409
-685,Edinet,27.303,48.171
-55,Chitcani,29.605,46.778
-134,Mereni,29.057,46.955
-230,Otaci,27.774,48.446
-276,Donduseni,27.597,48.245
-571,Larga,26.842,48.374
-476,Drochia,27.809,48.037
-192,Slobozia,29.703,46.725
-79,Cioburciu,29.748,46.683
-397,Dnestrovsc,29.911,46.622
-1183,Ribnita,29.031,47.759
+230,Anenii Noi,29.23,46.879
+685,Ocnita,27.48,48.409
+571,Edinet,27.303,48.171
+79,Chitcani,29.605,46.778
+112,Mereni,29.057,46.955
+134,Otaci,27.774,48.446
+230,Donduseni,27.597,48.245
+476,Larga,26.842,48.374
+397,Drochia,27.809,48.037
+160,Slobozia,29.703,46.725
+66,Cioburciu,29.748,46.683
+276,Dnestrovsc,29.911,46.622
+986,Ribnita,29.031,47.759
 331,Dubasari,29.142,47.278
-55,Hlinaia,29.804,46.65
-160,Bender,29.478,46.819
-822,Soroca,28.29,48.146
-112,Chetrosu,27.899,48.071
-55,Dubasarii Vechi,29.2,47.127
+46,Hlinaia,29.804,46.65
+134,Bender,29.478,46.819
+685,Soroca,28.29,48.146
+94,Chetrosu,27.899,48.071
+94,Dubasarii Vechi,29.2,47.127
 192,Lipcani,26.807,48.263
-331,Riscani,27.548,47.954
-94,Briceni,27.085,48.355
+276,Riscani,27.548,47.954
+79,Briceni,27.085,48.355
 276,Basarabeasca,28.986,46.331
-112,Cupcini,27.38,48.109
-230,Grigoriopol,29.295,47.154
+94,Cupcini,27.38,48.109
+192,Grigoriopol,29.295,47.154
 397,Camenca,28.696,48.032

@@ -1,115 +1,100 @@
 rmax,name,lon,lat
-240,Roriz,-8.591,41.902
-345,Vieira do Minho,-8.14,41.627
-288,Outeiro,-6.599,41.684
-288,Lagoa,-6.771,41.444
-345,Montalegre,-7.786,41.828
-240,Tourem,-7.893,41.905
-240,Algoso,-6.574,41.473
-345,Vimioso,-6.523,41.588
-496,Moimenta,-6.975,41.951
-240,Paiao,-8.806,40.069
-240,Cabeco,-8.801,39.974
-288,Avelar,-8.359,39.922
-414,Cepos,-7.973,40.156
-414,Azere,-8.087,40.35
-240,Moes,-7.882,40.862
-288,Lamas,-7.691,40.792
-414,Sabugal,-7.079,40.352
-414,Malpica,-7.392,39.677
+288,Monte,-8.703,41.38
+288,Montalegre,-7.786,41.828
+345,Fontes,-7.659,41.479
+288,Vimioso,-6.523,41.588
+345,Moimenta,-6.975,41.951
+345,Castanheira de Pera,-8.209,40.004
+240,Picao,-7.947,40.947
+345,Vila Mea,-8.229,40.417
+345,Sabugal,-7.079,40.352
 345,Termas de Monfortinho,-6.882,39.995
-240,Zebreira,-7.068,39.845
-288,Rosmaninhal,-7.087,39.726
-414,Penamacor,-7.176,40.16
-240,Alcaide,-7.435,40.131
-288,Alvalade,-8.391,37.937
-288,Porto Covo,-8.787,37.854
+240,Rosmaninhal,-7.087,39.726
+345,Penamacor,-7.176,40.16
+288,Vila Velha de Rodao,-7.671,39.657
+240,Fatela,-7.431,40.157
+288,Caixas,-9.146,38.47
+414,Alvalade,-8.391,37.937
+240,Porto Covo,-8.787,37.854
 288,Arronches,-7.281,39.123
-345,Avis,-7.889,39.048
-496,Fronteira,-7.644,39.051
-240,Sousel,-7.671,38.953
-288,Barrancos,-6.978,38.133
-345,Mertola,-7.661,37.642
-240,Sao Bartolomeu de Via Gloria,-7.713,37.526
-240,Safara,-7.217,38.108
-345,Vales Mortos,-7.5,37.807
-288,Alcoutim,-7.473,37.471
-240,Sao Marcos da Serra,-8.377,37.36
-496,Corvo,-31.107,39.675
-9138,Santa Cruz das Flores,-31.129,39.457
+414,Fronteira,-7.644,39.051
+240,Barrancos,-6.978,38.133
+288,Mertola,-7.661,37.642
+414,Alcoutim,-7.473,37.471
+345,Cachopo,-7.815,37.332
+414,Corvo,-31.107,39.675
+7615,Santa Cruz das Flores,-31.129,39.457
 1027,Santa Cruz da Graciosa,-28.002,39.084
-345,Calheta,-28.017,38.608
-345,Santo Antao,-27.803,38.548
-595,Velas,-28.21,38.681
-288,Cedros,-28.699,38.634
-345,Sao Mateus,-28.451,38.431
-2127,Vila do Porto,-25.14,36.955
+288,Calheta,-28.017,38.608
+288,Santo Antao,-27.803,38.548
+496,Velas,-28.21,38.681
+288,Sao Mateus,-28.451,38.431
+1773,Vila do Porto,-25.14,36.955
+240,Santo Antonio,-25.702,37.857
 595,Porto Moniz,-17.169,32.866
-714,Campo de Cima,-16.356,33.063
-345,Caminha,-8.836,41.87
-595,Viana do Castelo,-8.824,41.701
-714,Braga,-8.411,41.525
-595,Vila Nova de Foz Coa,-7.144,41.078
-1027,Vila Real,-7.731,41.299
+595,Campo de Cima,-16.356,33.063
+1773,Valenca,-8.634,42.024
+595,Braga,-8.411,41.525
+496,Fao,-8.772,41.509
+240,Lamego,-7.809,41.097
+414,Vila Nova de Foz Coa,-7.144,41.078
+856,Vila Real,-7.731,41.299
 856,Braganca,-6.767,41.8
-345,Chaves,-7.47,41.747
-595,Miranda do Douro,-6.277,41.488
-496,Mirandela,-7.179,41.485
-288,Mogadouro,-6.705,41.342
-345,Valpacos,-7.306,41.603
-2552,Coimbra,-8.445,40.192
-856,Leiria,-8.808,39.742
-345,Pombal,-8.62,39.917
-714,Serta,-8.093,39.806
-496,Vilar Formoso,-6.837,40.608
-714,Guarda,-7.249,40.529
-496,Pinhel,-7.069,40.771
-1232,Castelo Branco,-7.489,39.823
-496,Covilha,-7.496,40.278
-595,Caldas da Rainha,-9.144,39.413
-345,Nazare,-9.068,39.601
-714,Setubal,-8.887,38.531
+714,Chaves,-7.47,41.747
+345,Miranda do Douro,-6.277,41.488
+414,Mirandela,-7.179,41.485
+714,Mogadouro,-6.705,41.342
+2127,Coimbra,-8.445,40.192
+714,Leiria,-8.808,39.742
+414,Vilar Formoso,-6.837,40.608
+1027,Guarda,-7.249,40.529
+414,Pinhel,-7.069,40.771
+1027,Castelo Branco,-7.489,39.823
+414,Covilha,-7.496,40.278
+496,Caldas da Rainha,-9.144,39.413
+288,Mafra,-9.343,38.93
+288,Nazare,-9.068,39.601
+240,Peniche,-9.381,39.361
+345,Torres Vedras,-9.255,39.09
+595,Setubal,-8.887,38.531
 345,Entroncamento,-8.477,39.464
-288,Tomar,-8.405,39.603
-856,Santarem,-8.7,39.244
-288,Vila Nova de Milfontes,-8.78,37.729
+414,Samora Correia,-8.862,38.929
+714,Santarem,-8.7,39.244
+240,Vila Nova de Milfontes,-8.78,37.729
 414,Sao Teotonio,-8.709,37.512
-1232,Sines,-8.857,37.958
-1027,Elvas,-7.166,38.875
-1027,Mora,-8.158,38.944
-414,Nisa,-7.646,39.513
-414,Ponte de Sor,-8.013,39.259
-1027,Portalegre,-7.43,39.283
-414,Estremoz,-7.584,38.846
-1478,Evora,-7.91,38.569
-496,Reguengos de Monsaraz,-7.536,38.426
-496,Vendas Novas,-8.46,38.676
-288,Aljustrel,-8.159,37.871
-345,Almodovar,-8.06,37.515
-1478,Beja,-7.859,38.017
-714,Castro Verde,-8.087,37.7
-288,Amareleja,-7.227,38.209
-595,Moura,-7.448,38.139
-345,Serpa,-7.595,37.941
-288,Albufeira,-8.245,37.096
-288,Sao Bartolomeu de Messines,-8.286,37.255
+1027,Sines,-8.857,37.958
+288,Castelo de Vide,-7.45,39.412
+856,Elvas,-7.166,38.875
+288,Nisa,-7.646,39.513
+345,Ponte de Sor,-8.013,39.259
+856,Portalegre,-7.43,39.283
+345,Estremoz,-7.584,38.846
+1232,Evora,-7.91,38.569
+414,Reguengos de Monsaraz,-7.536,38.426
+414,Vendas Novas,-8.46,38.676
+414,Almodovar,-8.06,37.515
+1232,Beja,-7.859,38.017
+595,Castro Verde,-8.087,37.7
+240,Amareleja,-7.227,38.209
+496,Moura,-7.448,38.139
+240,Vila Nova de Sao Bento,-7.409,37.928
+240,Loule,-8.023,37.137
+345,Monchique,-8.554,37.31
+714,Vila Real de Santo Antonio,-7.421,37.193
 345,Tavarede,-8.849,40.165
-3674,Angra do Heroismo,-27.217,38.644
+3062,Angra do Heroismo,-27.217,38.644
+240,Ponta Garca,-25.368,37.729
 100000,Lisboa,-9.229,38.756
-5289,Porto,-8.596,41.169
+4408,Porto,-8.596,41.169
+240,Almada,-9.174,38.644
 9138,Funchal,-16.937,32.658
-4408,Faro,-7.939,37.025
-1232,Aveiro,-8.633,40.638
-595,Portimão,-8.547,37.142
+3674,Faro,-7.939,37.025
+1027,Aveiro,-8.633,40.638
+496,Portimão,-8.547,37.142
 9138,Ponta Delgada,-25.652,37.75
-595,São João da Madeira,-8.497,40.896
-714,Viseu,-7.903,40.658
-240,Sesimbra,-9.115,38.466
-345,Lourinhã,-9.299,39.227
-345,Vila Franca de Xira,-8.99,38.959
-414,Seia,-7.718,40.414
-288,Rio Maior,-8.933,39.337
-2127,Monção / Salvaterra de Miño,-8.491,42.075
-288,Vila Franca do Campo,-25.433,37.717
+496,São João da Madeira,-8.497,40.896
+345,Viseu,-7.903,40.658
+288,Lourinhã,-9.299,39.227
+345,Seia,-7.718,40.414
 1478,Horta,-28.636,38.538
-414,Alcácer do Sal,-8.51,38.377
+345,Alcácer do Sal,-8.51,38.377
