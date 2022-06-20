@@ -36,10 +36,8 @@ public class EuroNymeProduction {
 	private static String namesStruct = basePath + "gisco/tmp/namesStruct.gpkg";
 
 
-	//show fewer.
-	//Check too long names from REGIO and filter. the ones with "/" ?
-	//GISCO WS ?
 	//Add r/imp parameter on the local importance of the toponym
+	//GISCO WS ?
 
 	//TODO add other aggregates: EFTA, UE, etc.
 	//TODO improve coverage for CH, RO, etc. Why is Vaduz missing?
@@ -52,7 +50,8 @@ public class EuroNymeProduction {
 		System.out.println("Start");
 
 		//
-		//structure();
+		structure();
+
 
 		//get country codes
 		HashSet<String> ccs = new HashSet<>();
@@ -72,7 +71,7 @@ public class EuroNymeProduction {
 				System.out.println(fs.size() + " labels loaded");
 
 				// do
-				fs = generate(fs, 14, lod, 100000, 1.2, 30, 30);
+				fs = generate(fs, 14, lod, 100000, 1.2, 40, 40);
 				System.out.println(fs.size());
 
 				// save
@@ -284,6 +283,8 @@ public class EuroNymeProduction {
 			String name = (String) f.getAttribute("STTL_NAME");
 			if (name.length() == 0)
 				continue;
+			if(name.contains(" / "))
+				continue;
 			f_.setAttribute("name", name);
 
 			// lon / lat
@@ -308,6 +309,14 @@ public class EuroNymeProduction {
 			f_.setAttribute("cc", alterCountryCode(f.getAttribute("CNTR_CODE").toString()));
 
 			out.add(f_);
+		}
+
+		
+		for(Feature f : out) {
+			String name = f.getAttribute("name").toString();
+			if(name.contains(" / "))
+			System.out.println(name);
+					
 		}
 
 		// save output
