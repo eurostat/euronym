@@ -1,18 +1,18 @@
 rs,name,lon,lat,r1
-882,Grand-Bourg,-61.315,15.883,100
+882,Grand-Bourg,-61.315,15.883,247
 120,Saint-Louis,-61.318,15.954,100
 144,Baie-Mahault,-61.586,16.267,100
 120,Le Gosier,-61.491,16.206,100
-144,Port-Louis,-61.531,16.417,100
+144,Port-Louis,-61.531,16.417,120
 100000,Basse-Terre,-61.732,15.997,0
-206,Bouillante,-61.769,16.132,100
+206,Bouillante,-61.769,16.132,144
 120,Deshaies,-61.793,16.307,100
-120,Capesterre-Belle-Eau,-61.564,16.043,100
+120,Capesterre-Belle-Eau,-61.564,16.043,120
 120,Goyave,-61.571,16.133,100
-206,Pointe-a-Pitre,-61.532,16.241,100
-511,Sainte-Rose,-61.697,16.333,100
+206,Pointe-a-Pitre,-61.532,16.241,0
+511,Sainte-Rose,-61.697,16.333,144
 144,Saint-Francois,-61.273,16.251,100
 296,Sainte-Anne,-61.385,16.225,100
-355,La Desirade,-61.074,16.303,100
+355,La Desirade,-61.074,16.303,144
 144,Capesterre-de-Marie-Galante,-61.22,15.892,100
-247,Terre-de-Haut,-61.581,15.867,100
+247,Terre-de-Haut,-61.581,15.867,120
