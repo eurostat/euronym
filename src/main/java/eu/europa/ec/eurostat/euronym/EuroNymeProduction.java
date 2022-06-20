@@ -92,7 +92,7 @@ public class EuroNymeProduction {
 
 	
 	private static void setR1(ArrayList<Feature> fs) {
-		
+		//TODO
 	}
 
 	
