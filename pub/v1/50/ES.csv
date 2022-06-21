@@ -279,7 +279,7 @@ rs,name,lon,lat,r1
 123,Pola de Laviana,-5.562,43.245,60
 211,La Pola,-5.827,43.158,72
 147,Grau/Grado,-6.072,43.385,123
-1556,Gijon/Xixon,-5.67,43.53,1556
+2240,Gijon,-5.67,43.53,1556
 211,Llangreu/Langreo,-5.677,43.293,86
 363,Ordes,-8.403,43.079,147
 103,A Baiuca,-8.509,43.304,72
@@ -2987,7 +2987,7 @@ rs,name,lon,lat,r1
 176,Ribadesella,-5.056,43.461,86
 72,La Rebollada,-5.766,43.553,50
 60,El Monte,-5.824,43.636,50
-60,Quintueles,-5.564,43.532,50
+60,Cimavilla,-5.595,43.525,50
 123,Argueru,-5.471,43.541,50
 60,Montiana,-5.748,43.521,50
 60,Salinas,-5.956,43.575,50
@@ -4562,9 +4562,9 @@ rs,name,lon,lat,r1
 5572,Barcelona,2.149,41.395,3870
 1556,Valencia,-0.4,39.476,1556
 4644,Bilbao,-2.97,43.294,2240
-4644,Alicante/Alacant,-0.47,38.374,901
+4644,Alicante,-0.47,38.374,901
 901,Granada,-3.611,37.163,626
-1867,Palma de Mallorca,2.649,39.578,1556
+2688,Palma de Mallorca,2.649,39.578,1556
 253,Sabadell,2.123,41.523,103
 19960,Las Palmas,-15.442,28.104,8023
 1297,Pamplona/Iruña,-1.647,42.814,751
@@ -4583,7 +4583,7 @@ rs,name,lon,lat,r1
 626,Santander,-3.825,43.46,435
 1081,Burgos,-3.691,42.347,626
 86,Fuenlabrada,-3.798,40.286,50
-2240,León,-5.577,42.604,626
+1867,León,-5.577,42.604,626
 751,Logroño,-2.444,42.461,363
 901,Castellón de la Plana/Castelló de la Plana,-0.046,39.985,363
 1081,Salamanca,-5.665,40.962,626
@@ -4614,7 +4614,7 @@ rs,name,lon,lat,r1
 435,Torrevieja,-0.672,37.996,211
 626,Palencia,-4.528,42.009,253
 1081,Gandia,-0.173,38.978,435
-253,Benidorm,-0.144,38.535,211
+303,Benidorm,-0.144,38.535,211
 363,Pontevedra,-8.645,42.435,147
 86,Mollet del Vallès,2.223,41.557,50
 303,Vilanova i la Geltrú,1.729,41.224,176
@@ -4872,7 +4872,7 @@ rs,name,lon,lat,r1
 147,Faura,-0.267,39.726,60
 72,Escacena del Campo,-6.398,37.416,72
 176,Nerva,-6.548,37.694,147
-522,Llanes,-4.746,43.418,303
+901,Llanes,-4.746,43.418,303
 103,Alpicat,0.546,41.665,50
 60,Almodóvar del Campo,-4.175,38.709,50
 72,Masquefa,1.817,41.501,60

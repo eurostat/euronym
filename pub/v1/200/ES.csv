@@ -94,7 +94,7 @@ rs,name,lon,lat,r1
 288,Solsona,1.519,41.994,200
 496,Vitoria-Gasteiz,-2.679,42.85,414
 1027,Reinosa,-4.137,43,345
-1478,Gijon/Xixon,-5.67,43.53,1478
+2127,Gijon,-5.67,43.53,1478
 345,Ordes,-8.403,43.079,200
 345,As Pontes de Garcia Rodriguez,-7.86,43.452,200
 345,Santiago de Compostela,-8.539,42.879,345
@@ -445,9 +445,9 @@ rs,name,lon,lat,r1
 5289,Barcelona,2.149,41.395,3674
 3062,Valencia,-0.4,39.476,1773
 5289,Bilbao,-2.97,43.294,2127
-2127,Alicante/Alacant,-0.47,38.374,856
+2127,Alicante,-0.47,38.374,856
 856,Granada,-3.611,37.163,595
-1773,Palma de Mallorca,2.649,39.578,1478
+2552,Palma de Mallorca,2.649,39.578,1478
 18946,Las Palmas,-15.442,28.104,7615
 1232,Pamplona/Iruña,-1.647,42.814,714
 2552,Valladolid,-4.733,41.641,1027
@@ -463,7 +463,7 @@ rs,name,lon,lat,r1
 595,Almería,-2.446,36.851,595
 595,Santander,-3.825,43.46,496
 1232,Burgos,-3.691,42.347,714
-2127,León,-5.577,42.604,595
+1773,León,-5.577,42.604,595
 714,Logroño,-2.444,42.461,345
 1027,Castellón de la Plana/Castelló de la Plana,-0.046,39.985,345
 1027,Salamanca,-5.665,40.962,714
@@ -483,7 +483,7 @@ rs,name,lon,lat,r1
 496,Torrevieja,-0.672,37.996,288
 595,Palencia,-4.528,42.009,288
 1027,Gandia,-0.173,38.978,414
-240,Benidorm,-0.144,38.535,240
+288,Benidorm,-0.144,38.535,240
 414,Pontevedra,-8.645,42.435,200
 496,Santa Lucía de Tirajana,-15.446,27.849,200
 595,Lorca,-1.694,37.676,414
@@ -491,7 +491,7 @@ rs,name,lon,lat,r1
 414,Ponferrada,-6.603,42.552,414
 595,Linares,-3.633,38.098,240
 595,Collado Villalba,-3.999,40.633,200
-1027,Eivissa,1.427,38.905,856
+1232,Eivissa,1.427,38.905,856
 1773,Arrecife,-13.553,28.971,1478
 496,Estepona,-5.15,36.425,240
 595,Puertollano,-4.105,38.689,200
@@ -554,6 +554,7 @@ rs,name,lon,lat,r1
 595,Huéscar,-2.537,37.813,240
 414,Cangas del Narcea,-6.547,43.178,414
 345,Hinojosa del Duque,-5.144,38.5,200
+240,Villaviciosa,-5.434,43.481,200
 714,Guardo,-4.848,42.789,414
 496,Vilalba,-7.679,43.297,200
 345,Valdés,-6.525,43.54,288
@@ -567,7 +568,7 @@ rs,name,lon,lat,r1
 240,Huelma,-3.459,37.649,200
 345,Cedeira,-8.051,43.657,200
 856,Villablino,-6.321,42.94,200
-595,Llanes,-4.746,43.418,414
+856,Llanes,-4.746,43.418,414
 595,Almazán,-2.529,41.488,200
 240,Oliva de la Frontera,-6.918,38.279,240
 414,Alburquerque,-6.999,39.223,288

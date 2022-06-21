@@ -130,7 +130,7 @@ rs,name,lon,lat,r1
 72,Bredon,-2.107,52.031,50
 211,Kidderminster,-2.25,52.384,86
 72,Stourport-on-Severn,-2.279,52.339,50
-363,Leeds,-1.548,53.744,303
+435,Leeds,-1.548,53.744,303
 60,Pudsey,-1.671,53.803,50
 363,Bury St Edmunds,0.716,52.227,211
 72,Thurston End,0.623,52.131,50
@@ -1446,7 +1446,7 @@ rs,name,lon,lat,r1
 72,Bilton in Ainsty,-1.273,53.944,50
 123,Collingham,-0.758,53.147,50
 86,Caunton,-0.884,53.133,50
-86,Bingham,-0.955,52.951,72
+123,Bingham,-0.955,52.951,72
 72,Cotgrave,-1.037,52.908,50
 60,Keyworth,-1.083,52.877,50
 60,East Leake,-1.18,52.831,50
@@ -1595,7 +1595,7 @@ rs,name,lon,lat,r1
 123,Nosterfield,-1.574,54.218,60
 72,Husthwaite,-1.206,54.168,50
 253,Harrogate,-1.533,53.992,147
-435,Ripon,-1.53,54.135,123
+751,Ripon,-1.53,54.135,123
 123,Newark-on-Trent,-0.798,53.078,123
 86,Malham,-2.151,54.061,60
 86,Helwith Bridge,-2.292,54.119,50
@@ -2549,7 +2549,7 @@ rs,name,lon,lat,r1
 60,Layer-de-la-Haye,0.861,51.846,50
 86,Walkden,-2.408,53.514,50
 60,Irlam,-2.428,53.434,50
-103,Stockport,-2.154,53.402,50
+211,Stockport,-2.154,53.402,50
 60,Gatley,-2.23,53.39,50
 211,Doncaster,-1.112,53.521,176
 60,Bentley,-1.147,53.544,50
@@ -2711,11 +2711,11 @@ rs,name,lon,lat,r1
 103,Patchole,-3.983,51.166,60
 60,Ashmore,-2.122,50.96,50
 60,Hazel Grove,-2.123,53.375,50
-60,Ashton-under-Lyne,-2.092,53.496,50
+86,Ashton-under-Lyne,-2.092,53.496,50
 86,Hyde,-2.071,53.45,50
 72,Sale,-2.325,53.421,50
 72,Urmston,-2.366,53.453,50
-123,Hale,-2.319,53.37,50
+147,Hale,-2.319,53.37,50
 72,Rusper,-0.278,51.123,50
 72,Kirk Sandall,-1.071,53.562,50
 176,Sunderland,-1.404,54.886,72
@@ -3068,7 +3068,7 @@ rs,name,lon,lat,r1
 86,Pershore,-2.082,52.111,60
 60,Throckmorton,-2.029,52.145,50
 60,Market Lavington,-1.977,51.285,60
-626,York,-1.088,53.959,253
+435,York,-1.088,53.959,253
 103,Haxby,-1.071,54.013,50
 72,Holt,-2.197,51.357,50
 60,Pudleston,-2.634,52.235,50
@@ -3084,7 +3084,7 @@ rs,name,lon,lat,r1
 103,Hadfield,-1.976,53.459,50
 103,Buxton,-1.917,53.257,103
 103,Chapel-en-le-Frith,-1.914,53.323,50
-211,Hayfield,-1.946,53.379,50
+123,Hayfield,-1.946,53.379,50
 60,Kingskerswell,-3.578,50.501,50
 60,Furley,-3.034,50.834,50
 123,Stoodleigh,-3.541,50.958,50
@@ -3108,7 +3108,7 @@ rs,name,lon,lat,r1
 211,Barnsley,-1.463,53.56,72
 60,Fulking,-0.227,50.889,50
 72,Hooton Levitt,-1.215,53.418,50
-363,Sheffield,-1.45,53.388,363
+435,Sheffield,-1.45,53.388,363
 60,Chapeltown,-1.469,53.464,50
 60,Stocksbridge,-1.602,53.479,60
 72,Dungworth,-1.579,53.406,60
@@ -3143,10 +3143,10 @@ rs,name,lon,lat,r1
 60,Loves Green,0.374,51.712,50
 72,Ramsbottom,-2.323,53.628,50
 60,Ainsworth,-2.356,53.588,50
-123,Manchester,-2.249,53.441,50
-60,Oldham,-2.098,53.538,60
+86,Manchester,-2.249,53.441,50
+86,Oldham,-2.098,53.538,86
 86,Shaw,-2.095,53.579,50
-86,Uppermill,-2.004,53.538,50
+72,Uppermill,-2.004,53.538,50
 60,Diggle,-1.992,53.568,50
 60,Eccup,-1.562,53.878,50
 60,Woodend,-1.378,53.751,50
@@ -3206,7 +3206,7 @@ rs,name,lon,lat,r1
 86,Bishop's Cleeve,-2.065,51.945,50
 60,Mellor,-2.539,53.775,50
 176,Dunsop Bridge,-2.518,53.946,72
-435,Boston,-0.02,52.963,211
+626,Boston,-0.02,52.963,211
 123,Leake Hurn's End,0.129,53.021,60
 86,Lade Bank,0.084,53.07,72
 60,Kirton,-0.053,52.93,50
@@ -3326,11 +3326,11 @@ rs,name,lon,lat,r1
 303,Ramsey,-4.384,54.324,123
 123,Port Saint Mary,-4.747,54.082,123
 2240,Birmingham,-1.961,52.513,901
-4644,Greater Manchester,-2.264,53.5,751
+4644,Manchester,-2.264,53.5,751
 176,Liverpool,-2.914,53.414,176
 9627,Glasgow,-4.301,55.856,2240
-2240,Tyneside conurbation,-1.511,54.97,1081
-751,Greater Nottingham,-1.181,52.949,363
+2240,Tyneside,-1.511,54.97,1081
+751,Nottingham,-1.181,52.949,363
 435,Leicester,-1.128,52.631,253
 1297,Portsmouth,-1.08,50.834,626
 2240,Belfast,-5.939,54.609,901
@@ -3339,7 +3339,7 @@ rs,name,lon,lat,r1
 901,Stockton-on-Tees,-1.259,54.558,363
 363,Newcastle-under-Lyme,-2.181,53.017,363
 211,Southampton,-1.385,50.916,147
-626,Kingston-upon-Hull,-0.357,53.764,522
+1081,Kingston-upon-Hull,-0.357,53.764,522
 522,Brighton,-0.169,50.839,435
 86,Wakefield,-1.6,53.698,50
 626,Southend-on-Sea,0.656,51.558,363
@@ -3388,7 +3388,7 @@ rs,name,lon,lat,r1
 363,Winchester,-1.323,51.064,60
 60,Yateley,-0.804,51.341,50
 253,Bridgend,-3.58,51.511,103
-176,Grantham,-0.64,52.914,176
+303,Grantham,-0.64,52.914,253
 72,Ilkeston,-1.31,52.973,60
 176,Bridgwater,-2.996,51.127,72
 86,Stoke Gifford,-2.554,51.529,72

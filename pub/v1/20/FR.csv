@@ -3230,7 +3230,7 @@ rs,name,lon,lat,r1
 24,Miery,5.674,46.812,20
 28,Darbonnay,5.604,46.816,20
 24,Cerniebaud,6.104,46.732,20
-79,Sirod,5.988,46.732,39
+46,Sirod,5.988,46.732,39
 33,Gillois,6.02,46.734,20
 33,Cize,5.917,46.726,20
 24,Ney,5.89,46.737,20
@@ -3280,7 +3280,7 @@ rs,name,lon,lat,r1
 28,Baume-les-Messieurs,5.646,46.71,20
 55,Monnet-la-Ville,5.795,46.718,24
 33,Loulle,5.881,46.708,20
-66,Syam,5.952,46.699,24
+94,Syam,5.952,46.699,24
 28,Bief-des-Maisons,6.039,46.706,20
 24,Crans,5.972,46.704,20
 46,Arsure-Arsurette,6.08,46.721,33
@@ -4933,7 +4933,7 @@ rs,name,lon,lat,r1
 66,Les Gras,6.544,46.995,24
 33,Oye-et-Pallet,6.332,46.854,20
 24,Bouverans,6.209,46.855,20
-160,Frasne,6.162,46.857,79
+134,Frasne,6.162,46.857,79
 134,Les Fourgs,6.4,46.835,55
 33,Montperreux,6.342,46.825,20
 28,Vaux-et-Chantegrue,6.251,46.811,28
@@ -24699,7 +24699,7 @@ rs,name,lon,lat,r1
 192,Gigean,3.709,43.506,55
 79,La Chevrolière-L'Aubinière,-1.606,47.116,46
 160,Bagnères-de-Bigorre,0.149,43.07,112
-160,Cize,5.91,46.742,160
+160,Champagnole,5.91,46.742,160
 397,Podensac,-0.363,44.666,94
 55,Pont-de-Metz,2.25,49.916,24
 134,Marquise,1.734,50.808,79

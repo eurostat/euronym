@@ -22,7 +22,6 @@ rs,name,lon,lat,r1
 24,Ambly,5.313,50.142,20
 79,Amonines,5.556,50.266,55
 33,Ampsin,5.287,50.54,20
-571,Anderlecht,4.329,50.839,276
 112,Anderlues,4.271,50.407,66
 24,Andrimont,5.883,50.614,20
 24,Angreau,3.691,50.351,24
@@ -224,6 +223,7 @@ rs,name,lon,lat,r1
 79,Brugelette,3.852,50.595,39
 33,Bruly,4.527,49.969,33
 33,Brussegem,4.267,50.927,20
+571,Brussel,4.352,50.847,276
 28,Brustem,5.219,50.802,20
 39,Budingen,5.104,50.864,20
 94,Buggenhout,4.203,51.015,79
@@ -319,7 +319,7 @@ rs,name,lon,lat,r1
 55,Dikkebus,2.833,50.82,28
 33,Dikkelvenne,3.691,50.918,33
 230,Diksmuide,2.865,51.034,79
-46,Dilbeek,4.264,50.848,33
+55,Dilbeek,4.264,50.848,33
 112,Dilsen,5.726,51.037,46
 39,Dion,4.889,50.118,20
 33,Dion-le-Mont,4.66,50.698,24
@@ -653,7 +653,7 @@ rs,name,lon,lat,r1
 46,Jemeppe,5.504,50.616,33
 66,Jeneffe,5.356,50.654,20
 33,Jesseren,5.391,50.806,24
-39,Jette,4.328,50.88,24
+66,Jette,4.328,50.88,24
 46,Jeuk,5.209,50.734,33
 134,Jodoigne,4.867,50.724,66
 24,Joncret,4.513,50.353,20
@@ -867,7 +867,7 @@ rs,name,lon,lat,r1
 66,Meerle,4.804,51.474,55
 28,Meeswijk,5.747,51.001,20
 28,Meilegem,3.698,50.905,20
-55,Meise,4.328,50.934,20
+94,Meise,4.328,50.934,20
 66,Meix-devant-Virton,5.479,49.605,33
 39,Meix-le-Tige,5.72,49.617,33
 55,Meldert,4.134,50.932,20
@@ -1235,11 +1235,11 @@ rs,name,lon,lat,r1
 39,Sautin,4.226,50.163,39
 24,Sautour,4.558,50.169,24
 39,Sauveniere,4.724,50.581,20
-55,Schaarbeek,4.373,50.868,55
+39,Schaarbeek,4.373,50.868,20
 28,Schaffen,5.082,51,20
 33,Schaltin,5.123,50.358,20
 39,Schelle,4.336,51.127,20
-79,Schepdaal,4.192,50.834,33
+46,Schepdaal,4.192,50.834,33
 33,Scherpenheuvel,4.975,50.98,33
 55,Schilde,4.578,51.242,55
 79,Schoenberg,6.265,50.29,79
@@ -1271,11 +1271,10 @@ rs,name,lon,lat,r1
 39,Sint-Denijs,3.369,50.751,33
 28,Sint-Denijs-Westrem,3.669,51.02,28
 33,Sint-Eloois-Winkel,3.179,50.876,28
-24,Sint-Gillis,4.346,50.824,20
+39,Sint-Gillis,4.346,50.824,20
 24,Sint-Gillis-bij-Dendermonde,4.111,51.019,24
 55,Sint-Gillis-Waas,4.13,51.217,39
 33,Sint-Huibrechts-Lille,5.485,51.226,24
-24,Sint-Jans-Molenbeek,4.339,50.855,20
 55,Sint-Job-in-'t-Goor,4.583,51.293,55
 28,Sint-Joris,3.371,51.128,20
 46,Sint-Joris-Weert,4.653,50.803,46
@@ -1405,7 +1404,7 @@ rs,name,lon,lat,r1
 39,Tremelo,4.704,50.991,39
 79,Tubize,4.205,50.693,79
 28,Ucimont,5.055,49.831,28
-79,Ukkel,4.333,50.804,28
+94,Ukkel,4.333,50.804,33
 79,Ursel,3.486,51.13,33
 24,Val-Meer,5.595,50.787,24
 55,Vance,5.668,49.67,55
@@ -2022,7 +2021,7 @@ rs,name,lon,lat,r1
 66,Manhay,5.676,50.291,66
 28,Trois-Ponts,5.873,50.375,28
 28,Butgenbach,6.178,50.422,28
-230,Edingen,4.04,50.693,66
+192,Edingen,4.04,50.693,66
 55,Eupen,6.03,50.632,55
 33,Vloesberg,3.737,50.736,33
 28,Froidchapelle,4.329,50.151,28
@@ -2038,7 +2037,7 @@ rs,name,lon,lat,r1
 134,Saint-Vith,6.126,50.281,112
 46,Sint-Genesius-Rode,4.346,50.746,46
 46,Waimes,6.11,50.414,39
-94,Wemmel,4.303,50.907,24
+55,Wemmel,4.303,50.907,24
 66,Bullange,6.256,50.406,39
 46,Meeuwen,5.521,51.096,33
 94,Overpelt,5.422,51.211,94
@@ -2053,14 +2052,14 @@ rs,name,lon,lat,r1
 100000,Antwerpen,4.432,51.192,100000
 685,Liège,5.566,50.629,571
 685,Gent,3.731,51.053,397
-1702,Charleroi,4.461,50.416,571
+1702,Charleroi,4.461,50.416,331
 276,Brugge,3.226,51.206,230
 192,Oostende,2.923,51.223,160
-230,Leuven,4.71,50.876,160
+276,Leuven,4.71,50.876,160
 230,Namur,4.858,50.462,192
 160,La Louvière,4.187,50.479,134
 276,Verviers,5.866,50.591,160
-230,Aalst,4.05,50.94,134
+276,Aalst,4.05,50.94,134
 397,Roeselare,3.126,50.947,192
 331,Turnhout,4.948,51.319,276
 160,Vilvoorde,4.43,50.924,46
@@ -2077,7 +2076,7 @@ rs,name,lon,lat,r1
 39,Oupeye,5.64,50.704,33
 134,Landen,5.08,50.747,55
 39,Morlanwelz,4.249,50.449,20
-192,Geraardsbergen,3.872,50.77,79
+230,Geraardsbergen,3.872,50.77,79
 55,Duffel,4.506,51.095,20
 134,Lille,4.815,51.249,55
 571,Marche-en-Famenne,5.333,50.209,230

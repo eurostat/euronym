@@ -3,21 +3,26 @@
  */
 package eu.europa.ec.eurostat.euronym;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.HashSet;
 import java.util.List;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
+import org.geotools.filter.text.cql2.CQL;
 import org.locationtech.jts.geom.Coordinate;
 import org.locationtech.jts.geom.Envelope;
 import org.locationtech.jts.geom.Point;
 import org.locationtech.jts.index.quadtree.Quadtree;
 import org.locationtech.jts.index.strtree.STRtree;
+import org.opengis.filter.Filter;
 import org.opengis.referencing.crs.CoordinateReferenceSystem;
 
 import eu.europa.ec.eurostat.jgiscotools.feature.Feature;
 import eu.europa.ec.eurostat.jgiscotools.feature.FeatureUtil;
+import eu.europa.ec.eurostat.jgiscotools.io.CSVUtil;
 import eu.europa.ec.eurostat.jgiscotools.io.geo.CRSUtil;
 import eu.europa.ec.eurostat.jgiscotools.io.geo.GeoData;
 import eu.europa.ec.eurostat.jgiscotools.util.Util;
@@ -44,10 +49,10 @@ public class EuroNymeProduction {
 		System.out.println("Start");
 
 		//
-		structure();
+		//structure();
 
 
-		/*/get country codes
+		//get country codes
 		HashSet<String> ccs = new HashSet<>();
 		ccs.addAll(FeatureUtil.getIdValues(GeoData.getFeatures(namesStruct), "cc"));
 		ccs.add("EUR");
@@ -91,7 +96,7 @@ public class EuroNymeProduction {
 				new File("./pub/v1/"+lod).mkdirs();
 				CSVUtil.save(CSVUtil.featuresToCSV(fs), "./pub/v1/"+lod+"/"+cc+".csv");
 			}
-		}*/
+		}
 
 		System.out.println("End");
 	}

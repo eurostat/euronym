@@ -14,7 +14,7 @@ rs,name,lon,lat,r1
 595,Londonderry,-7.319,54.999,595
 595,Belleek,-8.085,54.482,200
 240,Clogher,-7.167,54.413,200
-345,Leeds,-1.548,53.744,288
+414,Leeds,-1.548,53.744,288
 345,Bury St Edmunds,0.716,52.227,200
 100000,London,-0.088,51.513,100000
 345,North Walsham,1.388,52.821,200
@@ -136,7 +136,7 @@ rs,name,lon,lat,r1
 345,Minehead,-3.474,51.198,200
 856,Northampton,-0.879,52.237,288
 496,Frome,-2.315,51.231,200
-414,Ripon,-1.53,54.135,200
+856,Ripon,-1.53,54.135,200
 240,Stone,-2.142,52.898,200
 414,Melbost Borve,-6.436,58.43,200
 240,Earsary,-7.425,56.973,200
@@ -250,11 +250,11 @@ rs,name,lon,lat,r1
 345,Lowestoft,1.725,52.489,200
 595,Padstow,-4.94,50.539,200
 595,Worcester,-2.212,52.19,240
-595,York,-1.088,53.959,240
+414,York,-1.088,53.959,240
 414,Sheffield,-1.45,53.388,345
 345,Tavistock,-4.143,50.546,200
 288,Gillingham,-2.275,51.039,200
-414,Boston,-0.02,52.963,200
+595,Boston,-0.02,52.963,200
 414,Lincoln,-0.557,53.211,345
 414,Morecambe,-2.854,54.066,200
 345,Skegness,0.327,53.149,200
@@ -269,10 +269,10 @@ rs,name,lon,lat,r1
 1232,Douglas-Willaston,-4.48,54.163,595
 288,Ramsey,-4.384,54.324,200
 2552,Birmingham,-1.961,52.513,1027
-2127,Greater Manchester,-2.264,53.5,856
+2127,Manchester,-2.264,53.5,856
 9138,Glasgow,-4.301,55.856,2127
-2552,Tyneside conurbation,-1.511,54.97,1027
-714,Greater Nottingham,-1.181,52.949,414
+2552,Tyneside,-1.511,54.97,1027
+714,Nottingham,-1.181,52.949,414
 496,Leicester,-1.128,52.631,240
 1232,Portsmouth,-1.08,50.834,595
 1232,Belfast,-5.939,54.609,1027
@@ -280,7 +280,7 @@ rs,name,lon,lat,r1
 414,Cardiff,-3.184,51.49,288
 856,Stockton-on-Tees,-1.259,54.558,345
 288,Newcastle-under-Lyme,-2.181,53.017,288
-714,Kingston-upon-Hull,-0.357,53.764,595
+1027,Kingston-upon-Hull,-0.357,53.764,595
 240,Brighton,-0.169,50.839,240
 595,Southend-on-Sea,0.656,51.558,414
 856,Luton,-0.451,51.896,345

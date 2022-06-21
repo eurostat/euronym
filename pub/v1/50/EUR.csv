@@ -2131,7 +2131,6 @@ rs,name,lon,lat,r1
 103,Amay,5.325,50.551,50
 72,Amonines,5.556,50.266,60
 60,Amougies,3.507,50.744,50
-522,Anderlecht,4.329,50.839,303
 123,Anderlues,4.271,50.407,60
 123,Anhee,4.877,50.31,50
 86,Anlier,5.62,49.771,50
@@ -2174,12 +2173,13 @@ rs,name,lon,lat,r1
 86,Booischot,4.779,51.053,60
 86,Bouillon,5.068,49.795,72
 123,Bovigny,5.917,50.225,50
-303,Braine-Alleud,4.369,50.683,103
+363,Braine-Alleud,4.369,50.683,103
 123,Braine-le-Comte,4.137,50.611,103
 86,Brasmenil,3.547,50.542,50
 176,Brasschaat,4.486,51.288,50
 60,Bray,4.106,50.431,50
 211,Bree,5.597,51.142,86
+626,Brussel,4.352,50.847,253
 86,Buggenhout,4.203,51.015,86
 72,Buzet,4.367,50.538,50
 103,Casteau,4.015,50.513,50
@@ -2260,7 +2260,7 @@ rs,name,lon,lat,r1
 123,Herzele,3.893,50.885,60
 60,Heurne,3.628,50.883,50
 86,Hever,4.556,50.992,50
-176,Hoeilaart,4.473,50.766,60
+176,Hoeilaart,4.473,50.766,72
 147,Hoeselt,5.487,50.85,60
 72,Hooglede,3.083,50.979,50
 123,Hotton,5.449,50.27,60
@@ -2275,7 +2275,7 @@ rs,name,lon,lat,r1
 72,Jalhay,5.968,50.559,50
 86,Jauche,4.955,50.682,50
 60,Jeneffe,5.245,50.355,50
-86,Jette,4.328,50.88,50
+72,Jette,4.328,50.88,50
 176,Jodoigne,4.867,50.724,60
 72,Jurbise,3.907,50.534,50
 60,Kain,3.381,50.638,50
@@ -2360,7 +2360,7 @@ rs,name,lon,lat,r1
 147,Othee,5.469,50.715,50
 86,Ottignies,4.566,50.665,86
 86,Oudenburg,3.002,51.185,50
-60,Oudergem,4.428,50.816,50
+72,Oudergem,4.428,50.816,50
 60,Overmere,3.946,51.047,50
 103,Paliseul,5.137,49.904,60
 103,Pesche,4.458,50.042,50
@@ -2399,7 +2399,6 @@ rs,name,lon,lat,r1
 147,Sint-Joris-Winge,4.876,50.908,60
 86,Sint-Katelijne-Waver,4.532,51.069,50
 60,Sint-Lambrechts-Herk,5.307,50.898,50
-60,Sint-Lambrechts-Woluwe,4.426,50.844,50
 72,Sint-Laureins,3.524,51.242,50
 60,Sint-Margriete,3.546,51.282,50
 60,Sint-Martens-Lennik,4.167,50.812,60
@@ -2424,7 +2423,7 @@ rs,name,lon,lat,r1
 147,Torhout,3.102,51.065,103
 103,Tremelo,4.704,50.991,72
 86,Tubize,4.205,50.693,86
-72,Ukkel,4.333,50.804,50
+86,Ukkel,4.333,50.804,50
 72,Val-Meer,5.595,50.787,60
 86,Vedrin,4.873,50.503,50
 103,Verlaine,5.322,50.605,50
@@ -7732,7 +7731,7 @@ rs,name,lon,lat,r1
 123,Pola de Laviana,-5.562,43.245,60
 211,La Pola,-5.827,43.158,72
 147,Grau/Grado,-6.072,43.385,123
-1556,Gijon/Xixon,-5.67,43.53,1556
+2240,Gijon,-5.67,43.53,1556
 211,Llangreu/Langreo,-5.677,43.293,86
 363,Ordes,-8.403,43.079,147
 103,A Baiuca,-8.509,43.304,72
@@ -10433,7 +10432,7 @@ rs,name,lon,lat,r1
 176,Ribadesella,-5.056,43.461,86
 72,La Rebollada,-5.766,43.553,50
 60,El Monte,-5.824,43.636,50
-60,Quintueles,-5.564,43.532,50
+60,Cimavilla,-5.595,43.525,50
 123,Argueru,-5.471,43.541,50
 60,Montiana,-5.748,43.521,50
 60,Salinas,-5.956,43.575,50
@@ -12869,7 +12868,7 @@ rs,name,lon,lat,r1
 72,Besain,5.795,46.785,50
 72,Crotenay,5.814,46.751,50
 72,Nozeroy,6.039,46.775,50
-123,Mignovillard,6.127,46.792,50
+72,Mignovillard,6.127,46.792,50
 72,L'Etoile,5.534,46.717,50
 86,Syam,5.952,46.699,50
 103,Foncine-le-Haut,6.073,46.659,72
@@ -27358,9 +27357,8 @@ rs,name,lon,lat,r1
 103,Ellinokastron,21.798,39.689,50
 72,Chalikion,21.192,39.684,72
 103,Aspropyrgos,23.59,38.063,86
-86,Ntrafi,23.905,38.022,60
 176,Palaiochorion,23.407,38.123,50
-123,Palaiochora,23.451,40.501,50
+103,Palaiochora,23.451,40.501,50
 86,Doumpia,23.351,40.513,50
 253,Aiginion,22.542,40.502,86
 211,Stratonion,23.825,40.514,86
@@ -27439,7 +27437,7 @@ rs,name,lon,lat,r1
 176,Asprokklisia,21.664,39.852,72
 123,Stomion,22.731,39.868,86
 72,Agiofyllon,21.561,39.863,60
-147,Stavros,23.701,40.663,147
+435,Stavros,23.701,40.663,176
 72,Agios Vasileios,23.114,40.665,50
 60,Anatolikon,22.711,40.663,50
 86,Krystallopigi,21.085,40.637,60
@@ -27468,11 +27466,11 @@ rs,name,lon,lat,r1
 86,Neochorakion,22.62,39.169,72
 147,Pyrgoi,24.025,41.253,50
 123,Vyroneia,23.252,41.265,50
-60,Paiania,23.853,37.954,50
+103,Paiania,23.853,37.954,50
 86,Perama,23.568,37.965,50
-103,Artemi,24.008,37.975,103
+253,Artemi,24.008,37.975,123
 123,Stanos,23.591,40.544,50
-123,Peristera,23.165,40.548,60
+86,Peristera,23.165,40.548,60
 176,Oinoi,21.085,40.516,50
 60,Thermi,23.02,40.548,50
 72,Makrochorion,22.252,40.552,50
@@ -27488,7 +27486,7 @@ rs,name,lon,lat,r1
 103,Paliouria,22.833,39.807,50
 86,Melivoia,22.797,39.75,50
 72,Vravrona,24.012,37.919,50
-147,Limin Markopoulou (Porto Rafti),24.01,37.884,50
+176,Limin Markopoulou (Porto Rafti),24.01,37.884,50
 86,Agios Dimitrios,23.865,37.804,50
 60,Moni Kakis Thalassis,24.039,37.836,50
 72,Mandrakion,23.141,41.264,50
@@ -27501,7 +27499,7 @@ rs,name,lon,lat,r1
 303,Agia,22.754,39.717,147
 86,Kalochorion,22.545,39.72,50
 253,Kalampaka,21.626,39.705,103
-72,Zagkliverion,23.289,40.572,72
+147,Zagkliverion,23.289,40.572,86
 60,Kleidion,22.589,40.567,50
 103,Perdikkas,21.697,40.56,50
 103,Kalamaria,22.95,40.583,50
@@ -27567,7 +27565,7 @@ rs,name,lon,lat,r1
 72,Nea Amisos,24.847,41.042,50
 86,Skala Avdiron,24.961,40.934,50
 60,Thalassia,24.776,41.065,50
-1297,Alexandroupolis,25.874,40.845,901
+1867,Alexandroupolis,25.874,40.845,901
 147,Makri,25.745,40.854,86
 86,Antheia,25.991,40.872,72
 211,Ferai,26.172,40.894,176
@@ -27580,6 +27578,7 @@ rs,name,lon,lat,r1
 211,Xylagani,25.422,40.974,103
 147,Avdira,24.952,40.981,60
 303,Megara,23.344,37.997,123
+72,Agia Paraskevi,23.822,38.013,50
 72,Nea Peramos,23.419,38.002,50
 86,Rafina,24.007,38.02,50
 60,Lazarades,21.853,40.018,50
@@ -27677,7 +27676,7 @@ rs,name,lon,lat,r1
 72,Polydendron,21.481,40.221,50
 123,Lefkopigi,21.749,40.231,50
 123,Lofos,22.381,40.244,50
-435,Karyai,24.246,40.257,147
+901,Karyai,24.246,40.257,147
 86,Eptachori,21.021,40.222,72
 60,Flogita,23.22,40.261,50
 60,Valtotopion,23.596,40.995,50
@@ -27992,7 +27991,7 @@ rs,name,lon,lat,r1
 60,Anthiron,21.459,39.348,50
 60,Morfovounion,21.75,39.353,60
 60,Gavrio,24.737,37.884,50
-751,Ermoupolis,24.941,37.445,626
+1297,Ermoupolis,24.941,37.445,626
 303,Plomarion,26.369,38.976,123
 211,Mykonos,25.331,37.446,123
 60,Ano Mera,25.396,37.446,50
@@ -28019,7 +28018,7 @@ rs,name,lon,lat,r1
 72,Pitrofos,24.876,37.814,50
 901,Neon Karlovasion,26.704,37.791,435
 60,Ampelos,26.801,37.802,60
-435,Andros,24.936,37.837,211
+751,Andros,24.936,37.837,211
 176,Batsi,24.787,37.857,103
 72,Pserimos,27.135,36.933,50
 123,Panormitis,27.848,36.549,50
@@ -28108,9 +28107,9 @@ rs,name,lon,lat,r1
 303,Farmakonision,27.085,37.291,123
 103,Theologos,24.692,40.66,50
 123,Potamia,24.73,40.718,50
-253,Thasos,24.709,40.779,176
+303,Thasos,24.709,40.779,176
 123,Prinos,24.577,40.741,72
-522,Limenaria,24.575,40.627,147
+901,Limenaria,24.575,40.627,147
 211,Skopelos,23.728,39.122,147
 60,Neo Klima,23.645,39.139,50
 303,Skiathos,23.489,39.163,303
@@ -28152,7 +28151,7 @@ rs,name,lon,lat,r1
 103,Oia,25.375,36.462,50
 86,Ialysos,28.156,36.413,50
 60,Megalon Chorion,27.346,36.454,50
-1867,Rodos,28.228,36.444,1867
+3225,Rodos,28.228,36.444,1867
 901,Astypalaia (Chora),26.352,36.547,363
 60,Nikia,27.179,36.575,50
 211,Mandrakion,27.132,36.612,123
@@ -28191,7 +28190,7 @@ rs,name,lon,lat,r1
 303,Panagia,25.406,39.981,50
 60,Plaka,25.427,40.005,50
 72,Lisvorion,26.218,39.105,50
-1867,Mytilini,26.555,39.104,1297
+2240,Mytilini,26.555,39.104,1297
 86,Ippeion,26.413,39.117,50
 72,Mesotopos,26.004,39.131,50
 86,Pyrgion,25.999,38.226,60
@@ -39193,7 +39192,7 @@ rs,name,lon,lat,r1
 72,Bredon,-2.107,52.031,50
 211,Kidderminster,-2.25,52.384,86
 72,Stourport-on-Severn,-2.279,52.339,50
-363,Leeds,-1.548,53.744,303
+435,Leeds,-1.548,53.744,303
 60,Pudsey,-1.671,53.803,50
 363,Bury St Edmunds,0.716,52.227,211
 72,Thurston End,0.623,52.131,50
@@ -40509,7 +40508,7 @@ rs,name,lon,lat,r1
 72,Bilton in Ainsty,-1.273,53.944,50
 123,Collingham,-0.758,53.147,50
 86,Caunton,-0.884,53.133,50
-86,Bingham,-0.955,52.951,72
+123,Bingham,-0.955,52.951,72
 72,Cotgrave,-1.037,52.908,50
 60,Keyworth,-1.083,52.877,50
 60,East Leake,-1.18,52.831,50
@@ -40658,7 +40657,7 @@ rs,name,lon,lat,r1
 123,Nosterfield,-1.574,54.218,60
 72,Husthwaite,-1.206,54.168,50
 253,Harrogate,-1.533,53.992,147
-435,Ripon,-1.53,54.135,123
+751,Ripon,-1.53,54.135,123
 123,Newark-on-Trent,-0.798,53.078,123
 86,Malham,-2.151,54.061,60
 86,Helwith Bridge,-2.292,54.119,50
@@ -41612,7 +41611,7 @@ rs,name,lon,lat,r1
 60,Layer-de-la-Haye,0.861,51.846,50
 86,Walkden,-2.408,53.514,50
 60,Irlam,-2.428,53.434,50
-103,Stockport,-2.154,53.402,50
+211,Stockport,-2.154,53.402,50
 60,Gatley,-2.23,53.39,50
 211,Doncaster,-1.112,53.521,176
 60,Bentley,-1.147,53.544,50
@@ -41774,11 +41773,11 @@ rs,name,lon,lat,r1
 103,Patchole,-3.983,51.166,60
 60,Ashmore,-2.122,50.96,50
 60,Hazel Grove,-2.123,53.375,50
-60,Ashton-under-Lyne,-2.092,53.496,50
+86,Ashton-under-Lyne,-2.092,53.496,50
 86,Hyde,-2.071,53.45,50
 72,Sale,-2.325,53.421,50
 72,Urmston,-2.366,53.453,50
-123,Hale,-2.319,53.37,50
+147,Hale,-2.319,53.37,50
 72,Rusper,-0.278,51.123,50
 72,Kirk Sandall,-1.071,53.562,50
 176,Sunderland,-1.404,54.886,72
@@ -42131,7 +42130,7 @@ rs,name,lon,lat,r1
 86,Pershore,-2.082,52.111,60
 60,Throckmorton,-2.029,52.145,50
 60,Market Lavington,-1.977,51.285,60
-626,York,-1.088,53.959,253
+435,York,-1.088,53.959,253
 103,Haxby,-1.071,54.013,50
 72,Holt,-2.197,51.357,50
 60,Pudleston,-2.634,52.235,50
@@ -42147,7 +42146,7 @@ rs,name,lon,lat,r1
 103,Hadfield,-1.976,53.459,50
 103,Buxton,-1.917,53.257,103
 103,Chapel-en-le-Frith,-1.914,53.323,50
-211,Hayfield,-1.946,53.379,50
+123,Hayfield,-1.946,53.379,50
 60,Kingskerswell,-3.578,50.501,50
 60,Furley,-3.034,50.834,50
 123,Stoodleigh,-3.541,50.958,50
@@ -42171,7 +42170,7 @@ rs,name,lon,lat,r1
 211,Barnsley,-1.463,53.56,72
 60,Fulking,-0.227,50.889,50
 72,Hooton Levitt,-1.215,53.418,50
-363,Sheffield,-1.45,53.388,363
+435,Sheffield,-1.45,53.388,363
 60,Chapeltown,-1.469,53.464,50
 60,Stocksbridge,-1.602,53.479,60
 72,Dungworth,-1.579,53.406,60
@@ -42206,10 +42205,10 @@ rs,name,lon,lat,r1
 60,Loves Green,0.374,51.712,50
 72,Ramsbottom,-2.323,53.628,50
 60,Ainsworth,-2.356,53.588,50
-123,Manchester,-2.249,53.441,50
-60,Oldham,-2.098,53.538,60
+86,Manchester,-2.249,53.441,50
+86,Oldham,-2.098,53.538,86
 86,Shaw,-2.095,53.579,50
-86,Uppermill,-2.004,53.538,50
+72,Uppermill,-2.004,53.538,50
 60,Diggle,-1.992,53.568,50
 60,Eccup,-1.562,53.878,50
 60,Woodend,-1.378,53.751,50
@@ -42269,7 +42268,7 @@ rs,name,lon,lat,r1
 86,Bishop's Cleeve,-2.065,51.945,50
 60,Mellor,-2.539,53.775,50
 176,Dunsop Bridge,-2.518,53.946,72
-435,Boston,-0.02,52.963,211
+626,Boston,-0.02,52.963,211
 123,Leake Hurn's End,0.129,53.021,60
 86,Lade Bank,0.084,53.07,72
 60,Kirton,-0.053,52.93,50
@@ -51020,17 +51019,17 @@ rs,name,lon,lat,r1
 1556,Antwerpen,4.432,51.192,626
 1297,Liège,5.566,50.629,522
 751,Gent,3.731,51.053,363
-751,Charleroi,4.461,50.416,522
+751,Charleroi,4.461,50.416,363
 363,Brugge,3.226,51.206,253
 211,Oostende,2.923,51.223,147
-211,Leuven,4.71,50.876,211
+253,Leuven,4.71,50.876,176
 253,Namur,4.858,50.462,211
 147,La Louvière,4.187,50.479,147
 147,Verviers,5.866,50.591,147
 253,Aalst,4.05,50.94,147
 363,Roeselare,3.126,50.947,176
 303,Turnhout,4.948,51.319,211
-176,Vilvoorde,4.43,50.924,60
+147,Vilvoorde,4.43,50.924,60
 303,Tournai,3.388,50.61,103
 123,Hasselt,5.336,50.928,86
 86,Beveren,4.26,51.216,60
@@ -51345,7 +51344,7 @@ rs,name,lon,lat,r1
 103,Bösingen,7.233,46.897,50
 147,Moutier,7.371,47.278,72
 103,Saint-Maurice,7.004,46.211,50
-3870,Lefkosia,33.346,35.149,3870
+9627,Lefkosia,33.346,35.149,5572
 1081,Lemesos,33.032,34.692,435
 303,Larnaka,33.614,34.927,211
 176,Pera Chorio,33.401,35.009,103
@@ -51547,8 +51546,8 @@ rs,name,lon,lat,r1
 176,Türi,25.422,58.805,72
 626,Jõgeva,26.392,58.749,253
 522,Rapla,24.802,58.998,211
-23952,Greater City of Athens,23.742,38,11552
-4644,Greater City of Thessaloniki,22.952,40.636,1556
+23952,Athens,23.742,38,11552
+4644,Thessaloniki,22.952,40.636,1556
 4644,Iraklio,25.133,35.329,1867
 522,Volos,22.947,39.371,363
 1297,Ioannina,20.846,39.663,901
@@ -51578,9 +51577,9 @@ rs,name,lon,lat,r1
 5572,Barcelona,2.149,41.395,3870
 1556,Valencia,-0.4,39.476,1556
 4644,Bilbao,-2.97,43.294,2240
-4644,Alicante/Alacant,-0.47,38.374,901
+4644,Alicante,-0.47,38.374,901
 901,Granada,-3.611,37.163,626
-1867,Palma de Mallorca,2.649,39.578,1556
+2688,Palma de Mallorca,2.649,39.578,1556
 253,Sabadell,2.123,41.523,103
 11552,Las Palmas,-15.442,28.104,6686
 1297,Pamplona/Iruña,-1.647,42.814,751
@@ -51599,7 +51598,7 @@ rs,name,lon,lat,r1
 626,Santander,-3.825,43.46,435
 1081,Burgos,-3.691,42.347,626
 86,Fuenlabrada,-3.798,40.286,50
-2240,León,-5.577,42.604,626
+1867,León,-5.577,42.604,626
 751,Logroño,-2.444,42.461,363
 901,Castellón de la Plana/Castelló de la Plana,-0.046,39.985,363
 1081,Salamanca,-5.665,40.962,626
@@ -51630,7 +51629,7 @@ rs,name,lon,lat,r1
 435,Torrevieja,-0.672,37.996,211
 626,Palencia,-4.528,42.009,253
 1081,Gandia,-0.173,38.978,435
-253,Benidorm,-0.144,38.535,211
+303,Benidorm,-0.144,38.535,211
 363,Pontevedra,-8.645,42.435,147
 86,Mollet del Vallès,2.223,41.557,50
 303,Vilanova i la Geltrú,1.729,41.224,176
@@ -51887,7 +51886,7 @@ rs,name,lon,lat,r1
 147,Faura,-0.267,39.726,60
 72,Escacena del Campo,-6.398,37.416,72
 176,Nerva,-6.548,37.694,147
-522,Llanes,-4.746,43.418,303
+901,Llanes,-4.746,43.418,303
 103,Alpicat,0.546,41.665,50
 60,Almodóvar del Campo,-4.175,38.709,50
 72,Masquefa,1.817,41.501,60
@@ -52117,7 +52116,7 @@ rs,name,lon,lat,r1
 86,Montluel,5.062,45.851,86
 176,Gigean,3.709,43.506,50
 147,Bagnères-de-Bigorre,0.149,43.07,103
-176,Cize,5.91,46.742,176
+176,Champagnole,5.91,46.742,176
 363,Podensac,-0.363,44.666,103
 176,Marquise,1.734,50.808,72
 211,Saint-Girons-Lédar,1.14,42.988,211
@@ -52813,9 +52812,10 @@ rs,name,lon,lat,r1
 60,Veleshta,20.645,41.234,50
 176,Čaška,21.693,41.646,72
 253,Makedonski Brod,21.216,41.511,103
-4644,Valletta (greater),14.487,35.891,1297
+4644,Valletta,14.487,35.891,1297
 123,Żurrieq,14.473,35.836,50
 123,San Pawl Il-Baħar,14.413,35.951,50
+72,Marsaskala,14.565,35.864,50
 303,Victoria,14.244,36.041,123
 1867,Amsterdam,4.871,52.382,1081
 901,Rotterdam,4.497,51.917,363
@@ -53532,11 +53532,11 @@ rs,name,lon,lat,r1
 176,Močenok,17.924,48.232,72
 147,Kremnica,18.921,48.703,86
 2240,Birmingham,-1.961,52.513,901
-4644,Greater Manchester,-2.264,53.5,751
+4644,Manchester,-2.264,53.5,751
 176,Liverpool,-2.914,53.414,176
 13862,Glasgow,-4.301,55.856,1867
-2240,Tyneside conurbation,-1.511,54.97,1081
-751,Greater Nottingham,-1.181,52.949,363
+2240,Tyneside,-1.511,54.97,1081
+751,Nottingham,-1.181,52.949,363
 435,Leicester,-1.128,52.631,253
 1297,Portsmouth,-1.08,50.834,626
 2240,Belfast,-5.939,54.609,901
@@ -53545,7 +53545,7 @@ rs,name,lon,lat,r1
 901,Stockton-on-Tees,-1.259,54.558,363
 363,Newcastle-under-Lyme,-2.181,53.017,363
 211,Southampton,-1.385,50.916,147
-626,Kingston-upon-Hull,-0.357,53.764,522
+1081,Kingston-upon-Hull,-0.357,53.764,522
 522,Brighton,-0.169,50.839,435
 86,Wakefield,-1.6,53.698,50
 626,Southend-on-Sea,0.656,51.558,363
@@ -53594,7 +53594,7 @@ rs,name,lon,lat,r1
 363,Winchester,-1.323,51.064,60
 60,Yateley,-0.804,51.341,50
 253,Bridgend,-3.58,51.511,103
-176,Grantham,-0.64,52.914,176
+303,Grantham,-0.64,52.914,253
 72,Ilkeston,-1.31,52.973,60
 176,Bridgwater,-2.996,51.127,72
 86,Stoke Gifford,-2.554,51.529,72

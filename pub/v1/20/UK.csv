@@ -253,7 +253,7 @@ rs,name,lon,lat,r1
 33,Kirkheaton,-1.726,53.659,20
 55,Kirkby Grange,-1.63,53.624,28
 39,Victoria,-1.732,53.546,24
-331,Leeds,-1.548,53.744,276
+397,Leeds,-1.548,53.744,276
 39,Morley,-1.6,53.746,24
 66,Pudsey,-1.671,53.803,46
 331,Bury St Edmunds,0.716,52.227,192
@@ -5085,7 +5085,7 @@ rs,name,lon,lat,r1
 33,Oxton,-1.062,53.057,20
 33,Ossington,-0.868,53.174,33
 33,Syerston,-0.886,53.02,28
-46,Lowdham,-1.003,53.014,20
+66,Lowdham,-1.003,53.014,20
 28,Hoveringham,-0.96,53.014,20
 39,Wigsley,-0.711,53.222,33
 24,Winthorpe,-0.784,53.101,20
@@ -5181,7 +5181,7 @@ rs,name,lon,lat,r1
 39,Winkburn,-0.94,53.119,33
 79,Caunton,-0.884,53.133,39
 28,West Bridgford,-1.132,52.927,20
-79,Bingham,-0.955,52.951,66
+134,Bingham,-0.955,52.951,66
 66,Cotgrave,-1.037,52.908,46
 28,Radcliffe on Trent,-1.032,52.951,28
 55,Keyworth,-1.083,52.877,24
@@ -6004,7 +6004,7 @@ rs,name,lon,lat,r1
 24,Husthwaite,-1.206,54.168,24
 28,Morton-on-Swale,-1.504,54.322,28
 230,Harrogate,-1.533,53.992,160
-476,Ripon,-1.53,54.135,112
+822,Ripon,-1.53,54.135,112
 46,Knaresborough,-1.46,54.009,39
 28,Low Laithe,-1.706,54.069,28
 24,Huby,-1.584,53.924,20
@@ -6014,7 +6014,7 @@ rs,name,lon,lat,r1
 112,Middlesmoor,-1.86,54.165,112
 39,Market Warsop,-1.146,53.202,24
 28,Meden Vale,-1.129,53.223,20
-192,Newark-on-Trent,-0.798,53.078,134
+230,Newark-on-Trent,-0.798,53.078,134
 55,Balderton,-0.782,53.054,20
 46,Rainworth,-1.117,53.117,33
 94,Malham,-2.151,54.061,55
@@ -6357,17 +6357,17 @@ rs,name,lon,lat,r1
 28,Attenborough,-1.228,52.907,20
 46,Trowell,-1.279,52.954,20
 33,Strelley,-1.237,52.97,24
-33,Carlton,-1.092,52.97,33
+55,Carlton,-1.092,52.97,46
 94,Arnold,-1.122,52.999,24
 79,Calverton,-1.084,53.04,28
 55,Ravenshead,-1.163,53.085,24
-55,Burton Joyce,-1.037,52.989,28
+39,Burton Joyce,-1.037,52.989,28
 28,Papplewick,-1.18,53.055,20
 39,Lambley,-1.058,53.005,20
 28,Newstead,-1.222,53.069,20
 33,Stoke Bardolph,-1.039,52.969,20
 33,Bestwood Village,-1.177,53.024,20
-331,Mansfield,-1.195,53.141,160
+230,Mansfield,-1.195,53.141,160
 55,Mansfield Woodhouse,-1.184,53.167,20
 33,Hemington,-2.391,51.276,33
 39,Milton Clevedon,-2.476,51.132,20
@@ -9466,7 +9466,7 @@ rs,name,lon,lat,r1
 39,Rowthorne,-1.282,53.18,33
 24,Stainsby,-1.327,53.184,24
 39,Shuttlewood,-1.297,53.249,20
-230,Chesterfield,-1.439,53.239,112
+331,Chesterfield,-1.439,53.239,112
 39,Staveley,-1.359,53.264,39
 24,Woodthorpe,-1.324,53.268,20
 112,Matlock,-1.551,53.137,79
@@ -10627,7 +10627,7 @@ rs,name,lon,lat,r1
 55,Marple,-2.054,53.396,33
 39,Romiley,-2.086,53.415,20
 39,High Lane,-2.066,53.365,24
-55,Ashton-under-Lyne,-2.092,53.496,33
+94,Ashton-under-Lyne,-2.092,53.496,33
 79,Hyde,-2.071,53.45,39
 28,Denton,-2.124,53.453,20
 33,Stalybridge,-2.044,53.486,20
@@ -10667,7 +10667,7 @@ rs,name,lon,lat,r1
 55,Kempsey,-2.217,52.141,39
 24,Leigh Sinton,-2.32,52.155,24
 24,Bayton,-2.448,52.356,24
-33,South Shields,-1.42,54.962,33
+55,South Shields,-1.42,54.962,39
 28,Boldon,-1.445,54.946,20
 28,Whitburn,-1.369,54.952,24
 24,Cleadon,-1.404,54.946,20
@@ -12172,7 +12172,7 @@ rs,name,lon,lat,r1
 39,Skirwith,-2.593,54.688,39
 66,Mungrisdale,-2.987,54.665,66
 28,Kirkby Thore,-2.561,54.625,28
-986,Kendal,-2.739,54.327,192
+822,Kendal,-2.739,54.327,192
 112,Ulverston,-3.085,54.195,66
 134,Windermere,-2.904,54.375,66
 39,Low Haygarth,-2.466,54.365,39
@@ -12500,7 +12500,7 @@ rs,name,lon,lat,r1
 28,New Holland,-0.359,53.7,20
 39,Barnetby le Wold,-0.405,53.57,20
 28,Howsham,-0.427,53.523,20
-685,York,-1.088,53.959,230
+397,York,-1.088,53.959,230
 112,Haxby,-1.071,54.013,39
 39,Strensall,-1.033,54.035,20
 28,Sedgehill,-2.189,51.05,28
@@ -12585,7 +12585,7 @@ rs,name,lon,lat,r1
 39,Dale Abbey,-1.352,52.945,20
 24,Stanton-by-Dale,-1.309,52.938,20
 24,Morley,-1.412,52.964,24
-134,Hadfield,-1.976,53.459,55
+94,Hadfield,-1.976,53.459,55
 94,Buxton,-1.917,53.257,94
 39,Glossop,-1.95,53.442,20
 112,Chapel-en-le-Frith,-1.914,53.323,55
@@ -12881,9 +12881,9 @@ rs,name,lon,lat,r1
 79,Ramsbottom,-2.323,53.628,39
 28,Outwood,-2.332,53.549,20
 55,Ainsworth,-2.356,53.588,24
-134,Manchester,-2.249,53.441,46
+94,Manchester,-2.249,53.441,46
 24,Wythenshawe,-2.277,53.392,24
-66,Oldham,-2.098,53.538,66
+94,Oldham,-2.098,53.538,79
 33,Chadderton,-2.157,53.538,20
 46,Royton,-2.119,53.563,20
 33,Failsworth,-2.156,53.504,20
@@ -13230,7 +13230,7 @@ rs,name,lon,lat,r1
 28,Newbold,-1.406,52.768,24
 24,Kegworth,-1.281,52.837,24
 24,Ravenstone,-1.401,52.719,20
-397,Boston,-0.02,52.963,192
+685,Boston,-0.02,52.963,192
 39,Hoffleet Stow,-0.144,52.917,24
 39,Wrangle Lowgate,0.148,53.043,39
 134,Leake Hurn's End,0.129,53.021,55
@@ -13294,7 +13294,7 @@ rs,name,lon,lat,r1
 39,Samlesbury,-2.62,53.767,24
 33,North Elkington,-0.065,53.395,28
 28,Kirkby on Bain,-0.144,53.145,28
-397,Lincoln,-0.557,53.211,276
+230,Lincoln,-0.557,53.211,230
 46,North Hykeham,-0.589,53.186,20
 24,Kelby,-0.506,52.96,24
 28,North Scarle,-0.729,53.192,28
@@ -13818,11 +13818,11 @@ rs,name,lon,lat,r1
 112,Port Saint Mary,-4.747,54.082,112
 33,London,-0.125,51.505,20
 2450,Birmingham,-1.961,52.513,986
-2042,Greater Manchester,-2.264,53.5,822
+2042,Manchester,-2.264,53.5,822
 192,Liverpool,-2.914,53.414,192
 10528,Glasgow,-4.301,55.856,2042
-2450,Tyneside conurbation,-1.511,54.97,1183
-685,Greater Nottingham,-1.181,52.949,397
+2450,Tyneside,-1.511,54.97,1183
+685,Nottingham,-1.181,52.949,397
 39,Bristol,-2.563,51.464,20
 28,Rotherham,-1.459,53.373,20
 476,Leicester,-1.128,52.631,276
@@ -13831,9 +13831,9 @@ rs,name,lon,lat,r1
 476,Bournemouth,-1.902,50.738,397
 397,Cardiff,-3.184,51.49,276
 822,Stockton-on-Tees,-1.259,54.558,331
-331,Newcastle-under-Lyme,-2.181,53.017,331
+230,Newcastle-under-Lyme,-2.181,53.017,230
 230,Southampton,-1.385,50.916,134
-476,Kingston-upon-Hull,-0.357,53.764,476
+986,Kingston-upon-Hull,-0.357,53.764,571
 571,Brighton,-0.169,50.839,476
 79,Wakefield,-1.6,53.698,33
 571,Southend-on-Sea,0.656,51.558,397
@@ -13869,7 +13869,7 @@ rs,name,lon,lat,r1
 46,Sefton,-2.991,53.647,20
 28,Ashford,0.873,51.143,20
 192,Aylesbury,-0.812,51.815,160
-230,Crewe,-2.452,53.095,94
+331,Crewe,-2.452,53.095,94
 24,Guildford,-0.574,51.249,20
 28,Lowestoft,1.726,52.475,20
 160,Rugby,-1.267,52.372,112
@@ -13898,7 +13898,7 @@ rs,name,lon,lat,r1
 79,Winchester,-1.323,51.064,66
 55,Yateley,-0.804,51.341,33
 230,Bridgend,-3.58,51.511,94
-192,Grantham,-0.64,52.914,192
+276,Grantham,-0.64,52.914,230
 79,Ilkeston,-1.31,52.973,55
 192,Bridgwater,-2.996,51.127,79
 160,Stoke Gifford,-2.554,51.529,55

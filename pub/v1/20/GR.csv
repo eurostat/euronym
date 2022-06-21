@@ -688,7 +688,7 @@ rs,name,lon,lat,r1
 79,Pelekanos,21.466,40.367,33
 66,Gomation,23.795,40.396,46
 33,Lakkoma,23.054,40.391,28
-276,Ierissos,23.876,40.397,192
+331,Ierissos,23.876,40.397,192
 66,Krini,23.159,40.397,46
 66,Sfikia,22.209,40.386,28
 55,Mavrodendrion,21.77,40.381,24
@@ -843,7 +843,7 @@ rs,name,lon,lat,r1
 39,Panorama,23.026,40.587,28
 55,Vasileias,21.43,40.565,33
 79,Olympias,21.6,40.57,55
-79,Ardamerion,23.182,40.594,28
+55,Ardamerion,23.182,40.594,28
 46,Melissourgos,23.475,40.599,24
 28,Nea Nikomideia,22.25,40.588,28
 66,Stavros,22.308,40.59,33
@@ -856,7 +856,7 @@ rs,name,lon,lat,r1
 160,Lechovon,21.492,40.585,94
 39,Koryfi,22.503,40.603,33
 134,Toichion,21.304,40.583,46
-46,Chortiatis,23.1,40.61,39
+94,Chortiatis,23.1,40.61,39
 112,Ieropigi,21.081,40.578,46
 46,Dendrochorion,21.141,40.583,33
 46,Stenimachos,22.127,40.603,24
@@ -1015,7 +1015,7 @@ rs,name,lon,lat,r1
 24,Areti,23.254,40.758,20
 46,Kato Metochion,23.522,41.127,24
 33,Xirotopos,23.545,41.195,28
-331,Paralia Ofryniou,23.905,40.762,79
+276,Paralia Ofryniou,23.905,40.762,79
 55,Nea Mesolakkia,23.854,40.848,24
 33,Anoixia,23.447,40.759,20
 55,Xiropotamos,23.484,40.763,33
@@ -1051,7 +1051,7 @@ rs,name,lon,lat,r1
 160,Vasilika,23.136,40.479,55
 39,Agia Paraskevi,23.049,40.483,33
 134,Argos Orestikon,21.259,40.455,55
-192,Arnaia,23.595,40.486,55
+276,Arnaia,23.595,40.486,55
 79,Pentavryson,21.141,40.454,33
 66,Kolindros,22.484,40.479,33
 46,Palaiochorion,23.648,40.492,33
@@ -1083,7 +1083,7 @@ rs,name,lon,lat,r1
 79,Agiofyllon,21.561,39.863,66
 39,Peristerona,23.343,40.661,20
 55,Pefka,22.989,40.657,20
-160,Stavros,23.701,40.663,160
+476,Stavros,23.701,40.663,192
 39,Valtonera,21.587,40.637,20
 46,Chariessa,22.165,40.651,20
 94,Agios Vasileios,23.114,40.665,46
@@ -1170,19 +1170,19 @@ rs,name,lon,lat,r1
 55,Rodopolis,23.001,41.26,24
 33,Charopon,23.377,41.264,24
 112,Vyroneia,23.252,41.265,24
-55,Paiania,23.853,37.954,39
+112,Paiania,23.853,37.954,39
 55,Spata,23.914,37.962,39
 66,Salamis,23.492,37.966,46
 79,Perama,23.568,37.965,46
 46,Nikaia,23.647,37.969,20
-112,Artemi,24.008,37.975,112
+276,Artemi,24.008,37.975,112
 46,Mavrochori,21.319,40.513,39
 28,Pteria,21.055,40.505,20
 33,Krimni,23.448,40.547,20
 112,Stanos,23.591,40.544,39
 46,Foufas,21.554,40.521,20
 39,Lithia,21.409,40.52,20
-112,Peristera,23.165,40.548,46
+94,Peristera,23.165,40.548,46
 192,Oinoi,21.085,40.516,46
 55,Thermi,23.02,40.548,33
 28,Adam,23.302,40.555,20
@@ -1239,7 +1239,7 @@ rs,name,lon,lat,r1
 331,Agia,22.754,39.717,160
 79,Kalochorion,22.545,39.72,33
 276,Kalampaka,21.626,39.705,112
-79,Zagkliverion,23.289,40.572,79
+160,Zagkliverion,23.289,40.572,79
 33,Platanos,22.549,40.566,24
 55,Kleidion,22.589,40.567,24
 66,Patris,22.187,40.56,28
@@ -1279,7 +1279,7 @@ rs,name,lon,lat,r1
 28,Asprogeia,21.47,40.614,20
 39,Apollonia,23.486,40.639,24
 192,Naousa,22.068,40.63,94
-28,Asvestochorion,23.025,40.64,24
+39,Asvestochorion,23.025,40.64,24
 79,Mesovounon,21.835,40.628,33
 134,Filotas,21.708,40.625,46
 55,Kalochorion,22.859,40.642,33
@@ -1414,7 +1414,7 @@ rs,name,lon,lat,r1
 134,Thalassia,24.776,41.065,20
 24,Agios Athanasios,24.785,41.042,20
 24,Vitoumas,21.614,39.647,20
-1419,Alexandroupolis,25.874,40.845,1419
+1702,Alexandroupolis,25.874,40.845,1419
 134,Makri,25.745,40.854,79
 94,Antheia,25.991,40.872,66
 46,Loutros,26.047,40.881,33
@@ -1438,6 +1438,7 @@ rs,name,lon,lat,r1
 28,Korydallos,23.653,37.981,20
 55,Aigaleo,23.678,37.992,20
 134,Megara,23.344,37.997,94
+46,Cholargos,23.8,37.998,20
 39,Pikermion,23.941,38.002,20
 28,Chaidarion,23.656,38.012,20
 33,Peristerion,23.695,38.014,24
@@ -1702,7 +1703,7 @@ rs,name,lon,lat,r1
 24,Polydendron,21.481,40.221,20
 112,Lefkopigi,21.749,40.231,33
 112,Lofos,22.381,40.244,39
-397,Karyai,24.246,40.257,160
+571,Karyai,24.246,40.257,160
 39,Agios Mamas,23.336,40.26,24
 94,Eptachori,21.021,40.222,79
 33,Neraida,21.966,40.24,20
@@ -2074,7 +2075,7 @@ rs,name,lon,lat,r1
 79,Agia Sotira,23.025,38.053,46
 33,Vamvakes,23.077,38.057,33
 33,Dionysos,24.021,37.833,24
-276,Karystos,24.419,38.016,230
+685,Karystos,24.419,38.016,230
 79,Platanistos,24.515,38.018,66
 46,Kalyvia,24.408,38.038,20
 79,Marmarion,24.32,38.049,66
@@ -2302,7 +2303,7 @@ rs,name,lon,lat,r1
 55,Ampelakia,26.397,41.48,33
 79,Zoni,26.216,41.503,33
 46,Megali Doxipara,26.281,41.509,20
-2940,Orestias,26.532,41.503,571
+1702,Orestias,26.532,41.503,571
 55,Neochorion,26.459,41.511,28
 24,Chandras,26.303,41.517,20
 112,Valtos,26.355,41.538,39
@@ -2484,7 +2485,7 @@ rs,name,lon,lat,r1
 55,Gavrio,24.737,37.884,33
 46,Manna,24.944,37.422,20
 46,Galissas,24.884,37.422,20
-822,Ermoupolis,24.941,37.445,685
+1419,Ermoupolis,24.941,37.445,685
 331,Plomarion,26.369,38.976,134
 24,Plagia,26.397,38.984,20
 33,Palaiochorion,26.32,39,24
@@ -2637,7 +2638,7 @@ rs,name,lon,lat,r1
 24,Alonia,25.513,40.462,20
 94,Therma,25.603,40.498,46
 79,Lakkoma,25.53,40.428,39
-822,Kamariotissa,25.474,40.476,331
+685,Kamariotissa,25.474,40.476,331
 94,Agia Roumeli,23.96,35.23,94
 46,Nteres,23.844,35.436,28
 331,Neos Marmaras,23.784,40.095,230
@@ -2752,7 +2753,7 @@ rs,name,lon,lat,r1
 112,Prinos,24.577,40.741,79
 79,Skala Kallirachis,24.534,40.708,33
 39,Skala Marion,24.516,40.643,39
-476,Limenaria,24.575,40.627,134
+986,Limenaria,24.575,40.627,134
 55,Koinyra,24.764,40.665,39
 24,Potos,24.606,40.611,20
 192,Skopelos,23.728,39.122,160
@@ -2781,7 +2782,7 @@ rs,name,lon,lat,r1
 66,Sision,25.526,35.304,39
 331,Afantou,28.162,36.294,94
 112,Emporeion,25.445,36.357,39
-2042,Skyros,24.566,38.906,276
+1702,Skyros,24.566,38.906,276
 55,Aspous,24.568,38.878,24
 476,Amorgos,25.899,36.832,276
 94,Antimacheia,27.098,36.809,33
@@ -2830,7 +2831,7 @@ rs,name,lon,lat,r1
 33,Kremasti,28.118,36.411,24
 94,Ialysos,28.156,36.413,39
 66,Megalon Chorion,27.346,36.454,33
-2042,Rodos,28.228,36.444,1702
+3528,Rodos,28.228,36.444,1702
 822,Astypalaia (Chora),26.352,36.547,331
 55,Nikia,27.179,36.575,33
 33,Ano Meria,24.883,36.644,28
@@ -2885,7 +2886,7 @@ rs,name,lon,lat,r1
 24,Platy,25.074,39.861,20
 79,Kontias,25.149,39.865,39
 46,Kaminia,25.322,39.864,28
-986,Myrina,25.063,39.874,822
+1419,Myrina,25.063,39.874,822
 192,Moudros,25.27,39.875,134
 46,Portianon,25.179,39.882,20
 33,Roussopoulion,25.312,39.883,20
@@ -2910,7 +2911,7 @@ rs,name,lon,lat,r1
 24,Evreiaki,26.487,39.062,20
 24,Agios Isidoros,26.398,38.966,20
 24,Thymaina,26.452,37.582,20
-2042,Mytilini,26.555,39.104,1183
+2450,Mytilini,26.555,39.104,1183
 79,Ippeion,26.413,39.117,33
 79,Mesotopos,26.004,39.131,28
 331,Pyrgion,25.999,38.226,55
@@ -2925,7 +2926,7 @@ rs,name,lon,lat,r1
 28,Agios Georgios Sykousis,26.056,38.319,24
 112,Lithion,26,38.331,39
 28,Chalkeion,26.098,38.333,24
-1419,Chios,26.136,38.37,685
+1702,Chios,26.136,38.37,685
 79,Vrontados,26.128,38.412,33
 46,Moria,26.517,39.132,20
 79,Agra,26.06,39.158,79
@@ -4893,8 +4894,8 @@ rs,name,lon,lat,r1
 55,Lapas,21.419,38.098,33
 33,Raveni,20.486,39.652,20
 28,Petralona,20.74,39.664,20
-100000,Greater City of Athens,23.742,38,100000
-5079,Greater City of Thessaloniki,22.952,40.636,2042
+100000,Athens,23.742,38,100000
+5079,Thessaloniki,22.952,40.636,2042
 5079,Iraklio,25.133,35.329,2042
 571,Volos,22.947,39.371,331
 1183,Ioannina,20.846,39.663,986
@@ -4903,7 +4904,7 @@ rs,name,lon,lat,r1
 28,Rodos,28.222,36.431,20
 822,Kerkyra,19.91,39.619,571
 276,Perea,22.919,40.505,66
-276,Nea Makri,23.978,38.097,79
+230,Nea Makri,23.978,38.097,79
 331,Kastoria,21.26,40.52,230
 39,Nea Magnissia,22.854,40.688,39
 230,Igoumenitsa,20.265,39.502,230

@@ -56,7 +56,7 @@ rs,name,lon,lat,r1
 144,Stratford-upon-Avon,-1.709,52.195,100
 172,Pillerton Priors,-1.573,52.127,100
 120,Ixworth,0.834,52.299,100
-355,Leeds,-1.548,53.744,296
+426,Leeds,-1.548,53.744,296
 355,Bury St Edmunds,0.716,52.227,206
 100000,London,-0.088,51.513,100000
 144,Garforth,-1.383,53.791,100
@@ -422,7 +422,6 @@ rs,name,lon,lat,r1
 172,Ormsary,-5.615,55.891,100
 144,Hawkswick Cote,-2.081,54.129,100
 172,Threapland,-2.024,54.041,100
-172,Winthorpe,-0.784,53.101,120
 296,Yeovil,-2.636,50.946,206
 296,Chard,-2.959,50.874,120
 120,Closworth,-2.62,50.889,100
@@ -467,7 +466,8 @@ rs,name,lon,lat,r1
 120,Wells,-2.643,51.211,120
 144,Ragnall,-0.797,53.253,120
 247,Harrogate,-1.533,53.992,144
-426,Ripon,-1.53,54.135,120
+882,Ripon,-1.53,54.135,120
+206,Newark-on-Trent,-0.798,53.078,144
 426,Northallerton,-1.434,54.339,144
 172,Thirsk,-1.347,54.23,100
 120,Bedale,-1.593,54.287,100
@@ -617,6 +617,7 @@ rs,name,lon,lat,r1
 144,Saltcoats,-4.781,55.642,120
 172,Herne Bay,1.128,51.368,100
 206,Southport,-2.999,53.624,172
+172,Digby,-0.386,53.08,100
 120,Fleetwood,-3.026,53.915,100
 144,Garstang,-2.778,53.905,120
 120,Holbeach St Matthew,0.097,52.868,100
@@ -856,7 +857,7 @@ rs,name,lon,lat,r1
 172,Redditch,-1.929,52.296,100
 613,Worcester,-2.212,52.19,247
 247,Evesham,-1.947,52.088,120
-613,York,-1.088,53.959,247
+426,York,-1.088,53.959,247
 144,Colebrook,-3.41,50.846,100
 296,Blandford Forum,-2.158,50.863,120
 172,Bolton,-2.432,53.592,100
@@ -881,7 +882,7 @@ rs,name,lon,lat,r1
 144,Tetney Lock,0.019,53.495,100
 120,Bishop's Cleeve,-2.065,51.945,100
 206,Dunsop Bridge,-2.518,53.946,120
-426,Boston,-0.02,52.963,206
+613,Boston,-0.02,52.963,206
 120,Hitchin,-0.27,51.954,100
 355,Lincoln,-0.557,53.211,296
 426,Morecambe,-2.854,54.066,144
@@ -891,7 +892,6 @@ rs,name,lon,lat,r1
 172,West Rasen,-0.403,53.391,100
 172,Hemel Hempstead,-0.473,51.752,100
 206,Stickney,0.003,53.093,100
-120,Stragglethorpe,-0.637,53.06,100
 144,Petersfield,-0.927,51.005,100
 144,Bishop's Stortford,0.159,51.868,100
 120,Offham,0.376,51.291,100
@@ -913,11 +913,11 @@ rs,name,lon,lat,r1
 296,Ramsey,-4.384,54.324,120
 120,Port Saint Mary,-4.747,54.082,120
 2629,Birmingham,-1.961,52.513,882
-2191,Greater Manchester,-2.264,53.5,882
+2191,Manchester,-2.264,53.5,882
 426,Liverpool,-2.914,53.414,296
 9412,Glasgow,-4.301,55.856,2191
-2629,Tyneside conurbation,-1.511,54.97,1058
-735,Greater Nottingham,-1.181,52.949,426
+2629,Tyneside,-1.511,54.97,1058
+735,Nottingham,-1.181,52.949,426
 511,Leicester,-1.128,52.631,247
 1269,Portsmouth,-1.08,50.834,613
 2191,Belfast,-5.939,54.609,882
@@ -926,7 +926,7 @@ rs,name,lon,lat,r1
 882,Stockton-on-Tees,-1.259,54.558,355
 355,Newcastle-under-Lyme,-2.181,53.017,355
 247,Southampton,-1.385,50.916,144
-735,Kingston-upon-Hull,-0.357,53.764,613
+1058,Kingston-upon-Hull,-0.357,53.764,613
 511,Brighton,-0.169,50.839,426
 613,Southend-on-Sea,0.656,51.558,355
 735,Luton,-0.451,51.896,296
@@ -963,7 +963,7 @@ rs,name,lon,lat,r1
 144,Sittingbourne,0.736,51.343,100
 355,Winchester,-1.323,51.064,100
 247,Bridgend,-3.58,51.511,100
-172,Grantham,-0.64,52.914,172
+247,Grantham,-0.64,52.914,247
 206,Bridgwater,-2.996,51.127,100
 206,Ansdell,-2.997,53.748,100
 172,Stoke Gifford,-2.554,51.529,100
@@ -995,7 +995,7 @@ rs,name,lon,lat,r1
 172,Tewkesbury,-2.145,51.99,100
 206,Mablethorpe-Mablethorpe and Sutton,0.269,53.327,120
 172,Bourne,-0.377,52.769,100
-206,Penistone,-1.631,53.524,100
+296,Penistone,-1.631,53.524,100
 426,Newtown,-3.319,52.512,247
 247,Coleford,-2.606,51.796,120
 144,Ballymoney,-6.513,55.073,100
