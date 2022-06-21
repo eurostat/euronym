@@ -386,13 +386,12 @@ public class EuroNymeProduction {
 			if(name.equals("Alacant/Alicante")) f.setAttribute("name", "Alicante");
 			if(name.equals("Alicante/Alacant")) f.setAttribute("name", "Alicante");
 			if(name.equals("Gijon/Xixon")) f.setAttribute("name", "Gijon");
+			if(name.equals("Tyneside conurbation")) f.setAttribute("name", "Tyneside");
 
 			if(name.equals("Brussel")) f.setAttribute("pop", 210000);
 
-			//	//TODO     tyneside poland
-
-			if(name.contains("Tyneside"))
-				System.out.println(name + " " + f.getAttribute("pop"));
+			//if(name.contains("Metropoli"))
+			//	System.out.println(name + " " + f.getAttribute("pop"));
 		}
 
 
