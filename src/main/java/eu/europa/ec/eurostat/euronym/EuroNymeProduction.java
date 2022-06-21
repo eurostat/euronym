@@ -38,6 +38,7 @@ public class EuroNymeProduction {
 
 
 	//check cize <-> champagnole
+	//TODO change anderlecht / brussels, "greater city of athen" tessalonique alicante manchester valetta gijon cherbourg tyneside poland
 	//GISCO WS ? https://ec.europa.eu/statistical-atlas/arcgis/rest/services/Basemaps/StatAtlas_Cities_Labels_2014/MapServer/0/query?where=POPL_SIZE%3E50000&outSR=3035&inSR=3035&geometry=3428439.0697888224,2356253.0645389506,4339693.4974049805,2548197.243346825&geometryType=esriGeometryEnvelope&f=json&outFields=STTL_NAME,POPL_SIZE
 
 	//TODO add other aggregates: EFTA, UE, etc.
@@ -51,10 +52,10 @@ public class EuroNymeProduction {
 		System.out.println("Start");
 
 		//
-		//structure();
+		structure();
 
 
-		//get country codes
+		/*/get country codes
 		HashSet<String> ccs = new HashSet<>();
 		ccs.addAll(FeatureUtil.getIdValues(GeoData.getFeatures(namesStruct), "cc"));
 		ccs.add("EUR");
@@ -98,7 +99,7 @@ public class EuroNymeProduction {
 				new File("./pub/v1/"+lod).mkdirs();
 				CSVUtil.save(CSVUtil.featuresToCSV(fs), "./pub/v1/"+lod+"/"+cc+".csv");
 			}
-		}
+		}*/
 
 		System.out.println("End");
 	}
@@ -347,7 +348,13 @@ public class EuroNymeProduction {
 				continue;
 			if(name.contains(" / "))
 				continue;
+			/*/correction
+			if(name.equals("Cize")) {
+				System.out.println("---");
+				name = "Champagnole";
+			}*/
 			f_.setAttribute("name", name);
+
 
 			// lon / lat
 			Point g = f.getGeometry().getCentroid();
@@ -374,11 +381,13 @@ public class EuroNymeProduction {
 		}
 
 
-		/*for(Feature f : out) {
+		for(Feature f : out) {
 			String name = f.getAttribute("name").toString();
-			if(name.contains(" / "))
-			System.out.println(name);		
-		}*/
+			if(name.contains("Cize"))
+				System.out.println(name);		
+			if(name.contains("Champa"))
+				System.out.println(name);		
+		}
 
 
 		// save output
