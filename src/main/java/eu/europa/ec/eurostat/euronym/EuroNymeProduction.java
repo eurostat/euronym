@@ -3,26 +3,21 @@
  */
 package eu.europa.ec.eurostat.euronym;
 
-import java.io.File;
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.HashSet;
 import java.util.List;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
-import org.geotools.filter.text.cql2.CQL;
 import org.locationtech.jts.geom.Coordinate;
 import org.locationtech.jts.geom.Envelope;
 import org.locationtech.jts.geom.Point;
 import org.locationtech.jts.index.quadtree.Quadtree;
 import org.locationtech.jts.index.strtree.STRtree;
-import org.opengis.filter.Filter;
 import org.opengis.referencing.crs.CoordinateReferenceSystem;
 
 import eu.europa.ec.eurostat.jgiscotools.feature.Feature;
 import eu.europa.ec.eurostat.jgiscotools.feature.FeatureUtil;
-import eu.europa.ec.eurostat.jgiscotools.io.CSVUtil;
 import eu.europa.ec.eurostat.jgiscotools.io.geo.CRSUtil;
 import eu.europa.ec.eurostat.jgiscotools.io.geo.GeoData;
 import eu.europa.ec.eurostat.jgiscotools.util.Util;
@@ -37,8 +32,7 @@ public class EuroNymeProduction {
 	private static String namesStruct = basePath + "gisco/tmp/namesStruct.gpkg";
 
 
-	//check cize <-> champagnole
-	//TODO change anderlecht / brussels, "greater city of athen" tessalonique alicante manchester valetta gijon cherbourg tyneside poland
+	//cize <-> champagnole + others
 	//GISCO WS ? https://ec.europa.eu/statistical-atlas/arcgis/rest/services/Basemaps/StatAtlas_Cities_Labels_2014/MapServer/0/query?where=POPL_SIZE%3E50000&outSR=3035&inSR=3035&geometry=3428439.0697888224,2356253.0645389506,4339693.4974049805,2548197.243346825&geometryType=esriGeometryEnvelope&f=json&outFields=STTL_NAME,POPL_SIZE
 
 	//TODO add other aggregates: EFTA, UE, etc.
@@ -348,11 +342,10 @@ public class EuroNymeProduction {
 				continue;
 			if(name.contains(" / "))
 				continue;
-			/*/correction
-			if(name.equals("Cize")) {
-				System.out.println("---");
-				name = "Champagnole";
-			}*/
+
+			//correction
+			if(name.equals("Cize")) name = "Champagnole";
+
 			f_.setAttribute("name", name);
 
 
@@ -381,12 +374,25 @@ public class EuroNymeProduction {
 		}
 
 
+		//manual corrections
 		for(Feature f : out) {
 			String name = f.getAttribute("name").toString();
-			if(name.contains("Cize"))
-				System.out.println(name);		
-			if(name.contains("Champa"))
-				System.out.println(name);		
+
+			if(name.equals("Valletta (greater)")) f.setAttribute("name", "Valletta");
+			if(name.equals("Greater City of Athens")) f.setAttribute("name", "Athens");
+			if(name.equals("Greater City of Thessaloniki")) f.setAttribute("name", "Thessaloniki");
+			if(name.equals("Greater Manchester")) f.setAttribute("name", "Manchester");
+			if(name.equals("Greater Nottingham")) f.setAttribute("name", "Nottingham");
+			if(name.equals("Alacant/Alicante")) f.setAttribute("name", "Alicante");
+			if(name.equals("Alicante/Alacant")) f.setAttribute("name", "Alicante");
+			if(name.equals("Gijon/Xixon")) f.setAttribute("name", "Gijon");
+
+			if(name.equals("Brussel")) f.setAttribute("pop", 210000);
+
+			//	//TODO     tyneside poland
+
+			if(name.contains("Tyneside"))
+				System.out.println(name + " " + f.getAttribute("pop"));
 		}
 
 
