@@ -404,7 +404,7 @@ rs,name,lon,lat,r1
 33,Corredoria,-5.82,43.386,20
 134,Grau/Grado,-6.072,43.385,112
 33,Las Vegas/Les Vegues,-5.899,43.536,20
-2042,Gijon,-5.67,43.53,1419
+1702,Gijon/Xixon,-5.67,43.53,1419
 192,Llangreu/Langreo,-5.677,43.293,94
 24,L'Entregu/El Entrego,-5.64,43.287,20
 331,Ordes,-8.403,43.079,134
@@ -496,7 +496,7 @@ rs,name,lon,lat,r1
 160,Villena,-0.863,38.636,134
 79,Cocentaina,-0.438,38.74,33
 79,Muro de Alcoy,-0.437,38.781,33
-28,Alicante,-0.49,38.358,20
+28,Alacant/Alicante,-0.49,38.358,20
 28,Guardamar del Segura,-0.653,38.086,28
 24,Torrevieja,-0.676,37.985,20
 192,Santa Pola,-0.552,38.195,79
@@ -6556,10 +6556,10 @@ rs,name,lon,lat,r1
 55,Xivares,-5.726,43.57,20
 112,El Monte,-5.824,43.636,24
 28,Antromero,-5.776,43.602,20
-55,Cimavilla,-5.595,43.525,28
+46,Cimavilla,-5.595,43.525,28
 24,Quintueles,-5.564,43.532,20
 28,Villaverde,-5.512,43.541,24
-192,Argueru,-5.471,43.541,55
+134,Argueru,-5.471,43.541,55
 66,Montiana,-5.748,43.521,20
 24,La Llada,-5.999,43.573,20
 55,Llastres,-5.27,43.515,24
@@ -6656,7 +6656,7 @@ rs,name,lon,lat,r1
 24,Villanueva,-5.819,43.622,20
 39,Aguda,-5.728,43.463,20
 24,Guyame,-5.871,43.429,20
-39,Somio,-5.627,43.54,20
+28,Somio,-5.627,43.54,20
 28,Torretejera,-5.515,43.522,20
 55,San Miguel,-5.4,43.542,24
 79,Buno,-8.783,43.267,46
@@ -7985,7 +7985,6 @@ rs,name,lon,lat,r1
 55,Planes,-0.341,38.784,33
 46,Almudaina,-0.353,38.76,20
 24,L'Horta,-0.477,38.413,24
-33,Capiscol,-0.423,38.39,24
 134,Bonalba,-0.435,38.446,20
 28,Cala d'Or,-0.331,38.469,20
 24,Cotoveta,-0.425,38.435,20
@@ -10446,9 +10445,9 @@ rs,name,lon,lat,r1
 6094,Barcelona,2.149,41.395,3528
 2940,Valencia,-0.4,39.476,1702
 5079,Bilbao,-2.97,43.294,2042
-2450,Alicante,-0.47,38.374,822
+2450,Alicante/Alacant,-0.47,38.374,822
 986,Granada,-3.611,37.163,571
-2450,Palma de Mallorca,2.649,39.578,1419
+2042,Palma de Mallorca,2.649,39.578,1419
 276,Sabadell,2.123,41.523,112
 18190,Las Palmas,-15.442,28.104,7312
 1419,Pamplona/Iruña,-1.647,42.814,685
@@ -10516,7 +10515,7 @@ rs,name,lon,lat,r1
 397,Ponferrada,-6.603,42.552,397
 571,Linares,-3.633,38.098,230
 571,Collado Villalba,-3.999,40.633,112
-1183,Eivissa,1.427,38.905,822
+986,Eivissa,1.427,38.905,822
 1702,Arrecife,-13.553,28.971,1419
 160,Torrelavega,-4.051,43.344,160
 55,el Masnou,2.297,41.481,39
@@ -10829,7 +10828,7 @@ rs,name,lon,lat,r1
 33,"Escala, L'",3.13,42.123,20
 66,Escacena del Campo,-6.398,37.416,66
 160,Nerva,-6.548,37.694,160
-822,Llanes,-4.746,43.418,276
+571,Llanes,-4.746,43.418,276
 112,Alpicat,0.546,41.665,46
 66,Almodóvar del Campo,-4.175,38.709,39
 79,Masquefa,1.817,41.501,39
