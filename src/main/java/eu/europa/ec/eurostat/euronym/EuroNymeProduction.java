@@ -386,9 +386,9 @@ public class EuroNymeProduction {
 			if(name.equals("Greater City of Thessaloniki")) f.setAttribute("name", "Thessaloniki");
 			if(name.equals("Greater Manchester")) f.setAttribute("name", "Manchester");
 			if(name.equals("Greater Nottingham")) f.setAttribute("name", "Nottingham");
-			if(name.equals("Alacant/Alicante")) f.setAttribute("name", "Alicante");
-			if(name.equals("Alicante/Alacant")) f.setAttribute("name", "Alicante");
-			if(name.equals("Gijon/Xixon")) f.setAttribute("name", "Gijon");
+			//if(name.equals("Alacant/Alicante")) f.setAttribute("name", "Alicante");
+			//if(name.equals("Alicante/Alacant")) f.setAttribute("name", "Alicante");
+			//if(name.equals("Gijon/Xixon")) f.setAttribute("name", "Gijon");
 			if(name.equals("Tyneside conurbation")) f.setAttribute("name", "Tyneside");
 
 			if(name.equals("Brussel")) f.setAttribute("pop", 210000);
