@@ -32,9 +32,7 @@ public class EuroNymeProduction {
 	private static String namesStruct = basePath + "gisco/tmp/namesStruct.gpkg";
 
 
-	//cize <-> champagnole + others
-	//GISCO WS ? https://ec.europa.eu/statistical-atlas/arcgis/rest/services/Basemaps/StatAtlas_Cities_Labels_2014/MapServer/0/query?where=POPL_SIZE%3E50000&outSR=3035&inSR=3035&geometry=3428439.0697888224,2356253.0645389506,4339693.4974049805,2548197.243346825&geometryType=esriGeometryEnvelope&f=json&outFields=STTL_NAME,POPL_SIZE
-
+	//TODO use stat atlas - for multi-ling ? https://ec.europa.eu/statistical-atlas/arcgis/rest/services/Basemaps/StatAtlas_Cities_Labels_2014/MapServer/0/query?where=POPL_SIZE%3E50000&outSR=3035&inSR=3035&geometry=3428439.0697888224,2356253.0645389506,4339693.4974049805,2548197.243346825&geometryType=esriGeometryEnvelope&f=json&outFields=STTL_NAME,POPL_SIZE
 	//TODO add other aggregates: EFTA, UE, etc.
 	//TODO improve coverage for CH, RO, etc. Why is Vaduz missing?
 	//TODO check euro gazeeter.
