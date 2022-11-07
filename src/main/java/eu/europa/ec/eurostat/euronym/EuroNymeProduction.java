@@ -34,7 +34,6 @@ import eu.europa.ec.eurostat.jgiscotools.util.Util;
 public class EuroNymeProduction {
 
 	private static String basePath = "/home/juju/Bureau/";
-	private static String namesStruct = basePath + "gisco/tmp/namesStruct.gpkg";
 
 	//TODO check / remove duplicates
 	//TODO correct paris position
@@ -51,8 +50,10 @@ public class EuroNymeProduction {
 	public static void main(String[] args) throws Exception {
 		System.out.println("Start");
 
-		//
-		structure();
+		//prepare data from imputs
+		//format: name,pop,cc,lon,lat
+		String preparedDataFile = basePath + "gisco/tmp/namesStruct.gpkg";
+		prepareDataFromInput(preparedDataFile);
 
 
 		//get country codes
@@ -71,7 +72,7 @@ public class EuroNymeProduction {
 
 				// get input labels
 				Filter f = cc.equals("EUR")? null : CQL.toFilter("cc = '"+cc+"'");
-				ArrayList<Feature> fs = GeoData.getFeatures(namesStruct, null, f);
+				ArrayList<Feature> fs = GeoData.getFeatures(preparedDataFile, null, f);
 				System.out.println(fs.size() + " labels loaded");
 
 				// do
@@ -247,7 +248,7 @@ public class EuroNymeProduction {
 		return fBest;
 	}
 
-	private static void structure() {
+	private static void prepareDataFromInput(String outFileName) {
 
 		// the output data
 		Collection<Feature> out = new ArrayList<>();
@@ -405,7 +406,7 @@ public class EuroNymeProduction {
 
 		// save output
 		System.out.println("Save " + out.size());
-		GeoData.save(out, namesStruct, CRSUtil.getETRS89_LAEA_CRS());
+		GeoData.save(out, outFileName, CRSUtil.getETRS89_LAEA_CRS());
 	}
 
 	/*
