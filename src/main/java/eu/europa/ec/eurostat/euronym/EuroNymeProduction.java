@@ -34,6 +34,7 @@ import eu.europa.ec.eurostat.jgiscotools.util.Util;
 public class EuroNymeProduction {
 
 	private static String basePath = "/home/juju/Bureau/";
+	private static String version = "v1";
 
 	//TODO check / remove duplicates
 	//TODO correct paris position
@@ -59,10 +60,10 @@ public class EuroNymeProduction {
 		//get country codes
 		HashSet<String> ccs = new HashSet<>();
 		//ccs.addAll(FeatureUtil.getIdValues(GeoData.getFeatures(namesStruct), "cc"));
-		ccs.add("EUR");
+		//ccs.add("EUR");
 		//TODO ccs.add("EU");
 		//TODO ccs.add("EFTA");
-		ccs.add("FR");
+		//ccs.add("FR");
 
 
 		//generate
@@ -97,13 +98,19 @@ public class EuroNymeProduction {
 				//System.out.println("save as GPKG");
 				//GeoData.save(fs, basePath + "euronymes.gpkg", CRSUtil.getETRS89_LAEA_CRS());
 				System.out.println("save as CSV");
-				new File("./pub/v1/"+lod).mkdirs();
+				new File("./pub/"+version+"/"+lod).mkdirs();
 				CSVUtil.save(CSVUtil.featuresToCSV(fs), "./pub/v1/"+lod+"/"+cc+".csv");
 			}
 		}
 
 		System.out.println("End");
 	}
+
+
+
+
+
+
 
 
 
