@@ -89,8 +89,9 @@ public class EuroNymeProduction {
 					f_.getAttributes().remove("gl");
 				for (Feature f_ : fs)
 					f_.getAttributes().remove("pop");
-				for (Feature f_ : fs)
-					f_.getAttributes().remove("cc");
+				if(!cc.equals("EUR"))
+					for (Feature f_ : fs)
+						f_.getAttributes().remove("cc");
 
 				// save
 				//System.out.println("save as GPKG");
