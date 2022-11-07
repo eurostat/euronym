@@ -61,7 +61,6 @@ public class EuroNymeProduction {
 		ccs.add("EUR");
 		//TODO ccs.add("EU");
 		//TODO ccs.add("EFTA");
-
 		//ccs.add("FR");
 
 
