@@ -249,7 +249,7 @@ public class EuroNymeProduction {
 
 	private static void structure() {
 
-		// the output
+		// the output data
 		Collection<Feature> out = new ArrayList<>();
 
 		// Add ERM BuiltupP
