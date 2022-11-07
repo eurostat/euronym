@@ -36,7 +36,7 @@ public class EuroNymeProduction {
 	private static String basePath = "/home/juju/Bureau/";
 	private static String version = "v1";
 
-	//TODO local names, with accents - see in ERM
+	//TODO local names, with accents - see in ERM/eurogazeeter
 	//TODO correct paris position
 
 	//TODO check / remove duplicates
