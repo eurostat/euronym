@@ -393,6 +393,8 @@ public class EuroNymeProduction {
 			//if(name.equals("Alicante/Alacant")) f.setAttribute("name", "Alicante");
 			//if(name.equals("Gijon/Xixon")) f.setAttribute("name", "Gijon");
 			if(name.equals("Tyneside conurbation")) f.setAttribute("name", "Tyneside");
+			if(name.equals("Chantraine")) f.setAttribute("name", "Epinal");
+			//TODO Saint-Sauveur -> Luxeuil_les_bains. Several...!
 
 			if(name.equals("Brussel")) f.setAttribute("pop", 210000);
 
