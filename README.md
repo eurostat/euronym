@@ -24,7 +24,7 @@ The parameters are:
 | Parameter | Supported values | Description |
 | ------------- | ------------- |-------------|
 | `ENCODING` | `UTF` `ASCII` | The encoding. By default, use `UTF`. |
-| `RESOLUTION` | `20` `50` `100` `200` | The most detailled resolution. The unit is the zoom level of your visualisation expressed in m/pixel. TODO: give correspondence with usual zoom level values. |
+| `RESOLUTION` | `20` `50` `100` `200` | The most detailled resolution. The unit is the zoom level of your visualisation expressed in *m/pixel*. If small, more labels are necessary and the file gets larger. |
 | `GEO` | See for example [here](https://github.com/eurostat/euronym/tree/main/pub/v2/UTF/20). `EUR` is for the entire dataset. | The code of the geographic entity to cover. |
 
 For additional parameters, feel free to [ask](https://github.com/eurostat/euronym/issues/new) !
@@ -38,19 +38,26 @@ A CSV file with the following columns:
 | `name` | The place name text, to be written on the map. |
 | `lon` | The longitude.  |
 | `lat` | The latitude. |
-| `r1` | TODO |
-| `rs` | TODO |
+| `rs` | Above this resolution, the label should not be shown. |
+| `r1` | Above this resolution, the label may be exagerated. |
 
-Longitude and latitude are expressed in ETRS89 ([EPSG 4258](https://spatialreference.org/ref/epsg/etrs89/)).
+The resolutions are expressed in *m/pixel*: This is the size of a screen pixel in ground meter. The smaller, the more detail.
+
+*rs* and *r1* values are computed so that:
+- For resolutions above *rs*, the label should not be shown,
+- For resolutions within [*rs*,*r1*], the label should be shown with a *1em* size,
+- For resolutions above *r1*, the label should be shown with a *1.5em* size (that is exagerated).
+
+Longitude and latitude are expressed in ETRS89 ([EPSG 4258](https://spatialreference.org/ref/epsg/etrs89/)), which can be considered as identical to WGS84.
 
 ## Input data
 
 Euronym relies on the following datasets:
 
-- [EuroRegionalMap](https://eurogeographics.org/maps-for-europe/euroregionalmap/) by [eurogeographics](https://eurogeographics.org/)
+- [EuroRegionalMap](https://eurogeographics.org/maps-for-europe/euroregionalmap/), by [EuroGeographics](https://eurogeographics.org/) (class *BuiltupP*).
 - [European commission town names table](https://ec.europa.eu/regional_policy/en/information/maps/urban-centres-towns)
 
-TODO document process
+The transformation process is available [here](https://github.com/eurostat/euronym/tree/main/src/), based on [GeoTools library](https://www.geotools.org).
 
 ## Own deployment
 
