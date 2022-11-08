@@ -286,24 +286,46 @@ public class EuroNymeProduction {
 			// name
 			//NAMA: ASCII character - NAMN: utf8
 			// NAMA1 NAMA2 NAMN1 NAMN2
-			String name = (String) f.getAttribute("NAMA1");
-			if (name == null || name.equals("UNK")) {
-				System.out.println("No NAMA1 for " + f.getID() + " " + f.getAttribute("ICC"));
-				name = (String) f.getAttribute("NAMA2");
+
+			if(ascii) {
+				String name = (String) f.getAttribute("NAMA1");
 				if (name == null || name.equals("UNK")) {
-					System.out.println("No NAMA2 for " + f.getID() + " " + f.getAttribute("ICC"));
-					name = (String) f.getAttribute("NAMN1");
+					System.out.println("No NAMA1 for " + f.getID() + " " + f.getAttribute("ICC"));
+					name = (String) f.getAttribute("NAMA2");
 					if (name == null || name.equals("UNK")) {
-						System.out.println("No NAMN1 for " + f.getID() + " " + f.getAttribute("ICC"));
-						name = (String) f.getAttribute("NAMN2");
+						System.out.println("No NAMA2 for " + f.getID() + " " + f.getAttribute("ICC"));
+						name = (String) f.getAttribute("NAMN1");
 						if (name == null || name.equals("UNK")) {
-							System.err.println("No NAMN2 for " + f.getID() + " " + f.getAttribute("ICC"));
-							continue;
+							System.out.println("No NAMN1 for " + f.getID() + " " + f.getAttribute("ICC"));
+							name = (String) f.getAttribute("NAMN2");
+							if (name == null || name.equals("UNK")) {
+								System.err.println("No NAMN2 for " + f.getID() + " " + f.getAttribute("ICC"));
+								continue;
+							}
 						}
 					}
 				}
+				f_.setAttribute("name", name);
+			} else {
+				String name = (String) f.getAttribute("NAMN1");
+				if (name == null || name.equals("UNK")) {
+					System.out.println("No NAMN1 for " + f.getID() + " " + f.getAttribute("ICC"));
+					name = (String) f.getAttribute("NAMN2");
+					if (name == null || name.equals("UNK")) {
+						System.out.println("No NAMN2 for " + f.getID() + " " + f.getAttribute("ICC"));
+						name = (String) f.getAttribute("NAMA1");
+						if (name == null || name.equals("UNK")) {
+							System.out.println("No NAMA1 for " + f.getID() + " " + f.getAttribute("ICC"));
+							name = (String) f.getAttribute("NAMA2");
+							if (name == null || name.equals("UNK")) {
+								System.err.println("No NAMA2 for " + f.getID() + " " + f.getAttribute("ICC"));
+								continue;
+							}
+						}
+					}
+				}
+				f_.setAttribute("name", name);
 			}
-			f_.setAttribute("name", name);
 
 
 
