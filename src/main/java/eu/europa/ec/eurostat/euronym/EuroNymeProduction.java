@@ -63,8 +63,8 @@ public class EuroNymeProduction {
 
 		//prepare data from inputs
 		//format: name,pop,cc,lon,lat
-		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_ascii.gpkg", true);
-		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_.gpkg", false);
+		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_ASCII.gpkg", true);
+		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_UTF.gpkg", false);
 
 
 		//get country codes
@@ -79,7 +79,7 @@ public class EuroNymeProduction {
 		//generate
 		for(String cc : ccs) {
 			for (int lod : new int[] { 20, 50, 100, 200 }) {
-				for(String enc : new String[] {"", "ascii"}) {
+				for(String enc : new String[] {"UTF", "ASCII"}) {
 					System.out.println("******* " + cc + " LOD " + lod + " enc="+enc);
 
 					// get input labels
