@@ -34,7 +34,7 @@ import eu.europa.ec.eurostat.jgiscotools.util.Util;
 public class EuroNymeProduction {
 
 	private static String basePath = "/home/juju/Bureau/";
-	private static String version = "v1";
+	private static String version = "v2";
 
 	//TODO local names, with accents - see in ERM (NAMN). OR: eurogazeeter ?
 	//TODO correct paris position
@@ -63,10 +63,8 @@ public class EuroNymeProduction {
 
 		//prepare data from inputs
 		//format: name,pop,cc,lon,lat
-		String preparedDataFileASCII = basePath + "gisco/tmp/namesStruct_ascii.gpkg";
-		prepareDataFromInput(preparedDataFileASCII, true);
-		String preparedDataFile = basePath + "gisco/tmp/namesStruct.gpkg";
-		prepareDataFromInput(preparedDataFile, false);
+		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_ascii.gpkg", true);
+		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_.gpkg", false);
 
 
 		//get country codes
@@ -81,38 +79,38 @@ public class EuroNymeProduction {
 		//generate
 		for(String cc : ccs) {
 			for (int lod : new int[] { 20, 50, 100, 200 }) {
-				for(String enc : new String[] {""}) {
-				System.out.println("******* " + cc + " LOD " + lod);
+				for(String enc : new String[] {"", "ascii"}) {
+					System.out.println("******* " + cc + " LOD " + lod + " enc="+enc);
 
-				// get input labels
-				Filter f = cc.equals("EUR")? null : CQL.toFilter("cc = '"+cc+"'");
-				ArrayList<Feature> fs = GeoData.getFeatures(preparedDataFile, null, f);
-				System.out.println(fs.size() + " labels loaded");
+					// get input labels
+					Filter f = cc.equals("EUR")? null : CQL.toFilter("cc = '"+cc+"'");
+					ArrayList<Feature> fs = GeoData.getFeatures(basePath + "gisco/tmp/namesStruct_"+enc+".gpkg", null, f);
+					System.out.println(fs.size() + " labels loaded");
 
-				// do
-				int marginPix = 40;
-				fs = generate(fs, 14, lod, 100000, 1.2, marginPix, marginPix);
-				System.out.println(fs.size());
+					// do
+					int marginPix = 40;
+					fs = generate(fs, 14, lod, 100000, 1.2, marginPix, marginPix);
+					System.out.println(fs.size());
 
-				// refine with r1 setting
-				int radR1Pix = 150;
-				setR1(fs, lod, 1.2, radR1Pix);
+					// refine with r1 setting
+					int radR1Pix = 150;
+					setR1(fs, lod, 1.2, radR1Pix);
 
-				// clean attributes
-				for (Feature f_ : fs)
-					f_.getAttributes().remove("gl");
-				for (Feature f_ : fs)
-					f_.getAttributes().remove("pop");
-				if(!cc.equals("EUR"))
+					// clean attributes
 					for (Feature f_ : fs)
-						f_.getAttributes().remove("cc");
+						f_.getAttributes().remove("gl");
+					for (Feature f_ : fs)
+						f_.getAttributes().remove("pop");
+					if(!cc.equals("EUR"))
+						for (Feature f_ : fs)
+							f_.getAttributes().remove("cc");
 
-				// save
-				//System.out.println("save as GPKG");
-				//GeoData.save(fs, basePath + "euronymes.gpkg", CRSUtil.getETRS89_LAEA_CRS());
-				System.out.println("save as CSV");
-				new File("./pub/"+version+"/"+lod).mkdirs();
-				CSVUtil.save(CSVUtil.featuresToCSV(fs), "./pub/v1/"+lod+"/"+cc+".csv");
+					// save
+					//System.out.println("save as GPKG");
+					//GeoData.save(fs, basePath + "euronymes.gpkg", CRSUtil.getETRS89_LAEA_CRS());
+					System.out.println("save as CSV");
+					new File("./pub/"+version+"/"+enc+"/"+lod).mkdirs();
+					CSVUtil.save(CSVUtil.featuresToCSV(fs), "./pub/"+version+"/"+enc+"/"+lod+"/"+cc+".csv");
 				}
 			}
 		}
