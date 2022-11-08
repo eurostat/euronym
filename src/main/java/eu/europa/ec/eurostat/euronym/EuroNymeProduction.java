@@ -389,10 +389,6 @@ public class EuroNymeProduction {
 				continue;
 			if(name.contains(" / "))
 				continue;
-
-			//correction
-			if(name.equals("Cize")) name = "Champagnole";
-
 			f_.setAttribute("name", name);
 
 
@@ -425,6 +421,7 @@ public class EuroNymeProduction {
 		for(Feature f : out) {
 			String name = f.getAttribute("name").toString();
 
+			if(name.equals("Cize")) f.setAttribute("name", "Champagnole");
 			if(name.equals("Valletta (greater)")) f.setAttribute("name", "Valletta");
 			if(name.equals("Greater City of Athens")) f.setAttribute("name", "Athens");
 			if(name.equals("Greater City of Thessaloniki")) f.setAttribute("name", "Thessaloniki");
