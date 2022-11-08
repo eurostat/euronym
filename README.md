@@ -50,3 +50,28 @@ TODO document process
 
 To deploy your own stable version of Euronym, `git clone` the repository and simply publish the `pub` folder on your own web server folder accessible under the URL of your choice. Use the new base URL, for example `https://www.mydomain.eu/path/to/pub/v2`, to access the service. This offers the possibility to select only the necessary API elements of interest.
 
+
+## About
+
+| | |
+|-|-|
+| *contributors* | [<img src="https://github.com/jgaffuri.png" height="40" />](https://github.com/jgaffuri)  |
+| *version* | 2 |
+| *status* | Since 2022 |
+| *license* | [EUPL 1.2](https://github.com/eurostat/Nuts2json/blob/master/LICENSE) |
+
+
+## Support and contribution
+
+Feel free to [ask support](https://github.com/eurostat/euronym/issues/new), fork the project or simply star it (it's always a pleasure).
+
+
+
+## Copyright
+
+TODO
+
+
+## Disclaimer
+
+The designations employed and the presentation of material on these maps do not imply the expression of any opinion whatsoever on the part of the European Union concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Kosovo*: This designation is without prejudice to positions on status, and is in line with UNSCR 1244/1999 and the ICJ Opinion on the Kosovo declaration of independence. Palestine*: This designation shall not be construed as recognition of a State of Palestine and is without prejudice to the individual positions of the Member States on this issue.
