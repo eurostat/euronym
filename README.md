@@ -2,6 +2,12 @@
 
 Multi-scale toponyms for web mapping applications. For Europe.
 
+Euronym uses a [label placement algorithm](https://en.wikipedia.org/wiki/Automatic_label_placement) to adapt the density, selection and size of labels depending on the zoom level.
+
+## Examples
+
+Euronym is used by [Gridviz](https://github.com/eurostat/gridviz/blob/master/docs/reference.md#showing-labels) library.
+
 ## API
 
 Base URL: `https://raw.githubusercontent.com/euronym/Nuts2json/master/pub/v2`
