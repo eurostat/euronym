@@ -1,6 +1,8 @@
 # Euronym
 
-Euronym provides ready-to-use toponym files for multi-scale web mapping applications, with a focus on Europe. Euronym files are produced using a [label placement algorithm](https://en.wikipedia.org/wiki/Automatic_label_placement) to adapt the density, selection and size of labels depending on the zoom level.
+Euronym provides pre-computed map place name labels for multi-scale web mapping applications, with a focus on Europe.
+
+Euronym files are produced using a [label placement algorithm](https://en.wikipedia.org/wiki/Automatic_label_placement) to adapt the density, selection and size of labels depending on the zoom level.
 
 [![](/docs/overview.gif)](https://eurostat.github.io/gridviz/examples/labels_.html)
 
@@ -33,7 +35,7 @@ A CSV file with the following columns:
 
 | Column | Description |
 | ------------- | ------------- |
-| `name` | The toponym text. |
+| `name` | The place name text, to be written on the map. |
 | `lon` | The longitude.  |
 | `lat` | The latitude. |
 | `r1` | TODO |
