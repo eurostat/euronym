@@ -66,10 +66,12 @@ To deploy your own stable version of Euronym, `git clone` the repository and sim
 Feel free to [ask support](https://github.com/eurostat/euronym/issues/new), fork the project or simply star it (it's always a pleasure).
 
 
-
 ## Copyright
 
-TODO
+The copyright of the input dataset apply:
+
+- [EuroGeographics Open Data Licence](https://www.mapsforeurope.org/licence). [EuroRegionalMap](https://eurogeographics.org/maps-for-europe/euroregionalmap/) dataset is protected by copyright and other applicable laws. It is provided under the terms of this licence, which you accept by using it and accepting the terms of the licence. Note that **© EuroGeographics 2022** attribution must be added.
+- 
 
 
 ## Disclaimer
