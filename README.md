@@ -45,7 +45,7 @@ The resolutions are expressed in *m/pixel*: This is the size of a screen pixel i
 
 *rs* and *r1* values are computed so that:
 - For resolutions above *rs*, the label should not be shown,
-- For resolutions within [*rs*,*r1*], the label should be shown with a *1em* size,
+- For resolutions within [*rs*, *r1*], the label should be shown with a *1em* size,
 - For resolutions above *r1*, the label should be shown with a *1.5em* size (that is exagerated).
 
 Longitude and latitude are expressed in ETRS89 ([EPSG 4258](https://spatialreference.org/ref/epsg/etrs89/)), which can be considered as identical to WGS84.
