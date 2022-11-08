@@ -4,6 +4,7 @@ Multi-scale toponyms for web mapping applications. For Europe.
 
 Euronym uses a [label placement algorithm](https://en.wikipedia.org/wiki/Automatic_label_placement) to adapt the density, selection and size of labels depending on the zoom level.
 
+[![](/docs/overview.gif)](https://eurostat.github.io/gridviz/examples/labels_.html)
 
 
 ## Examples
