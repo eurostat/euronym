@@ -1,8 +1,6 @@
 # Euronym
 
-Multi-scale toponyms for web mapping applications. For Europe.
-
-Euronym uses a [label placement algorithm](https://en.wikipedia.org/wiki/Automatic_label_placement) to adapt the density, selection and size of labels depending on the zoom level.
+Euronym provides ready-to-use toponym files for multi-scale web mapping applications, with a focus on Europe. Euronym files are produced using a [label placement algorithm](https://en.wikipedia.org/wiki/Automatic_label_placement) to adapt the density, selection and size of labels depending on the zoom level.
 
 [![](/docs/overview.gif)](https://eurostat.github.io/gridviz/examples/labels_.html)
 
