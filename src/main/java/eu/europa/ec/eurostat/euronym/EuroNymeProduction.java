@@ -81,6 +81,7 @@ public class EuroNymeProduction {
 		//generate
 		for(String cc : ccs) {
 			for (int lod : new int[] { 20, 50, 100, 200 }) {
+				for(String enc : new String[] {""}) {
 				System.out.println("******* " + cc + " LOD " + lod);
 
 				// get input labels
@@ -112,6 +113,7 @@ public class EuroNymeProduction {
 				System.out.println("save as CSV");
 				new File("./pub/"+version+"/"+lod).mkdirs();
 				CSVUtil.save(CSVUtil.featuresToCSV(fs), "./pub/v1/"+lod+"/"+cc+".csv");
+				}
 			}
 		}
 
