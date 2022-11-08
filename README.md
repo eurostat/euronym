@@ -6,7 +6,7 @@ Euronym uses a [label placement algorithm](https://en.wikipedia.org/wiki/Automat
 
 [![](/docs/overview.gif)](https://eurostat.github.io/gridviz/examples/labels_.html)
 
-## Examples
+## Example
 
 Euronym is used by [Gridviz](https://github.com/eurostat/gridviz/blob/master/docs/reference.md#showing-labels) library. See [this example](https://eurostat.github.io/gridviz/examples/labels_.html).
 
