@@ -38,6 +38,7 @@ public class EuroNymeProduction {
 
 	//TODO local names, with accents - see in ERM (NAMN). OR: eurogazeeter ?
 	//TODO correct paris position
+	//TODO:check EBM_NAM PPL NAMA NAMN
 
 	//TODO check / remove duplicates
 	//TODO check Luxeuil-les-Bains
@@ -62,8 +63,10 @@ public class EuroNymeProduction {
 
 		//prepare data from inputs
 		//format: name,pop,cc,lon,lat
+		String preparedDataFileASCII = basePath + "gisco/tmp/namesStruct_ascii.gpkg";
+		prepareDataFromInput(preparedDataFileASCII, true);
 		String preparedDataFile = basePath + "gisco/tmp/namesStruct.gpkg";
-		prepareDataFromInput(preparedDataFile);
+		prepareDataFromInput(preparedDataFile, false);
 
 
 		//get country codes
@@ -264,12 +267,10 @@ public class EuroNymeProduction {
 		return fBest;
 	}
 
-	private static void prepareDataFromInput(String outFileName) {
+	private static void prepareDataFromInput(String outFileName, boolean ascii) {
 
 		// the output data
 		Collection<Feature> out = new ArrayList<>();
-
-		//TODO:check EBM_NAM PPL NAMA NAMN
 
 		// Add ERM BuiltupP
 
@@ -283,6 +284,7 @@ public class EuroNymeProduction {
 			Feature f_ = new Feature();
 
 			// name
+			//NAMA: ASCII character - NAMN: utf8
 			// NAMA1 NAMA2 NAMN1 NAMN2
 			String name = (String) f.getAttribute("NAMA1");
 			if (name == null || name.equals("UNK")) {
@@ -301,8 +303,6 @@ public class EuroNymeProduction {
 					}
 				}
 			}
-			if(name.contains("Arrondissement"))
-				name = name.replace(" Arrondissement", "");
 			f_.setAttribute("name", name);
 
 
@@ -416,6 +416,9 @@ public class EuroNymeProduction {
 			//TODO Saint-Sauveur -> Luxeuil_les_bains. Several...!
 
 			if(name.equals("Brussel")) f.setAttribute("pop", 210000);
+
+			if(name.contains("Arrondissement"))
+				f.setAttribute("name", name.replace(" Arrondissement", ""));
 
 			//if(name.contains("Metropoli"))
 			//	System.out.println(name + " " + f.getAttribute("pop"));
