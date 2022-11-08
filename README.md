@@ -2,8 +2,6 @@
 
 Multi-scale toponyms for web mapping applications. For Europe.
 
-
-
 ## API
 
 Base URL: `https://raw.githubusercontent.com/euronym/Nuts2json/master/pub/v2`
