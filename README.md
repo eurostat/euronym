@@ -71,7 +71,7 @@ To deploy your own stable version of Euronym, `git clone` the repository and sim
 | *contributors* | [<img src="https://github.com/jgaffuri.png" height="40" />](https://github.com/jgaffuri)  |
 | *version* | 2 |
 | *status* | Since 2022 |
-| *license* | [EUPL 1.2](https://github.com/eurostat/Nuts2json/blob/master/LICENSE) |
+| *license* | [EuroGeographics Open Data Licence](https://www.mapsforeurope.org/licence), [EUPL 1.2](https://github.com/eurostat/Nuts2json/blob/master/LICENSE) for the code. |
 
 
 ## Support and contribution
