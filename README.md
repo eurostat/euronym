@@ -15,7 +15,7 @@ Euronym is used by [Gridviz](https://github.com/eurostat/gridviz/blob/master/doc
 Base URL: `https://raw.githubusercontent.com/euronym/Nuts2json/master/pub/v2`
 (See [here](#own-deployment) how to define your own base URL)
 
-URL patterns:  `/<ENCODING>/<RESOLUTION>/<GEO>.csv`
+URL pattern:  `/<ENCODING>/<RESOLUTION>/<GEO>.csv`
 
 For example, [`https://raw.githubusercontent.com/eurostat/euronym/main/pub/v2/UTF/100/LU.csv`](https://raw.githubusercontent.com/eurostat/euronym/main/pub/v2/UTF/100/LU.csv) returns UTF data for resolution 100m/pixel over Luxembourg.
 
@@ -23,7 +23,7 @@ The parameters are:
 
 | Parameter | Supported values | Description |
 | ------------- | ------------- |-------------|
-| `ENCODING` | `UTF` `ASCII` | The encoding. By default, use `UTF`. |
+| `ENCODING` | `UTF` `ASCII` | The encoding. By default, you should use `UTF`. |
 | `RESOLUTION` | `20` `50` `100` `200` | The most detailled resolution. The unit is the zoom level of your visualisation expressed in *m/pixel*. If small, more labels are necessary and the file gets larger. |
 | `GEO` | See for example [here](https://github.com/eurostat/euronym/tree/main/pub/v2/UTF/20). `EUR` is for the entire dataset. | The code of the geographic entity to cover. |
 
@@ -40,6 +40,7 @@ A CSV file with the following columns:
 | `lat` | The latitude. |
 | `rs` | Above this resolution, the label should not be shown. |
 | `r1` | Above this resolution, the label may be exagerated. |
+| `cc` | The country code. This is provided when `GEO` is set to `EUR`. This allows doing some filtering based on country. |
 
 The resolutions are expressed in *m/pixel*: This is the size of a screen pixel in ground meter. The smaller, the more detail.
 
