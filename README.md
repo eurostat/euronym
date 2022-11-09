@@ -1,8 +1,6 @@
 # Euronym
 
-Euronym provides pre-computed map place name labels for multi-scale web mapping applications, with a focus on Europe.
-
-Euronym files are produced using a [label placement algorithm](https://en.wikipedia.org/wiki/Automatic_label_placement) to adapt the density, selection and size of labels depending on the zoom level.
+Some pre-computed map place name labels for multi-scale web mapping applications, with a focus on Europe. Euronym labels are produced using a [label placement algorithm](https://en.wikipedia.org/wiki/Automatic_label_placement) to adapt the density, selection and size of labels depending on the zoom level and label importance.
 
 [![](/docs/overview.gif)](https://eurostat.github.io/gridviz/examples/labels_.html)
 
