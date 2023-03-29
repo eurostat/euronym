@@ -1,11 +1,11 @@
 rs,name,lon,lat,r1
-100000,Antwerpen,4.432,51.192,100000
-1183,Liège,5.566,50.629,571
-685,Gent,3.731,51.053,397
-685,Charleroi,4.461,50.416,331
+685,Antwerpen,4.432,51.192,276
+571,Liège,5.566,50.629,571
+571,Gent,3.731,51.053,331
+986,Charleroi,4.461,50.416,331
 397,Brugge,3.226,51.206,230
 192,Oostende,2.923,51.223,160
-276,Leuven,4.71,50.876,160
+134,Leuven,4.71,50.876,134
 230,Namur,4.858,50.462,192
 160,La Louvière,4.187,50.479,134
 276,Verviers,5.866,50.591,160
@@ -13,7 +13,7 @@ rs,name,lon,lat,r1
 397,Roeselare,3.126,50.947,192
 331,Turnhout,4.948,51.319,276
 160,Vilvoorde,4.43,50.924,46
-1183,Tournai,3.388,50.61,276
+685,Tournai,3.388,50.61,276
 112,Hasselt,5.336,50.928,79
 94,Beveren,4.26,51.216,46
 397,Mons,3.951,50.456,134
@@ -107,7 +107,7 @@ rs,name,lon,lat,r1
 33,Arbrefontaine,5.835,50.301,20
 55,Ardooie,3.198,50.978,33
 94,Arendonk,5.087,51.321,66
-3528,Arlon,5.817,49.684,685
+2450,Arlon,5.817,49.684,685
 55,Arquennes,4.273,50.568,28
 39,Arville,5.317,50.032,28
 79,As,5.589,51.007,46
@@ -290,7 +290,7 @@ rs,name,lon,lat,r1
 79,Brugelette,3.852,50.595,39
 33,Brûly,4.527,49.969,33
 33,Brussegem,4.267,50.927,20
-571,Brussel,4.352,50.847,276
+100000,Bruxelles/Brussel,4.352,50.847,100000
 28,Brustem,5.219,50.802,20
 39,Budingen,5.104,50.864,20
 94,Buggenhout,4.203,51.015,79
@@ -524,7 +524,7 @@ rs,name,lon,lat,r1
 28,Gembes,5.064,49.997,28
 66,Gemmenich,5.995,50.746,24
 28,Genappe,4.451,50.613,20
-685,Genk,5.495,50.965,276
+476,Genk,5.495,50.965,276
 24,Gentinnes,4.603,50.581,20
 46,Gerin,4.816,50.246,46
 33,Gérouville,5.426,49.619,33
@@ -933,7 +933,7 @@ rs,name,lon,lat,r1
 39,Maurage,4.101,50.456,20
 28,Mazenzele,4.172,50.943,20
 46,Mazy,4.676,50.513,39
-331,Mechelen,4.481,51.028,134
+230,Mechelen,4.481,51.028,134
 192,Mechelen-aan-de-Maas,5.696,50.963,112
 39,Meeffe,5.016,50.609,39
 28,Meensel-Kiezegem,4.924,50.896,24
@@ -1275,7 +1275,7 @@ rs,name,lon,lat,r1
 39,Ruiselede,3.397,51.041,39
 33,Rumbeke,3.154,50.933,20
 33,Rumes,3.305,50.556,33
-276,Rummen,5.163,50.892,46
+230,Rummen,5.163,50.892,46
 39,Rumst,4.427,51.078,28
 28,Runkelen,5.154,50.847,20
 24,Rupelmonde,4.291,51.128,20
@@ -1360,7 +1360,7 @@ rs,name,lon,lat,r1
 24,Sint-Kruis-Winkel,3.825,51.155,20
 28,Sint-Kwintens-Lennik,4.155,50.806,28
 55,Sint-Lambrechts-Herk,5.307,50.898,24
-55,Sint-Lambrechts-Woluwe,4.426,50.844,24
+28,Sint-Lambrechts-Woluwe,4.426,50.844,24
 134,Sint-Laureins,3.524,51.242,28
 46,Sint-Lievens-Esse,3.885,50.857,24
 46,Sint-Lievens-Houtem,3.859,50.92,28
@@ -1415,7 +1415,7 @@ rs,name,lon,lat,r1
 46,Steenkerque,4.069,50.643,24
 94,Stekene,4.041,51.206,46
 39,Stene,2.915,51.202,20
-28,Sterrebeek,4.512,50.862,24
+33,Sterrebeek,4.512,50.862,24
 46,Stevoort,5.251,50.917,46
 39,Stokrooie,5.283,50.967,20
 24,Stoumont,5.808,50.408,24
@@ -1548,7 +1548,7 @@ rs,name,lon,lat,r1
 55,Vorst,5.021,51.075,33
 24,Vosselaar,4.888,51.312,20
 39,Vosselare,3.555,51.026,39
-39,Vossem,4.558,50.835,39
+79,Vossem,4.558,50.835,66
 33,Vottem,5.585,50.673,20
 28,Vrasene,4.195,51.219,28
 33,Vreren,5.497,50.752,24
@@ -2111,7 +2111,7 @@ rs,name,lon,lat,r1
 33,Vloesberg,3.737,50.736,33
 28,Froidchapelle,4.329,50.151,28
 230,La Calamine,6.013,50.716,46
-33,Kraainem,4.466,50.862,20
+46,Kraainem,4.466,50.862,20
 55,Le Rœulx,4.109,50.501,24
 33,Linkebeek,4.336,50.773,24
 397,Malmedy,6.027,50.426,134
