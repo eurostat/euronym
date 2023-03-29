@@ -1,6 +1,7 @@
 tmp/
 download/
-   
+.vscode/
+
 # Compiled class file
 *.class
 
