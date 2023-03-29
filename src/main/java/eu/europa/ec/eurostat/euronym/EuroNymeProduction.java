@@ -434,7 +434,8 @@ public class EuroNymeProduction {
 			if(name.equals("Chantraine")) f.setAttribute("name", "Epinal");
 			//TODO Saint-Sauveur -> Luxeuil_les_bains. Several...!
 
-			if(name.equals("Brussel")) f.setAttribute("pop", 210000);
+			if(name.equals("Brussel")) f.setAttribute("pop", 1200000); //210000);
+			if(name.equals("Brussel")) f.setAttribute("name", "Bruxelles/Brussel");
 
 			if(name.contains("Arrondissement"))
 				f.setAttribute("name", name.replace(" Arrondissement", ""));
