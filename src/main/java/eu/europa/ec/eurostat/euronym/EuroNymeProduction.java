@@ -63,8 +63,8 @@ public class EuroNymeProduction {
 
 		//prepare data from inputs
 		//format: name,pop,cc,lon,lat
-		//prepareDataFromInput(basePath + "gisco/tmp/namesStruct_ASCII.gpkg", true);
-		//prepareDataFromInput(basePath + "gisco/tmp/namesStruct_UTF.gpkg", false);
+		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_ASCII.gpkg", true);
+		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_UTF.gpkg", false);
 
 
 		//get country codes
