@@ -4,11 +4,11 @@ Place name labels for multi-scale web mapping applications, with a focus on Euro
 
 Euronym labels are produced using a [label placement algorithm](https://en.wikipedia.org/wiki/Automatic_label_placement) to adapt the density, selection and size of labels depending on the zoom level and label importance.
 
-[![](/docs/overview.gif)](https://eurostat.github.io/gridviz/examples/labels_.html)
+[![](/docs/overview.gif)](https://eurostat.github.io/gridviz/examples/basics/labels_.html)
 
 ## Example
 
-Euronym is used by [Gridviz](https://github.com/eurostat/gridviz/blob/master/docs/reference.md#showing-labels) library. See [this example](https://eurostat.github.io/gridviz/examples/labels_.html).
+Euronym is used by [Gridviz](https://github.com/eurostat/gridviz/blob/master/docs/reference.md#showing-labels) library. See [this example](https://eurostat.github.io/gridviz/examples/basics/labels_.html).
 
 ## API
 
