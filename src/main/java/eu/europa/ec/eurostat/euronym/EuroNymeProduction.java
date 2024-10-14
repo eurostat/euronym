@@ -70,7 +70,7 @@ public class EuroNymeProduction {
 		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_ASCII_all.gpkg", true, false);
 		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_UTF_all.gpkg", false, false);
 
-		return;
+		if(true) return;
 
 		//get country codes
 		HashSet<String> ccs = new HashSet<>();
