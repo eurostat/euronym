@@ -65,9 +65,12 @@ public class EuroNymeProduction {
 
 		//prepare data from inputs
 		//format: name,pop,cc,lon,lat
-		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_ASCII.gpkg", true);
-		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_UTF.gpkg", false);
+		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_ASCII_ltn.gpkg", true, true);
+		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_UTF_ltn.gpkg", false, true);
+		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_ASCII_all.gpkg", true, false);
+		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_UTF_all.gpkg", false, false);
 
+		return;
 
 		//get country codes
 		HashSet<String> ccs = new HashSet<>();
@@ -269,7 +272,7 @@ public class EuroNymeProduction {
 		return fBest;
 	}
 
-	private static void prepareDataFromInput(String outFileName, boolean ascii) {
+	private static void prepareDataFromInput(String outFileName, boolean ascii, boolean forceLatin) {
 
 		// the output data
 		Collection<Feature> out = new ArrayList<>();
@@ -328,9 +331,10 @@ public class EuroNymeProduction {
 					}
 				}
 			}
-			if(name == null || "".equals(name)) continue;
-			String latinName = transliterator.transliterate(name);
-			f_.setAttribute("name", latinName);
+
+			//transcript to latin
+			if(forceLatin) name = transliterator.transliterate(name);
+			f_.setAttribute("name", name);
 
 
 
