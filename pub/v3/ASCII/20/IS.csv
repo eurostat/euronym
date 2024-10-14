@@ -22,21 +22,20 @@ rs,name,lon,lat,r1
 160,Keflavik og Njardvik,-22.548,63.998,160
 331,Grindavik,-22.434,63.843,134
 94,Vogar,-22.377,63.984,46
-397,Akranes,-22.058,64.319,160
+476,Akranes,-22.058,64.319,160
 331,Budardalur,-21.762,65.109,331
 331,Borgarnes,-21.91,64.545,134
-55,Alftanes,-22.013,64.11,24
+46,Alftanes,-22.013,64.11,24
 112,Drangsnes,-21.44,65.69,66
-39,Hafnarfjordur,-21.955,64.072,39
+55,Hafnarfjordur,-21.955,64.072,33
 66,Hvanneyri,-21.766,64.562,55
 24,Gardabaer,-21.928,64.091,20
 192,Grundarhverfi Kjalarnesi,-21.831,64.242,66
-55,Kopavogur,-21.861,64.113,20
 276,Bifrost,-21.549,64.766,134
-94,Mosfellsbaer,-21.69,64.167,79
+112,Mosfellsbaer,-21.69,64.167,39
 685,Holmavik,-21.683,65.701,331
-66,Seltjarnarnes,-21.983,64.151,28
-100000,Reykjavik,-21.897,64.133,100000
+94,Seltjarnarnes,-21.983,64.151,28
+33,Reykjavik,-21.897,64.133,20
 66,Solheimar,-20.642,64.066,33
 571,Hvammstangi,-20.943,65.398,276
 134,Thorlakshofn,-21.378,63.861,112
@@ -87,7 +86,7 @@ rs,name,lon,lat,r1
 112,Nesjahverfi Hornafirdi,-15.226,64.312,46
 1702,Hofn i Hornafirdi,-15.208,64.255,685
 46,Fellabaer,-14.426,65.283,20
-3528,Egilsstadir,-14.406,65.262,986
+2042,Egilsstadir,-14.406,65.262,986
 192,Reydarfjordur,-14.218,65.033,192
 476,Djupivogur,-14.283,64.657,192
 66,Eskifjordur,-14.013,65.071,66
@@ -97,3 +96,5 @@ rs,name,lon,lat,r1
 230,Stodvarfjordur,-13.874,64.833,94
 331,Faskrudsfjordur,-14.014,64.93,94
 476,Neskaupstadur,-13.676,65.147,192
+100000,Reykjavík,-21.903,64.115,100000
+55,Hamrar,-21.793,64.145,39

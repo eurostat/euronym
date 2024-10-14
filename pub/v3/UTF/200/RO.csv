@@ -1,0 +1,156 @@
+rs,name,lon,lat,r1
+100000,Bucureşti,26.101,44.44,100000
+4408,Cluj-Napoca,23.592,46.773,1773
+2552,Timişoara,21.227,45.754,1232
+2127,Iaşi,27.58,47.158,2127
+1773,Constanţa,28.63,44.176,1478
+1773,Craiova,23.8,44.317,1232
+2552,Galaţi,28.035,45.436,856
+1773,Braşov,25.609,45.649,856
+1027,Ploieşti,26.018,44.939,414
+1478,Oradea,21.932,47.057,1027
+345,Brăila,27.956,45.274,200
+856,Piteşti,24.863,44.857,595
+1478,Sibiu,24.15,45.792,714
+856,Arad,21.316,46.18,345
+1478,Bacău,26.913,46.561,595
+595,Târgu Mureş,24.56,46.54,595
+714,Buzău,26.817,45.152,414
+1773,Baia Mare,23.572,47.653,714
+856,Botoşani,26.657,47.745,595
+496,Satu Mare,22.878,47.79,414
+414,Drobeta-Turnu Severin,22.658,44.633,414
+345,Râmnicu Vâlcea,24.368,45.104,345
+714,Focşani,27.182,45.69,496
+595,Piatra Neamţ,26.375,46.932,345
+345,Târgovişte,25.462,44.923,288
+1232,Târgu Jiu,23.275,45.037,414
+714,Tulcea,28.798,45.177,496
+414,Slatina,24.367,44.431,288
+856,Călărași,27.325,44.202,714
+856,Bistrita,24.492,47.135,414
+1232,Giurgiu,25.963,43.896,414
+856,Hunedoara,22.909,45.759,496
+240,Deva,22.908,45.874,200
+345,Suceava,26.243,47.644,200
+856,Bârlad,27.673,46.228,496
+496,Sfântu Gheorghe,25.789,45.865,200
+414,Municipiul Alba Iulia,23.571,46.075,345
+595,Municipiul Zalău,23.057,47.187,345
+288,Roman,26.931,46.924,288
+714,Municipiul Vaslui,27.73,46.642,345
+496,Municipiul Slobozia,27.369,44.564,288
+240,Municipiul Alexandria,25.328,43.97,240
+714,Lunca Bârzavei,21.875,45.323,414
+714,Municipiul Mediaş,24.342,46.159,288
+345,Municipiul Oneşti,26.769,46.251,288
+714,Municipiul Mangalia,28.579,43.813,288
+595,Petroșani-Colonie,23.373,45.408,288
+288,Oraş Năvodari,28.608,44.325,200
+288,Municipiul Miercurea Ciuc,25.802,46.359,288
+414,Municipiul Lugoj,21.906,45.689,288
+240,Municipiul Odorheiu Secuiesc,25.301,46.308,240
+288,Municipiul Râmnicu Sărat,27.046,45.382,200
+714,Oraş Borşa,24.649,47.655,414
+288,Câmpina,25.739,45.128,200
+496,Municipiul Caracal,24.348,44.111,240
+288,Municipiul Dej,23.876,47.137,288
+240,Oraş Mioveni,24.939,44.958,200
+414,Municipiul Tecuci,27.43,45.843,200
+496,Municipiul Reghin,24.7,46.775,200
+288,Municipiul Făgăraş,24.976,45.839,288
+414,Turda,23.811,46.556,200
+345,Municipiul Sighetu Marmaţiei,23.893,47.931,240
+240,Municipiul Sighişoara,24.803,46.222,240
+414,Municipiul Câmpulung,25.053,45.276,288
+496,Oltenița,26.638,44.093,345
+288,Municipiul Rădăuţi,25.916,47.841,200
+496,Municipiul Fălticeni,26.299,47.458,200
+240,Bilca,25.685,47.917,200
+288,Municipiul Caransebeş,22.222,45.415,200
+240,Vălenii de Munte,26.04,45.2,200
+595,Municipiul Turnu Măgurele,24.872,43.753,240
+288,Municipiul Paşcani,26.719,47.252,240
+288,Municipiul Carei,22.467,47.686,200
+345,Municipiul Dorohoi,26.4,47.95,200
+240,Municipiul Sebeş,23.57,45.957,200
+288,Oraş Cernavoda,28.032,44.346,288
+345,Municipiul Târgu Secuiesc,26.131,45.998,200
+595,Municipiul Motru,22.97,44.802,200
+345,Municipiul Gheorgheni,25.594,46.721,288
+345,Dâmbovicioara,25.545,44.662,200
+595,Municipiul Salonta,21.654,46.802,240
+288,Dănești,25.77,46.546,200
+856,Calafat,22.933,43.989,496
+288,Oraş Cugir,23.363,45.838,200
+496,Urziceni,26.645,44.714,288
+288,Moinești,26.487,46.479,200
+345,Oraş Sânnicolau Mare,20.623,46.071,345
+240,Roșia Jiu,23.16,44.897,200
+288,Municipiul Aiud,23.72,46.31,200
+288,Municipiul Marghita,22.335,47.35,288
+595,Municipiul Drăgăşani,24.262,44.658,200
+240,Oraş Balş,24.118,44.344,200
+496,Municipiul Vatra Dornei,25.357,47.347,414
+345,Eforie Sud,28.645,44.016,200
+288,Oraş Sinaia,25.55,45.345,200
+288,Zărneşti,25.317,45.56,200
+414,Oraş Sântana,21.504,46.347,200
+240,Oraş Negreşti-Oaş,23.432,47.87,200
+345,Municipiul Băileşti,23.346,44.023,240
+288,Oraş Mizil,26.441,45.004,200
+496,Oraş Valea Lui Mihai,22.131,47.521,200
+240,Cornetu,27.049,45.506,200
+240,Susenii Bârgăului,24.717,47.216,200
+240,Oraş Buhuşi,26.706,46.718,200
+288,Oraş Sângeorz-Băi,24.67,47.371,200
+595,Oraş Oraviţa,21.704,45.038,240
+595,Oraş Babadag,28.718,44.891,240
+240,Fundeni,26.871,45.269,200
+288,Oraş Luduş,24.094,46.474,200
+240,Oraş Sovata,25.069,46.596,200
+240,Oraş Panciu,27.072,45.919,200
+345,Municipiul Brad,22.795,46.126,200
+240,Oraş Ţăndărei,27.661,44.641,200
+345,Oraş Filiaşi,23.523,44.552,200
+288,Brăhăşeşti,27.35,46.051,200
+414,Oraş Dăbuleni,24.091,43.804,288
+240,Oraş Ineu,21.839,46.433,200
+345,Colibași,26.193,44.205,200
+288,Oraş Călimăneşti,24.361,45.239,200
+240,Borcea,27.738,44.33,200
+288,Municipiul Beiuş,22.349,46.666,240
+240,Afumați,26.248,44.526,200
+345,Cleja,26.925,46.403,200
+240,Oraş Oţelu Roşu,22.356,45.515,200
+595,Băbeni,24.231,44.962,200
+288,Oraş Haţeg,22.952,45.61,200
+240,Belceşti,27.092,47.308,200
+2127,Usije,21.62,44.728,240
+595,Victoria,24.703,45.731,200
+240,Oraş Şegarcea,23.744,44.094,200
+240,Oraş Nădlac,20.745,46.167,200
+414,Oraş Aleşd,22.399,47.055,240
+414,Municipiul Topliţa,25.349,46.925,200
+414,Oraş Lipova,21.693,46.088,200
+240,Oraş Costeşti,24.883,44.671,200
+595,Oraş Ianca,27.479,45.132,240
+288,Oraş Fundulea,26.504,44.467,200
+240,Oraş Ştei,22.458,46.539,200
+288,Peretu,25.089,44.045,200
+345,Cobadin,28.236,44.062,200
+345,Oraş Huedin,23.029,46.863,240
+414,Oraş Însurăţei,27.608,44.916,200
+240,Jilava,26.079,44.334,200
+345,Oraş Bumbeşti-Jiu,23.382,45.179,200
+240,Oraş Teiuş,23.678,46.204,200
+496,Oraş Videle,25.527,44.278,240
+496,Diosig,21.999,47.306,200
+288,Dragalina,27.336,44.434,200
+288,Cartojani,25.475,44.432,200
+288,Oraş Jimbolia,20.718,45.794,200
+288,Oraş Negreşti,27.461,46.833,200
+240,Oraş Tălmaciu,24.26,45.669,200
+288,Pechea,27.795,45.631,200
+1773,Oraş Darabani,26.591,48.187,200
+240,Oraş Agnita,24.619,45.976,200

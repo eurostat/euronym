@@ -1,12 +1,257 @@
 rs,name,lon,lat,r1
+33,Grabs,9.445,47.182,20
+46,Oberegg,9.553,47.422,20
+46,Eichberg,9.525,47.346,24
+28,Montagnola,8.917,45.982,24
+28,Isone,8.985,46.129,20
+28,Hinterforst,9.532,47.358,20
+39,Valendas,9.283,46.788,20
+94,Altstätten SG,9.543,47.379,79
+28,Barbengo,8.914,45.961,20
+46,Giubiasco,9.01,46.173,20
+112,Tesserete,8.966,46.068,46
+134,Sennwald,9.504,47.261,55
+33,Lienz,9.518,47.278,20
+55,Haag,9.489,47.21,24
+39,Arbedo,9.049,46.215,20
+46,Morcote,8.917,45.923,24
+46,Canobbio,8.969,46.034,20
+55,Rossa,9.125,46.373,24
+192,Buchs SG,9.478,47.167,66
+24,Hinterrhein,9.2,46.531,24
+66,Rüthi (Rheintal),9.539,47.295,24
+39,Sta. Domenica,9.123,46.351,20
+33,Lumino,9.068,46.23,20
+24,Bidogno,8.999,46.079,20
+39,Wangs,9.431,47.032,20
+55,Bodio,9.119,46.331,24
+24,Cureggia,8.984,46.02,20
+66,Arvigo,9.114,46.303,24
+94,Oberriet SG,9.568,47.325,46
+33,S. Antonio (Val Morobbia),9.056,46.17,20
+39,Versam,9.338,46.791,28
+55,Buseno,9.107,46.273,20
+79,Sevelen,9.487,47.122,33
+66,Pugerna,8.978,45.978,20
+39,Trin,9.362,46.828,20
+46,Insone,9.029,46.085,33
+331,Azmoos,9.476,47.083,94
+94,Thalkirch,9.279,46.637,39
+46,St. Margrethen SG,9.641,47.454,20
+46,Au SG,9.634,47.431,20
+39,Gandria,9.002,46.006,24
+66,Nufenen,9.244,46.539,46
+112,Tenna,9.339,46.747,33
+33,Laura,9.101,46.212,20
+46,Stabio,8.939,45.851,28
+55,Widnau,9.634,47.406,46
+28,Tremona,8.956,45.881,20
+79,Riva San Vitale,8.971,45.906,28
+94,Roveredo GR,9.129,46.239,46
+33,Melano,8.985,45.921,20
+28,Castaneda,9.138,46.257,20
+39,Tamins,9.407,46.83,20
+39,Bonaduz,9.4,46.81,28
+39,Diepoldsau,9.655,47.386,20
+79,Valens,9.477,46.966,20
+66,Cama,9.17,46.271,24
+276,Mendrisio,8.99,45.87,112
+28,Vasön,9.477,46.952,20
+79,Bad Ragaz,9.501,47.002,39
+55,Soazza,9.221,46.368,20
+230,Mesocco,9.232,46.393,112
+134,Cabbiolo,9.203,46.327,55
+24,Novazzano,8.983,45.843,20
+24,Pfäfers,9.503,46.99,20
+46,Präz,9.406,46.743,20
+112,Splügen,9.324,46.553,55
+55,Domat#Ems,9.451,46.836,46
+33,Scudellate,9.042,45.922,20
+24,Seseglio,8.999,45.828,20
+33,Morbio Inferiore,9.017,45.855,20
+33,Muggio,9.042,45.902,28
+33,Urmein,9.401,46.692,20
+46,Tumegl#Tomils,9.44,46.763,33
+24,Paspels,9.442,46.749,20
+79,Chiasso,9.03,45.833,28
+33,Sufers,9.367,46.571,24
+39,Jenins,9.558,47,20
+24,Untervaz,9.535,46.928,20
+39,Almens,9.457,46.738,20
+33,Haldenstein,9.527,46.88,20
+55,Malans GR,9.577,46.982,20
+33,Rongellen,9.449,46.678,20
+39,Zizers,9.566,46.937,20
+1183,Chur,9.531,46.851,476
+192,Andeer,9.426,46.604,66
+66,Zillis,9.445,46.635,24
+94,Trimmis,9.565,46.897,33
+79,Ausserferrera,9.44,46.556,39
+79,Churwalden,9.543,46.781,39
+39,Mutten,9.501,46.678,20
+39,Grüsch,9.647,46.983,24
+66,Innerferrera,9.445,46.521,28
+33,Praden,9.583,46.825,28
+46,Valbella,9.556,46.751,20
+28,Sporz,9.541,46.71,20
+79,Castiel,9.605,46.84,39
+112,Lenzerheide/Lai,9.557,46.73,66
+94,Alvaschein,9.553,46.674,46
+66,Schiers,9.689,46.97,66
+24,Lantsch#Lenz,9.563,46.685,20
+33,Furna,9.678,46.937,20
+24,Mon,9.564,46.65,20
+28,Tiefencastel,9.576,46.661,20
+55,Salouf,9.575,46.624,55
+46,Schuders,9.738,46.992,28
+55,Jenaz,9.713,46.928,28
+66,Cresta (Avers),9.513,46.473,66
+33,Peist,9.675,46.835,20
+94,Arosa,9.677,46.779,33
+160,Savognin,9.599,46.596,94
+55,Alvaneu Dorf,9.648,46.679,55
+94,Langwies,9.712,46.821,66
+39,Litzirüti,9.703,46.799,20
+94,Luzein,9.767,46.92,46
+28,Tinizong,9.618,46.582,20
+28,Castasegna,9.516,46.333,24
+79,Rona,9.625,46.561,79
+134,Platz,9.817,46.97,39
+112,Sur,9.632,46.523,28
+33,Saas im Prättigau,9.808,46.911,24
+276,Promontogno,9.558,46.34,160
+192,Bivio,9.65,46.469,55
+46,Stugl/Stuls,9.732,46.651,20
+28,Serneus,9.841,46.89,20
+94,Davos Monstein,9.773,46.711,55
+39,Vicosoprano,9.62,46.351,33
+331,Davos,9.836,46.804,160
+66,Davos Wolfgang,9.854,46.834,24
+24,Casaccia,9.665,46.39,20
+39,Sertig Dörfli,9.85,46.725,39
+33,Monbiel,9.919,46.862,24
+33,Isola,9.74,46.413,20
+55,Sils im Engadin#Segl,9.763,46.429,24
+112,Silvaplana,9.796,46.46,28
+39,Champfèr,9.812,46.479,20
+55,Samedan,9.872,46.535,20
+33,Bever,9.889,46.552,20
+39,Pontresina,9.902,46.493,28
+192,Zuoz,9.96,46.6,55
+24,Susauna,9.99,46.637,20
+24,S-chanf,9.982,46.612,20
+28,Cinuos-chel,10.021,46.643,20
+94,Brail,10.035,46.656,33
+39,Lavin,10.112,46.769,39
+192,Zernez,10.096,46.7,79
+39,Guarda,10.152,46.775,24
+276,Poschiavo,10.058,46.326,134
+94,Ardez,10.201,46.772,55
+571,Scuol,10.294,46.796,230
+55,Lü,10.369,46.623,20
+46,Ftan,10.248,46.794,24
+39,Tarasp,10.258,46.776,20
+28,S. Antonio,10.061,46.313,20
+331,Samnaun Dorf,10.36,46.944,94
+66,Le Prese,10.077,46.294,24
+46,Sent,10.337,46.818,24
+33,Miralago,10.099,46.272,20
+79,Ramosch,10.382,46.835,46
+134,Brusio,10.127,46.257,55
+46,Campocologno,10.142,46.233,20
+160,Tschlin,10.425,46.87,28
+33,Martina,10.464,46.885,20
+24,Fuldera,10.372,46.609,20
+192,Valchava,10.404,46.602,160
+100000,Zürich,8.539,47.377,100000
+2450,Genève,6.154,46.197,1419
+822,Basel,7.606,47.557,476
+685,Lausanne,6.632,46.527,276
+1183,Bern,7.443,46.943,476
+685,Luzern,8.302,47.059,276
+2940,Lugano,8.955,46.013,822
+397,Biel/Bienne,7.253,47.134,160
+276,Fribourg,7.151,46.798,160
+397,Thun,7.636,46.748,160
+230,Baar,8.513,47.183,112
+192,Neuchâtel-Pré Louiset,6.927,46.994,160
+571,Schaffhausen,8.633,47.697,160
+476,Olten,7.912,47.343,192
+397,Bellinzona-Monti di Padevilla,9.023,46.196,160
+192,Wettingen,8.319,47.464,112
+39,La Tour-de-Peilz,6.847,46.463,33
+134,Aarau-Rohr,8.063,47.392,79
+79,Locarno-Locarno Monti,8.793,46.167,79
+160,Solothurn,7.545,47.208,160
+112,Rorschacherberg-Steggenweid,9.499,47.477,66
+192,Wil (SG),9.048,47.464,79
+134,Liestal-Talacher,7.734,47.49,66
+94,Kaltbrunn,8.989,47.226,94
+79,Uetikon am See,8.672,47.261,66
+112,Morges,6.502,46.514,46
+79,Wollerau,8.714,47.201,24
+134,Buelach,8.544,47.516,94
+331,Monthey,6.948,46.264,160
+112,Grenchen,7.397,47.195,79
+160,Villmergen,8.27,47.35,79
+112,Zofingen,7.94,47.291,39
+66,Uzwil,9.137,47.441,46
+331,Brig-Glis-Unners Nesseltal,7.989,46.319,276
+112,Oensingen,7.68,47.266,55
+33,Glarus Nord-Vogelgut,9.061,47.11,20
+230,Landquart-Igis,9.564,46.956,79
+230,Interlaken,7.855,46.683,112
+79,Habsburg,8.203,47.48,55
+397,Altdorf (UR),8.644,46.871,112
+33,Altendorf-Alp Stofel,8.846,47.191,28
+66,Mels-Hinterspina,9.425,47.05,28
+46,Bremgarten (AG),8.347,47.347,39
+134,Saxon,7.197,46.166,55
+134,Neuenkirch,8.191,47.127,55
+230,Burg,8.181,47.252,79
+24,Oberentfelden,8.042,47.36,20
+112,Frick,8.007,47.499,94
+79,Ponte Tresa,8.866,45.971,55
+112,Aadorf,8.914,47.472,66
+66,Gerlafingen,7.568,47.175,28
+55,Fislisbach,8.284,47.439,20
+33,Herrliberg,8.613,47.283,20
+66,Staufen,8.171,47.388,46
+685,Celerina/Schlarigna-Alp dal Staz,9.854,46.51,230
+160,Wattwil,9.087,47.31,66
+192,Appenzell,9.421,47.328,66
+79,Rolle,6.338,46.46,46
+66,Sulgen,9.204,47.537,55
+46,Buochs,8.413,46.98,28
+33,Estavayer-Estavayer-le-Lac,6.829,46.834,33
+134,Eschenz,8.864,47.659,79
+134,Oberdorf (BL),7.754,47.403,66
+160,Muri,8.334,47.272,66
+66,Le Landeron-Montet du Haut,7.084,47.061,66
+160,Porrentruy,7.074,47.413,160
+33,Bonstetten,8.473,47.326,28
+66,Zunzgen,7.806,47.459,39
+112,Bischofszell,9.245,47.494,33
+160,Val-de-Travers,6.605,46.911,112
+24,Augst,7.723,47.538,20
+33,Bagnes,7.225,46.081,20
+46,Buchs (ZH),8.443,47.452,20
+28,Gordola,8.868,46.179,28
+230,Echallens,6.633,46.643,66
+79,Tavannes-Bergerie le Grimm,7.215,47.229,79
+46,Cortaillod,6.847,46.946,20
+24,Arth,8.547,47.053,20
+46,Bösingen,7.233,46.897,24
+28,Greifensee,8.684,47.37,20
+112,Saint-Maurice,7.004,46.211,33
 39,La Vraconnaz,6.482,46.843,20
-55,Chevenez,6.998,47.391,46
+55,Chevenez,6.998,47.391,39
 33,Prahins,6.741,46.735,24
 33,Malval,5.992,46.212,20
 39,Dardagny,5.994,46.196,20
 24,Sézegnin,6.01,46.144,20
-160,Versoix,6.165,46.284,55
-331,Nyon,6.238,46.384,112
+192,Versoix,6.165,46.284,55
+397,Nyon,6.238,46.384,112
 55,Bière,6.334,46.537,24
 33,Montricher,6.376,46.6,20
 55,Mont-la-Ville,6.409,46.647,20
@@ -15,18 +260,15 @@ rs,name,lon,lat,r1
 24,La Mothe,6.566,46.819,20
 24,Peney,6.561,46.803,24
 24,Buchillon,6.423,46.474,20
-112,Morges,6.5,46.511,46
 134,Damvant,6.898,47.372,55
 39,Essertines-sur-Yverdon,6.639,46.714,39
 46,Roche-d'Or,6.953,47.367,20
-24,Cuarny,6.689,46.77,20
 24,Gorgier,6.781,46.903,20
-24,Courtedoux,7.041,47.411,20
 39,Courchavon,7.055,47.441,20
 66,Boudevilliers,6.89,47.028,24
 28,Damphreux,7.102,47.476,20
 55,Thierrens,6.755,46.703,28
-39,Villars,7.08,47.388,20
+55,Villars,7.08,47.388,20
 33,Denezy,6.784,46.721,20
 33,Montfaucon,7.052,47.283,33
 24,Neyruz-sur-Moudon,6.788,46.698,20
@@ -44,13 +286,12 @@ rs,name,lon,lat,r1
 33,La Petite-Grave,6.041,46.174,20
 24,Laconnex,6.034,46.157,20
 28,Meyrin,6.072,46.229,20
-24,Mategnin,6.089,46.241,20
 24,Soral,6.044,46.145,20
 28,Le Lieu,6.282,46.648,20
-46,Vernier,6.086,46.217,33
+55,Vernier,6.086,46.217,33
 39,Crassier,6.163,46.374,24
 39,Vers Chez Grosjean,6.283,46.627,20
-112,Arzier,6.208,46.459,33
+160,Arzier,6.208,46.459,33
 24,Le Séchey,6.302,46.66,20
 33,Collex,6.123,46.27,20
 24,Chavannes-de-Bogis,6.16,46.343,20
@@ -73,17 +314,17 @@ rs,name,lon,lat,r1
 24,Duillier,6.232,46.409,20
 24,Begnins,6.248,46.441,20
 33,Coppet,6.192,46.316,20
-2450,Genève,6.143,46.21,1419
+28,Genève,6.143,46.21,20
 112,Vallorbe,6.379,46.712,79
 24,Carouge GE,6.139,46.18,20
-230,Les Verrières,6.479,46.904,66
+66,Les Verrières,6.479,46.904,66
 79,Gland,6.262,46.422,28
 46,Vaulion,6.39,46.688,20
 94,Gimel,6.311,46.508,33
 33,Ballaigues,6.416,46.729,20
 33,Berolle,6.337,46.558,20
-33,Cologny,6.181,46.215,20
-46,Gilly,6.297,46.458,24
+39,Cologny,6.181,46.215,20
+39,Gilly,6.297,46.458,24
 33,Collonge-Bellerive,6.201,46.248,28
 79,La Côte-aux-Fées,6.491,46.868,28
 28,Essertines-sur-Rolle,6.318,46.492,20
@@ -92,16 +333,15 @@ rs,name,lon,lat,r1
 39,Dully,6.301,46.43,24
 66,Hermance,6.244,46.302,20
 28,Corsier GE,6.226,46.262,20
-39,Veyrier,6.186,46.168,20
-46,Thônex,6.198,46.189,28
+66,Veyrier,6.186,46.168,20
+39,Thônex,6.198,46.189,24
 28,Lignerolle,6.458,46.741,24
 28,Premier,6.445,46.704,20
 39,La Praz,6.428,46.667,20
 39,Ballens,6.376,46.554,24
 24,Mont-sur-Rolle,6.338,46.471,20
-94,La Sagne,6.503,46.822,79
+94,La Sagne,6.503,46.822,66
 55,L'Isle,6.413,46.618,55
-160,Rolle,6.341,46.46,46
 24,L'Abergement,6.489,46.754,20
 55,Romainmôtier,6.461,46.691,28
 28,Mauraz,6.423,46.605,20
@@ -109,14 +349,13 @@ rs,name,lon,lat,r1
 24,Cuarnens,6.438,46.624,20
 24,Moiry VD,6.453,46.65,20
 24,Lullier,6.257,46.228,20
-160,La Brévine,6.607,46.979,66
-66,Aubonne,6.391,46.495,28
+134,La Brévine,6.607,46.979,55
+66,Aubonne,6.391,46.495,33
 28,Jussy,6.272,46.24,24
 39,Bullet,6.555,46.831,24
-94,Apples,6.429,46.551,39
+79,Apples,6.429,46.551,39
 24,Agiez,6.508,46.72,20
 33,Rances,6.53,46.76,20
-66,Môtiers NE,6.611,46.911,55
 112,Orbe,6.531,46.725,66
 24,Etoy,6.421,46.487,20
 24,Arnex-sur-Orbe,6.519,46.694,24
@@ -130,6 +369,7 @@ rs,name,lon,lat,r1
 24,Essert-sous-Champvent,6.584,46.793,24
 39,Haut du Prévoux,6.703,47.037,20
 66,Cossonay,6.508,46.613,55
+28,Lully VD,6.466,46.505,20
 33,La Chaux-du-Milieu,6.702,47.013,20
 55,St-Prex,6.459,46.483,24
 39,Villars-Burquin,6.63,46.848,20
@@ -139,6 +379,7 @@ rs,name,lon,lat,r1
 24,Chamblon,6.604,46.776,20
 28,Aclens,6.51,46.568,20
 24,Bavois,6.565,46.686,20
+24,Echichens,6.498,46.526,20
 79,Le Locle,6.747,47.057,39
 28,Penthaz,6.537,46.6,20
 28,Les Planchettes,6.771,47.107,28
@@ -146,54 +387,53 @@ rs,name,lon,lat,r1
 33,Suchy,6.599,46.724,20
 55,Grandson,6.643,46.807,20
 28,Vufflens-la-Ville,6.54,46.578,20
-66,Les Ponts-de-Martel,6.734,46.999,46
+79,Les Ponts-de-Martel,6.734,46.999,46
 46,Champagne,6.659,46.831,20
 230,Yverdon-les-Bains,6.639,46.78,160
-24,Préverenges,6.525,46.517,20
 28,Penthéréaz,6.604,46.681,20
 55,Brot-Dessus,6.741,46.972,20
 24,Sullens,6.568,46.592,20
-33,Bussigny,6.552,46.55,20
+55,Bussigny,6.552,46.55,20
+28,Denges,6.542,46.526,20
 79,Epautheyres,6.641,46.739,20
-55,Fahy,6.95,47.418,24
+94,Fahy,6.95,47.418,24
 28,Grandfontaine,6.939,47.391,24
-39,Goumoens-la-Ville,6.605,46.658,20
+33,Goumoens-la-Ville,6.605,46.658,20
 33,Brot-Dessous,6.748,46.956,20
-192,La Chaux-de-Fonds,6.82,47.095,192
-24,Pomy,6.667,46.76,20
+39,St-Sulpice VD,6.546,46.513,24
+192,La Chaux-de-Fonds,6.82,47.095,79
+39,Pomy,6.667,46.76,20
 39,La Sagne NE,6.799,47.04,28
 39,Concise,6.72,46.852,33
 94,Vuarrens,6.647,46.686,24
 79,Boncourt,7.016,47.496,55
-66,Cheseaux-sur-Lausanne,6.605,46.586,33
+79,Cheseaux-sur-Lausanne,6.605,46.586,33
 33,Vernéaz,6.74,46.876,20
 24,Villars-Epeney,6.697,46.781,20
-276,Echallens,6.635,46.64,66
-39,Renens VD,6.587,46.536,24
+28,Renens VD,6.587,46.536,24
 33,Assens,6.623,46.612,20
 33,La Corbatière,6.835,47.068,20
 46,Bure,7.007,47.444,24
-33,Cronay,6.695,46.757,20
+28,Cronay,6.695,46.757,20
 28,Pailly,6.675,46.701,20
 39,Les Prailats,6.904,47.194,20
-55,St-Aubin-Sauges,6.768,46.892,28
-33,Rochefort,6.81,46.978,24
+79,St-Aubin-Sauges,6.768,46.892,28
+33,Rochefort,6.81,46.978,28
 66,Les Bois,6.905,47.177,33
 66,La Ferrière,6.893,47.143,20
 28,Fey,6.682,46.674,20
-39,Bottens,6.658,46.621,20
+46,Bottens,6.658,46.621,20
 24,Donneloye,6.716,46.745,20
 28,Goumois,6.952,47.262,20
 46,Yvonand,6.745,46.798,46
 28,Montignez,7.059,47.487,24
-79,Courtemaîche,7.047,47.46,33
-112,Bevaix,6.81,46.93,20
+94,Courtemaîche,7.047,47.46,39
+24,Perreux,6.817,46.947,20
+33,Bevaix,6.81,46.93,20
 39,Bercher,6.709,46.692,24
-571,Lausanne,6.628,46.518,276
-39,Naz,6.697,46.658,20
+46,Naz,6.697,46.658,20
 66,Le Noirmont,6.959,47.225,24
 33,Molondin,6.749,46.76,20
-33,Boudry,6.839,46.95,20
 33,Les Pommerats,6.988,47.272,20
 28,Froideville,6.682,46.601,28
 28,Correvon,6.736,46.716,20
@@ -201,19 +441,16 @@ rs,name,lon,lat,r1
 33,Cheyres,6.788,46.815,24
 79,Cernier,6.899,47.059,46
 24,Démoret,6.757,46.747,20
-79,Epalinges,6.671,46.555,28
+55,Epalinges,6.671,46.555,24
 33,Villars-Tiercelin,6.703,46.625,20
 33,Le Peuchapatte,6.965,47.197,24
-46,Colombier (NE),6.862,46.967,39
+55,Colombier (NE),6.862,46.967,39
 79,Saignelégier,6.995,47.256,55
 46,Chavannes-le-Chêne,6.778,46.776,20
-24,Pully,6.662,46.511,20
-160,Porrentruy,7.079,47.421,94
+33,Pully,6.662,46.511,20
 46,Montborget,6.802,46.799,20
-39,Peseux,6.889,46.988,20
-24,Font,6.82,46.836,20
+33,Peseux,6.889,46.988,20
 28,Coeuve,7.1,47.452,20
-24,Fontenais,7.08,47.404,20
 24,Valangin,6.907,47.016,20
 46,Sottens,6.742,46.655,33
 28,Sonvilier,6.965,47.139,20
@@ -221,25 +458,23 @@ rs,name,lon,lat,r1
 28,Les Breuleux,7.004,47.212,24
 55,Soubey,7.049,47.308,20
 39,Epiquerez,7.058,47.328,20
-28,Bollion,6.827,46.818,20
+33,Bollion,6.827,46.818,20
 33,Beurnevésin,7.136,47.493,20
-66,Estavayer-le-Lac,6.847,46.849,55
-46,Lutry,6.688,46.502,20
+28,Estavayer-le-Lac,6.847,46.849,20
+24,Lutry,6.688,46.502,20
 33,Ocourt,7.077,47.351,20
-33,Lully FR,6.844,46.832,20
 33,Combremont-le-Petit,6.807,46.75,33
 28,Saules,6.94,47.038,24
 24,Combremont-le-Grand,6.818,46.762,24
 28,Les Rouges-Terres,7.046,47.254,24
 55,Bonfol,7.149,47.478,28
-28,Alle,7.125,47.426,20
+33,Alle,7.125,47.426,20
 112,St-Imier,7.003,47.154,79
-276,Neuchâtel,6.932,46.991,94
-55,Villiers,6.971,47.075,39
+55,Villiers,6.971,47.075,33
 39,Le Pâquier NE,6.988,47.099,33
 55,Vendlincourt,7.148,47.451,20
 39,Savigny,6.732,46.538,28
-39,Courgenay,7.127,47.403,24
+33,Courgenay,7.127,47.403,28
 33,Seleute,7.113,47.367,20
 33,Forel-sur-Lucens,6.825,46.727,20
 33,Mollie-Margot,6.75,46.557,20
@@ -247,14 +482,13 @@ rs,name,lon,lat,r1
 33,Mézières VD,6.77,46.596,20
 28,Mont-Tramelan,7.054,47.208,24
 55,Epauvillers,7.116,47.335,24
-39,Cully,6.728,46.488,24
-33,Bussy FR,6.889,46.834,20
+94,Cully,6.728,46.488,24
 24,Chavannes-sur-Moudon,6.808,46.658,20
 28,St-Brais,7.112,47.305,24
 24,Forel (Lavaux),6.761,46.536,20
 66,Lucens,6.842,46.706,28
 39,Cugy FR,6.893,46.815,24
-55,Miécourt,7.174,47.427,28
+66,Miécourt,7.174,47.427,28
 24,Crans-Montana,7.469,46.307,20
 46,Ursy,6.833,46.635,24
 28,Gletterens,6.937,46.894,20
@@ -264,53 +498,51 @@ rs,name,lon,lat,r1
 55,Promasens,6.823,46.601,20
 24,Les Avants,6.944,46.453,20
 28,Montenol,7.146,47.351,20
+28,Cressier NE,7.034,47.049,28
 28,Les Tavernes,6.812,46.554,20
 33,Champmartin,6.998,46.941,20
 55,Courtelary,7.071,47.181,33
 66,St-Ursanne,7.154,47.365,33
-79,Asuel,7.21,47.403,20
-24,Urtenen-Schönbühl,7.5,47.021,24
+55,Asuel,7.21,47.403,20
 28,Lupsingen,7.694,47.446,20
 79,Fully,7.114,46.138,28
-24,Oberbipp,7.66,47.262,20
 46,Kaufdorf,7.501,46.837,20
-39,Dulliken,7.946,47.354,24
+33,Dulliken,7.946,47.354,20
 33,Bourrignon,7.245,47.397,20
 28,Kaltbach,8.062,47.183,20
 33,Mauensee,8.065,47.168,24
 66,Undervelier,7.224,47.303,28
-39,Buttisholz,8.095,47.114,24
+66,Buttisholz,8.095,47.114,24
 33,Oberried am Brienzersee,7.959,46.737,33
 33,Rue,6.822,46.619,20
 94,Granges-près-Marnand,6.89,46.762,46
-46,Marin,7.003,47.009,39
+28,Marin,7.003,47.009,28
+24,Loveresse,7.238,47.242,20
 55,Taney,6.832,46.345,20
 24,Mettembert,7.319,47.398,20
 24,Vaulruz,6.99,46.625,20
-66,Frinvillier,7.256,47.169,20
+79,Frinvillier,7.256,47.169,20
 112,Vuibroye,6.809,46.576,46
 28,Brenles,6.853,46.671,20
-397,Biel#Bienne,7.247,47.137,160
+33,Ipsach,7.236,47.117,20
 397,Delémont,7.35,47.363,134
 24,Salvenach,7.151,46.911,20
 46,Veytaux,6.928,46.419,20
 28,Sceut Dessus,7.15,47.317,20
-24,Givisiez,7.128,46.816,20
+39,Givisiez,7.128,46.816,20
 39,Fétigny,6.914,46.796,20
 46,Delley,6.968,46.914,20
-276,Fribourg,7.156,46.805,160
 39,Roches BE,7.383,47.302,20
 33,Metzerlen,7.464,47.466,20
 33,Lajoux JU,7.138,47.279,20
-94,Puidoux,6.782,46.5,28
-46,Collombey-Muraz,6.939,46.276,20
+55,Puidoux,6.782,46.5,28
+24,Collombey-Muraz,6.939,46.276,20
 46,Bärschwil,7.473,47.381,20
-112,Grenchen,7.396,47.192,79
 66,Saulcy,7.154,47.302,20
 55,Crémines,7.44,47.284,33
 39,Chexbres,6.779,46.482,20
 55,Leysin,7.014,46.344,24
-39,Ollon VD,6.996,46.297,20
+46,Ollon VD,6.996,46.297,20
 28,Rossinière,7.083,46.467,24
 46,Oberwil BL,7.559,47.516,20
 33,Ettingen,7.544,47.482,20
@@ -320,7 +552,6 @@ rs,name,lon,lat,r1
 39,Neuenegg,7.299,46.894,20
 134,Payerne,6.94,46.82,112
 46,Selzach,7.457,47.203,24
-33,Birsfelden,7.624,47.555,20
 55,Albligen,7.321,46.851,20
 33,Bibern SO,7.457,47.146,20
 55,Bittwil,7.431,47.076,33
@@ -332,137 +563,135 @@ rs,name,lon,lat,r1
 24,Javerne,7.062,46.237,20
 28,Balmberg,7.54,47.265,20
 24,La Crêta,7.005,46.094,20
-66,Lignières,7.066,47.082,20
-66,Nods,7.082,47.113,24
+46,Lignières,7.066,47.082,20
+94,Nods,7.082,47.113,24
 94,Nunningen,7.619,47.394,39
 33,St-Aubin FR,6.98,46.89,24
 28,Milken,7.357,46.792,20
-94,Niederwil SO,7.572,47.252,33
+55,Niederwil SO,7.572,47.252,33
 66,Siviriez,6.876,46.658,28
 24,Les Friques,6.989,46.903,20
+28,Derendingen,7.586,47.201,20
 46,Muri b. Bern,7.487,46.932,20
+24,Recherswil,7.594,47.163,20
 66,Cudrefin,7.019,46.956,33
-24,Wiedlisbach,7.644,47.251,24
-112,Le Landeron,7.064,47.052,33
+33,Wiedlisbach,7.644,47.251,20
 66,Gsteig b. Gstaad,7.267,46.384,66
 24,Rüti b. Riggisberg,7.45,46.781,24
-39,Wangen an der Aare,7.654,47.232,20
+46,Wangen an der Aare,7.654,47.232,20
 55,Krauchthal,7.567,47.01,33
 66,La Fouly VS,7.099,45.932,46
-55,Chamoson,7.225,46.2,33
-39,Bellelay,7.166,47.263,33
+55,Chamoson,7.225,46.2,28
+79,Bellelay,7.166,47.263,28
 79,St. Stephan,7.392,46.514,33
 39,Palézieux,6.839,46.542,20
 33,Bigenthal,7.625,46.967,20
 55,Wichtrach,7.577,46.848,24
-33,Gampelen,7.058,47.015,28
+33,Gampelen,7.058,47.015,24
 33,Daillon,7.307,46.257,20
 33,Thörigen,7.728,47.174,20
 94,Romont FR,6.912,46.692,66
 24,Corgémont,7.142,47.194,20
 24,Torny-le-Petit,6.949,46.77,20
 33,Obergoldbach,7.673,46.961,20
-160,Langenthal,7.791,47.212,112
+46,Hägendorf,7.84,47.332,24
+276,Langenthal,7.791,47.212,112
 33,Baar (Nendaz),7.332,46.205,20
 24,Boécourt,7.214,47.348,20
 46,Dompierre FR,6.989,46.851,28
-24,Trimbach,7.894,47.364,20
+46,Trimbach,7.894,47.364,20
 66,Salavaux,7.022,46.919,33
 39,Bouloz,6.882,46.611,20
 24,Anwil,7.94,47.451,20
 33,Ayent,7.411,46.279,20
-397,Thun,7.631,46.753,160
 24,Sisseln AG,7.99,47.553,20
 28,Cousset,6.978,46.818,20
 39,Linden,7.678,46.848,20
 24,Rebévelier,7.193,47.291,20
-24,La Neuveville,7.091,47.063,20
 24,Icogne,7.438,46.291,20
 28,St-Martin FR,6.869,46.577,24
 94,Heimenschwand,7.689,46.828,39
 24,Tschugg,7.076,47.027,20
-79,Oftringen,7.92,47.313,33
+46,Oftringen,7.92,47.313,20
 28,Homberg b. Thun,7.68,46.773,20
 33,Roggliswil,7.885,47.211,20
 33,Gondiswil,7.872,47.146,20
 55,Montavon,7.236,47.372,28
-134,Spiez,7.679,46.688,55
+134,Spiez,7.679,46.688,46
 28,Brittnau,7.948,47.26,20
 24,Bossonnens,6.85,46.522,20
 39,Horrenbach,7.752,46.78,24
 28,Sulz AG,8.095,47.535,20
-39,Le Fuet,7.183,47.244,20
+33,Le Fuet,7.183,47.244,20
 33,Mézières FR,6.926,46.677,20
 39,Attalens,6.849,46.51,28
+33,Chardonne,6.835,46.478,20
 33,Gansingen,8.133,47.544,20
 160,Leukerbad,7.626,46.38,46
 55,Kiental,7.723,46.59,28
+39,Erlach,7.097,47.044,20
 24,Kröschenbrunnen,7.878,46.911,20
-39,Beatenberg,7.789,46.696,33
+39,Beatenberg,7.789,46.696,39
 33,Villarimboud,6.964,46.741,20
 46,Lamboing,7.136,47.118,20
-55,Sonceboz-Sombeval,7.175,47.198,20
+55,Sonceboz-Sombeval,7.175,47.198,24
 28,Stettenbach,8.049,47.108,20
 24,St-Gingolph,6.807,46.392,24
-134,Birr,8.204,47.436,20
+39,Birr,8.204,47.436,20
 39,Vuisternens-devant-Romont,6.93,46.655,20
 39,Wilderswil,7.868,46.665,20
 24,Le Crêt-près-Semsales,6.91,46.609,20
-39,Ringgenberg BE,7.899,46.705,28
-66,Vevey,6.843,46.462,39
+46,Ringgenberg BE,7.899,46.705,24
 66,Bassecourt,7.244,47.337,55
 28,Berlens,6.953,46.694,24
 66,Zweilütschinen,7.901,46.631,28
 112,Flühli LU,8.016,46.883,46
-46,Vinelz,7.11,47.032,20
+24,Vinelz,7.11,47.032,20
 94,Avenches,7.042,46.879,46
-79,Tavannes,7.202,47.225,55
-94,Ins,7.106,47.006,39
+66,Ins,7.106,47.006,46
 24,Oleyres,7.038,46.853,20
+24,La Tour-de-Peilz,6.857,46.453,20
 79,La Joux FR,6.939,46.63,55
 33,La Verrerie,6.921,46.589,20
 28,Prez-vers-Noréaz,7.014,46.785,20
-55,Twann,7.156,47.096,24
-24,St. Petersinsel,7.144,47.07,20
+66,Twann,7.156,47.096,24
 39,Lentigny,7.003,46.758,33
-160,Châtel-St-Denis,6.901,46.527,55
-66,Souboz,7.244,47.274,24
+160,Châtel-St-Denis,6.901,46.527,46
+55,Souboz,7.244,47.274,24
 79,Semsales,6.927,46.573,39
 28,Lovens,7.02,46.773,20
 46,Orsonnens,6.995,46.716,33
 55,Nant,7.106,46.957,24
 33,Ponthaux,7.041,46.815,20
-39,Lüscherz,7.151,47.047,20
+33,Lüscherz,7.151,47.047,20
 24,Soulce,7.268,47.304,24
 24,Develier,7.292,47.355,20
 39,Movelier,7.317,47.409,28
 55,Bouveret,6.851,46.386,39
 39,Misery,7.067,46.851,20
 24,Villargiroud,7.001,46.704,24
-46,Blonay,6.895,46.465,20
 24,Orvin,7.214,47.161,20
 24,Sâles (Gruyère),6.974,46.635,20
 33,Autigny,7.021,46.737,20
 46,Roggenburg,7.342,47.434,20
-66,Grolley,7.07,46.833,33
+79,Grolley,7.07,46.833,33
 46,Müntschemier,7.146,46.996,20
 33,Bellechasse,7.138,46.973,20
 24,Cormérod,7.089,46.866,20
-134,Murten,7.119,46.93,94
+134,Murten,7.119,46.93,112
 39,Courgevaux,7.111,46.906,20
 24,Treiten,7.16,47.01,20
 33,Courtételle,7.317,47.343,20
-33,Péry,7.25,47.194,24
+33,Péry,7.25,47.194,28
 192,Chernex,6.912,46.445,160
-55,Täuffelen,7.2,47.067,39
-28,Evilard,7.239,47.15,20
+33,Täuffelen,7.2,47.067,33
+33,Evilard,7.239,47.15,20
 28,Miex,6.867,46.339,20
-66,Sutz,7.218,47.103,28
+28,Sutz,7.218,47.103,20
 28,Mörigen,7.209,47.082,20
-39,Avry-sur-Matran,7.076,46.787,20
+33,Avry-sur-Matran,7.076,46.787,20
 28,Siselen BE,7.19,47.033,24
 24,Posat,7.058,46.738,20
-66,Bévilard,7.286,47.237,46
 33,Champoz,7.299,47.256,20
 24,Noville,6.9,46.382,20
 46,Courtepin,7.124,46.865,28
@@ -470,10 +699,10 @@ rs,name,lon,lat,r1
 79,Farvagny,7.064,46.72,33
 46,Soyhières,7.369,47.391,24
 24,Guschelmuth,7.138,46.881,20
+24,Sorvilier,7.304,47.24,20
 28,Vuadens,7.021,46.617,20
 66,Vouvry,6.891,46.336,46
 39,Magnedens,7.081,46.742,20
-24,Caux,6.938,46.432,20
 39,Plagne,7.287,47.189,20
 112,Villeneuve VD,6.926,46.395,39
 39,Lurtigen,7.173,46.929,20
@@ -487,10 +716,9 @@ rs,name,lon,lat,r1
 55,Vionnaz,6.899,46.311,20
 28,Jens,7.263,47.098,20
 33,Le Bry,7.084,46.703,20
-79,Gurmels,7.172,46.894,28
+46,Gurmels,7.172,46.894,28
 46,Courrendlin,7.373,47.339,20
 33,Marsens,7.064,46.656,20
-24,Brügg BE,7.278,47.125,20
 46,Roche VD,6.93,46.358,24
 46,Kallnach,7.235,47.021,24
 46,Riaz,7.062,46.64,20
@@ -499,57 +727,55 @@ rs,name,lon,lat,r1
 331,Bulle,7.057,46.617,134
 66,Avry-devant-Pont,7.089,46.686,24
 46,Ferenbalm,7.211,46.949,20
+28,Liebistorf,7.194,46.909,20
 79,Rodersdorf,7.456,47.481,39
 28,Kappelen,7.27,47.059,20
 160,Moutier,7.37,47.28,66
-33,Orpund,7.307,47.139,20
+33,Orpund,7.307,47.139,24
 24,Illarsaz,6.928,46.311,20
 28,Golaten,7.238,46.985,20
 28,Worben,7.29,47.098,20
 24,Pont-la-Ville,7.11,46.7,20
 46,Champéry,6.87,46.178,20
 46,Liesberg,7.433,47.403,20
-55,Studen BE,7.303,47.112,20
+46,Studen BE,7.303,47.112,28
 24,Safnern,7.324,47.15,20
 28,Morlon,7.085,46.625,20
 28,Corbières,7.101,46.659,20
-66,Aarberg,7.278,47.044,24
-94,Düdingen,7.19,46.85,33
+55,Aarberg,7.278,47.044,24
+112,Düdingen,7.19,46.85,39
 24,Corbeyrier,6.96,46.349,20
-46,Val-d'Illiez,6.892,46.203,20
+66,Val-d'Illiez,6.892,46.203,20
 24,Hauteville,7.111,46.671,20
 28,Schönenbuch,7.502,47.537,20
 33,Treyvaux,7.138,46.727,20
-55,Marly,7.16,46.776,24
-39,Gammen,7.227,46.919,20
+46,Marly,7.16,46.776,20
 46,Les Sciernes-d'Albeuve,7.036,46.497,20
 33,Rebeuvelier,7.415,47.324,24
 33,Villarvolard,7.107,46.646,20
-24,Yvorne,6.961,46.329,20
 28,Bundtels,7.211,46.868,20
-46,Troistorrents,6.916,46.228,20
-134,Lyss,7.306,47.074,55
+46,Troistorrents,6.916,46.228,28
+134,Lyss,7.306,47.074,46
 39,Detligen,7.274,47.002,20
 28,Gruyères,7.083,46.58,20
 66,Albeuve,7.055,46.519,39
 33,Jetschwil,7.201,46.835,20
 24,Eschert,7.4,47.275,20
-39,Bösingen,7.229,46.893,28
 39,Broc,7.098,46.603,24
 79,Enney,7.083,46.566,28
-134,Aigle,6.97,46.318,55
+112,Aigle,6.97,46.318,46
 24,Botterens,7.112,46.621,20
 46,Oberruntigen,7.278,46.983,20
-24,Lengnau BE,7.369,47.181,20
-39,Allschwil,7.535,47.551,28
+28,Lengnau BE,7.369,47.181,20
+46,Allschwil,7.535,47.551,39
 28,Dotzigen,7.342,47.12,20
 24,Hardern,7.328,47.087,20
-134,Le Mouret,7.173,46.745,24
+112,Le Mouret,7.173,46.745,24
 24,Bättwil,7.512,47.49,20
+24,Fendringen,7.24,46.883,20
 46,Buttenried,7.277,46.962,39
 24,La Tine,7.053,46.469,20
-33,Spengelried,7.263,46.926,20
-331,Monthey,6.954,46.255,160
+46,Spengelried,7.263,46.926,20
 28,Seedorf BE,7.313,47.035,20
 39,Grandvillard,7.086,46.539,20
 24,Dittingen,7.497,47.442,20
@@ -566,7 +792,7 @@ rs,name,lon,lat,r1
 94,Vermes,7.475,47.329,39
 28,Cerniat FR,7.16,46.635,20
 28,Therwil,7.551,47.498,20
-24,Binningen,7.571,47.538,20
+28,Binningen,7.571,47.538,20
 28,Panex,7.014,46.311,20
 33,Grossaffoltern,7.361,47.066,24
 24,Steinisweg,7.319,46.972,20
@@ -575,13 +801,12 @@ rs,name,lon,lat,r1
 112,Charmey (Gruyère),7.164,46.619,39
 55,Schnottwil,7.39,47.112,24
 39,St. Antoni,7.261,46.823,24
-822,Basel,7.591,47.549,476
 28,Mervelier,7.5,47.344,24
 33,Le Sépey,7.052,46.362,24
 24,Montsevelier,7.508,47.361,20
 24,Oberwil b. Büren,7.405,47.128,20
 39,Gänsbrunnen,7.468,47.264,20
-55,Arch,7.428,47.168,20
+55,Arch,7.428,47.168,24
 46,Alterswil FR,7.26,46.795,24
 46,Bex,7.01,46.249,33
 24,Brislach,7.543,47.417,20
@@ -592,11 +817,10 @@ rs,name,lon,lat,r1
 24,Altreu,7.448,47.192,20
 24,Wiler vor Holz,7.291,46.839,20
 24,La Comballaz,7.078,46.375,20
-46,St-Maurice,7.005,46.217,24
 24,La Forclaz,7.069,46.35,20
-112,Reinach BL,7.589,47.493,46
+94,Reinach BL,7.589,47.493,46
 24,Obermonten,7.282,46.811,20
-46,Matzenried,7.338,46.931,20
+66,Matzenried,7.338,46.931,20
 46,Wohlen b. Bern,7.357,46.973,39
 66,Château-d'Oex,7.129,46.473,66
 24,Ueberstorf,7.311,46.865,20
@@ -609,14 +833,14 @@ rs,name,lon,lat,r1
 24,Rapperswil BE,7.411,47.064,20
 55,Seehof,7.521,47.305,20
 24,Balm b. Messen,7.432,47.104,20
-66,Riehen,7.649,47.585,33
+55,Riehen,7.649,47.585,24
 55,Aesch BL,7.598,47.467,20
 46,Siernes Picaz,7.171,46.505,20
 94,Gryon,7.063,46.274,33
 28,Oberdorf SO,7.501,47.231,20
 28,Welschenrohr,7.523,47.279,24
 66,Finhaut,6.977,46.083,39
-160,Evionnaz,7.021,46.179,33
+66,Evionnaz,7.021,46.179,28
 66,Schelten,7.553,47.336,24
 28,Zumholz,7.292,46.754,20
 33,Messen,7.448,47.092,20
@@ -646,82 +870,76 @@ rs,name,lon,lat,r1
 28,Gempen,7.659,47.476,20
 24,Zuzwil BE,7.472,47.052,20
 24,Iffwil,7.478,47.064,20
-46,Köniz,7.415,46.923,20
-192,Solothurn,7.545,47.205,160
+39,Köniz,7.415,46.923,20
 33,Jaun,7.275,46.611,20
 33,Pratteln,7.688,47.525,24
-192,Les Diablerets,7.158,46.352,79
+160,Les Diablerets,7.158,46.352,79
 112,Zollikofen,7.459,46.998,20
 66,Oberbalm,7.404,46.873,39
 24,Seewen SO,7.658,47.435,20
-1183,Bern,7.444,46.947,476
 39,Schlatt,7.421,46.894,20
 39,Hinterfultigen,7.4,46.839,20
 24,Bretzwil,7.653,47.398,20
-46,Biberist,7.558,47.182,20
 39,Schalunen,7.526,47.109,20
 39,Nuglar,7.693,47.471,24
 66,Sangernboden,7.352,46.713,33
-55,Jegenstorf,7.507,47.05,24
+55,Jegenstorf,7.507,47.05,33
 24,Luterbach,7.581,47.214,20
 33,Fraubrunnen,7.524,47.084,28
 230,Martigny,7.074,46.102,134
-28,Kaiseraugst,7.729,47.538,24
-33,Frenkendorf,7.715,47.502,20
+24,Frenkendorf,7.715,47.502,20
 79,Rüschegg,7.392,46.779,33
 66,Le Borgeaud,7.065,46.072,24
 160,Saanen,7.259,46.489,112
 33,Graben,7.403,46.795,20
 33,Ittigen,7.487,46.973,20
+33,Mattstetten,7.514,47.03,20
 160,Utzenstorf,7.558,47.128,33
 39,Ostermundigen,7.481,46.956,20
 24,Attiswil,7.613,47.248,20
-28,Farnern,7.622,47.267,20
 28,Ramiswil,7.659,47.346,24
 28,Laupersdorf,7.649,47.317,28
 24,Seltisberg,7.717,47.46,20
 28,Ziefen,7.705,47.431,20
 24,Giebenach,7.747,47.524,20
+39,Reigoldswil,7.691,47.397,28
 46,Kehrsatz,7.473,46.91,20
 28,Chemin,7.097,46.088,20
-94,Liestal,7.736,47.486,33
-28,Kriegstetten,7.598,47.174,24
 24,Rüeggisberg,7.44,46.822,20
 24,Niederbütschel,7.447,46.837,20
 28,Geristein,7.52,46.994,20
-46,Deitingen,7.619,47.212,20
+24,Rumisberg,7.642,47.264,20
+24,Deitingen,7.619,47.212,20
 39,Eywald,7.418,46.761,20
-33,Arboldswil,7.717,47.416,20
+28,Arboldswil,7.717,47.416,20
 46,Bubendorf,7.736,47.449,20
-28,Arisdorf,7.765,47.513,20
+39,Arisdorf,7.765,47.513,20
 33,Feutersoey,7.271,46.418,28
 33,Charrat,7.136,46.121,20
-192,Rheinfelden,7.787,47.552,55
+160,Rheinfelden,7.787,47.552,46
 28,Koppigen,7.604,47.133,24
 66,Kirchberg BE,7.584,47.087,28
 28,Hinterer Reichenstein,7.329,46.526,24
 66,Belp,7.497,46.89,33
+33,Mötschwil,7.569,47.048,20
 55,Mümliswil,7.702,47.342,20
 33,Lyssach,7.579,47.065,20
-230,Balsthal,7.697,47.317,79
-24,Wangenried,7.654,47.22,20
+160,Balsthal,7.697,47.317,39
+28,Wangenried,7.654,47.22,20
 33,Lausen,7.766,47.471,20
 33,Niederösch,7.61,47.118,20
 94,Boltigen,7.388,46.628,39
 55,Toffen,7.497,46.86,24
 66,Riggisberg,7.478,46.811,33
-39,Hersberg,7.783,47.491,20
 55,Lindental,7.557,46.982,24
-28,Saillon,7.186,46.171,20
 33,Boll,7.547,46.954,20
-55,Oberdorf BL,7.749,47.396,24
-66,Saxon,7.182,46.145,39
+39,Saxon,7.182,46.145,20
 134,Zweisimmen,7.371,46.554,66
-46,Niederbipp,7.696,47.266,20
 55,Magden,7.814,47.527,20
-94,Hölstein,7.769,47.424,20
+46,Hölstein,7.769,47.424,20
 55,Grubenwald,7.388,46.58,55
 33,Soulalex,7.141,46.047,20
+28,Aeschi SO,7.662,47.181,20
 24,Belpberg,7.522,46.869,20
 24,Som la Proz,7.131,46.018,20
 66,Lauenen b. Gstaad,7.322,46.425,33
@@ -729,57 +947,55 @@ rs,name,lon,lat,r1
 28,Vielbringen b. Worb,7.549,46.916,20
 39,Vollèges,7.169,46.087,33
 33,Praz-de-Fort,7.125,45.99,33
-66,Seeberg,7.661,47.156,24
+55,Seeberg,7.661,47.156,24
 55,Rubigen,7.547,46.9,20
-55,Oensingen,7.723,47.291,20
-160,Orsières,7.147,46.031,55
+46,Oensingen,7.723,47.291,20
+160,Orsières,7.147,46.031,46
 39,Worb,7.564,46.93,39
 24,Mühlethurnen,7.513,46.815,20
 33,Möhlin,7.846,47.556,33
-112,Burgdorf,7.624,47.055,79
-55,Riddes,7.222,46.172,24
-55,Sissach,7.81,47.464,39
+230,Burgdorf,7.624,47.055,79
+24,Riddes,7.222,46.172,20
 24,Wintersingen,7.824,47.494,24
 24,Holderbank SO,7.753,47.332,20
 33,Ferret,7.105,45.916,20
 46,Heimenhausen,7.7,47.211,20
-28,Zunzgen,7.808,47.45,20
 33,Oberburg,7.625,47.039,20
-46,Langenbruck,7.767,47.35,24
+39,Langenbruck,7.767,47.35,24
 28,Maisprach,7.846,47.525,20
-24,Tenniken,7.81,47.438,20
+28,Tenniken,7.81,47.438,20
 39,Wattenwil,7.51,46.77,33
 24,Gerzensee,7.544,46.839,20
-160,Münsingen,7.563,46.875,46
+134,Münsingen,7.563,46.875,46
 24,Ardon,7.257,46.209,20
 46,Wynigen,7.668,47.106,33
 46,Herzogenbuchsee,7.706,47.188,46
+39,Aven,7.272,46.236,20
 28,Diegten,7.81,47.416,24
 28,Bannwil,7.733,47.237,20
 46,Zeiningen,7.87,47.541,20
 24,Heimiswil,7.658,47.064,20
 33,Gutisberg,7.665,47.08,20
-24,Isérables,7.246,46.162,20
+46,Isérables,7.246,46.162,20
 33,Riedtwil,7.697,47.142,20
-28,Vétroz,7.28,46.226,20
 66,Blumenstein,7.52,46.741,24
 46,Buus,7.864,47.505,20
 112,Verbier,7.224,46.097,79
 24,Gysenstein,7.591,46.891,20
 112,Walkringen,7.618,46.949,33
-39,Montagnier (Le Châble VS),7.22,46.075,20
 46,Richebach,7.492,46.659,33
 24,Eptingen,7.82,47.386,20
-66,Egerkingen,7.794,47.322,39
+28,Egerkingen,7.794,47.322,24
 28,Rüedisbach,7.704,47.119,20
-39,Gelterkinden,7.858,47.463,24
+39,Gelterkinden,7.858,47.463,28
 79,Liddes,7.188,45.991,33
 39,Wallbach,7.902,47.56,20
 24,Wittinsburg,7.843,47.426,20
-39,Neuendorf,7.795,47.303,20
+66,Neuendorf,7.795,47.303,20
 28,Buckten,7.844,47.41,20
 28,Biglen,7.628,46.926,20
 55,Aarwangen,7.769,47.24,24
+33,Versegères,7.233,46.066,20
 39,Conthey,7.311,46.232,28
 28,Zuzgen,7.9,47.525,20
 55,Kiesen,7.586,46.821,20
@@ -789,11 +1005,10 @@ rs,name,lon,lat,r1
 94,Haute-Nendaz,7.3,46.184,33
 39,Uetendorf,7.573,46.774,20
 39,Konolfingen,7.622,46.88,33
-79,Champsec (Versegères),7.244,46.057,33
 55,Läufelfingen,7.855,47.396,24
 28,Mumpf,7.922,47.545,20
 55,Grosshöchstetten,7.635,46.904,20
-46,Ifenthal,7.85,47.373,20
+33,Ifenthal,7.85,47.373,20
 33,Thierachern,7.575,46.754,20
 24,Freimettigen,7.628,46.868,20
 79,Tecknau,7.888,47.446,20
@@ -807,12 +1022,13 @@ rs,name,lon,lat,r1
 33,Obermumpf,7.935,47.531,20
 24,Mirchel,7.649,46.892,20
 28,Heimberg,7.606,46.792,20
+94,Lourtier,7.266,46.049,28
 33,Amsoldingen,7.579,46.727,20
 24,Oeschenbach,7.749,47.101,20
 39,Affoltern im Emmental,7.733,47.066,24
 39,Lotzwil,7.79,47.191,20
 28,Rothenfluh,7.912,47.461,20
-79,Stein AG,7.954,47.548,33
+79,Stein AG,7.954,47.548,39
 39,Wegenstetten,7.934,47.5,24
 39,Ursenbach,7.772,47.137,24
 66,Ramsei,7.71,46.998,24
@@ -826,18 +1042,17 @@ rs,name,lon,lat,r1
 66,Diemtigen,7.565,46.649,24
 66,Entschwil,7.551,46.619,55
 39,Walterswil BE,7.78,47.115,20
-79,Glashütten,7.845,47.258,20
+66,Glashütten,7.845,47.258,20
 24,Trachselwald,7.737,47.017,20
 79,Sumiswald,7.744,47.029,66
-55,Steffisburg,7.633,46.779,20
+66,Steffisburg,7.633,46.779,24
 28,Schupfart,7.965,47.514,20
 28,Rothrist,7.878,47.305,24
 39,Oltingen,7.935,47.432,20
 24,Bowil,7.695,46.893,20
 33,Zwieselberg,7.615,46.709,20
 24,Mahren,7.919,47.381,20
-134,Olten,7.906,47.352,79
-55,Fionnay,7.307,46.034,33
+33,Fionnay,7.307,46.034,24
 39,Dürrenroth,7.792,47.09,33
 33,Eiken,7.989,47.532,20
 28,Zollbrück,7.742,46.977,20
@@ -847,68 +1062,69 @@ rs,name,lon,lat,r1
 46,Wyssbach,7.826,47.145,20
 24,St-Léonard,7.422,46.254,20
 39,Signau,7.728,46.92,33
-55,Wittnau,7.979,47.482,24
+33,Wittnau,7.979,47.482,20
 24,Thal,7.778,47.02,20
 24,Kienberg,7.966,47.44,20
 39,Melchnau,7.851,47.182,28
 94,Lens,7.447,46.28,39
 33,Reisiswil,7.849,47.161,20
-66,Lostorf,7.949,47.384,24
-39,Hilterfingen,7.658,46.736,20
+39,Lostorf,7.949,47.384,24
+24,Hilterfingen,7.658,46.736,20
 66,Mâche,7.392,46.156,20
 55,Hérémence,7.404,46.181,24
 46,Nax,7.429,46.229,20
-24,Oeschgen,8.018,47.521,20
+28,Oeschgen,8.018,47.521,20
 33,Wimmis,7.639,46.676,24
 28,Heimenegg,7.705,46.815,20
-192,Adelboden,7.559,46.493,79
+571,Adelboden,7.559,46.493,79
 33,Wölflinswil,7.997,47.461,20
-134,Frick,8.02,47.508,79
 39,Vernamiège,7.433,46.211,20
 55,Pfaffnau,7.896,47.227,28
 28,Heiligenschwendi,7.686,46.75,20
 46,Unterlangenegg,7.708,46.797,24
-192,Huttwil,7.851,47.113,66
+112,Huttwil,7.851,47.113,66
 24,Mase,7.433,46.194,20
 46,Grône,7.46,46.251,24
 39,Kaisten,8.044,47.541,20
 28,Aeschau,7.762,46.91,20
+24,Strengelbach,7.929,47.279,20
 39,Röthenbach im Emmental,7.742,46.854,28
+24,Montana,7.487,46.297,20
 24,Grossdietwil,7.886,47.171,20
-79,Laufenburg,8.061,47.561,39
+112,Laufenburg,8.061,47.561,46
 192,Langnau im Emmental,7.785,46.938,94
 55,Eriswil,7.851,47.08,28
-55,Zofingen,7.947,47.286,24
 24,Däniken SO,7.98,47.356,20
 28,St-Martin VS,7.445,46.172,24
 39,Randogne,7.511,46.313,20
-39,Ittenthal,8.059,47.518,20
-331,Frutigen,7.645,46.588,79
-33,Safenwil,7.977,47.318,24
+55,Ittenthal,8.059,47.518,20
+24,Erlinsbach,8.012,47.407,20
+192,Frutigen,7.645,46.588,79
+33,Safenwil,7.977,47.318,20
 39,Schönenwerd,8.002,47.372,24
 24,Fischbach LU,7.907,47.158,20
-33,Schwanden (Sigriswil),7.717,46.736,20
-55,Herznach,8.05,47.474,28
+39,Schwanden (Sigriswil),7.717,46.736,20
+55,Herznach,8.05,47.474,24
 33,Ufhusen,7.893,47.117,20
 66,Sigriswil,7.714,46.718,24
 39,Oberei,7.762,46.82,28
 55,Chalais,7.508,46.266,24
-33,Mühlethal,7.979,47.302,20
+28,Mühlethal,7.979,47.302,20
 28,Richenthal,7.943,47.217,20
 28,Ebersecken,7.932,47.183,20
 66,Aeschi b. Spiez,7.697,46.659,24
 94,Eggiwil,7.796,46.876,39
 28,Etzgen,8.108,47.571,24
 192,Sierre,7.533,46.294,94
-112,Reiden,7.971,47.247,33
+94,Reiden,7.971,47.247,33
 33,Zell LU,7.923,47.136,33
 39,Bözen,8.083,47.495,20
-39,Küttigen,8.047,47.413,20
+46,Küttigen,8.047,47.413,20
 66,Reichenbach im Kandertal,7.694,46.625,28
 94,Kandergrund,7.662,46.544,33
-397,Aarau,8.046,47.393,160
+28,Chippis,7.541,46.28,20
 24,Zeihen,8.083,47.476,20
-66,Kölliken,8.024,47.336,28
+94,Kölliken,8.024,47.336,20
 24,Oberzeihen,8.084,47.465,20
 33,Ohmstal,7.95,47.163,20
 24,Bottenwil,8.005,47.285,20
@@ -925,15 +1141,14 @@ rs,name,lon,lat,r1
 79,Kandersteg,7.673,46.494,66
 24,Thalheim AG,8.099,47.437,20
 55,Wil AG,8.153,47.56,33
-33,Buchs AG,8.079,47.392,20
 24,Muhen,8.056,47.334,20
 33,Gettnau,7.972,47.142,20
 28,Hirschthal,8.053,47.319,20
-39,Mönthal,8.142,47.519,20
+94,Mönthal,8.142,47.519,20
 112,Schötz,7.989,47.171,33
 28,Leibstadt,8.175,47.59,20
-46,Suhr,8.081,47.372,20
-79,Schöftland,8.051,47.305,24
+39,Suhr,8.081,47.372,20
+66,Schöftland,8.051,47.305,24
 46,Staffelbach,8.042,47.284,20
 28,Varen,7.608,46.319,20
 28,Hergiswil b. Willisau,7.957,47.085,28
@@ -948,11 +1163,10 @@ rs,name,lon,lat,r1
 33,Reitnau,8.045,47.251,20
 28,Full,8.207,47.616,20
 46,Albinen,7.634,46.342,20
-28,Gränichen,8.097,47.359,20
 39,Oberbözberg,8.159,47.499,24
 28,Wauwil,8.021,47.186,20
 94,Schangnau,7.861,46.828,39
-94,Willisau,7.993,47.121,66
+192,Willisau,7.993,47.121,66
 24,Mayoux,7.582,46.211,20
 24,Buchs LU,8.033,47.202,20
 28,Schinznach Dorf,8.142,47.448,28
@@ -960,6 +1174,7 @@ rs,name,lon,lat,r1
 94,Leuk Stadt,7.635,46.319,55
 33,Rupperswil,8.129,47.403,24
 160,St-Luc,7.595,46.222,46
+28,Hunzenschwil,8.123,47.387,20
 33,Ettiswil,8.018,47.149,20
 24,Veltheim AG,8.147,47.437,20
 28,Auenstein,8.139,47.417,20
@@ -972,7 +1187,7 @@ rs,name,lon,lat,r1
 33,Teufenthal AG,8.114,47.33,20
 46,Triengen,8.076,47.236,46
 55,Escholzmatt,7.934,46.914,55
-39,Bort,7.846,46.717,24
+66,Bort,7.846,46.717,24
 28,Böttstein,8.223,47.557,20
 39,Unterkulm,8.115,47.311,28
 55,Menzberg,7.997,47.041,33
@@ -982,36 +1197,33 @@ rs,name,lon,lat,r1
 28,Knutwil,8.074,47.2,20
 39,Agarn,7.665,46.298,20
 24,Oberkulm,8.119,47.299,20
-192,Unterseen,7.848,46.685,94
 39,Grosswangen,8.05,47.134,24
-79,Brugg AG,8.207,47.481,66
 46,Saxeten,7.831,46.637,20
-33,Möriken AG,8.182,47.416,24
+55,Möriken AG,8.182,47.416,24
 28,Niederlenz,8.177,47.401,20
 28,Büron,8.094,47.214,20
 33,Schwendi,7.875,46.726,20
 46,Menznau,8.038,47.083,20
 33,Döttingen,8.256,47.571,20
 24,Stilli,8.232,47.515,20
-79,Lenzburg,8.176,47.386,55
-79,Seon,8.159,47.347,33
-39,Hausen AG,8.212,47.463,20
+94,Seon,8.159,47.347,33
+33,Hausen AG,8.212,47.463,20
 46,Engersch,7.711,46.329,39
 24,Unterems,7.696,46.291,20
 112,Zinal,7.625,46.136,66
 55,Geuensee,8.108,47.199,24
-33,Gontenschwil,8.145,47.28,20
+55,Gontenschwil,8.145,47.28,20
 46,Turtmann,7.704,46.302,20
 112,Würenlingen,8.258,47.531,24
 39,Romoos,8.027,47.011,20
-24,Gebenstorf,8.241,47.483,20
+28,Gebenstorf,8.241,47.483,20
 24,Hallwil,8.176,47.329,20
-28,Untersiggenthal,8.253,47.5,20
+39,Untersiggenthal,8.253,47.5,28
 28,Egliswil,8.187,47.348,20
-134,Bad Zurzach,8.293,47.588,66
+230,Bad Zurzach,8.293,47.588,66
 33,Mullwil,8.139,47.237,20
-276,Sursee,8.111,47.172,94
-33,Bönigen b. Interlaken,7.893,46.686,20
+94,Sursee,8.111,47.172,46
+24,Bönigen b. Interlaken,7.893,46.686,20
 24,Tegerfelden,8.285,47.56,20
 24,Othmarsingen,8.216,47.401,20
 94,Schüpfheim,8.015,46.95,46
@@ -1021,21 +1233,20 @@ rs,name,lon,lat,r1
 46,Wolhusen,8.074,47.062,28
 28,Mägenwil,8.234,47.412,20
 28,Gampel,7.739,46.315,28
-33,Birrhard,8.245,47.433,20
+28,Birrhard,8.245,47.433,20
 28,Rickenbach LU,8.154,47.22,20
 28,Hasle LU,8.047,46.979,20
 112,Wiler (Lötschen),7.787,46.404,55
 46,Seengen,8.206,47.327,24
 79,Blüomatt,7.7,46.203,55
-94,Entlebuch,8.062,46.993,33
+112,Entlebuch,8.062,46.993,33
 33,Dintikon,8.23,47.368,20
 55,Ebnet,8.076,47.022,33
 24,Isenfluh,7.897,46.619,20
 24,Birrwil,8.2,47.289,20
-160,Reinach AG,8.183,47.251,66
-46,Dottikon,8.244,47.383,28
-46,Obersiggenthal,8.292,47.487,20
+55,Dottikon,8.244,47.383,28
 39,Nottwil,8.137,47.135,20
+24,Menziken,8.188,47.24,20
 24,Künten,8.331,47.39,20
 33,Beinwil am See,8.203,47.268,20
 39,Waldi,8.168,47.188,20
@@ -1044,31 +1255,29 @@ rs,name,lon,lat,r1
 55,Fafleralp,7.855,46.434,39
 79,Raron,7.8,46.311,33
 134,Stans,8.366,46.957,46
-192,Wettingen,8.327,47.466,55
 24,Buch SH,8.785,47.718,20
 28,Oberneunforn,8.769,47.606,20
-66,Mellingen,8.273,47.418,20
+46,Mellingen,8.273,47.418,20
 33,Siglistorf,8.379,47.545,28
 46,Hombrechtikon,8.77,47.252,28
 24,Schongau,8.264,47.268,20
 66,Lauterbrunnen,7.907,46.598,55
-94,Ruswil,8.126,47.084,39
+79,Ruswil,8.126,47.084,39
 66,Buch b. Märwil,9.056,47.537,28
 28,Müselbach,9.041,47.393,20
 66,Broglio,8.66,46.377,28
 24,Güttingen,9.287,47.603,20
-192,Mürren,7.892,46.56,28
-66,Boswil,8.315,47.306,24
+230,Mürren,7.892,46.56,28
+66,Boswil,8.315,47.306,28
 28,Bäch,8.169,47.171,28
 28,Iseltwald,7.96,46.708,24
 55,Campo (Blenio),8.936,46.558,24
 33,Beggingen,8.537,47.766,28
+24,Baden,8.306,47.476,20
 24,Gimmelwald,7.89,46.547,24
-94,Muri AG,8.339,47.276,55
 24,Rudolfstetten,8.381,47.368,20
-112,Stalden VS,7.869,46.234,20
-24,Fislisbach,8.291,47.435,24
-46,Beromünster,8.19,47.207,33
+134,Stalden VS,7.869,46.234,20
+46,Beromünster,8.19,47.207,28
 28,Brigerbad,7.918,46.299,20
 39,Meisterschwanden,8.229,47.295,20
 39,Lengnau AG,8.329,47.52,20
@@ -1077,17 +1286,17 @@ rs,name,lon,lat,r1
 79,Rafz,8.54,47.611,28
 24,Eischoll,7.78,46.293,20
 28,Eich,8.168,47.15,20
-46,Birmensdorf ZH,8.437,47.353,24
+39,Birmensdorf ZH,8.437,47.353,24
 28,Ebligen,7.99,46.752,20
 28,Sigigen,8.133,47.064,20
-134,Bülach,8.538,47.525,66
+33,Bitsch,8.008,46.336,20
 33,Buchberg,8.563,47.573,24
 24,Perlen,8.359,47.109,20
-79,Sins,8.396,47.192,20
-33,Neuhausen am Rheinfall,8.618,47.682,20
+112,Sins,8.396,47.192,20
+28,Neuhausen am Rheinfall,8.618,47.682,20
 24,Dietwil,8.392,47.149,20
-33,Rorbas,8.577,47.531,20
-39,Betten,8.069,46.377,39
+28,Rorbas,8.577,47.531,20
+39,Betten,8.069,46.377,33
 33,Flaach,8.609,47.575,24
 24,Niederwil,8.45,47.212,20
 39,Knonau,8.463,47.224,20
@@ -1096,7 +1305,6 @@ rs,name,lon,lat,r1
 134,Kloten,8.583,47.449,39
 24,Wirzweli,8.358,46.917,20
 112,Simplon Dorf,8.056,46.196,66
-160,Wohlen AG,8.272,47.351,79
 24,Mosen,8.225,47.244,20
 55,Weggis,8.441,47.033,33
 39,Finsterwald b. Entlebuch,8.104,46.973,24
@@ -1107,10 +1315,9 @@ rs,name,lon,lat,r1
 24,Rigi Kaltbad,8.468,47.044,20
 39,Blitzingen,8.202,46.442,20
 39,Neuburg,8.676,47.495,20
-24,Ehrendingen,8.342,47.497,24
+66,Ehrendingen,8.342,47.497,20
 28,Zumikon,8.626,47.332,24
 160,Engelberg,8.407,46.82,66
-39,Herrliberg,8.617,47.287,20
 66,Zwischbergen,8.114,46.162,33
 55,Maur,8.669,47.34,28
 46,Volketswil,8.694,47.39,33
@@ -1119,56 +1326,53 @@ rs,name,lon,lat,r1
 24,Schachen LU,8.144,47.036,20
 28,Aesch LU,8.242,47.255,20
 39,Wiesendangen,8.787,47.521,28
-79,Sempach,8.191,47.137,28
 160,Uster,8.717,47.349,94
 28,Oberrohrdorf,8.317,47.42,20
 33,Alosen,8.636,47.142,28
-39,Neuenhof,8.331,47.446,20
+28,Neuenhof,8.331,47.446,20
 33,Madetswil,8.793,47.411,20
 24,Dickbuch,8.831,47.495,20
 46,Warth,8.877,47.585,20
-28,Mammern,8.913,47.645,20
+39,Mammern,8.913,47.645,20
 66,Färnigen,8.523,46.736,39
-28,Seesatz,8.194,47.124,20
 55,Bürchen,7.813,46.282,24
 24,Hagenbuch ZH,8.889,47.521,20
 39,Bennau,8.73,47.148,20
+24,Seedorf UR,8.615,46.882,20
 33,Burglauenen,7.977,46.636,33
 94,Brienz BE,8.031,46.754,79
 24,Herlisberg,8.231,47.198,20
 33,Felben-Wellhausen,8.945,47.576,24
 46,Pfäffikon SZ,8.788,47.202,20
 24,Remetschwil,8.327,47.409,20
-24,Schattdorf,8.656,46.865,20
 33,Holz,8.17,47.053,20
 39,Dürnten,8.842,47.278,20
 39,Thundorf,8.963,47.546,20
-79,Bichelsee,8.924,47.448,20
-28,Tuttwil,8.94,47.482,20
+46,Bichelsee,8.924,47.448,20
+24,Tuttwil,8.94,47.482,20
 28,Kleine Scheidegg,7.96,46.586,28
 39,Hospental,8.566,46.617,20
 66,Rüti ZH,8.854,47.26,28
 160,Hallau,8.457,47.697,66
 33,Gibswil,8.915,47.314,20
-33,Waltenschwil,8.301,47.335,20
+24,Waltenschwil,8.301,47.335,20
 39,Steg im Tösstal,8.935,47.35,20
 28,Oberholz,8.941,47.288,20
 66,Wäldi,9.095,47.635,20
 112,Schleitheim,8.487,47.75,46
-134,Mühlrüti,8.985,47.371,33
-66,Neuenkirch,8.203,47.1,39
+66,Mühlrüti,8.985,47.371,33
+55,Neuenkirch,8.203,47.1,20
 24,Schmerikon,8.948,47.226,20
-160,Weinfelden,9.104,47.568,66
+134,Weinfelden,9.104,47.568,66
 28,Axalp,8.036,46.724,24
-28,Hildisrieden,8.229,47.151,20
-55,Hitzkirch,8.263,47.225,46
-28,Walde SG,9.011,47.271,24
-28,Jonschwil,9.086,47.425,24
+33,Hildisrieden,8.229,47.151,20
+94,Hitzkirch,8.263,47.225,39
+79,Walde SG,9.011,47.271,24
+28,Jonschwil,9.086,47.425,20
 39,Siegershausen,9.169,47.611,20
 55,Cevio,8.602,46.318,20
 24,Krinau,9.05,47.318,20
-33,Benken SG,9.005,47.199,20
-24,Mättiwil,8.225,47.132,20
+39,Benken SG,9.005,47.199,20
 39,Prato,8.655,46.395,20
 46,Schwarzenberg LU,8.173,47.014,20
 94,Malters,8.184,47.037,46
@@ -1178,70 +1382,67 @@ rs,name,lon,lat,r1
 46,Vergeletto,8.602,46.227,20
 39,Fiesso,8.734,46.493,20
 39,Rufi,9.051,47.18,20
-55,Brunnadern,9.131,47.334,24
-55,Erlen,9.226,47.552,24
-28,Buchackern,9.232,47.538,20
+46,Brunnadern,9.131,47.334,24
+33,Erlen,9.226,47.552,20
+24,Buchackern,9.232,47.538,20
 46,Curaglia,8.859,46.673,20
 24,Eggenwil,8.34,47.371,20
 28,Lodano,8.685,46.259,20
 33,Baltschieder,7.864,46.309,20
 276,St. Niklaus (VS),7.801,46.172,94
 24,Aurigeno,8.712,46.23,20
-94,Amriswil,9.304,47.55,79
+192,Amriswil,9.304,47.55,79
 28,Spreitenbach,8.366,47.418,20
 24,Mattsand,7.793,46.147,20
 33,Otelfingen,8.387,47.464,20
-39,Oberweningen,8.405,47.501,28
+28,Oberweningen,8.405,47.501,28
 28,Müswangen,8.29,47.239,20
 46,Embd,7.828,46.217,20
 79,Brione (Verzasca),8.791,46.297,33
 79,Herbriggen,7.792,46.135,28
 28,Hofstetten b. Brienz,8.076,46.755,20
 66,Waldstatt,9.286,47.359,24
-33,Losone,8.761,46.165,20
+28,Losone,8.761,46.165,20
 24,Gächlingen,8.498,47.702,20
 46,Giornico,8.877,46.402,20
 46,Egnach,9.383,47.544,20
 79,Weiach,8.436,47.558,24
-46,Bremgarten AG,8.345,47.351,39
-24,Buttwil,8.31,47.27,20
 33,Zeneggen,7.862,46.276,20
 476,Zermatt,7.746,46.02,230
 66,Randa,7.783,46.099,24
 39,Neunkirch,8.502,47.69,24
-55,Rain,8.26,47.131,28
+46,Rain,8.26,47.131,28
 134,Grindelwald,8.034,46.625,79
-112,Visp,7.882,46.292,55
+112,Visp,7.882,46.292,66
 94,Täsch,7.779,46.067,39
 24,Siblingen,8.52,47.715,20
 46,Grächen,7.838,46.195,20
 33,Blatten,8.225,47.041,24
 39,Lieli,8.299,47.207,20
 24,Kleinwangen,8.294,47.195,20
-33,Bachs,8.439,47.523,20
-160,Hochdorf,8.29,47.167,66
+46,Bachs,8.439,47.523,20
+79,Hochdorf,8.29,47.167,55
 24,Stalden,7.893,46.273,20
-94,Dietikon,8.403,47.405,66
+94,Dietikon,8.403,47.405,46
 33,Rothenburg,8.272,47.094,20
 28,Geroldswil,8.416,47.419,20
 39,Unterbach BE,8.115,46.74,39
-24,Stadel b. Niederglatt,8.467,47.528,20
-39,Buchs ZH,8.437,47.458,20
+28,Stadel b. Niederglatt,8.467,47.528,20
+46,Steinmaur,8.455,47.5,20
 39,Windlach,8.475,47.541,20
 28,Hohenrain,8.317,47.181,20
-33,Oberwil,8.387,47.336,24
+24,Oberwil,8.387,47.336,24
 33,Visperterminen,7.903,46.259,28
 28,Wil ZH,8.508,47.606,20
 55,Beinwil (Freiamt),8.343,47.23,20
-24,Dielsdorf,8.454,47.482,20
+33,Birri,8.367,47.279,20
 24,Dällikon,8.439,47.44,20
-46,Neerach,8.475,47.513,20
+28,Neerach,8.475,47.513,20
 24,Brünigen,8.137,46.752,20
-28,Riedt,8.472,47.5,20
 28,Oberlunkhofen,8.39,47.311,20
 33,Glattfelden,8.5,47.56,20
 28,Ballwil,8.32,47.153,20
-46,Mund,7.943,46.316,24
+55,Mund,7.943,46.316,28
 24,Ottenhusen,8.328,47.165,20
 55,Urdorf,8.423,47.381,20
 24,Guntmadingen,8.557,47.686,20
@@ -1249,83 +1450,78 @@ rs,name,lon,lat,r1
 55,Eisten,7.893,46.2,28
 55,Belalp,7.974,46.372,28
 46,Kaiserstuhl,8.175,46.814,20
-24,Merenschwand,8.375,47.259,20
+24,Merenschwand,8.375,47.259,24
 39,Eschenbach LU,8.32,47.133,28
 33,Bargen SH,8.61,47.792,24
 28,Jonen,8.395,47.297,20
-33,Beringen,8.572,47.698,24
-24,Nassenwil,8.471,47.465,20
+46,Beringen,8.572,47.698,24
+28,Nassenwil,8.471,47.465,20
 24,Kriens,8.281,47.034,20
-66,Emmen,8.301,47.077,24
-112,Eglisau,8.522,47.576,39
+39,Emmen,8.301,47.077,20
+134,Eglisau,8.522,47.576,46
 39,Auw,8.364,47.212,20
 24,Alikon,8.36,47.199,20
 33,Schlieren,8.448,47.398,24
 55,Merishausen,8.609,47.762,28
-66,Niederhasli,8.487,47.479,39
+66,Niederhasli,8.487,47.479,33
 28,Ottenbach,8.404,47.282,20
 46,Regensdorf,8.47,47.429,39
 24,Oberengstringen,8.463,47.41,20
-28,Höri,8.509,47.507,20
+33,Höri,8.509,47.507,20
 24,Niederglatt ZH,8.503,47.491,20
 24,Uitikon Waldegg,8.452,47.371,20
-33,Aesch ZH,8.437,47.336,20
+24,Aesch ZH,8.437,47.336,20
 33,Hasliberg Hohfluh,8.176,46.75,20
-685,Luzern,8.309,47.046,276
-192,Sarnen,8.246,46.896,94
+28,Luzern,8.309,47.046,20
+331,Sarnen,8.246,46.896,94
 24,Alpnachstad,8.276,46.954,20
 24,Inwil,8.352,47.122,20
-685,Brig,7.988,46.316,276
 55,Alpnach Dorf,8.272,46.942,33
 39,Fenkrieden,8.369,47.16,28
 55,Sachseln,8.239,46.869,20
 39,Kägiswil,8.263,46.922,20
-55,Horw,8.308,47.018,20
+79,Horw,8.308,47.018,20
 28,Obfelden,8.419,47.262,20
 24,Buchrain,8.348,47.096,20
-685,Meiringen,8.183,46.729,112
+192,Meiringen,8.183,46.729,112
 28,Riederalp,8.025,46.378,20
-46,Ebikon,8.346,47.085,24
-33,Hedingen,8.446,47.298,20
+55,Ebikon,8.346,47.085,24
+46,Hedingen,8.446,47.298,20
 55,Saas-Balen,7.928,46.153,24
 24,Willigen,8.192,46.718,20
 33,Opfertshofen SH,8.663,47.779,28
 39,Rheinau,8.604,47.645,20
 24,Kerns,8.275,46.901,20
-33,Dachsen,8.615,47.667,20
+66,Dachsen,8.615,47.667,20
 55,Hergiswil NW,8.313,46.982,28
 28,St. Niklausen,8.334,47.026,20
-79,Ried-Mörel,8.032,46.358,33
+79,Ried-Mörel,8.032,46.358,20
 33,Teufen ZH,8.566,47.55,20
 28,Wettswil,8.474,47.339,20
 24,Bachenbülach,8.547,47.504,20
 24,Seeburg,8.345,47.046,20
-571,Schaffhausen,8.633,47.698,160
 55,Affoltern am Albis,8.448,47.276,46
-33,Ried-Brig,8.017,46.316,20
 46,Rümlang,8.528,47.452,24
-33,Bonstetten,8.469,47.315,33
+24,Bonstetten,8.469,47.315,20
 134,Saas-Fee,7.926,46.108,66
 28,Adligenswil,8.364,47.071,20
 33,Ellikon am Rhein,8.6,47.604,33
 28,Saas-Grund,7.937,46.123,20
-24,Winkel,8.555,47.493,20
-24,Eschenmosen,8.566,47.517,20
+33,Winkel,8.555,47.493,20
 28,St. Niklausen OW,8.281,46.875,20
 24,Stetten SH,8.663,47.741,20
 24,Lohn SH,8.671,47.757,20
 46,Root,8.395,47.12,20
 24,Hünenberg,8.422,47.176,20
-55,Meggen,8.376,47.047,28
-66,Mettmenstetten,8.463,47.244,24
-24,Rosswald,8.043,46.305,20
+66,Meggen,8.376,47.047,28
+134,Mettmenstetten,8.463,47.244,24
+33,Rosswald,8.043,46.305,24
 46,Innertkirchen,8.229,46.706,24
-66,Rotkreuz,8.426,47.142,33
+79,Rotkreuz,8.426,47.142,33
 24,Unterstock,8.225,46.694,20
-100000,Zürich,8.534,47.381,100000
 79,Melchsee-Frutt,8.268,46.774,46
 28,Holzhäusern ZG,8.44,47.155,20
-55,Embrach,8.595,47.501,33
+39,Embrach,8.595,47.501,28
 55,Marthalen,8.65,47.626,24
 94,Thayngen,8.703,47.746,39
 33,Buch am Irchel,8.618,47.551,20
@@ -1341,7 +1537,7 @@ rs,name,lon,lat,r1
 39,Dorf,8.649,47.573,20
 33,Vollenweid,8.511,47.26,20
 112,Küssnacht am Rigi,8.435,47.083,46
-24,Steinhausen,8.486,47.197,20
+28,Steinhausen,8.486,47.197,20
 134,Fiesch,8.133,46.403,55
 46,Greppen,8.431,47.057,20
 33,Gerlisberg,8.615,47.465,20
@@ -1352,7 +1548,6 @@ rs,name,lon,lat,r1
 28,Boden,8.269,46.669,20
 66,Kleinandelfingen,8.682,47.598,28
 39,Bellwald,8.16,46.423,20
-24,Ennetbürgen,8.414,46.985,20
 39,Dallenwil,8.389,46.927,20
 24,Nessental,8.297,46.721,24
 24,Büren NW,8.397,46.938,20
@@ -1360,13 +1555,11 @@ rs,name,lon,lat,r1
 55,Zollikon,8.577,47.341,20
 39,Ausserbinn,8.15,46.382,20
 79,Grafenort,8.373,46.87,24
-55,Buochs,8.421,46.974,28
 33,Bassersdorf,8.629,47.444,24
-276,Zug,8.511,47.175,112
 55,Neftenbach,8.668,47.529,33
-276,Henggart,8.684,47.564,20
+112,Henggart,8.684,47.564,20
 33,Thalwil,8.568,47.297,24
-39,Baar,8.526,47.196,20
+24,Baar,8.526,47.196,20
 160,Guttannen,8.289,46.655,39
 66,Diessenhofen,8.751,47.69,46
 46,Basadingen,8.745,47.667,20
@@ -1385,10 +1578,11 @@ rs,name,lon,lat,r1
 28,Dägerlen,8.722,47.561,20
 276,Gluringen,8.233,46.464,134
 39,Fällanden,8.639,47.371,24
+24,Lindau,8.671,47.441,20
 39,Vitznau,8.483,47.01,24
 66,Horgen,8.596,47.261,39
 24,Neuheim,8.577,47.203,20
-46,Beckenried,8.475,46.967,28
+112,Beckenried,8.475,46.967,33
 33,Neuägeri,8.562,47.154,20
 39,Arth,8.522,47.064,39
 39,Münster VS,8.263,46.488,20
@@ -1398,27 +1592,24 @@ rs,name,lon,lat,r1
 39,Seuzach,8.739,47.535,28
 39,Arn,8.61,47.241,20
 46,Gondo,8.14,46.196,28
-134,Winterthur,8.725,47.5,112
+230,Winterthur,8.725,47.5,112
 39,Kemptthal,8.703,47.449,20
 55,Hirzel,8.607,47.215,28
 79,Menzingen,8.591,47.178,33
 39,Bisikon,8.696,47.412,20
-24,Greifensee,8.678,47.365,20
 55,Oberstammheim,8.801,47.632,28
 24,Wiesholz,8.836,47.711,20
-39,Meilen,8.645,47.27,28
-28,Etzwilen,8.818,47.658,20
+24,Meilen,8.645,47.27,20
+33,Etzwilen,8.818,47.658,20
 94,Ulrichen,8.307,46.508,39
-112,Gersau,8.527,46.991,28
-33,Hemishofen,8.832,47.677,20
+46,Gersau,8.527,46.991,28
+39,Hemishofen,8.832,47.677,20
 28,Emmetten,8.518,46.956,24
-24,First,8.736,47.438,20
 28,Rickenbach ZH,8.795,47.552,24
 24,Sennhof (Winterthur),8.759,47.467,24
 55,Egg b. Zürich,8.691,47.3,24
-39,Schönenberg ZH,8.644,47.193,20
+33,Schönenberg ZH,8.644,47.193,20
 192,Gletsch,8.362,46.562,24
-28,Uetikon am See,8.677,47.266,20
 39,Horben,8.743,47.412,20
 28,Attikon,8.798,47.536,20
 24,Herrlisberg,8.661,47.218,20
@@ -1426,54 +1617,51 @@ rs,name,lon,lat,r1
 28,Lauerz,8.581,47.035,20
 46,Unterwassern,8.356,46.532,28
 28,Freudwil,8.733,47.375,20
-55,Stein am Rhein,8.859,47.66,55
-94,Wädenswil,8.674,47.23,66
+66,Wädenswil,8.674,47.23,24
 33,Weisslingen,8.764,47.431,33
 24,Ellikon an der Thur,8.824,47.563,20
 28,Uesslingen,8.833,47.581,20
 33,Elsau,8.802,47.505,20
 33,Fehraltorf,8.751,47.389,20
-24,Männedorf,8.692,47.252,20
 28,Gottschalkenberg,8.653,47.155,20
 24,Ecce Homo,8.616,47.069,20
 46,Hütten,8.666,47.175,20
 28,Eschenz,8.875,47.646,20
 55,Steinen,8.613,47.05,24
 46,Sattel,8.636,47.082,24
-46,Isenthal,8.563,46.911,33
+24,Oetwil am See,8.72,47.271,24
+46,Isenthal,8.563,46.911,28
 55,Hüttwilen,8.87,47.607,33
 24,Zünikon,8.834,47.517,20
 39,Bauen,8.58,46.935,20
 39,Ingenbohl,8.613,47.001,24
-24,Richterswil,8.706,47.209,20
 39,Gachnang,8.852,47.54,24
 33,Stäfa,8.722,47.241,28
-28,Willikon,8.736,47.266,20
 46,Seegräben,8.772,47.342,20
 33,Mostelberg,8.65,47.067,20
-39,Schlatt b. Winterthur,8.828,47.469,20
+28,Schlatt b. Winterthur,8.828,47.469,20
 66,Pfäffikon ZH,8.785,47.366,39
 24,Gossau ZH,8.76,47.308,20
-79,Zell ZH,8.823,47.448,46
+66,Zell ZH,8.823,47.448,46
 39,Morschach,8.62,46.982,20
 24,Isleten,8.593,46.921,20
 28,Humbel,8.798,47.382,20
 46,Rothenthurm,8.677,47.105,39
 24,Mittlere Altmatt,8.685,47.118,20
-46,Wollerau,8.72,47.196,20
 39,Grüningen,8.762,47.283,20
-276,Schwyz,8.652,47.022,79
+331,Schwyz,8.652,47.022,79
 28,Herdern,8.91,47.605,20
 94,Sisikon,8.622,46.95,24
 24,Oberschönenbuch,8.646,46.997,20
-39,Elgg,8.867,47.491,20
+46,Elgg,8.867,47.491,20
 112,Frauenfeld,8.898,47.558,94
 79,Wetzikon ZH,8.794,47.317,39
 24,Auslikon,8.807,47.346,20
 24,Turbenthal,8.848,47.436,20
 55,Wila,8.846,47.421,20
+28,Feusisberg,8.748,47.187,20
 24,Gündelhart,8.946,47.637,20
-46,Flüelen,8.626,46.9,20
+66,Flüelen,8.626,46.9,24
 28,Stoos SZ,8.665,46.976,24
 33,Dettighofen,8.949,47.617,28
 24,Feldbach,8.785,47.238,20
@@ -1482,30 +1670,29 @@ rs,name,lon,lat,r1
 28,Trachslau,8.728,47.101,20
 66,Alpthal,8.717,47.072,20
 46,Brunni,8.707,47.046,28
-94,Einsiedeln,8.743,47.128,55
-112,Aadorf,8.904,47.491,55
-134,Steckborn,8.98,47.665,79
-160,Altdorf UR,8.633,46.876,112
+192,Einsiedeln,8.743,47.128,55
+39,Aadorf,8.904,47.491,20
+94,Steckborn,8.98,47.665,66
 33,Riemenstalden,8.666,46.948,24
 55,Pfyn,8.951,47.595,20
 24,Neubrunn,8.894,47.44,20
-66,Matzingen,8.933,47.52,20
+46,Matzingen,8.933,47.52,20
 39,Bäretswil,8.857,47.336,28
 39,Hinwil,8.841,47.299,24
-66,Egg,8.784,47.162,28
+66,Egg,8.784,47.162,20
 46,Bauma,8.877,47.367,24
-33,Ringwil,8.856,47.315,20
 331,Rapperswil SG,8.819,47.226,94
 66,Ibergeregg,8.733,47.018,24
 28,Berlingen,9.023,47.674,24
 33,Homburg,9.007,47.635,20
 33,Salen,9.016,47.65,20
 66,Wassen UR,8.599,46.706,28
-112,Erstfeld,8.651,46.822,33
+94,Erstfeld,8.651,46.822,39
 28,Illgau,8.726,46.988,20
-39,Wängi,8.953,47.497,28
+55,Wängi,8.953,47.497,20
 66,Bedretto,8.513,46.507,55
 66,Göschenen,8.587,46.669,28
+28,Girenbad,8.872,47.31,20
 79,Müllheim Dorf,9.002,47.602,55
 39,Sternenberg,8.911,47.388,20
 66,Gurtnellen,8.628,46.739,24
@@ -1516,16 +1703,15 @@ rs,name,lon,lat,r1
 39,Oberiberg,8.782,47.04,20
 39,Illhart,9.038,47.62,20
 28,Lommis,8.995,47.518,20
-33,Lachen SZ,8.852,47.192,28
 94,Muotathal,8.757,46.977,55
 39,Fischenthal,8.92,47.331,28
-331,Amsteg,8.672,46.769,46
+230,Amsteg,8.672,46.769,46
 134,Unteriberg,8.802,47.06,55
 24,Ermenswil,8.885,47.245,20
 39,Hueb,8.907,47.293,20
 24,Au TG,8.954,47.398,20
 33,Wagen,8.886,47.232,20
-55,Spiringen,8.729,46.873,39
+46,Spiringen,8.729,46.873,46
 46,Fischingen,8.969,47.416,28
 28,Oberwangen TG,8.976,47.43,28
 28,Zezikon,9.022,47.535,20
@@ -1534,116 +1720,110 @@ rs,name,lon,lat,r1
 46,Wald ZH,8.913,47.275,28
 39,Bonau,9.049,47.583,20
 24,Bollingen,8.894,47.22,20
-33,Sirnach,9.001,47.463,24
+39,Sirnach,9.001,47.463,24
 46,Bissegg,9.044,47.562,20
 33,Bosco#Gurin,8.491,46.317,28
-24,Nuolen,8.889,47.204,20
+24,Nuolen,8.889,47.204,24
 24,Bettwiesen,9.023,47.5,20
 46,Tobel,9.03,47.512,20
 24,Studen SZ,8.842,47.072,20
 28,Sonlerto,8.539,46.395,28
-28,Wangen SZ,8.896,47.191,24
 24,Eschenbach SG,8.922,47.241,24
 24,Oppikon,9.06,47.55,20
 33,Campo (Vallemaggia),8.499,46.288,24
 160,Airolo,8.609,46.528,112
 66,Foroglio,8.549,46.374,33
 28,Unterschächen,8.77,46.863,24
-276,Wil SG,9.041,47.461,79
 28,Lippoldswilen,9.112,47.611,20
 24,Tägerwilen,9.134,47.655,24
 94,Vorderthal,8.901,47.121,46
-39,Goldingen,8.967,47.263,20
 28,Braunau,9.072,47.503,20
-28,Rossrüti,9.061,47.474,20
-55,Tuggen,8.945,47.203,20
+28,Rickenbach b. Wil,9.05,47.449,20
+46,Tuggen,8.945,47.203,20
 28,Hintergoldingen,8.981,47.285,28
 39,Cerentino,8.545,46.304,33
 55,Kirchberg SG,9.04,47.411,39
 28,Rothenhausen,9.102,47.55,20
-79,St. Gallenkappel,8.969,47.245,66
+39,St. Gallenkappel,8.969,47.245,20
 46,Tschamut,8.709,46.655,39
-112,Schübelbach,8.941,47.175,55
+33,Schübelbach,8.941,47.175,33
 28,Fontana,8.579,46.361,20
 134,Piano di Peccia,8.609,46.415,55
+24,Rüeterswil,8.988,47.259,20
 33,Innerthal,8.92,47.105,20
-55,Libingen,9.023,47.329,28
+46,Libingen,9.023,47.329,28
 24,Äsch,8.82,46.866,24
 24,Mosnang,9.04,47.363,20
-39,Uznach,8.984,47.225,20
 276,Kreuzlingen,9.174,47.651,160
-46,Wuppenau,9.109,47.498,20
+66,Wuppenau,9.109,47.498,20
 33,Mettlen,9.124,47.53,20
 33,Piotta,8.675,46.513,20
 24,Altanca,8.682,46.524,20
 134,Cavergno,8.607,46.345,79
-66,Zuzwil SG,9.111,47.475,28
+46,Zuzwil SG,9.111,47.475,28
 33,Lütisburg,9.081,47.395,24
 28,Unterrindal,9.09,47.409,20
-24,Bürglen TG,9.153,47.55,20
+33,Bürglen TG,9.153,47.55,24
 55,Fusio,8.663,46.444,33
 39,Berg TG,9.167,47.581,24
 24,Schönholzerswilen,9.14,47.516,20
-55,Bütschwil,9.073,47.359,46
+94,Bütschwil,9.073,47.359,39
 24,Mogno,8.663,46.433,24
 46,Sedrun,8.774,46.68,33
 28,Lengwil,9.194,47.624,20
 33,Kengelbach,9.069,47.336,20
-28,Gommiswald,9.023,47.231,20
+24,Gommiswald,9.023,47.231,20
 28,Graltshausen,9.183,47.596,28
 33,Menzonio,8.64,46.361,20
 24,Ricken SG,9.045,47.264,24
 79,Quinto,8.71,46.511,55
-66,Kaltbrunn,9.026,47.215,20
+24,Kaltbrunn,9.026,47.215,20
 94,Comologno,8.575,46.203,55
+24,Oberuzwil,9.124,47.429,20
 33,Heiligkreuz,9.156,47.5,20
-79,Uzwil,9.133,47.438,55
 24,Birwinken,9.197,47.582,20
 24,Lichtensteig,9.088,47.324,20
-28,Sulgen,9.185,47.539,20
-160,Wattwil,9.088,47.303,66
 39,Münsterlingen,9.233,47.632,28
-28,Oberbüren,9.161,47.452,20
+24,Oberbüren,9.161,47.452,20
 160,Segnas,8.829,46.695,79
-33,Andwil TG,9.216,47.567,20
-66,Kradolf,9.201,47.524,24
+55,Andwil TG,9.216,47.567,20
+28,Kradolf,9.201,47.524,20
 39,Nassen,9.136,47.373,33
-66,Schänis,9.047,47.161,28
+79,Schänis,9.047,47.161,28
 28,Necker,9.13,47.348,20
-33,Niederhelfenschwil,9.186,47.475,20
+39,Niederhelfenschwil,9.186,47.475,20
 94,Someo,8.661,46.289,33
 33,Russo,8.622,46.202,28
 28,Herrenhof,9.245,47.597,20
 24,Disentis#Mustér,8.855,46.706,20
 79,Altnau,9.257,47.611,20
 94,Càmedo,8.611,46.155,39
-230,Niederurnen,9.053,47.125,134
+192,Niederurnen,9.053,47.125,79
 24,Hohentannen,9.224,47.51,20
-33,Heiterswil,9.134,47.298,24
+39,Heiterswil,9.134,47.298,24
 33,Osco,8.78,46.494,20
 55,Flawil,9.189,47.415,28
 24,Engishofen,9.251,47.557,20
 28,Medel (Lucmagn),8.855,46.658,20
-66,Ebnat-Kappel,9.124,47.262,33
+94,Ebnat-Kappel,9.124,47.262,39
 46,Wolfertswil,9.183,47.394,20
 24,Coglio,8.684,46.27,20
 24,Verdasio,8.637,46.166,20
 79,Mutwil,9.219,47.454,20
-79,Bischofszell,9.241,47.492,46
 55,Loco,8.67,46.202,20
 46,Zihlschlacht,9.259,47.522,24
-46,Beglingen,9.078,47.104,20
 230,Faido,8.801,46.478,94
 46,Steintal,9.138,47.229,20
 46,Degersheim,9.201,47.372,33
-28,Weesen,9.098,47.135,24
+28,Weesen,9.098,47.135,20
 24,Hauptwil,9.251,47.479,20
 33,Dicken,9.19,47.337,20
-160,Maggia,8.709,46.246,66
-276,Betschwanden,9.025,46.945,55
-160,Glarus,9.069,47.042,66
+230,Maggia,8.709,46.246,66
+230,Betschwanden,9.025,46.945,55
+160,Glarus,9.069,47.042,55
 28,Gribbio,8.807,46.455,20
 33,Hefenhofen,9.299,47.565,20
+24,Egg (Flawil),9.226,47.392,20
 66,Leuggelbach,9.044,46.976,28
 28,Krummenau,9.166,47.249,20
 94,Sumvitg,8.936,46.727,46
@@ -1652,13 +1832,12 @@ rs,name,lon,lat,r1
 24,Chiggiogna,8.823,46.467,20
 24,Nidfurn,9.057,46.988,20
 94,Gossau SG,9.248,47.416,79
-24,Wilen (Gottshaus),9.284,47.493,20
 66,Intragna,8.704,46.178,33
 24,Hagenwil b. Amriswil,9.306,47.529,20
 66,Mitlödi,9.079,47.01,24
 55,Amden,9.142,47.149,46
-46,Waldkirch,9.285,47.468,24
-55,Wald,9.227,47.329,33
+55,Waldkirch,9.285,47.468,20
+66,Wald,9.227,47.329,33
 39,Uttwil,9.339,47.585,20
 28,Andwil SG,9.275,47.436,20
 39,Gordevio,8.742,46.226,20
@@ -1666,8 +1845,8 @@ rs,name,lon,lat,r1
 66,Lavorgo,8.842,46.441,28
 28,Niderwil,9.294,47.455,20
 134,Frasco,8.802,46.34,33
-55,Obstalden,9.15,47.117,24
-192,Nesslau,9.199,47.227,39
+33,Obstalden,9.15,47.117,24
+79,Nesslau,9.199,47.227,39
 39,Chironico,8.844,46.422,20
 28,Ennetbühl,9.211,47.241,20
 46,Trun,8.991,46.744,33
@@ -1678,12 +1857,12 @@ rs,name,lon,lat,r1
 24,Schönau,9.253,47.311,20
 24,Schlans,9.014,46.753,20
 28,Bernhardzell,9.334,47.474,20
-28,Häggenschwil,9.343,47.494,20
+46,Häggenschwil,9.343,47.494,20
 55,Romanshorn,9.379,47.566,39
 66,Hegi,9.358,47.517,24
 39,Abtwil SG,9.318,47.422,24
 24,Cozzera,8.942,46.57,20
-94,Urnäsch,9.283,47.318,33
+112,Urnäsch,9.283,47.318,33
 24,Cavagnago,8.882,46.413,20
 24,Zürchersmühle,9.292,47.33,20
 134,Olivone,8.938,46.53,55
@@ -1694,94 +1873,88 @@ rs,name,lon,lat,r1
 55,Engi,9.154,46.982,39
 79,Breil#Brigels,9.062,46.769,66
 28,Murg,9.215,47.113,20
-112,Caviano,8.765,46.108,39
+192,Caviano,8.765,46.108,39
 46,Ponto Valentino,8.936,46.483,20
+28,Orselina,8.801,46.18,20
 39,Aquila,8.951,46.503,24
-192,Locarno,8.799,46.167,134
 79,Lavertezzo,8.841,46.257,55
-28,Roggwil TG,9.395,47.5,20
 28,Gerra (Gambarogno),8.785,46.123,24
-46,Vira (Gambarogno),8.842,46.144,24
+46,Vira (Gambarogno),8.842,46.144,28
 24,Appenzell Schlatt,9.396,47.357,20
 46,Cadenazzo,8.943,46.152,20
+24,Contra,8.839,46.189,20
 46,Schwägalp,9.318,47.256,46
 33,Stein AR,9.345,47.375,24
 28,Corzoneso,8.934,46.446,20
-79,Wittenbach,9.387,47.46,28
+66,Wittenbach,9.387,47.46,28
 46,Bodio TI,8.909,46.382,33
 33,Anzano,9.042,46.435,33
 33,Osogna,8.987,46.312,20
 46,Pontirone,9.021,46.382,24
 24,Uors (Lumnezia),9.184,46.7,20
 55,Brülisau,9.455,47.298,24
-28,Berg SG,9.406,47.487,20
-28,Caslano,8.884,45.97,20
+33,Berg SG,9.406,47.487,20
 685,St. Gallen,9.38,47.424,331
 55,Quarten,9.242,47.108,39
 160,Flims Dorf,9.285,46.837,66
 33,Alt St. Johann,9.28,47.192,33
 28,Medeglia,8.971,46.115,24
 33,Odogno,8.972,46.082,20
-24,Heiligkreuz (Mels),9.416,47.058,20
+39,Lachen,9.583,47.441,20
 79,Valbella,9.131,46.401,55
-112,Melide,8.95,45.954,24
+24,Personico,8.918,46.37,20
+28,Melide,8.95,45.954,24
 28,Mergoscia,8.847,46.209,20
 39,Pigniu,9.117,46.809,24
-33,Oberschan,9.474,47.099,20
 46,Gonten,9.347,47.329,33
-39,Brè sopra Lugano,8.997,46.011,24
 66,Safien Platz,9.315,46.682,66
 66,Vogorno,8.857,46.224,28
 33,Bogno,9.065,46.09,33
 24,Rhäzüns,9.398,46.798,20
-55,Fläsch,9.51,47.027,20
+46,Fläsch,9.51,47.027,20
 28,Lostallo,9.196,46.314,20
-192,Arbon,9.436,47.515,79
+79,Arbon,9.436,47.515,33
 33,Feldis#Veulden,9.433,46.794,20
 46,Obersaxen Meierhof,9.1,46.748,20
 33,Bruzella,9.037,45.881,20
 46,Cazis,9.431,46.72,20
 331,Thusis,9.439,46.697,94
-28,Scharans,9.46,46.717,20
 24,Mörschwil,9.423,47.468,20
+24,Clugin,9.426,46.617,20
 79,Teufen AR,9.391,47.389,28
-33,Valzeina,9.604,46.952,20
-24,Steinach,9.442,47.504,20
-46,Gordola,8.858,46.182,33
 33,Motto (Blenio),8.97,46.429,20
 46,Zorten,9.538,46.696,28
 28,Mols,9.276,47.113,20
 28,Campsut,9.479,46.486,20
 46,Indemini,8.827,46.096,24
-134,Parsonz,9.572,46.61,79
+28,Parsonz,9.572,46.61,28
 24,Buchen im Prättigau,9.719,46.941,20
 112,Malvaglia,8.977,46.414,46
 55,Marmorera,9.642,46.497,20
+39,Horn,9.465,47.495,20
 94,Bergün#Bravuogn,9.746,46.63,55
 94,Vrin,9.098,46.654,46
-160,Klosters,9.879,46.878,55
-79,Unterlaret,9.868,46.841,28
-331,Biasca,8.968,46.361,134
-192,Maloja,9.695,46.403,79
+94,Klosters,9.879,46.878,55
+276,Biasca,8.968,46.361,134
+112,Maloja,9.695,46.403,79
 46,Siat,9.163,46.791,24
 24,Bühler,9.421,47.374,20
 66,Wildhaus,9.347,47.203,55
-46,Astano,8.816,46.013,24
-94,Walenstadt,9.313,47.121,55
-46,Goldach,9.468,47.473,33
+39,Astano,8.816,46.013,24
+94,Walenstadt,9.313,47.121,66
+24,Goldach,9.468,47.473,20
 39,Speicher,9.443,47.412,28
 24,Surin,9.116,46.665,20
-685,St. Moritz,9.837,46.497,230
-112,Appenzell,9.41,47.329,46
+28,St. Moritz,9.837,46.497,20
 33,Iragna,8.967,46.329,20
 46,La Punt Chamues-ch,9.93,46.577,20
 33,Lüsis,9.336,47.138,20
 33,Lumbrein,9.135,46.683,28
 39,Eggersriet,9.471,47.443,24
 94,Susch,10.078,46.749,39
-79,Cugnasco,8.917,46.175,33
+46,Cugnasco,8.917,46.175,28
 39,Vignogn,9.156,46.699,20
-55,Gais,9.45,47.361,24
+55,Gais,9.45,47.361,28
 28,Rehetobel,9.483,47.426,20
 79,Lodrino,8.983,46.297,33
 28,Weissbad,9.435,47.311,20
@@ -1789,21 +1962,21 @@ rs,name,lon,lat,r1
 28,Berschis,9.347,47.106,20
 55,Flums,9.343,47.092,24
 24,Wasserauen,9.427,47.285,20
-28,Novaggio,8.857,46.01,20
+46,Novaggio,8.857,46.01,20
 79,Breno,8.87,46.034,20
 134,Ilanz,9.205,46.775,46
 28,Luven,9.199,46.761,20
 28,Prosito,8.984,46.282,20
 24,Vezio,8.883,46.047,20
-94,Rivera,8.925,46.124,46
+112,Rivera,8.925,46.124,46
 24,Gudo,8.949,46.175,20
 24,Falera,9.231,46.802,20
 24,Schluein,9.227,46.789,20
-28,Appenzell Eggerstanden,9.467,47.331,24
 33,St. Martin (Lugnez),9.181,46.674,20
+24,Wienacht-Tobel,9.532,47.465,20
 46,Mezzovico-Vira,8.927,46.1,20
 33,Sigirino,8.919,46.08,20
-55,Heiden,9.53,47.443,20
+66,Heiden,9.53,47.443,28
 46,Pitasch,9.218,46.732,24
 28,Ruppen,9.509,47.391,20
 24,Magliaso,8.883,45.983,20
@@ -1811,183 +1984,11 @@ rs,name,lon,lat,r1
 39,Bedano,8.918,46.051,28
 28,Riein,9.234,46.745,20
 79,Weisstannen,9.344,46.99,46
-33,Bioggio,8.907,46.016,20
+39,Bioggio,8.907,46.016,20
 276,Vals,9.18,46.619,79
 28,Agno,8.899,45.997,20
 79,Gams,9.441,47.204,20
-134,Claro,9.019,46.255,33
-24,Wolfhalden,9.551,47.454,20
-28,Sementina,8.99,46.185,20
-66,St. Anton,9.535,47.41,20
-28,Manno,8.924,46.036,20
-112,Thal,9.565,47.468,39
+112,Claro,9.019,46.255,33
+24,Sementina,8.99,46.185,20
+24,St. Anton,9.535,47.41,20
 39,Gnosca,9.022,46.234,20
-33,Grabs,9.445,47.182,20
-24,Origlio,8.945,46.055,20
-46,Eichberg,9.525,47.346,24
-46,Montagnola,8.917,45.982,20
-28,Isone,8.985,46.129,20
-28,Hinterforst,9.532,47.358,20
-39,Valendas,9.283,46.788,20
-94,Altstätten SG,9.543,47.379,94
-24,Barbengo,8.914,45.961,20
-28,Giubiasco,9.01,46.173,20
-134,Tesserete,8.966,46.068,55
-28,Rheineck,9.59,47.464,20
-134,Sennwald,9.504,47.261,55
-397,Bellinzona,9.03,46.194,160
-33,Lienz,9.518,47.278,20
-55,Haag,9.489,47.21,24
-28,Marbach SG,9.57,47.393,20
-79,Mels,9.419,47.047,33
-2450,Lugano,8.951,46.004,822
-39,Arbedo,9.049,46.215,20
-46,Morcote,8.917,45.923,24
-55,Rossa,9.125,46.373,24
-192,Buchs SG,9.478,47.167,66
-24,Hinterrhein,9.2,46.531,24
-66,Rüthi (Rheintal),9.539,47.295,24
-39,Sta. Domenica,9.123,46.351,20
-33,Lumino,9.068,46.23,20
-24,Bidogno,8.999,46.079,20
-24,Wangs,9.431,47.032,20
-55,Bodio,9.119,46.331,24
-66,Arvigo,9.114,46.303,24
-28,Sargans,9.445,47.044,20
-192,Oberriet SG,9.568,47.325,46
-55,S. Antonio (Val Morobbia),9.056,46.17,20
-94,Versam,9.338,46.791,28
-55,Buseno,9.107,46.273,28
-79,Sevelen,9.487,47.122,33
-39,Pugerna,8.978,45.978,20
-39,Trin,9.362,46.828,20
-46,Insone,9.029,46.085,33
-276,Azmoos,9.476,47.083,192
-94,Thalkirch,9.279,46.637,39
-46,St. Margrethen SG,9.641,47.454,20
-66,Au SG,9.634,47.431,20
-66,Nufenen,9.244,46.539,46
-112,Tenna,9.339,46.747,33
-46,Laura,9.101,46.212,20
-33,Arogno,8.986,45.959,20
-46,Stabio,8.939,45.851,28
-55,Widnau,9.634,47.406,46
-28,Tremona,8.956,45.881,20
-79,Riva San Vitale,8.971,45.906,28
-94,Roveredo GR,9.129,46.239,46
-33,Melano,8.985,45.921,20
-39,Tamins,9.407,46.83,20
-39,Bonaduz,9.4,46.81,28
-39,Diepoldsau,9.655,47.386,20
-79,Valens,9.477,46.966,20
-66,Cama,9.17,46.271,24
-276,Mendrisio,8.99,45.87,112
-28,Vasön,9.477,46.952,20
-66,Bad Ragaz,9.501,47.002,33
-55,Soazza,9.221,46.368,20
-230,Mesocco,9.232,46.393,112
-134,Cabbiolo,9.203,46.327,55
-24,Novazzano,8.983,45.843,20
-24,Pfäfers,9.503,46.99,20
-46,Präz,9.406,46.743,20
-112,Splügen,9.324,46.553,55
-55,Domat#Ems,9.451,46.836,46
-33,Scudellate,9.042,45.922,20
-24,Seseglio,8.999,45.828,20
-33,Morbio Inferiore,9.017,45.855,20
-33,Muggio,9.042,45.902,28
-33,Urmein,9.401,46.692,20
-24,Flerden,9.408,46.703,20
-55,Tumegl#Tomils,9.44,46.763,33
-24,Paspels,9.442,46.749,20
-79,Chiasso,9.03,45.833,28
-33,Sufers,9.367,46.571,24
-39,Jenins,9.558,47,20
-24,Untervaz,9.535,46.928,20
-39,Almens,9.457,46.738,20
-230,Landquart,9.563,46.968,79
-33,Haldenstein,9.527,46.88,20
-28,Malans GR,9.577,46.982,20
-33,Rongellen,9.449,46.678,20
-33,Zizers,9.566,46.937,24
-1183,Chur,9.531,46.851,476
-192,Andeer,9.426,46.604,66
-66,Zillis,9.445,46.635,24
-94,Trimmis,9.565,46.897,33
-94,Ausserferrera,9.44,46.556,39
-79,Churwalden,9.543,46.781,39
-39,Mutten,9.501,46.678,20
-39,Grüsch,9.647,46.983,24
-66,Innerferrera,9.445,46.521,28
-33,Praden,9.583,46.825,28
-46,Valbella,9.556,46.751,20
-28,Sporz,9.541,46.71,20
-79,Castiel,9.605,46.84,39
-112,Lenzerheide/Lai,9.557,46.73,66
-94,Alvaschein,9.553,46.674,46
-79,Schiers,9.689,46.97,66
-24,Lantsch#Lenz,9.563,46.685,20
-33,Furna,9.678,46.937,20
-24,Mon,9.564,46.65,20
-28,Tiefencastel,9.576,46.661,20
-28,Salouf,9.575,46.624,28
-46,Schuders,9.738,46.992,28
-55,Jenaz,9.713,46.928,28
-66,Cresta (Avers),9.513,46.473,66
-33,Peist,9.675,46.835,20
-94,Arosa,9.677,46.779,33
-28,Savognin,9.599,46.596,28
-55,Alvaneu Dorf,9.648,46.679,55
-94,Langwies,9.712,46.821,66
-39,Litzirüti,9.703,46.799,20
-94,Luzein,9.767,46.92,46
-46,Tinizong,9.618,46.582,20
-28,Castasegna,9.516,46.333,24
-94,Rona,9.625,46.561,94
-160,Platz,9.817,46.97,39
-55,Sur,9.632,46.523,28
-33,Saas im Prättigau,9.808,46.911,24
-134,Promontogno,9.558,46.34,134
-134,Bivio,9.65,46.469,55
-46,Stugl/Stuls,9.732,46.651,20
-28,Serneus,9.841,46.89,20
-94,Davos Monstein,9.773,46.711,55
-39,Vicosoprano,9.62,46.351,33
-331,Davos,9.836,46.804,160
-24,Casaccia,9.665,46.39,20
-39,Sertig Dörfli,9.85,46.725,39
-33,Monbiel,9.919,46.862,24
-33,Isola,9.74,46.413,20
-55,Sils im Engadin#Segl,9.763,46.429,24
-79,Silvaplana,9.796,46.46,28
-39,Champfèr,9.812,46.479,20
-33,Celerina#Schlarigna,9.86,46.513,20
-79,Samedan,9.872,46.535,33
-33,Bever,9.889,46.552,20
-39,Pontresina,9.902,46.493,33
-230,Zuoz,9.96,46.6,55
-24,Susauna,9.99,46.637,20
-24,S-chanf,9.982,46.612,20
-28,Cinuos-chel,10.021,46.643,20
-94,Brail,10.035,46.656,33
-39,Lavin,10.112,46.769,39
-192,Zernez,10.096,46.7,79
-46,Guarda,10.152,46.775,24
-331,Poschiavo,10.058,46.326,134
-94,Ardez,10.201,46.772,55
-571,Scuol,10.294,46.796,230
-55,Lü,10.369,46.623,20
-46,Ftan,10.248,46.794,24
-39,Tarasp,10.258,46.776,20
-28,S. Antonio,10.061,46.313,20
-331,Samnaun Dorf,10.36,46.944,94
-66,Le Prese,10.077,46.294,24
-46,Sent,10.337,46.818,24
-33,Miralago,10.099,46.272,20
-79,Ramosch,10.382,46.835,46
-134,Brusio,10.127,46.257,55
-46,Campocologno,10.142,46.233,20
-160,Tschlin,10.425,46.87,28
-33,Martina,10.464,46.885,20
-24,Fuldera,10.372,46.609,20
-331,Valchava,10.404,46.602,160

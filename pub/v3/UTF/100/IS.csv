@@ -1,4 +1,5 @@
 rs,name,lon,lat,r1
+100000,Reykjavík,-21.903,64.115,100000
 511,Patreksfjörður,-23.999,65.598,426
 144,Flateyri,-23.508,66.046,120
 206,Bolungarvík,-23.25,66.157,100
@@ -11,21 +12,19 @@ rs,name,lon,lat,r1
 1522,Stykkishólmur,-22.725,65.076,511
 120,Sandgerði,-22.7,64.033,100
 296,Reykhólar,-22.199,65.448,247
-120,Melahverfi Hvalfirði,-21.849,64.382,100
 172,Keflavík og Njarðvík,-22.548,63.998,172
 355,Grindavík,-22.434,63.843,120
 426,Akranes,-22.058,64.319,172
 296,Búðardalur,-21.762,65.109,296
 355,Borgarnes,-21.91,64.545,144
 120,Drangsnes,-21.44,65.69,100
-172,Grundarhverfi Kjalarnesi,-21.831,64.242,100
+206,Grundarhverfi Kjalarnesi,-21.831,64.242,100
 247,Bifröst,-21.549,64.766,206
 735,Hólmavík,-21.683,65.701,355
-100000,Reykjavík,-21.897,64.133,100000
 296,Hvammstangi,-20.943,65.398,296
 144,Þorlákshöfn,-21.378,63.861,120
 172,Stokkseyri,-21.062,63.837,100
-735,Selfoss,-21.003,63.937,296
+735,Selfoss,-21.003,63.937,247
 296,Blönduós,-20.28,65.658,247
 144,Laugarbakki,-20.894,65.328,100
 206,Hveragerði,-21.184,64.001,100

@@ -11,15 +11,13 @@ rs,name,lon,lat,r1
 345,Borgarnes,-21.91,64.545,200
 288,Bifrost,-21.549,64.766,200
 714,Holmavik,-21.683,65.701,345
-100000,Reykjavik,-21.897,64.133,100000
 288,Hvammstangi,-20.943,65.398,288
 714,Selfoss,-21.003,63.937,288
 288,Blonduos,-20.28,65.658,240
 414,Skagastrond,-20.303,65.823,200
-345,Laugarvatn,-20.733,64.218,200
-414,Fludir,-20.32,64.131,288
+414,Laugarvatn,-20.733,64.218,200
 595,Hvolsvollur,-20.231,63.749,240
-2127,Vestmannaeyjar,-20.276,63.44,496
+1773,Vestmannaeyjar,-20.276,63.44,496
 414,Varmahlid,-19.444,65.553,200
 496,Siglufjordur,-18.907,66.155,200
 595,Saudarkrokur,-19.64,65.748,414
@@ -39,9 +37,10 @@ rs,name,lon,lat,r1
 496,Thorshofn,-15.336,66.198,414
 1027,Vopnafjordur,-14.828,65.753,414
 1773,Hofn i Hornafirdi,-15.208,64.255,714
-3062,Egilsstadir,-14.406,65.262,1027
+2127,Egilsstadir,-14.406,65.262,1027
 496,Djupivogur,-14.283,64.657,200
 345,Borgarfjordur eystri,-13.816,65.528,288
 240,Stodvarfjordur,-13.874,64.833,200
 345,Faskrudsfjordur,-14.014,64.93,200
 414,Neskaupstadur,-13.676,65.147,200
+100000,Reykjavík,-21.903,64.115,100000

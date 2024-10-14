@@ -20,8 +20,6 @@ import org.locationtech.jts.index.strtree.STRtree;
 import org.opengis.filter.Filter;
 import org.opengis.referencing.crs.CoordinateReferenceSystem;
 
-import com.ibm.icu.text.Transliterator;
-
 import eu.europa.ec.eurostat.jgiscotools.feature.Feature;
 import eu.europa.ec.eurostat.jgiscotools.feature.FeatureUtil;
 import eu.europa.ec.eurostat.jgiscotools.io.CSVUtil;
@@ -68,7 +66,7 @@ public class EuroNymeProduction {
 		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_ASCII.gpkg", true, false);
 		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_UTF.gpkg", false, false);
 		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_UTF_LATIN.gpkg", false, true);
-		if(true) return;
+		//if(true) return;
 
 		//get country codes
 		HashSet<String> ccs = new HashSet<>();
@@ -286,12 +284,14 @@ public class EuroNymeProduction {
 		for (Feature f : buP) {
 			Feature f_ = new Feature();
 
+			String icc = (String) f.getAttribute("ICC");
+
 			// name
 			//NAMA: ASCII character - NAMN: utf8
 			// NAMA1 NAMA2 NAMN1 NAMN2
 
 			String name = null;
-			if(ascii) {
+			if(ascii || forceLatin && (icc.equals("GR") || icc.equals("CY"))) {
 				name = (String) f.getAttribute("NAMA1");
 				if (name == null || name.equals("UNK")) {
 					System.out.println("No NAMA1 for " + f.getID() + " " + f.getAttribute("ICC"));
@@ -443,7 +443,7 @@ public class EuroNymeProduction {
 		}
 
 
-		//transcript to latin
+		/*/transcript to latin
 		if(forceLatin){
 			Transliterator greekToLatin = Transliterator.getInstance("Greek-Latin");
 			Transliterator cyrillicToLatin = Transliterator.getInstance("Cyrillic-Latin");
@@ -453,7 +453,7 @@ public class EuroNymeProduction {
 				name = cyrillicToLatin.transliterate(name);
 				f.setAttribute("name", name);
 			}		
-		}
+		}*/
 
 		// save output
 		System.out.println("Save " + out.size());

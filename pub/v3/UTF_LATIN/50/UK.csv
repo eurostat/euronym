@@ -1,5 +1,5 @@
 rs,name,lon,lat,r1
-1297,St Kilda,-8.563,57.812,626
+2688,St Kilda,-8.563,57.812,626
 60,Drimsdale,-7.383,57.312,60
 86,Ceann a Tuath Loch Baghasdail,-7.34,57.161,50
 211,Bruernish,-7.401,56.995,86
@@ -33,7 +33,7 @@ rs,name,lon,lat,r1
 72,Lochskipport,-7.278,57.328,72
 86,Croir,-6.856,58.253,86
 86,Lingarabay,-6.939,57.761,86
-103,Breivig,-6.302,58.27,50
+86,Breivig,-6.302,58.27,50
 435,Maaruig,-6.735,57.956,211
 435,Melbost Borve,-6.436,58.43,176
 176,Shawbost,-6.685,58.328,86
@@ -54,7 +54,6 @@ rs,name,lon,lat,r1
 72,Ramasaig,-6.719,57.4,72
 103,Orinsay,-6.466,58.02,103
 435,Trumpan,-6.634,57.559,176
-1556,Stornoway,-6.379,58.209,751
 72,Cromore,-6.414,58.104,72
 211,Colbost,-6.645,57.445,176
 435,Kilkenneth,-6.968,56.493,435
@@ -74,7 +73,7 @@ rs,name,lon,lat,r1
 86,A' Chill,-6.509,57.056,86
 435,Enniskillen,-7.631,54.345,211
 72,New Buildings,-7.357,54.959,50
-1297,Londonderry,-7.319,54.999,522
+1081,Londonderry,-7.319,54.999,522
 86,Kinawley,-7.648,54.227,50
 103,Digg,-6.244,57.641,103
 176,Arileod,-6.63,56.599,176
@@ -102,12 +101,12 @@ rs,name,lon,lat,r1
 60,Park,-7.081,54.865,50
 123,Brochel,-6.028,57.442,86
 363,Port Mòr,-6.226,56.835,363
-123,Beinn Casgro,-6.395,58.148,50
+147,Beinn Casgro,-6.395,58.148,50
 86,Claigan,-6.618,57.488,86
 72,Calbost,-6.388,58.068,72
 86,Gleann Tholastaidh,-6.232,58.32,86
 123,Orbost,-6.567,57.395,123
-72,Garrabost,-6.235,58.219,50
+60,Garrabost,-6.235,58.219,50
 211,Castlederg,-7.592,54.708,86
 147,Coishletter,-6.431,57.468,86
 303,Strabane,-7.463,54.824,123
@@ -133,10 +132,9 @@ rs,name,lon,lat,r1
 103,Kilnave,-6.338,55.863,103
 86,Baile Mòr,-6.395,56.332,86
 103,Kilmarie,-6.06,57.183,103
-522,Stoer,-5.337,58.202,363
+435,Stoer,-5.337,58.202,363
 123,Ardarroch,-5.599,57.396,123
 363,Carsaig,-5.979,56.324,253
-60,Coalisland,-6.701,54.539,50
 86,Achduart,-5.299,57.98,86
 176,Oldshore Beg,-5.094,58.484,176
 147,Aultgrishan,-5.801,57.802,147
@@ -150,7 +148,6 @@ rs,name,lon,lat,r1
 253,Dungiven,-6.919,54.926,103
 147,Toberonochy,-5.631,56.216,147
 72,Lurgan,-6.334,54.462,60
-751,Oban,-5.474,56.407,303
 72,Kilbride,-5.473,56.374,50
 751,Newry,-6.334,54.178,253
 72,Rhugarbh,-5.363,56.511,72
@@ -272,7 +269,7 @@ rs,name,lon,lat,r1
 72,Cargan,-6.179,54.996,72
 72,Clachan,-5.071,57.815,72
 60,Cullipool,-5.65,56.256,60
-211,Achinduin,-5.552,56.493,72
+176,Achinduin,-5.552,56.493,72
 86,North Erradale,-5.791,57.764,86
 147,Balvicar,-5.613,56.291,86
 72,Tandragee,-6.413,54.355,60
@@ -284,11 +281,10 @@ rs,name,lon,lat,r1
 86,Polla,-4.765,58.45,86
 626,Sangobeg,-4.704,58.553,522
 72,Waringstown,-6.297,54.433,50
-176,Crumlin,-6.212,54.621,72
 72,Raera,-5.512,56.327,60
 103,Portnancon,-4.703,58.502,103
 60,Glenavy,-6.212,54.592,50
-901,Ardminish,-5.741,55.676,211
+751,Ardminish,-5.741,55.676,211
 72,Ardfern,-5.537,56.182,72
 86,Corrykinloch,-4.781,58.188,86
 72,Melfort,-5.493,56.271,72
@@ -387,7 +383,7 @@ rs,name,lon,lat,r1
 253,Liatrie,-4.912,57.351,211
 86,Monevechadan,-4.92,56.207,50
 86,Kilmory,-5.221,55.45,86
-147,Lisburn,-6.044,54.511,72
+176,Lisburn,-6.044,54.511,72
 103,Rathfriland,-6.16,54.237,86
 211,Lochgoilhead,-4.899,56.17,72
 60,Banavie,-5.096,56.849,50
@@ -414,7 +410,7 @@ rs,name,lon,lat,r1
 253,Clachanmore,-4.979,54.78,103
 123,Strathrannoch,-4.714,57.73,123
 103,Eredine,-5.276,56.233,103
-147,Newtownabbey,-5.907,54.673,60
+123,Newtownabbey,-5.907,54.673,50
 60,Mudale,-4.504,58.286,60
 60,Lubfearn,-4.713,57.693,60
 72,Annahilt,-5.998,54.437,50
@@ -422,7 +418,7 @@ rs,name,lon,lat,r1
 86,Dromara,-6.015,54.379,60
 253,Larne,-5.808,54.855,103
 176,Crossaig,-5.453,55.705,176
-123,Balliemeanoch,-5.215,56.298,103
+123,Balliemeanoch,-5.215,56.298,123
 60,Saddell,-5.512,55.533,60
 86,Gorstan,-4.705,57.626,86
 253,Caolasnacon,-5.042,56.702,103
@@ -461,7 +457,6 @@ rs,name,lon,lat,r1
 60,Conchra,-5.17,56.053,60
 103,Dalchenna,-5.104,56.207,86
 86,Lochranza,-5.293,55.703,86
-60,Ballygowan,-5.789,54.503,50
 60,Achany,-4.424,57.981,60
 72,Auchagallon,-5.34,55.561,72
 103,Altnafeadh,-4.899,56.666,103
@@ -488,12 +483,11 @@ rs,name,lon,lat,r1
 60,Ardachu,-4.243,58.001,60
 103,Killyleagh,-5.648,54.4,50
 86,Arrivain,-4.818,56.437,86
-86,Donaghadee,-5.535,54.641,60
 103,Kerrymenoch,-5.068,55.77,50
 103,Bridge of Orchy,-4.766,56.517,103
 60,Tom nan Ragh,-4.968,55.992,50
 176,Strathwhillan,-5.132,55.573,147
-72,Millisle,-5.526,54.607,50
+86,Millisle,-5.526,54.607,60
 86,Achallader,-4.737,56.565,86
 176,Strone,-4.448,57.325,123
 60,Drumchardine,-4.388,57.47,50
@@ -531,7 +525,7 @@ rs,name,lon,lat,r1
 103,Ballygally,-5.858,54.898,50
 86,Camore,-4.06,57.886,60
 72,Kirkton,-4.029,57.961,72
-435,Greenock,-4.781,55.949,211
+303,Greenock,-4.781,55.949,211
 60,Raddery,-4.153,57.602,60
 86,Fairlie,-4.853,55.757,50
 211,North Cairn,-5.161,54.986,86
@@ -556,9 +550,8 @@ rs,name,lon,lat,r1
 103,Bun Loyne,-4.952,57.144,103
 60,Balgowan,-4.247,57.021,60
 86,Newlands of Culloden,-4.073,57.485,72
-123,Heathfield,-4.677,55.828,60
+147,Heathfield,-4.677,55.828,60
 60,Rhynie,-3.938,57.787,50
-86,Dalry,-4.719,55.709,50
 123,Milarrochy,-4.56,56.102,86
 103,Lendalfoot,-4.932,55.169,50
 211,Heronsford,-4.948,55.109,103
@@ -598,7 +591,6 @@ rs,name,lon,lat,r1
 103,Auchensoul,-4.738,55.202,50
 72,Culroy,-4.656,55.394,50
 86,Barrhill,-4.77,55.103,50
-1867,Belfast,-5.927,54.596,901
 123,Ribigill,-4.43,58.45,123
 60,Invercassley,-4.591,57.98,60
 86,Ballimore,-5.329,55.998,50
@@ -652,16 +644,14 @@ rs,name,lon,lat,r1
 86,Auchencarroch,-4.54,56.004,50
 103,Irvine,-4.647,55.62,60
 176,Ruthven,-3.971,57.374,103
-5572,Thurso,-3.526,58.591,751
-147,Troon,-4.652,55.55,50
+147,Troon,-4.652,55.55,60
 72,Brig o'Turk,-4.362,56.23,72
 86,Auchmantle,-4.882,54.925,72
 60,Miltonise,-4.827,55.022,60
 60,Mains of Clunas,-3.866,57.495,60
 72,North Barr,-4.46,55.908,50
 103,Clanyard,-4.938,54.697,103
-103,Prestwick,-4.604,55.495,50
-626,Ayr,-4.623,55.444,253
+751,Ayr,-4.623,55.444,253
 176,Stromness,-3.298,58.963,147
 60,Lettoch,-3.498,57.377,50
 72,Ardchullarie More,-4.285,56.294,50
@@ -689,9 +679,8 @@ rs,name,lon,lat,r1
 60,Aldclune,-3.798,56.755,50
 626,Kirkwall,-2.957,58.979,303
 60,Sulland,-2.864,59.25,60
-123,Paisley,-4.426,55.836,86
+86,Paisley,-4.426,55.836,60
 211,Balfron,-4.333,56.07,86
-363,Wick,-3.083,58.445,176
 72,Milton,-3.756,56.529,72
 72,Banchor,-3.814,57.445,72
 147,Lossiemouth,-3.292,57.718,50
@@ -703,9 +692,9 @@ rs,name,lon,lat,r1
 86,Veness,-2.744,59.151,86
 72,Guay,-3.626,56.623,72
 147,Glenlee,-4.182,55.097,147
-901,Andreas,-4.443,54.368,253
+103,Andreas,-4.443,54.368,50
 303,Kilmarnock,-4.496,55.607,123
-72,Renfrew,-4.389,55.875,50
+60,Renfrew,-4.389,55.875,50
 72,Parish Holm,-3.959,55.531,72
 86,Drumrash,-4.064,55.023,86
 103,Quoyscottie,-3.218,59.085,86
@@ -719,7 +708,7 @@ rs,name,lon,lat,r1
 60,Blanefield,-4.312,55.988,50
 211,Callander,-4.21,56.242,103
 72,Croftgarrow,-4.075,56.594,72
-751,Berriedale,-3.497,58.184,211
+435,Berriedale,-3.497,58.184,211
 103,Clova,-2.906,57.29,86
 72,Newgale,-5.124,51.858,60
 176,Polbae,-4.688,55.023,86
@@ -751,7 +740,7 @@ rs,name,lon,lat,r1
 86,Bargrennan,-4.585,55.054,86
 86,Strathtummel,-3.932,56.718,86
 72,Craighlaw Mains,-4.64,54.912,72
-123,Mains of Watten,-3.286,58.488,72
+123,Mains of Watten,-3.286,58.488,86
 60,Hastigrow,-3.269,58.528,60
 72,Wyng,-3.174,58.8,72
 147,Mauchline,-4.377,55.514,60
@@ -762,7 +751,7 @@ rs,name,lon,lat,r1
 626,Windywalls,-2.968,59.351,303
 72,Broughton,-2.977,59.313,72
 72,Tingwall,-3.045,59.089,72
-9627,Glasgow,-4.231,55.801,2688
+123,Glasgow,-4.231,55.801,50
 86,Dalcairney,-4.416,55.311,50
 60,Camerory,-3.623,57.36,50
 60,Whome,-3.106,58.825,60
@@ -792,21 +781,17 @@ rs,name,lon,lat,r1
 103,John o' Groats,-3.066,58.638,103
 253,Milltown,-3.081,58.565,103
 72,Ardvorlich,-4.217,56.379,72
-72,Glenboig,-4.044,55.893,50
+86,Glenboig,-4.044,55.893,50
 626,Pitlochry,-3.73,56.706,147
 86,Braehead,-4.462,54.839,86
 72,Scotston,-3.782,56.563,50
 60,Corrymuckloch,-3.797,56.492,60
-103,Cumbernauld,-4.003,55.95,103
+103,Cumbernauld,-4.003,55.95,72
 72,Braco,-3.88,56.265,50
 303,Crieff,-3.838,56.374,147
 72,Suckquoy,-2.969,58.777,72
-147,Coatbridge,-4.027,55.858,60
-103,Hamilton,-4.054,55.775,72
-123,Peel,-4.685,54.221,123
+176,Peel,-4.685,54.221,86
 86,Burwick,-2.97,58.743,86
-522,Port St Mary,-4.737,54.074,303
-86,Bellshill,-4.021,55.819,50
 147,Castlemaddy,-4.272,55.178,147
 60,Burray Village,-2.917,58.845,60
 60,Eastside,-2.925,58.81,60
@@ -824,9 +809,8 @@ rs,name,lon,lat,r1
 147,Kames,-4.063,55.514,86
 86,Drumin,-3.36,57.355,86
 86,Knocknalling,-4.205,55.139,86
-103,Ballaugh,-4.541,54.309,103
+103,Ballaugh,-4.541,54.309,72
 123,Dalmarnock,-3.633,56.589,103
-72,Wishaw,-3.925,55.773,60
 147,Auchterarder,-3.723,56.291,72
 60,North Halley,-2.771,58.955,60
 123,Corlae,-4.111,55.256,103
@@ -837,7 +821,6 @@ rs,name,lon,lat,r1
 72,Chapelhill,-3.611,56.454,72
 86,Kirkland,-4.016,55.406,50
 123,Altonside,-3.187,57.599,50
-72,Snugborough,-4.514,54.167,72
 86,Blairnamarrow,-3.312,57.221,86
 147,Spittal of Glenshee,-3.459,56.812,147
 60,Clashnoir,-3.286,57.282,60
@@ -848,7 +831,6 @@ rs,name,lon,lat,r1
 60,Auchallater,-3.387,56.978,60
 103,Newlands,-3.168,57.547,72
 86,Busby,-3.571,56.425,50
-86,Shotts,-3.8,55.823,60
 72,Ironmacannie,-4.096,55.057,72
 60,Kirkhill,-3.2,57.388,60
 123,Whitehall Village,-2.599,59.141,123
@@ -857,7 +839,7 @@ rs,name,lon,lat,r1
 72,Maggieknockater,-3.139,57.496,72
 103,Holland,-2.593,59.086,103
 60,Caputh,-3.485,56.543,60
-253,Laxey,-4.401,54.231,253
+123,Laxey,-4.401,54.231,50
 123,Sanquhar,-3.924,55.368,103
 60,Westfield,-3.695,55.932,50
 253,Craigdarroch,-3.98,55.196,123
@@ -870,7 +852,7 @@ rs,name,lon,lat,r1
 103,Auchenbrack,-3.942,55.248,103
 176,Netherton,-3.394,56.655,60
 72,Fauldhouse,-3.706,55.828,50
-103,Whitburn,-3.688,55.866,72
+86,Whitburn,-3.688,55.866,72
 60,Forter,-3.338,56.768,60
 103,Bridgehaugh,-3.1,57.41,103
 86,Balgonar,-3.575,56.126,60
@@ -891,14 +873,14 @@ rs,name,lon,lat,r1
 103,Aldunie,-3.051,57.327,103
 103,Glas-allt-Shiel,-3.19,56.929,103
 103,West End,-3.649,55.702,60
-303,Holyhead,-4.632,53.308,211
+1556,Holyhead,-4.632,53.308,211
 147,Feshiebridge,-3.892,57.116,60
 522,Harrier,-2.08,60.15,363
 72,Burn of Aultmore,-2.914,57.596,50
 72,Lary,-3.095,57.089,72
 72,Straith,-3.821,55.176,72
 147,Waterside,-3.051,57.193,123
-176,Livingston,-3.536,55.896,103
+147,Livingston,-3.536,55.896,103
 60,Belnacraig,-3.034,57.235,60
 60,Auchnabony,-3.955,54.82,50
 60,Niggards,-2.059,60.121,60
@@ -927,7 +909,7 @@ rs,name,lon,lat,r1
 86,Rhoshirwaun,-4.681,52.831,86
 60,Easter Lednathie,-3.081,56.754,60
 60,The Drums,-3.052,56.809,60
-86,Bearsden,-4.33,55.917,60
+86,Bearsden,-4.33,55.917,50
 103,Auchtermuchty,-3.231,56.292,50
 147,Dale,-5.172,51.705,72
 72,Grange,-3.182,56.417,50
@@ -938,18 +920,16 @@ rs,name,lon,lat,r1
 60,Waterside,-4.408,55.663,50
 86,Achavanich,-3.406,58.366,86
 103,Inkstack,-3.278,58.613,103
-60,Galston,-4.381,55.599,50
 86,Heddle,-3.128,58.993,72
 176,Wasbister,-3.06,59.179,147
 60,Bilbster,-3.238,58.459,60
 103,Comrie,-3.988,56.375,72
 72,Upper Camster,-3.261,58.356,72
 211,Grantown-on-Spey,-3.608,57.331,123
-60,East Kilbride,-4.184,55.758,50
 60,Halfway,-4.141,55.813,50
 86,Onziebust,-2.924,59.137,86
-363,Cumnock,-4.262,55.451,147
 123,Dunblane,-3.963,56.189,72
+60,Sarclet,-3.115,58.375,50
 253,Stirling,-3.932,56.109,103
 72,West Side,-2.816,59.18,72
 72,Carsphairn,-4.26,55.212,72
@@ -959,15 +939,15 @@ rs,name,lon,lat,r1
 60,Mid Garrary,-4.3,55.084,60
 103,Tormore,-3.408,57.398,103
 522,Elgin,-3.313,57.648,435
+60,Wattston,-3.956,55.908,50
 72,Newlot,-2.828,59.024,60
-176,Foxdale,-4.633,54.168,176
-211,Larkhall,-3.969,55.735,50
+103,Foxdale,-4.633,54.168,72
+303,Larkhall,-3.969,55.735,50
 72,Ballinlick,-3.656,56.549,72
 72,Cornquoy,-2.828,58.883,72
 123,Isle of Whithorn,-4.365,54.702,123
-86,Caldercruix,-3.882,55.89,60
 72,Lhanbryde,-3.215,57.635,50
-303,Falkirk,-3.794,56.004,211
+363,Falkirk,-3.794,56.004,211
 72,Polskeoch,-4.069,55.297,72
 86,Clackmannan,-3.746,56.108,50
 147,Baddoch,-3.416,56.929,147
@@ -976,7 +956,6 @@ rs,name,lon,lat,r1
 60,Lesmahagow,-3.887,55.641,60
 60,Ballintuim,-3.462,56.679,60
 60,Burnfoot,-3.63,56.221,60
-123,Ramsey,-4.385,54.319,123
 123,Lair,-3.406,56.755,123
 103,Culross,-3.625,56.057,50
 72,Carnbo,-3.523,56.211,50
@@ -988,7 +967,6 @@ rs,name,lon,lat,r1
 72,West Calder,-3.569,55.85,50
 72,Auchengray,-3.6,55.77,50
 72,Tomnaven,-2.992,57.388,72
-147,Kinross,-3.424,56.21,86
 72,Roberton,-3.675,55.54,72
 147,Saucher,-3.304,56.484,50
 60,Netherlaw,-3.957,54.787,50
@@ -996,7 +974,6 @@ rs,name,lon,lat,r1
 86,Coupar Angus,-3.267,56.546,50
 123,Longdrum,-3.18,56.738,72
 60,Valley,-4.563,53.286,50
-86,Rosyth,-3.43,56.028,50
 253,Dalbeattie,-3.821,54.932,123
 60,Cowdenbeath,-3.349,56.111,50
 86,Kirkliston,-3.405,55.955,60
@@ -1021,7 +998,6 @@ rs,name,lon,lat,r1
 103,Sebergham,-2.993,54.766,72
 86,Corris Uchaf,-3.856,52.663,60
 147,Huntly,-2.787,57.447,147
-60,St Stephen,-4.89,50.339,50
 72,Knowes of Elrick,-2.661,57.574,72
 60,Leweston,-4.993,51.863,50
 147,Pont Llanio,-3.971,52.194,72
@@ -1044,11 +1020,9 @@ rs,name,lon,lat,r1
 123,King Edward,-2.479,57.61,50
 253,Inchgrundle,-2.967,56.899,123
 253,Peebles,-3.187,55.648,147
-303,Turriff,-2.459,57.539,176
 60,Y Ferwig,-4.652,52.116,50
 147,Lockerbie,-3.359,55.124,103
 123,Dalton,-3.384,55.054,50
-72,Cresswell Quay,-4.824,51.722,50
 60,Lowca,-3.572,54.582,50
 522,Whitehaven,-3.577,54.542,363
 60,Llanfair-Nant-Gwyn,-4.676,52.006,60
@@ -1069,7 +1043,6 @@ rs,name,lon,lat,r1
 72,Perranuthnoe,-5.441,50.12,50
 60,Glenbreck,-3.486,55.48,60
 253,Annan,-3.254,54.987,123
-72,Amroth,-4.661,51.733,50
 72,North Flobbets,-2.342,57.404,60
 211,Amlwch,-4.342,53.409,86
 211,Fishguard,-4.974,51.994,147
@@ -1108,7 +1081,7 @@ rs,name,lon,lat,r1
 72,New Polzeath,-4.913,50.575,50
 60,Angle,-5.092,51.683,50
 60,Nether Row,-3.05,54.73,60
-86,Burntisland,-3.228,56.062,50
+72,Burntisland,-3.228,56.062,50
 123,Seathwaite,-3.188,54.354,103
 72,Earlston,-2.674,55.639,60
 103,Lower Hawthwaite,-3.199,54.293,60
@@ -1127,10 +1100,10 @@ rs,name,lon,lat,r1
 60,Nether Handwick,-3.027,56.566,60
 123,Isbister,-0.954,60.355,123
 60,Milton of Cushnie,-2.797,57.191,50
+72,Roche,-4.832,50.406,50
 123,Llanmadoc,-4.249,51.616,60
 176,Saughtree,-2.684,55.265,147
 72,Muirhead,-3.148,56.236,50
-147,Rhyl,-3.476,53.319,123
 72,Thomastown,-2.708,57.421,50
 176,Jedburgh,-2.553,55.477,86
 176,Aiketgate,-2.809,54.812,72
@@ -1157,7 +1130,7 @@ rs,name,lon,lat,r1
 60,Trefor,-4.425,52.994,60
 522,Moffat,-3.439,55.334,176
 72,Inverkeithny,-2.621,57.511,72
-751,Edinburgh,-3.199,55.938,522
+363,Edinburgh,-3.199,55.938,363
 60,Lower Freystrop,-4.961,51.773,50
 72,Ballochan,-2.791,57.005,50
 72,Cairncross,-2.825,56.904,72
@@ -1166,7 +1139,7 @@ rs,name,lon,lat,r1
 60,Southerness,-3.599,54.876,50
 72,Penicuik,-3.219,55.832,50
 72,Milton of Auchinhove,-2.738,57.119,50
-1081,Dundee,-2.972,56.476,435
+901,Dundee,-2.972,56.476,435
 86,Lochwood,-3.44,55.255,60
 60,Hallyne,-3.284,55.65,50
 60,Murthill,-2.876,56.706,50
@@ -1174,9 +1147,8 @@ rs,name,lon,lat,r1
 72,Leadburn,-3.219,55.787,50
 72,Llanddyfnan,-4.247,53.285,50
 303,Pwllheli,-4.423,52.885,176
-253,Banff,-2.526,57.665,103
 211,Forfar,-2.889,56.642,123
-211,Benllech,-4.224,53.321,86
+253,Benllech,-4.224,53.321,86
 147,Cupar,-3.009,56.317,86
 60,Sandness,-1.655,60.299,60
 86,Newport-on-Tay,-2.957,56.432,50
@@ -1189,7 +1161,6 @@ rs,name,lon,lat,r1
 60,Moylgrove,-4.748,52.067,50
 60,Eddleston,-3.204,55.712,50
 103,St Just,-5.681,50.123,72
-86,Leven,-3.011,56.202,72
 147,Caernarfon,-4.258,53.141,72
 60,Pen-sarn,-4.331,52.973,50
 60,Tillyarblet,-2.787,56.794,60
@@ -1220,22 +1191,18 @@ rs,name,lon,lat,r1
 176,West Burrafirth,-1.541,60.294,147
 72,Cappercleuch,-3.201,55.497,72
 60,Monifieth,-2.824,56.483,50
-303,Bangor,-4.138,53.223,211
 147,Workington,-3.551,54.614,60
 86,Pitkennedy,-2.748,56.679,50
 86,Bridell,-4.66,52.045,50
-86,Seaton,-3.525,54.662,50
-86,Silverford,-2.385,57.663,60
-60,Sageston,-4.816,51.693,50
+72,Sageston,-4.816,51.693,50
 147,Dalbog,-2.676,56.837,86
 60,Peat Inn,-2.883,56.277,50
 72,Gorebridge,-3.047,55.842,50
-86,Drumeldrie,-2.9,56.218,50
 303,Maryport,-3.49,54.711,72
 103,Bridge of Walls,-1.521,60.244,103
 60,Milltown of Craigston,-2.389,57.59,50
 60,Meikle Wartle,-2.466,57.368,60
-103,Narberth,-4.743,51.8,103
+103,Narberth,-4.743,51.8,72
 60,Criccieth,-4.229,52.92,50
 103,Penmon,-4.057,53.307,50
 176,Penzance,-5.544,50.12,147
@@ -1253,7 +1220,6 @@ rs,name,lon,lat,r1
 72,Dewar,-3.038,55.727,72
 123,Bridge of Dye,-2.574,56.965,60
 60,Cleator Moor,-3.517,54.522,50
-147,Egremont,-3.534,54.477,50
 123,Brechin,-2.654,56.733,86
 86,Colquhar,-3.058,55.66,50
 60,Southmoss,-2.617,56.813,60
@@ -1262,13 +1228,11 @@ rs,name,lon,lat,r1
 86,Innerleithen,-3.062,55.62,50
 60,Burnswark,-3.266,55.099,50
 103,Ormiston,-2.942,55.912,50
-103,Bethesda,-4.058,53.181,50
-60,Ludchurch,-4.694,51.763,50
+86,Ludchurch,-4.694,51.763,50
 147,Collafirth,-1.366,60.528,147
 60,Silwick,-1.475,60.163,60
-72,Howe of Teuchar,-2.346,57.511,50
+86,Howe of Teuchar,-2.346,57.511,50
 123,Gair,-3.14,55.375,123
-86,Garmond,-2.324,57.557,60
 72,Henllan Amgoed,-4.644,51.847,60
 86,Eskdalemuir,-3.176,55.269,86
 103,North Gluss,-1.371,60.48,103
@@ -1277,17 +1241,15 @@ rs,name,lon,lat,r1
 147,Crosslee,-3.097,55.455,123
 86,Bwlchygroes,-4.563,51.993,86
 60,Beddgelert,-4.103,53.014,60
-303,Tenby,-4.708,51.676,103
 147,Heriot,-2.966,55.766,72
 60,Roesound,-1.383,60.373,60
 123,Porthmadog,-4.131,52.926,103
 60,Cenarth,-4.527,52.045,60
-72,Hayle,-5.414,50.186,50
 1297,Stonybreck,-1.638,59.524,435
 303,Inverurie,-2.386,57.287,123
 86,Calder Bridge,-3.477,54.441,50
 60,Sullom,-1.349,60.443,60
-86,Llanfairfechan,-3.972,53.255,50
+72,Llanfairfechan,-3.972,53.255,60
 60,Pont Pen-y-benglog,-4.019,53.124,50
 72,Gullane,-2.828,56.036,50
 123,Yarrow,-3.017,55.542,72
@@ -1296,7 +1258,7 @@ rs,name,lon,lat,r1
 303,Seascale,-3.476,54.392,72
 86,The Birks,-2.426,57.112,50
 103,Cockermouth,-3.362,54.661,50
-103,Drumrack,-2.735,56.265,50
+176,Drumrack,-2.735,56.265,50
 60,Langrigg,-3.295,54.801,50
 60,Creca,-3.204,55.022,50
 86,Oldmeldrum,-2.32,57.335,50
@@ -1308,7 +1270,7 @@ rs,name,lon,lat,r1
 103,Cauldcots,-2.564,56.617,50
 72,Blairydryne,-2.415,57.023,50
 72,Kirkhope,-2.982,55.503,72
-253,Anstruther,-2.706,56.221,103
+72,Anstruther,-2.706,56.221,72
 60,Llwyndafydd,-4.383,52.17,60
 60,Howpasley,-3.032,55.357,60
 60,Pentre Gwynfryn,-4.086,52.823,60
@@ -1338,9 +1300,9 @@ rs,name,lon,lat,r1
 60,Capel Curig,-3.91,53.104,60
 123,Llangelynin,-4.113,52.641,50
 60,Nether Wasdale,-3.349,54.425,60
-123,Llanbedr-y-cennin,-3.858,53.21,50
+72,Llanbedr-y-cennin,-3.858,53.21,50
 72,Barrack,-2.184,57.466,72
-123,Hillhead of Auchentumb,-2.13,57.619,60
+103,Hillhead of Auchentumb,-2.13,57.619,60
 72,Glyn-teg,-4.387,52.014,72
 72,Kirklands,-2.614,56.272,50
 123,St Agnes,-5.197,50.305,60
@@ -1368,7 +1330,6 @@ rs,name,lon,lat,r1
 176,Girlsta,-1.233,60.236,72
 147,Gretna,-3.064,54.994,86
 86,Peterculter,-2.265,57.099,50
-123,Selkirk,-2.842,55.551,50
 60,Cothal,-2.21,57.234,50
 60,Adziel,-2.089,57.569,50
 60,Catfirth,-1.209,60.27,60
@@ -1384,7 +1345,7 @@ rs,name,lon,lat,r1
 211,Lauder,-2.751,55.72,86
 86,Llanon,-4.178,52.282,50
 253,Llanrwst,-3.796,53.142,103
-60,Whicham,-3.332,54.231,50
+72,Whicham,-3.332,54.231,50
 435,Fraserburgh,-2.016,57.687,176
 60,Woodend,-3.279,54.355,60
 103,Colvister,-1.063,60.653,103
@@ -1398,7 +1359,7 @@ rs,name,lon,lat,r1
 60,Fladdabister,-1.221,60.074,60
 72,Cultercullen,-2.128,57.306,50
 72,Dolgoch,-3.997,52.622,50
-72,St Newlyn East,-5.054,50.366,50
+103,St Newlyn East,-5.054,50.366,50
 72,Pant yr Athro,-4.366,51.796,50
 86,Milton of Coldwells,-2.074,57.44,60
 86,Billister,-1.133,60.324,86
@@ -1415,7 +1376,6 @@ rs,name,lon,lat,r1
 626,Aberystwyth,-4.062,52.41,522
 303,Carmarthen,-4.312,51.858,147
 253,Stonehaven,-2.218,56.967,147
-176,Ellon,-2.075,57.367,147
 60,Midlem,-2.75,55.539,50
 86,Carclew,-5.102,50.199,50
 72,Alltwalis,-4.261,51.961,72
@@ -1431,7 +1391,6 @@ rs,name,lon,lat,r1
 363,Hawick,-2.782,55.428,147
 60,Blythe,-2.662,55.737,50
 123,Mintlaw,-2.003,57.523,86
-123,Millom,-3.266,54.211,72
 60,Playing Place,-5.067,50.233,50
 522,Lizard,-5.197,49.97,50
 60,Pentre Isaf,-3.686,53.206,60
@@ -1439,27 +1398,27 @@ rs,name,lon,lat,r1
 72,Traboe,-5.153,50.048,50
 2240,Aberdeen,-2.121,57.16,901
 60,Hoses,-3.203,54.324,60
+103,Talskiddy,-4.943,50.45,50
 72,Glan Conwy,-3.738,53.054,72
 72,Horsleyhill,-2.739,55.466,50
 86,Cwrt,-3.938,52.584,50
 103,Cockley Beck,-3.16,54.403,103
-103,St Columb Major,-4.944,50.429,72
 147,Dunbar,-2.53,56.001,123
 103,Caulside,-2.871,55.115,50
-86,Betws-yn-Rhos,-3.641,53.249,50
+103,Betws-yn-Rhos,-3.641,53.249,50
 123,Pentre-llyn,-4.033,52.355,50
 176,Portlethen,-2.134,57.053,60
 60,Kirkabister,-1.117,60.126,50
 176,Falmouth,-5.072,50.15,103
 72,Gwytherin,-3.68,53.14,60
 60,Furnace,-3.944,52.534,60
-147,Kidwelly,-4.306,51.737,50
+123,Kidwelly,-4.306,51.737,50
 60,Ysbyty Ifan,-3.726,53.026,60
 176,Balmedie,-2.056,57.25,72
 60,St Combs,-1.91,57.657,50
 211,Scuggate,-2.875,55.061,50
 60,Minffordd,-3.869,52.688,50
-751,Carlisle,-2.933,54.887,626
+901,Carlisle,-2.933,54.887,626
 60,Raughton Head,-2.965,54.8,60
 60,Ladock,-4.959,50.32,50
 60,Easterton of Auchleuchries,-1.975,57.417,50
@@ -1468,7 +1427,7 @@ rs,name,lon,lat,r1
 123,Westruther,-2.583,55.744,72
 303,Bontnewydd,-4.024,52.273,123
 103,Smithfield,-2.87,54.98,50
-103,Probus,-4.952,50.292,50
+103,Probus,-4.952,50.292,60
 86,Porthoustock,-5.066,50.056,72
 123,Wadebridge,-4.841,50.511,50
 211,Barrow-in-Furness,-3.21,54.124,147
@@ -1478,9 +1437,7 @@ rs,name,lon,lat,r1
 86,The Hall,-0.895,60.67,86
 60,Llidiad-Nenog,-4.12,52.016,60
 103,Old Castleton,-2.764,55.204,103
-60,Towyn,-3.543,53.302,50
 123,South End,-3.215,54.063,50
-103,St Dennis,-4.881,50.378,50
 72,Cwmsymlog,-3.917,52.435,72
 211,Machynlleth,-3.846,52.591,123
 72,Gerrans,-4.977,50.18,50
@@ -1510,7 +1467,7 @@ rs,name,lon,lat,r1
 72,Cotehill,-2.827,54.845,50
 60,Dol-fôr,-3.749,52.643,60
 123,Ulverston,-3.085,54.195,72
-86,Morwenstow,-4.547,50.907,72
+86,Morwenstow,-4.547,50.907,60
 72,Grizedale,-3.021,54.34,60
 72,Patterdale,-2.939,54.537,72
 72,Nenthorn,-2.507,55.63,50
@@ -1524,18 +1481,15 @@ rs,name,lon,lat,r1
 123,Ambleside,-2.96,54.426,50
 253,Bala,-3.597,52.912,147
 60,Llannon,-4.115,51.756,50
-60,Prestatyn,-3.415,53.328,50
 176,Cockburnspath,-2.362,55.933,72
 86,Pont-rhyd-y-groes,-3.847,52.338,86
 60,Reynoldston,-4.189,51.588,60
 626,Peterhead,-1.793,57.491,253
 363,St Austell,-4.781,50.345,303
 303,Funzie,-0.794,60.589,303
-147,Llanelli,-4.14,51.687,86
 211,Bodmin,-4.721,50.462,86
 60,Hartsop,-2.914,54.51,60
-86,Stibb,-4.522,50.869,50
-522,Bude,-4.539,50.825,176
+72,Stibb,-4.522,50.869,50
 123,Brampton,-2.732,54.942,103
 72,Boswinger,-4.818,50.236,50
 60,Pumsaint,-3.955,52.046,60
@@ -1557,7 +1511,6 @@ rs,name,lon,lat,r1
 103,Temple,-4.616,50.53,60
 86,Llandderfel,-3.513,52.923,50
 60,Cedig,-3.485,52.795,60
-103,Lostwithiel,-4.665,50.408,50
 103,Bont Dolgadfan,-3.646,52.589,103
 211,Bruray,-0.754,60.425,211
 86,Horndean,-2.163,55.739,60
@@ -1568,16 +1521,15 @@ rs,name,lon,lat,r1
 72,Porthyrhyd,-3.881,52.022,50
 253,Appleby-in-Westmorland,-2.483,54.577,103
 435,Penrith,-2.746,54.664,211
-211,Ammanford,-3.98,51.791,103
+211,Ammanford,-3.98,51.791,86
 60,Llansadwrn,-3.9,51.965,50
-103,Glynneath,-3.625,51.746,60
 86,Pentre-Llanrhaeadr,-3.367,53.154,50
 72,Hass,-2.492,55.385,72
 103,Four Crosses,-3.437,52.976,86
 253,Duns,-2.341,55.776,123
 103,High Bankhill,-2.684,54.773,86
-60,Coalpits Grange,-2.033,54.896,60
-147,Talacre,-3.318,53.352,50
+123,Coalpits Grange,-2.033,54.896,60
+72,Talacre,-3.318,53.352,72
 60,Gilsland,-2.57,54.991,50
 147,Clubworthy,-4.444,50.709,60
 86,"Wootton",-2.797,52.401,50
@@ -1587,15 +1539,13 @@ rs,name,lon,lat,r1
 72,Foel,-3.49,52.692,72
 60,Holsworthy Beacon,-4.331,50.851,50
 60,Rhyd,-3.517,52.594,60
-60,Llanfair Dyffryn Clwyd,-3.292,53.088,50
 60,West Kirby,-3.171,53.369,50
 72,Pressen,-2.259,55.617,50
-60,Herodsfoot,-4.514,50.417,50
 60,Myddfai,-3.786,51.955,50
 103,Larrick,-4.389,50.58,50
 60,Alfardisworthy,-4.426,50.879,60
 72,Pensilva,-4.412,50.502,50
-303,Southport,-2.999,53.624,147
+211,Southport,-2.999,53.624,147
 123,Four Crosses,-3.398,52.671,123
 103,Kirkland,-2.549,54.688,103
 60,Tirabad,-3.635,52.059,60
@@ -1603,16 +1553,14 @@ rs,name,lon,lat,r1
 211,Rhewl,-3.218,52.995,72
 72,Nook,-2.695,54.232,60
 72,Woollaton,-4.169,50.895,50
-60,Gorseinon,-4.047,51.67,50
 72,Orange Lane,-2.357,55.678,50
 60,Llandinam,-3.432,52.482,60
 86,Hethpool,-2.164,55.55,72
-176,Rhayader,-3.509,52.302,72
+147,Rhayader,-3.509,52.302,60
 72,Llandyfan,-3.97,51.837,50
-60,Crossmoor,-2.842,53.839,50
+103,Crossmoor,-2.842,53.839,50
 103,Lamberton,-2.051,55.811,50
-123,Eworthy,-4.201,50.734,86
-72,Connah's Quay,-3.063,53.215,50
+147,Eworthy,-4.201,50.734,86
 60,Beltingham,-2.329,54.969,60
 103,Thrushelton,-4.196,50.666,86
 86,Linshiels,-2.167,55.35,86
@@ -1629,21 +1577,20 @@ rs,name,lon,lat,r1
 72,Buck's Cross,-4.354,50.983,72
 72,Rhosllannerchrugog,-3.048,53.01,50
 363,Wooler,-2.013,55.547,103
-147,Saltash,-4.225,50.41,60
+60,Saltash,-4.225,50.41,50
 103,Swinside Hall,-2.432,55.441,50
-211,Llandrindod Wells,-3.375,52.232,211
 60,Biddlestone,-2.059,55.369,60
 72,Raylees,-2.117,55.217,72
 86,Ravenstonedale,-2.428,54.431,86
-60,Halewood,-2.833,53.359,50
-253,Cornriggs,-2.244,54.77,147
+72,Halewood,-2.833,53.359,50
+363,Cornriggs,-2.244,54.77,147
 147,Lower Chapel,-3.413,52.012,50
 147,"Anchor",-3.212,52.456,60
 123,Roseden,-1.95,55.489,50
 86,Hepple,-2.02,55.301,50
 123,Colwell,-2.076,55.074,86
 72,Detchant,-1.861,55.623,72
-363,Hexham,-2.099,54.97,123
+435,Hexham,-2.099,54.97,176
 103,Chorley,-2.631,53.652,50
 60,St John's Chapel,-2.183,54.737,60
 72,Keasden,-2.423,54.095,50
@@ -1654,10 +1601,8 @@ rs,name,lon,lat,r1
 72,Blakelaw,-2.363,55.571,50
 60,Wembury,-4.073,50.324,50
 60,Throwleigh,-3.889,50.698,50
-211,Fleetwood,-3.025,53.915,86
-103,Grange-over-Sands,-2.909,54.194,86
+123,Fleetwood,-3.025,53.915,50
 86,Zeal Monachorum,-3.819,50.82,72
-72,Drakeland Corner,-4.011,50.411,50
 72,Great Whittington,-1.992,55.031,50
 72,Leigh,-2.986,52.626,72
 86,Painscastle,-3.214,52.108,50
@@ -1672,12 +1617,14 @@ rs,name,lon,lat,r1
 60,Edlingham,-1.824,55.374,50
 60,Harthill,-2.743,53.093,50
 176,Nunnykirk,-1.869,55.233,60
+60,Lindale,-2.894,54.216,50
 72,Longwitton,-1.879,55.194,72
 60,Pennerley,-2.949,52.587,60
+60,Ley,-4.572,50.468,50
 103,Hawkridge,-3.628,51.064,103
-211,Clitheroe,-2.39,53.87,72
+123,Clitheroe,-2.39,53.87,60
 103,Hobarris,-3.013,52.397,50
-123,Ivybridge,-3.923,50.39,103
+123,Ivybridge,-3.923,50.39,60
 72,Whitton,-2.381,55.493,72
 123,Hay-on-Wye,-3.125,52.073,103
 86,Wigglesworth,-2.291,54.008,50
@@ -1685,7 +1632,7 @@ rs,name,lon,lat,r1
 72,Plealey,-2.851,52.657,50
 86,Pulverbatch,-2.85,52.618,60
 147,Doccombe,-3.731,50.668,72
-72,Witherslack,-2.871,54.248,50
+60,Witherslack,-2.871,54.248,50
 123,Ivelet,-2.098,54.378,123
 86,Plenderleith,-2.412,55.398,72
 176,Stalling Busk,-2.131,54.269,147
@@ -1701,17 +1648,16 @@ rs,name,lon,lat,r1
 103,West Putford,-4.334,50.918,72
 176,Hawkswick,-2.07,54.131,103
 72,Marchamley,-2.596,52.862,50
-60,Lanteglos Highway,-4.604,50.353,50
+60,Lanteglos Highway,-4.604,50.353,60
 60,Glassonby,-2.656,54.743,60
 103,Nether Exe,-3.505,50.791,50
 72,Conistone,-2.03,54.101,72
 72,The Howe,-2.835,54.288,50
 103,Cracoe,-2.036,54.036,50
-86,Thornton,-3.003,53.877,50
 123,Bircher,-2.767,52.286,50
-147,Crook,-1.749,54.714,60
+176,Crook,-1.749,54.714,60
 86,Llangattock Nigh Usk,-2.97,51.782,50
-60,Middleton,-2.202,53.549,50
+86,Middleton,-2.202,53.549,50
 147,Gayles,-1.808,54.462,72
 103,West Scrafton,-1.89,54.25,50
 72,Llangua,-2.878,51.927,72
@@ -1722,11 +1668,10 @@ rs,name,lon,lat,r1
 60,Dolwen,-3.516,52.656,60
 60,Rhandirmwyn,-3.774,52.077,60
 123,Gwernafon,-3.582,52.506,50
-901,Blackpool,-3.02,53.808,253
+86,Blackpool,-3.02,53.808,50
 86,Butterburn,-2.508,55.063,72
 303,Catcleugh,-2.401,55.325,123
 86,Capel-Gwynfe,-3.856,51.88,72
-211,Ruthin,-3.307,53.115,72
 176,Holsworthy,-4.354,50.813,86
 211,Llandovery,-3.798,51.995,147
 123,Nannerch,-3.248,53.217,50
@@ -1739,28 +1684,26 @@ rs,name,lon,lat,r1
 60,Hirnant,-3.412,52.792,60
 60,Trimstone,-4.147,51.171,50
 72,Henwood,-4.448,50.535,50
-123,Bideford,-4.216,51.015,86
 60,Y Fan,-3.546,52.475,50
 123,Pont Llogel,-3.432,52.731,123
 86,Cynghordy,-3.737,52.043,50
 253,Ilfracombe,-4.12,51.203,103
 103,Lytham St Anne's,-2.99,53.747,50
 60,Mowhaugh,-2.29,55.481,60
-522,Morecambe,-2.854,54.066,211
+435,Morecambe,-2.854,54.066,147
 60,"Abergwesyn",-3.674,52.162,60
-72,Braunton,-4.16,51.106,50
 123,Formby,-3.062,53.559,50
 123,Llanidloes,-3.54,52.447,123
-1081,Kendal,-2.738,54.327,211
+901,Kendal,-2.738,54.327,211
 103,Whiteside,-2.461,55.017,50
-147,Liskeard,-4.464,50.454,123
-211,Cwm Irfon,-3.671,52.133,103
+211,Liskeard,-4.464,50.454,123
+60,St Keyne,-4.477,50.423,50
+176,Cwm Irfon,-3.671,52.133,103
 60,Temple Sowerby,-2.601,54.638,60
 72,Knarsdale,-2.504,54.881,72
 253,Launceston,-4.363,50.638,103
 60,Hincaster,-2.752,54.257,50
 176,Haltwhistle,-2.463,54.971,123
-147,Pontardawe,-3.846,51.723,60
 176,Comb,-2.365,55.209,176
 60,Cookbury,-4.262,50.831,50
 103,Stonehouse,-2.474,54.922,50
@@ -1771,7 +1714,7 @@ rs,name,lon,lat,r1
 60,Bolton-le-Sands,-2.792,54.104,50
 253,Eyemouth,-2.094,55.87,86
 60,Wallasey,-3.074,53.422,50
-72,Braides,-2.85,53.953,50
+60,Braides,-2.85,53.953,50
 60,Dolanog,-3.382,52.705,60
 86,Heswall,-3.103,53.335,50
 123,Lower Thurnham,-2.824,53.989,50
@@ -1786,46 +1729,41 @@ rs,name,lon,lat,r1
 103,Whygate,-2.358,55.078,72
 86,Halwill,-4.23,50.773,60
 103,Redesdale Camp,-2.278,55.283,103
-253,Great Torrington,-4.142,50.952,60
 103,Banks,-2.922,53.681,50
 60,Quethiock,-4.376,50.458,50
 86,Neath,-3.82,51.631,60
-103,Ystradgynlais,-3.748,51.784,103
+147,Ystradgynlais,-3.748,51.784,123
 103,Ayle,-2.442,54.839,103
 60,Llanarmon Dyffryn Ceiriog,-3.253,52.886,60
 522,Barnstaple,-4.057,51.08,303
 86,Duddo,-2.099,55.677,60
 103,Llywel,-3.646,51.958,72
 72,Hessenford,-4.379,50.393,50
-123,Tonna,-3.773,51.675,50
 103,Bootle,-2.983,53.456,50
 86,Bwlch-y-ffridd,-3.373,52.549,50
 147,Port Talbot,-3.799,51.588,50
 72,Llandeilo'r-Fan,-3.607,52,72
-103,Callington,-4.309,50.499,86
 86,Caton,-2.71,54.074,50
-147,Garstang,-2.778,53.905,72
 60,Milfield,-2.103,55.599,50
 86,Glyntawe,-3.677,51.834,50
-72,Pentre-llwyn-llwyd,-3.519,52.179,50
+86,Pentre-llwyn-llwyd,-3.519,52.179,50
 103,Patchole,-3.983,51.166,60
+72,Scorton,-2.76,53.933,50
 72,Downderry,-4.366,50.362,50
 86,Dufton,-2.479,54.619,50
 72,Maghull,-2.933,53.513,50
-123,Buckley,-3.078,53.169,86
 60,Yarnscombe,-4.05,50.995,50
 60,Old Town,-2.62,54.241,60
 60,Pontybodkin,-3.088,53.125,50
 86,Elishaw,-2.218,55.25,86
 60,Catforth,-2.791,53.815,50
-60,Catterall,-2.762,53.879,50
+72,Tonmawr,-3.735,51.652,50
 60,Sydenham Damerel,-4.248,50.561,50
 72,Loxhore,-3.977,51.129,50
 435,Berwick-upon-Tweed,-2.012,55.761,363
 86,Garrigill,-2.397,54.767,86
 147,Bebington,-2.987,53.335,50
 86,Marystow,-4.214,50.624,72
-60,Resolven,-3.694,51.71,50
 60,Cyfronydd,-3.265,52.662,60
 103,Beaford,-4.058,50.914,50
 60,Pentre'r-felin,-3.572,51.961,60
@@ -1833,16 +1771,14 @@ rs,name,lon,lat,r1
 103,Llaithddu,-3.367,52.411,72
 435,Newtown,-3.316,52.515,253
 60,Llansilin,-3.172,52.844,50
-86,Burscough,-2.841,53.601,50
+60,Burscough,-2.841,53.601,50
 123,Ancroft,-1.999,55.701,50
 60,Bowsden,-2.011,55.67,60
 86,Redesmouth,-2.21,55.133,86
 72,Dolfor,-3.316,52.475,50
 86,Kirkby,-2.88,53.482,50
-4644,Liverpool,-2.911,53.409,901
 60,Hooton,-2.955,53.299,50
 60,Abbeystead,-2.668,53.983,60
-86,Duffryn,-3.68,51.647,50
 60,Dolton,-4.031,50.888,60
 72,Pentre'r beirdd,-3.197,52.717,50
 147,Millthrop,-2.522,54.315,103
@@ -1855,59 +1791,57 @@ rs,name,lon,lat,r1
 72,Catton,-2.266,54.916,72
 86,Doddington,-2.005,55.588,50
 86,Linhope,-2.059,55.44,86
+72,Croston,-2.772,53.664,50
 72,Birtley,-2.189,55.098,72
+72,Saughall,-2.954,53.226,50
 60,Maesmynis,-3.435,52.117,50
-72,Knowsley,-2.847,53.453,50
+60,Knowsley,-2.847,53.453,50
 72,Crosby Garrett,-2.421,54.481,72
-72,Bere Alston,-4.19,50.481,50
+86,Bere Alston,-4.19,50.481,50
+103,Glyncorrwg,-3.626,51.679,50
 72,Challacombe,-3.87,51.15,72
 60,Abermule,-3.234,52.546,50
-147,Inwardleigh,-4.042,50.776,60
-86,Pyle,-3.688,51.528,50
+86,Inwardleigh,-4.042,50.776,50
+103,Pyle,-3.688,51.528,50
 86,Maesteg,-3.652,51.604,72
 60,Upper Chapel,-3.447,52.055,60
-103,Monkokehampton,-4.014,50.83,86
+147,Monkokehampton,-4.014,50.83,72
 147,Chirk,-3.056,52.939,50
-176,Builth Wells,-3.404,52.149,60
-176,Preston,-2.699,53.775,147
-72,Sourton,-4.074,50.695,72
+176,Builth Wells,-3.404,52.149,72
+72,Sourton,-4.074,50.695,50
 60,North Middleton,-2,55.514,50
 363,Tavistock,-4.142,50.545,103
-147,Llanbister,-3.304,52.351,86
+147,Llanbister,-3.304,52.351,72
 86,East Buckland,-3.89,51.066,50
-86,Porthcawl,-3.695,51.484,72
+72,Porthcawl,-3.695,51.484,60
 60,Sharperton,-2.064,55.332,60
-72,Torpoint,-4.215,50.375,50
 60,Glanmule,-3.229,52.505,50
 60,Billsmoor Park,-2.085,55.266,60
-86,Skelmersdale,-2.776,53.553,60
 147,Ellesmere Port,-2.894,53.275,60
 60,Gawthrop,-2.474,54.281,60
 176,Furzehill,-3.823,51.19,123
 123,Lydcott,-3.862,51.109,72
-86,Llanddewi Ystradenni,-3.308,52.309,60
+86,Llanddewi Ystradenni,-3.308,52.309,50
 86,Burrington,-3.939,50.934,60
 303,Wrexham,-2.982,53.052,103
 60,Sinderhope,-2.235,54.862,60
-176,Leyland,-2.709,53.693,60
 86,Low Dovengill,-2.422,54.388,86
-60,Millbrook,-4.215,50.346,50
+72,Millbrook,-4.215,50.346,50
 253,Welshpool,-3.143,52.662,103
 86,Cudliptown,-4.09,50.592,50
-1081,Oswestry,-3.052,52.859,147
+626,Oswestry,-3.052,52.859,147
 123,Pant,-3.077,52.791,50
 60,Gobowen,-3.032,52.893,50
 72,Lowgill,-2.53,54.075,50
 60,East Kyloe,-1.905,55.65,60
 86,Harwood,-2.277,54.695,86
 147,High Bentham,-2.51,54.118,103
-435,Chester,-2.893,53.198,176
+522,Chester,-2.893,53.198,103
 72,Prendwick,-1.994,55.406,72
-72,Bamber Bridge,-2.664,53.735,50
 60,Penderyn,-3.522,51.758,50
 60,Pool Quay,-3.103,52.695,50
 60,Rhos,-3.071,52.75,50
-86,Longridge,-2.602,53.83,50
+123,Longridge,-2.602,53.83,60
 103,Bettws,-3.586,51.567,50
 72,Hesketh Lane,-2.581,53.867,50
 60,Chollerton,-2.103,55.044,60
@@ -1917,13 +1851,13 @@ rs,name,lon,lat,r1
 86,Brandon,-1.933,55.449,86
 60,Thockrington,-2.065,55.106,60
 60,Malmsmead,-3.729,51.216,60
-72,Bickleigh Down,-4.099,50.434,50
+176,Bickleigh Down,-4.099,50.434,50
 72,Nant-ddu,-3.447,51.826,72
 86,Beguildy,-3.185,52.41,60
-103,St Helens,-2.732,53.446,60
+60,Bridge Trafford,-2.824,53.237,50
 60,Simonsbath,-3.756,51.139,60
 751,Brecon,-3.383,51.95,147
-176,Dunsop Bridge,-2.518,53.946,72
+211,Dunsop Bridge,-2.518,53.946,72
 60,Crickadarn,-3.326,52.071,60
 60,Dalton,-2.125,54.918,50
 60,Llanbadarn-y-garreg,-3.296,52.129,50
@@ -1932,20 +1866,15 @@ rs,name,lon,lat,r1
 86,Chirbury,-3.089,52.577,72
 60,Knowesgate,-2.015,55.166,60
 103,Grisedale,-2.343,54.333,103
-103,Widnes,-2.74,53.374,50
-253,Bridgend,-3.565,51.506,103
 176,Aberdare,-3.46,51.725,60
 1867,Plymouth,-4.105,50.35,901
 60,Cartington,-1.938,55.336,50
-147,South Zeal,-3.915,50.725,147
 60,Glanton,-1.888,55.424,60
 123,South Stainmore,-2.244,54.516,103
 123,Week,-3.799,50.936,72
-60,Mellor,-2.539,53.775,50
-86,Glascwm,-3.229,52.171,60
-72,Itton,-3.87,50.776,50
+86,Mellor,-2.539,53.775,50
+86,Glascwm,-3.229,52.171,72
 86,Grains o' th' Beck,-2.205,54.584,86
-176,Wigan,-2.638,53.524,60
 60,Brinscall,-2.568,53.689,50
 86,Nymet Rowland,-3.828,50.859,72
 60,Barton,-2.821,53.083,50
@@ -1955,7 +1884,6 @@ rs,name,lon,lat,r1
 103,Mousen,-1.806,55.582,72
 60,Ribblehead,-2.345,54.211,60
 72,Frodsham,-2.719,53.294,50
-86,Runcorn,-2.703,53.328,72
 103,Hunstanworth,-2.078,54.836,103
 72,Lloyney,-3.108,52.373,50
 86,Pontsticill,-3.368,51.79,60
@@ -1968,9 +1896,8 @@ rs,name,lon,lat,r1
 60,Forestburn Gate,-1.897,55.262,50
 86,Postbridge,-3.908,50.595,86
 86,Llandefaelog-tre'r-graig,-3.272,51.961,60
-86,Frenchbeer,-3.874,50.656,60
+72,Frenchbeer,-3.874,50.656,72
 60,Nymet Tracey,-3.807,50.791,60
-147,Blackburn,-2.489,53.746,103
 147,Exford,-3.64,51.13,86
 123,Kelsall,-2.71,53.207,50
 123,Cuddington Heath,-2.789,53.016,50
@@ -1980,7 +1907,7 @@ rs,name,lon,lat,r1
 60,New Houses,-2.298,54.159,60
 72,Three Cocks,-3.207,52.029,50
 123,Colebatch,-3.001,52.476,72
-72,Hittisleigh,-3.794,50.744,60
+86,Hittisleigh,-3.794,50.744,72
 72,Shrawardine,-2.886,52.731,60
 72,Dunstone,-3.979,50.347,50
 72,Llanharry,-3.429,51.512,50
@@ -1995,21 +1922,20 @@ rs,name,lon,lat,r1
 86,Llantwit Major,-3.465,51.407,86
 60,West Anstey,-3.637,51.035,60
 103,Whalley,-2.408,53.822,50
-147,Darwen,-2.467,53.677,60
+123,Darwen,-2.467,53.677,50
 86,East Knowstone,-3.654,50.995,86
 60,Yockleton,-2.888,52.684,60
 72,Linley,-2.956,52.528,72
-60,Drewsteignton,-3.79,50.704,60
+86,Drewsteignton,-3.79,50.704,86
 147,North Charlton,-1.734,55.5,60
-176,Warrington,-2.583,53.387,147
+123,Warrington,-2.583,53.387,123
 60,Black Dog,-3.699,50.875,60
-103,Abercynon,-3.336,51.654,50
 86,Egerton Green,-2.711,53.065,50
-103,Croft,-2.55,53.441,50
+72,Croft,-2.55,53.441,50
 123,Crawleyside,-2.01,54.756,60
 60,Coed-yr-ynys,-3.23,51.871,60
 86,Tarporley,-2.662,53.155,72
-103,Leigh,-2.515,53.499,60
+86,Leigh,-2.515,53.499,72
 303,Settle,-2.278,54.068,123
 60,Rhydspence,-3.106,52.121,50
 86,Bolton-by-Bowland,-2.324,53.941,50
@@ -2019,26 +1945,24 @@ rs,name,lon,lat,r1
 253,North Sunderland,-1.656,55.579,123
 72,Holne,-3.827,50.51,50
 60,Ratlinghope,-2.882,52.564,50
-60,Painshawfield,-1.899,54.931,50
-60,Didworthy,-3.853,50.444,50
 60,Hill End,-1.976,54.72,50
 123,Presteigne,-3.003,52.272,50
 60,Church Village,-3.319,51.567,50
 60,Longhorsley,-1.767,55.246,60
-147,Kington,-3.029,52.205,103
+176,Kington,-3.029,52.205,103
 86,Manaton,-3.761,50.615,50
-303,Bolton,-2.43,53.592,147
+211,Bolton,-2.43,53.592,86
 626,Alnwick,-1.7,55.409,211
 253,Ebbw Vale,-3.212,51.789,103
 60,Eggleston,-2.004,54.611,50
-303,Minehead,-3.474,51.2,147
+363,Minehead,-3.474,51.2,147
 211,Whitchurch,-2.682,52.967,86
 86,Creigiau,-3.323,51.524,50
 60,Whalton,-1.795,55.127,60
 86,Rennington,-1.664,55.461,50
 86,Stockleigh English,-3.633,50.845,50
 86,Milbourne,-1.814,55.072,50
-211,Wem,-2.723,52.857,86
+60,South Brent,-3.83,50.425,50
 176,Crediton,-3.654,50.791,72
 72,Prudhoe,-1.85,54.964,50
 72,Bainbridge,-2.102,54.308,72
@@ -2047,7 +1971,7 @@ rs,name,lon,lat,r1
 60,Lymm,-2.475,53.381,50
 60,Rhoose,-3.35,51.39,50
 86,Brompton Regis,-3.497,51.073,86
-86,Buckfastleigh,-3.776,50.481,50
+86,Buckfastleigh,-3.776,50.481,72
 60,Way Village,-3.584,50.882,60
 147,Shrewsbury,-2.76,52.699,123
 86,Walkden,-2.408,53.514,50
@@ -2055,15 +1979,14 @@ rs,name,lon,lat,r1
 86,Whittingslow,-2.836,52.495,50
 86,Letton,-2.908,52.328,50
 147,Hubberholme,-2.113,54.199,103
-211,Northwich,-2.508,53.246,86
+211,Northwich,-2.508,53.246,103
 86,Irlam,-2.428,53.434,50
-86,Blackwood,-3.198,51.667,60
+103,Blackwood,-3.198,51.667,60
 72,Preston Brockhurst,-2.686,52.819,50
 103,Winsford,-2.518,53.193,50
-253,Consett,-1.839,54.852,103
 72,Wolsingham,-1.883,54.731,60
 86,Craven Arms,-2.837,52.442,72
-123,Ponteland,-1.756,55.037,50
+103,Ponteland,-1.756,55.037,50
 72,Ramsbottom,-2.323,53.628,50
 72,Bredwardine,-2.978,52.095,72
 72,Airton,-2.15,54.029,50
@@ -2072,27 +1995,24 @@ rs,name,lon,lat,r1
 123,Abertillery,-3.137,51.736,50
 86,Kinninvie,-1.922,54.591,50
 72,Ightfield,-2.602,52.942,50
-435,Burnley,-2.245,53.79,123
 72,Bedwas,-3.193,51.595,50
 60,Hennock,-3.651,50.612,50
 60,Glandwr,-3.143,51.703,50
-176,Rawtenstall,-2.271,53.701,72
+123,Rawtenstall,-2.271,53.701,86
 60,Lower Lye,-2.873,52.296,60
 147,Shawbury,-2.656,52.789,60
 60,Fauls,-2.61,52.891,60
 72,Starbotton,-2.073,54.169,72
 72,Woodleigh,-3.774,50.325,50
 103,Michaelchurch Escley,-2.994,52.001,72
-86,Nelson,-2.204,53.837,50
 147,Barnard Castle,-1.916,54.548,123
-72,Newburn,-1.74,54.986,50
+147,Newburn,-1.74,54.986,50
 176,Barry,-3.259,51.407,72
 103,Satley,-1.816,54.784,50
 60,Frodesley,-2.719,52.606,50
 103,Forest Coal Pit,-3.035,51.88,50
 72,Scargill,-1.922,54.493,50
 253,Tiverton,-3.479,50.907,147
-147,Kingsbridge,-3.774,50.285,103
 86,Cross Houses,-2.681,52.664,50
 72,Lightwood Green,-2.544,52.981,60
 72,Bedburn,-1.843,54.68,50
@@ -2100,12 +2020,12 @@ rs,name,lon,lat,r1
 86,Bury,-2.296,53.565,60
 60,Upton Magna,-2.659,52.709,50
 72,Poynton Green,-2.636,52.754,50
-147,Totnes,-3.695,50.434,72
 60,Carperby,-1.987,54.305,60
+72,Stannington,-1.667,55.109,50
 176,Amble,-1.58,55.331,72
+522,Colne,-2.164,53.86,50
 103,Gargrave,-2.104,53.983,50
-103,Salcombe,-3.775,50.235,50
-86,Watchet,-3.327,51.178,72
+86,Salcombe,-3.775,50.235,50
 435,Cardiff,-3.177,51.501,303
 72,Byley,-2.416,53.222,50
 86,Holme Chapel,-2.188,53.754,50
@@ -2115,63 +2035,52 @@ rs,name,lon,lat,r1
 626,Exeter,-3.524,50.723,363
 60,Cound,-2.651,52.64,60
 86,Knutsford,-2.367,53.299,72
-253,Crewe,-2.45,53.098,123
 72,Penarth,-3.184,51.436,50
 123,Newton Abbot,-3.606,50.529,60
-72,Salford,-2.282,53.475,50
-86,Allaleigh,-3.673,50.371,50
+86,Allaleigh,-3.673,50.371,60
 72,Risca,-3.093,51.607,50
 60,Burnt Houses,-1.815,54.607,60
-60,Whickham,-1.681,54.944,50
 60,Lavernock,-3.173,51.407,50
-86,Ellington,-1.559,55.223,50
-103,Stanley,-1.693,54.867,50
-103,Wycoller,-2.1,53.851,50
-123,Ashington,-1.566,55.177,50
+103,Ellington,-1.559,55.223,50
 103,Exminster,-3.496,50.68,50
 72,Pontypool,-3.029,51.685,50
 60,Kingskerswell,-3.578,50.501,50
 147,Market Drayton,-2.488,52.905,123
-72,Bicknoller,-3.269,51.147,50
-2240,Newcastle upon Tyne,-1.629,54.989,901
+60,Bicknoller,-3.269,51.147,50
+60,Newcastle upon Tyne,-1.629,54.989,50
 303,Ludlow,-2.713,52.372,123
-60,Cramlington,-1.588,55.087,50
 72,Croes y pant,-2.996,51.732,50
-363,Manchester,-2.248,53.441,303
+123,Manchester,-2.248,53.441,50
 253,Cwmbran,-3.028,51.652,72
-103,Cullompton,-3.396,50.854,50
 60,Skelton,-1.852,54.403,60
 103,Wiveliscombe,-3.307,51.041,60
-211,Rochdale,-2.173,53.612,72
+211,Rochdale,-2.173,53.612,86
 60,Great Bolas,-2.52,52.792,60
 86,Harley,-2.597,52.611,60
 86,Blackden Heath,-2.327,53.238,50
 72,Ovington,-1.795,54.527,50
-72,East Quantoxhead,-3.234,51.184,50
+60,East Quantoxhead,-3.234,51.184,50
 60,High Grange,-1.728,54.682,50
 86,Sandbach,-2.357,53.144,50
 72,Norton in Hales,-2.441,52.945,50
 303,Leominster,-2.748,52.226,147
 72,Woodseaves,-2.464,52.872,50
-176,Skipton,-2.013,53.945,72
-60,Langley Park,-1.671,54.798,50
-86,Strete,-3.628,50.311,60
+147,Skipton,-2.013,53.945,72
+72,Strete,-3.628,50.311,60
 103,Clee St Margaret,-2.641,52.456,60
 60,Stainton,-1.84,54.365,50
 60,Hebden,-1.961,54.06,60
 86,Credenhill,-2.802,52.085,50
 86,Peterstone Wentlooge,-3.055,51.516,50
-253,Blyth,-1.531,55.12,60
-86,Todmorden,-2.09,53.715,72
-176,Bishop Auckland,-1.688,54.648,50
+123,Blyth,-1.531,55.12,50
+86,Bishop Auckland,-1.688,54.648,50
 60,Munderfield Row,-2.513,52.158,50
-147,Twyn-y-Sheriff,-2.857,51.745,86
-86,Uffculme,-3.326,50.906,50
+123,Twyn-y-Sheriff,-2.857,51.745,86
 72,Lower Aisholt,-3.14,51.109,50
 60,Haughton,-2.472,52.559,50
 86,Houghton-le-Spring,-1.47,54.84,50
 60,Thruxton,-2.821,52.007,60
-72,Warland,-2.082,53.679,50
+86,Warland,-2.082,53.679,50
 103,Leyburn,-1.823,54.311,60
 72,Clyst St Lawrence,-3.378,50.792,50
 103,Newton,-2.721,52.179,50
@@ -2180,16 +2089,14 @@ rs,name,lon,lat,r1
 86,Caerleon,-2.959,51.614,50
 60,Stanwick-St-John,-1.714,54.499,60
 86,Wellington,-3.231,50.977,72
-103,Gateshead,-1.589,54.945,50
 72,Wormbridge,-2.831,51.974,72
 86,Urdimarsh,-2.693,52.138,60
 253,Stroud,-2.227,51.739,103
 60,Flaxpool,-3.224,51.11,50
 72,Cleeton St Mary,-2.572,52.404,50
-901,Sheffield,-1.448,53.388,363
+363,Sheffield,-1.448,53.388,363
 86,Sproxton,-1.055,54.226,60
 72,Bolton Abbey,-1.891,53.982,50
-60,Washington,-1.523,54.9,50
 123,Tenbury Wells,-2.596,52.307,60
 60,Wetwood,-2.335,52.896,50
 60,Hemyock,-3.224,50.913,50
@@ -2199,135 +2106,117 @@ rs,name,lon,lat,r1
 72,Gwernesney,-2.843,51.712,72
 72,Highlane,-2.178,53.215,50
 103,Llandinabo,-2.7,51.954,50
-60,Cannington,-3.06,51.152,50
+72,Cannington,-3.06,51.152,50
 60,Bollington,-2.104,53.295,50
 147,Wilmslow,-2.233,53.327,50
-103,Ilkley,-1.82,53.927,50
+123,Ilkley,-1.82,53.927,50
 72,Hanley Child,-2.513,52.282,50
 60,Undy,-2.82,51.583,50
-435,Torquay,-3.52,50.458,211
 103,Beech,-2.219,52.939,50
 103,Padside,-1.748,54.03,72
 72,Blubberhouses,-1.744,53.993,50
-435,Stoke-on-Trent,-2.151,53.01,363
 72,Blymhill,-2.274,52.704,50
+60,Norman's Green,-3.341,50.824,50
 72,Caldicot,-2.76,51.591,50
 86,Clows Top,-2.418,52.344,50
 72,Great Stainton,-1.476,54.59,50
 86,Castle Frome,-2.484,52.109,60
 60,Upper Ludstone,-2.288,52.555,50
 60,Tuckhill,-2.315,52.489,50
-60,Coleford,-2.615,51.793,50
 147,Newport,-2.989,51.571,103
-123,Leek,-2.025,53.104,72
+123,Leek,-2.025,53.104,86
 147,Huddersfield,-1.793,53.644,103
 103,Thornborough,-1.554,54.213,60
 60,Holmfirth,-1.792,53.569,50
 60,Woolaston,-2.593,51.692,50
-211,Stafford,-2.104,52.804,86
+626,Stafford,-2.104,52.804,103
 72,Appletreewick,-1.919,54.037,72
 60,Greinton,-2.837,51.123,50
-147,Axminster,-2.992,50.784,50
 72,Gomersal,-1.686,53.731,50
 60,Bildershaw,-1.686,54.613,50
 60,Woodbury,-3.397,50.67,50
 60,Knowbury,-2.622,52.368,50
-86,Foxt,-1.948,53.034,50
 147,Brixham,-3.532,50.382,60
 60,Middleton Priors,-2.557,52.509,60
-60,Shelley,-1.693,53.598,50
 211,Longnor,-1.866,53.181,60
 1867,Bristol,-2.593,51.442,751
 86,Millers Dale,-1.793,53.258,60
-60,Oldfield,-1.99,53.837,50
 72,Rode Heath,-2.29,53.115,50
 60,Chester-le-Street,-1.577,54.86,50
 72,Netherby,-1.491,53.916,50
 60,The Blythe,-1.932,52.854,50
 211,Telford,-2.478,52.672,147
 103,Knayton,-1.332,54.285,50
-103,Fretherne,-2.384,51.784,50
+123,Fretherne,-2.384,51.784,50
 60,Leysters,-2.649,52.27,50
-60,Blackborough,-3.284,50.875,50
-123,Madeley,-2.329,53.006,60
+103,Madeley,-2.329,53.006,60
 60,Highnam,-2.295,51.88,50
-60,Colliton,-3.299,50.83,50
 60,Ashley,-2.357,52.925,50
 211,Bridport,-2.756,50.728,123
 72,Alport,-1.67,53.177,50
-176,Oldham,-2.096,53.538,86
 103,Stockport,-2.153,53.402,50
 86,Pickstock,-2.405,52.804,50
-147,Tewkesbury,-2.147,51.996,86
 123,Chop Gate,-1.141,54.39,72
 86,Silsden,-1.939,53.913,50
 253,Exmouth,-3.395,50.611,103
-103,Alkmonton,-1.72,52.944,50
-60,Bredon,-2.107,52.031,50
+103,Alkmonton,-1.72,52.944,60
+72,Bredon,-2.107,52.031,50
 86,Oldstead,-1.188,54.214,72
 103,Broseley,-2.483,52.617,50
 176,Redditch,-1.928,52.296,86
 103,Holywell,-2.576,50.837,86
-86,Sherborne,-2.519,50.949,60
 60,Cotford St Luke,-3.186,51.039,50
 60,Alsagers Bank,-2.294,53.039,50
 86,The Camp,-2.127,51.782,50
 60,Wynford Eagle,-2.587,50.762,60
 60,Colsterdale,-1.799,54.228,60
 60,Studley,-1.898,52.269,50
-60,Sherburn in Elmet,-1.251,53.794,50
-86,South Kirkby,-1.322,53.592,72
 86,Horsington,-2.424,51.013,50
 60,Pudleston,-2.634,52.235,50
 60,Stolford,-3.099,51.206,50
 72,Lower Dowdeswell,-1.997,51.877,50
 60,Skenfrith,-2.792,51.879,60
 60,Shelwick,-2.7,52.083,50
-72,Rodmarton,-2.082,51.681,50
-60,Tamworth,-1.661,52.618,60
-86,Ashton-under-Lyne,-2.091,53.496,50
+60,Rodmarton,-2.082,51.681,50
 363,Hereford,-2.712,52.055,211
 103,Dorridge,-1.754,52.371,50
-435,York,-1.086,53.959,253
+211,York,-1.086,53.959,211
 103,Clay Cross,-1.408,53.166,60
 72,Stalbridge,-2.376,50.957,50
 86,Henley-in-Arden,-1.778,52.291,50
 86,Spennymoor,-1.599,54.702,50
 86,Swadlincote,-1.55,52.774,50
-86,Whitley Bay,-1.462,55.046,72
+147,Whitley Bay,-1.462,55.046,60
 103,Startley,-2.079,51.539,50
 123,Broadway,-1.857,52.036,50
 253,Derby,-1.468,52.918,147
 60,Llanwern,-2.915,51.586,50
-86,Melksham,-2.135,51.372,50
 60,Turner's Green,-1.711,52.325,50
 103,Droop,-2.349,50.873,50
-147,Ramsgill,-1.819,54.135,123
+147,Ramsgill,-1.819,54.135,147
 60,Todber,-2.285,50.979,50
 123,Catterick Garrison,-1.722,54.371,123
-253,Measham,-1.511,52.702,50
-103,Brixton Deverill,-2.195,51.148,50
+303,Measham,-1.511,52.702,50
+123,Brixton Deverill,-2.195,51.148,50
 86,Mickleton,-1.765,52.09,50
-86,Denshaw,-2.037,53.593,50
+86,Denshaw,-2.037,53.593,60
 176,Durham,-1.557,54.778,86
 123,Dewlish,-2.317,50.783,72
 72,Twyford Common,-2.711,52.017,50
 123,Snaith,-1.028,53.691,72
 176,Congleton,-2.21,53.168,60
-176,Kidsgrove,-2.244,53.085,72
+147,Kidsgrove,-2.244,53.085,60
 60,Venn Ottery,-3.307,50.713,50
 147,Newport,-2.376,52.756,60
 72,Ottery St Mary,-3.28,50.75,50
 72,Poynton,-2.122,53.346,50
-253,Keighley,-1.903,53.868,86
 72,Pen-y-cae-mawr,-2.85,51.652,60
 60,Barton,-1.643,54.475,50
 60,Parc-Seymour,-2.855,51.621,50
 60,Middleton Scriven,-2.47,52.485,50
 363,Macclesfield,-2.134,53.262,123
 86,Brean,-3.006,51.277,50
-72,Newton Aycliffe,-1.578,54.615,72
-72,Uppermill,-2.004,53.538,50
+86,Newton Aycliffe,-1.578,54.615,72
 72,Shifnal,-2.372,52.667,50
 103,Moulton,-1.637,54.43,50
 147,Weston-Super-Mare,-2.956,51.343,147
@@ -2335,68 +2224,59 @@ rs,name,lon,lat,r1
 522,Taunton,-3.102,51.02,253
 176,Bridgnorth,-2.419,52.536,123
 147,Churchstanton,-3.144,50.925,50
-103,South Shields,-1.419,54.962,60
 86,Cleobury Mortimer,-2.482,52.38,60
 60,Bolstone,-2.65,51.991,60
 72,Bewerley,-1.761,54.08,72
-303,Burnham-on-Sea,-2.99,51.238,86
 86,Welsh Newton Common,-2.708,51.856,50
 176,Honiton,-3.194,50.796,86
-60,Wilsden,-1.861,53.822,50
-72,Patrick Brompton,-1.661,54.313,50
+60,Patrick Brompton,-1.661,54.313,50
 72,Scammonden,-1.933,53.644,50
 60,Weston Beggard,-2.605,52.069,50
 123,Sidmouth,-3.235,50.69,86
 60,Llangarron,-2.68,51.887,50
-86,Monmouth,-2.715,51.809,86
-103,Halifax,-1.892,53.72,72
+72,Monmouth,-2.715,51.809,50
+176,Halifax,-1.892,53.72,72
 60,Cotes,-2.231,52.91,50
 60,Biddulph Moor,-2.141,53.121,50
 60,Eccleshall,-2.249,52.858,60
-176,Darlington,-1.554,54.532,147
+147,Darlington,-1.554,54.532,147
 103,Collington,-2.514,52.238,50
-60,High Swinton,-1.675,54.214,50
-253,Sunderland,-1.402,54.886,103
-211,Bridgwater,-3.003,51.126,72
+60,High Swinton,-1.675,54.214,60
+176,Sunderland,-1.402,54.886,72
+60,Bourton,-2.886,51.378,50
 86,Badger,-2.343,52.593,50
 72,North Petherton,-3.014,51.091,50
-176,Clevedon,-2.855,51.435,60
+72,Clevedon,-2.855,51.435,50
 86,Gnosall,-2.256,52.783,60
+60,Whitburn,-1.369,54.952,50
 60,Kinlet,-2.413,52.418,50
-60,Newmills,-2.703,51.764,50
+72,Newmills,-2.703,51.764,50
 123,Bromyard,-2.511,52.188,86
 60,Stoke St Mary,-3.047,50.995,50
-103,New Mills,-1.998,53.368,50
 176,Highley,-2.386,52.453,72
 60,Farway,-3.156,50.754,50
 60,Hurworth-on-Tees,-1.532,54.487,50
 60,Loxton,-2.897,51.297,50
 103,Newcott,-3.091,50.875,60
-147,Glossop,-1.95,53.442,60
 60,Murton,-1.39,54.818,50
 60,Askwith,-1.741,53.93,50
-60,Sedgefield,-1.45,54.658,60
-60,Wilmington,-3.115,50.793,50
 60,Dowry,-1.992,53.323,50
 60,Foy,-2.584,51.953,50
-103,Shipley,-1.78,53.831,50
+86,Shipley,-1.78,53.831,50
 147,Shackerley,-2.273,52.656,50
-123,Bedale,-1.593,54.287,72
 72,Eavestone,-1.66,54.109,60
 72,Woolavington,-2.932,51.167,50
 60,Wildboarclough,-2.024,53.216,50
-86,Portishead,-2.781,51.483,50
-176,Ross-on-Wye,-2.581,51.914,123
-72,Snape,-1.59,54.254,50
-60,Yatton,-2.82,51.386,50
+176,Ross-on-Wye,-2.581,51.914,86
+86,Snape,-1.59,54.254,50
 72,Stockland,-3.07,50.837,50
 86,Meltham,-1.853,53.594,50
-147,Stone,-2.142,52.898,72
-103,Jack Hill,-1.696,53.963,60
-123,Bradford,-1.765,53.777,103
+211,Stone,-2.142,52.898,72
+103,Jack Hill,-1.696,53.963,50
+72,Bradford,-1.765,53.777,60
 86,Winscombe,-2.831,51.313,50
-363,Chepstow,-2.679,51.637,123
-86,Guiseley,-1.715,53.876,50
+363,Chepstow,-2.679,51.637,103
+60,Dalwood,-3.064,50.8,50
 86,Brighouse,-1.79,53.692,50
 72,Meerbrook,-2.016,53.143,50
 60,Bradley,-2.178,52.759,50
@@ -2404,55 +2284,45 @@ rs,name,lon,lat,r1
 86,Birkby,-1.486,54.413,60
 72,Whitbourne,-2.41,52.208,50
 123,Sockburn,-1.464,54.46,50
-60,Hewelsfield,-2.624,51.717,50
 147,Peterlee,-1.341,54.759,72
 103,Seaton,-3.07,50.711,86
 60,Pontshill,-2.525,51.893,50
 86,Horton,-2.964,50.93,50
-72,Wrington,-2.76,51.363,50
 72,Burston,-2.092,52.871,50
 60,Clint,-1.603,54.035,50
 60,Codsall,-2.192,52.626,50
 72,Stathe,-2.892,51.055,50
 60,Perton,-2.201,52.596,50
 72,Redwick,-2.653,51.571,50
-72,Cocklake,-2.802,51.241,50
 103,Buxton,-1.916,53.257,103
-103,Cheddar,-2.781,51.279,72
 60,Hopton,-2.083,52.834,50
 363,Chard,-2.959,50.874,123
 176,Ledbury,-2.427,52.038,60
-60,Pudsey,-1.671,53.803,50
-435,Ripon,-1.53,54.135,123
+303,Ripon,-1.53,54.135,123
 72,Kinver,-2.234,52.453,50
 72,Stourport-on-Severn,-2.279,52.339,50
-60,Penkridge,-2.109,52.722,50
+86,Penkridge,-2.109,52.722,50
 60,Coven,-2.135,52.66,50
 72,Curry Rivel,-2.867,51.021,50
-103,Horsforth,-1.638,53.841,50
 72,Tatworth,-2.948,50.842,50
 86,Mixon,-1.937,53.113,50
-147,Cinderford,-2.499,51.822,86
+72,Cinderford,-2.499,51.822,60
 60,Peak Dale,-1.862,53.29,50
-103,Maunby,-1.459,54.274,50
 103,Kidderminster,-2.249,52.384,60
-363,Northallerton,-1.432,54.339,147
-86,Cheadle,-1.99,52.984,72
-60,Barber Booth,-1.83,53.359,50
-147,Lydney,-2.523,51.731,72
+435,Northallerton,-1.432,54.339,147
+103,Cheadle,-1.99,52.984,72
+60,Charterhouse,-2.723,51.298,50
+147,Lydney,-2.523,51.731,60
 60,Wouldbottom,-1.681,53.665,50
 60,Fradswell,-2.011,52.878,60
-72,Stockton-on-Tees,-1.316,54.571,50
-303,Wolverhampton,-2.129,52.598,123
+211,Wolverhampton,-2.129,52.598,86
 86,Bromesberrow Heath,-2.388,51.995,50
-253,Harrogate,-1.531,53.992,147
-103,Patchway,-2.583,51.535,50
+522,Harrogate,-1.531,53.992,147
 60,Brearton,-1.508,54.044,50
 86,Newent,-2.405,51.93,72
 123,Great Malvern,-2.32,52.116,60
 86,Holt,-2.25,52.261,50
 60,Thornton-le-Beans,-1.391,54.309,50
-60,Eccup,-1.562,53.878,50
 60,Hollybush,-2.347,52.031,50
 103,Lyme Regis,-2.939,50.726,50
 86,Hill,-2.512,51.653,50
@@ -2463,37 +2333,33 @@ rs,name,lon,lat,r1
 147,Street,-2.739,51.121,123
 103,Thornbury,-2.514,51.61,60
 60,Fishpond Bottom,-2.894,50.78,50
-253,Hartlepool,-1.215,54.676,103
+86,Maltby,-1.279,54.514,50
+253,Hartlepool,-1.215,54.676,86
 103,Stourbridge,-2.136,52.446,50
-103,Denby Dale,-1.653,53.573,50
 103,Wayford,-2.844,50.858,50
 60,Berkeley,-2.459,51.693,50
-211,Cannock,-2.01,52.706,72
 60,Compton Dundon,-2.727,51.093,50
 60,Coplow Dale,-1.753,53.307,60
 72,Hanley Swan,-2.271,52.085,50
-147,Dudley,-2.089,52.501,86
-72,Ramshorn,-1.873,53.004,60
-253,Somerton,-2.734,51.055,50
-86,Graythorp,-1.202,54.638,50
+103,Dudley,-2.089,52.501,60
+86,Ramshorn,-1.873,53.004,60
+147,Somerton,-2.734,51.055,50
 86,Martock,-2.765,50.972,60
 60,Fernhill Heath,-2.197,52.23,50
 60,Thimbleby,-1.308,54.353,60
-522,Worcester,-2.211,52.189,211
+626,Worcester,-2.211,52.189,211
 86,Ossett,-1.574,53.678,50
-751,Leeds,-1.546,53.744,303
-147,Wells,-2.643,51.211,60
+147,Leeds,-1.546,53.744,60
+123,Wells,-2.643,51.211,60
 176,Thirsk,-1.347,54.23,86
-147,Corse,-2.305,51.958,50
+86,Corse,-2.305,51.958,50
 72,Norton-le-Clay,-1.384,54.135,72
 60,Boxbush,-2.367,51.815,50
 72,Thornhill,-1.703,53.347,72
-103,Alstonefield,-1.805,53.097,72
-1081,Middlesbrough,-1.213,54.546,363
-103,Penistone,-1.625,53.525,50
-103,Droitwich Spa,-2.154,52.265,60
+86,Alstonefield,-1.805,53.097,72
+103,Droitwich Spa,-2.154,52.265,50
 72,Heathcote,-1.778,53.137,72
-86,Rugeley,-1.939,52.752,50
+123,Rugeley,-1.939,52.752,50
 72,Green Ore,-2.603,51.249,50
 60,Goldsborough,-1.416,54.001,60
 176,Uttoxeter,-1.871,52.9,103
@@ -2501,85 +2367,67 @@ rs,name,lon,lat,r1
 60,Tunnel Hill,-2.23,52.059,50
 72,Rocester,-1.839,52.951,50
 72,Kingswood,-2.494,51.455,50
-60,Longdon,-2.236,52.025,50
 60,Blackheath,-2.033,52.479,50
-72,Bardsey,-1.44,53.888,50
-60,Stocksbridge,-1.602,53.479,60
+60,Bardsey,-1.44,53.888,50
 72,Keynsham,-2.495,51.416,50
-123,Cam,-2.364,51.696,72
 72,Ilchester,-2.679,51.003,50
-147,Stokesley,-1.19,54.473,60
+176,Stokesley,-1.19,54.473,72
 72,Walsall,-1.971,52.578,50
-72,Burntwood,-1.924,52.679,50
 60,Sessay,-1.3,54.172,50
-176,Yate,-2.421,51.54,60
-72,West Bromwich,-1.98,52.533,50
 60,Darton,-1.536,53.583,50
 123,Wakefield,-1.508,53.642,86
 147,Wetherby,-1.387,53.934,60
-60,Quedgeley,-2.282,51.825,50
-103,Bromsgrove,-2.057,52.331,60
 72,Tissington,-1.738,53.067,50
 86,Scholes,-1.423,53.826,50
 147,Beaminster,-2.739,50.808,60
 86,Upper Dunsforth,-1.324,54.063,72
-147,Wotton-under-Edge,-2.35,51.637,50
+86,Warrenby,-1.097,54.617,60
 72,Nether Padley,-1.625,53.301,72
 86,Shepton Mallet,-2.542,51.19,50
 72,Oakhill,-2.524,51.224,50
 60,Stroud Green,-2.277,51.768,50
 60,Earl's Common,-2.063,52.229,50
 60,Corscombe,-2.686,50.847,50
-751,Gloucester,-2.224,51.86,253
-176,Ashbourne,-1.726,53.011,86
-123,Midsomer Norton,-2.48,51.286,72
-72,Elton,-1.666,53.145,60
+626,Gloucester,-2.224,51.86,253
+72,Elton,-1.666,53.145,50
 303,Yeovil,-2.635,50.946,211
-103,Redcar,-1.069,54.606,72
+60,Boston Spa,-1.349,53.903,50
 72,Thorpe Underwood,-1.293,54.029,72
-86,Hawkesbury,-2.336,51.581,50
+72,Hawkesbury,-2.336,51.581,50
 60,Innsworth,-2.194,51.891,50
-147,Garforth,-1.383,53.791,60
 60,Priston,-2.438,51.342,50
 60,Lansdown,-2.393,51.417,50
 72,Hawnby,-1.166,54.296,72
 86,Pershore,-2.081,52.111,60
-103,Barnsley,-1.462,53.56,72
-60,Guisborough,-1.064,54.531,60
+176,Barnsley,-1.462,53.56,72
+86,Guisborough,-1.064,54.531,86
 123,Evercreech,-2.503,51.147,50
 72,Husthwaite,-1.206,54.168,50
+123,Lichfield,-1.82,52.685,60
 60,Beeley,-1.6,53.204,60
 123,Closworth,-2.62,50.889,50
 60,Worsbrough,-1.463,53.532,50
 72,Robin Hood,-1.579,53.246,60
 72,The Grange,-1.121,54.359,72
-103,West Littleton,-2.343,51.477,60
+103,West Littleton,-2.343,51.477,72
 60,Battersby,-1.081,54.459,50
 103,Kington,-2.015,52.2,60
 123,Castle Cary,-2.513,51.089,50
 60,Havercroft,-1.405,53.624,50
-147,Chapeltown,-1.469,53.464,60
-72,Streethay,-1.793,52.692,50
 60,Throckmorton,-2.029,52.145,50
 211,Easingwold,-1.193,54.12,103
 176,Bath,-2.363,51.378,103
 60,Chilcombe,-2.667,50.716,50
 60,Lower Kingcombe,-2.631,50.789,50
-123,Royal Sutton Coldfield,-1.833,52.569,72
-1867,Birmingham,-1.872,52.478,901
-60,Hoyland,-1.44,53.501,50
-176,Castleford,-1.344,53.723,86
-123,Alrewas,-1.747,52.733,72
-72,Biggin,-1.615,53.034,50
-123,Tadcaster,-1.261,53.885,50
-103,Tutbury,-1.687,52.855,50
+86,Royal Sutton Coldfield,-1.833,52.569,72
+86,Birmingham,-1.872,52.478,50
+253,Castleford,-1.344,53.723,86
 60,Great Witcombe,-2.129,51.832,50
 60,Knockdown,-2.233,51.594,50
 86,Cheltenham,-2.086,51.901,72
-72,Luckington,-2.239,51.554,60
-123,Bishop's Cleeve,-2.065,51.945,50
+72,Luckington,-2.239,51.554,72
+103,Bishop's Cleeve,-2.065,51.945,50
 103,Matlock,-1.55,53.137,72
-103,Wirksworth,-1.572,53.08,50
 60,Lillington,-2.527,50.913,50
 86,Hessay,-1.201,53.974,50
 147,Dronfield,-1.474,53.302,50
@@ -2587,97 +2435,81 @@ rs,name,lon,lat,r1
 60,Mercaston,-1.605,52.985,50
 86,Portway,-1.877,52.346,50
 60,Chalford,-2.149,51.727,50
-72,Alstone,-2.026,51.99,50
 86,Carlton,-1.063,54.271,60
 72,Huby,-1.135,54.084,50
-72,Tetbury,-2.161,51.64,72
 86,Compton Valence,-2.571,50.736,60
 72,Trudoxhill,-2.358,51.192,50
 60,Church Fenton,-1.222,53.825,50
-147,Solihull,-1.808,52.417,50
-72,Wath upon Dearne,-1.348,53.499,60
-176,Evesham,-1.947,52.088,123
-72,Harlaston,-1.68,52.696,50
+176,Solihull,-1.808,52.417,50
+253,Evesham,-1.947,52.088,123
+86,Harlaston,-1.68,52.696,50
 72,Wincanton,-2.406,51.054,60
-176,Burton upon Trent,-1.63,52.808,86
-123,Wigginton,-1.692,52.657,50
+211,Burton upon Trent,-1.63,52.808,86
+72,Wigginton,-1.692,52.657,50
 60,Radbourne,-1.577,52.923,50
 86,Gilling East,-1.055,54.185,72
 522,Frome,-2.315,51.231,72
-253,Chesterfield,-1.437,53.239,103
+303,Chesterfield,-1.437,53.239,103
 86,Thurnscoe,-1.31,53.545,50
 72,Stearsby,-1.065,54.136,60
 60,Elkstone,-2.046,51.81,60
 103,Alcester,-1.865,52.22,60
 72,Lyon's Gate,-2.48,50.851,72
-60,Rosliston,-1.637,52.747,50
 60,Highlane,-1.387,53.334,50
 86,Portesham,-2.56,50.671,60
 60,Rotherham,-1.355,53.406,50
 60,Appleton Roebuck,-1.16,53.873,50
 60,Up Cerne,-2.483,50.823,60
-147,Loftus,-0.885,54.556,86
+72,Loftus,-0.885,54.556,72
 72,Farlington,-1.063,54.1,60
+60,Ashley,-2.098,51.652,50
 60,Corsham,-2.192,51.431,50
-211,Danby,-0.907,54.47,60
+147,Danby,-0.907,54.47,60
 72,Gare Hill,-2.312,51.16,60
-72,Cridling Stubbs,-1.214,53.687,60
-86,Coleshill,-1.71,52.504,60
-72,Willington,-1.556,52.852,50
+72,Coleshill,-1.71,52.504,60
 60,Fadmoor,-0.962,54.296,50
-60,Chedglow,-2.082,51.637,50
-147,Malmesbury,-2.102,51.59,50
 103,Haxby,-1.071,54.013,50
 72,Duffield,-1.494,52.985,50
 60,Hailes,-1.93,51.97,50
 60,Kington St Michael,-2.14,51.497,50
 72,Charlton Abbots,-1.951,51.917,50
-123,Belper,-1.472,53.025,60
+86,Belper,-1.472,53.025,60
 147,Trowbridge,-2.202,51.321,72
 60,Eastcote,-1.713,52.409,50
 60,West Lilling,-1.011,54.078,50
 211,Chippenham,-2.122,51.464,103
 86,Kirkbymoorside,-0.931,54.269,72
 211,Rosedale Abbey,-0.886,54.354,60
-103,Mere,-2.27,51.091,50
-60,Conisbrough,-1.23,53.483,50
-123,Westbury,-2.186,51.26,50
 60,Fryton,-0.947,54.167,60
-211,Dorchester,-2.438,50.709,86
 60,Ripley,-1.398,53.051,50
 60,Broad Marston,-1.794,52.114,60
 60,Lastingham,-0.881,54.306,50
 435,Gillingham,-2.275,51.039,123
 60,Bincombe,-2.442,50.659,50
 211,Cirencester,-1.963,51.711,123
-103,Riccall,-1.057,53.834,50
+123,Riccall,-1.057,53.834,50
 60,Flaxton,-0.963,54.051,50
-751,Weymouth,-2.456,50.602,253
+901,Weymouth,-2.456,50.602,303
 60,Balsall Common,-1.653,52.388,50
 123,Warminster,-2.176,51.205,72
-147,Selby,-1.067,53.781,86
 72,Upper Minety,-1.989,51.616,50
-147,Maltby,-1.206,53.426,72
+86,Maltby,-1.206,53.426,72
 86,Ugthorpe,-0.77,54.491,60
 72,Melcombe Bingham,-2.335,50.824,72
 86,Clowne,-1.258,53.272,60
-303,Stratford-upon-Avon,-1.707,52.195,103
+147,Stratford-upon-Avon,-1.707,52.195,86
 72,Ashby-de-la-Zouch,-1.469,52.747,50
-86,Dinnington,-1.209,53.367,50
 60,Seend,-2.081,51.349,50
 86,Atherstone,-1.539,52.578,50
-72,Heanor,-1.35,53.01,50
+103,Heanor,-1.35,53.01,50
 60,Turkdean,-1.845,51.857,50
 72,Okeford Fitzpaine,-2.274,50.898,50
-60,Bromham,-2.049,51.389,50
 123,Weston,-2.436,50.545,50
-72,Elvaston,-1.39,52.89,50
 103,Little Habton,-0.855,54.184,50
 72,Kettleness,-0.713,54.528,50
 103,Wheldrake,-0.963,53.897,50
 60,Northleach,-1.835,51.83,50
 211,Doncaster,-1.11,53.521,176
-72,Calne,-2.004,51.44,60
 60,Osmington Mills,-2.371,50.636,50
 86,Crambe,-0.883,54.075,50
 72,Kexby,-0.932,53.951,50
@@ -2696,79 +2528,65 @@ rs,name,lon,lat,r1
 60,Binley Woods,-1.42,52.392,50
 103,Shirebrook,-1.216,53.204,50
 60,Melbury Abbas,-2.167,50.979,50
-60,Castle Donington,-1.341,52.842,60
-86,Cricklade,-1.857,51.64,60
+72,Cricklade,-1.857,51.64,60
 123,Edgcote,-1.262,52.128,50
-60,Ellingham,-1.791,50.874,50
 72,Stow-on-the-Wold,-1.717,51.929,50
-147,Ilkeston,-1.308,52.977,60
 60,Weston by Welland,-0.856,52.515,50
 86,South Duffield,-0.968,53.791,50
-72,Henley-on-Thames,-0.909,51.533,60
+60,Kegworth,-1.281,52.837,50
 60,Holbeck,-1.184,53.251,50
-123,Westwell,-1.675,51.788,50
+72,Westwell,-1.675,51.788,50
 86,Chadshunt,-1.49,52.173,60
 103,Dean,-2.032,50.943,72
 103,Highworth,-1.709,51.634,50
 72,East Leake,-1.18,52.831,50
-211,Pickering,-0.775,54.244,176
+211,Pickering,-0.775,54.244,86
 60,Monks Kirby,-1.316,52.443,60
-103,West Heslerton,-0.603,54.171,72
 86,Martin Drove End,-1.927,50.988,60
-211,Marlborough,-1.731,51.419,123
 60,Long Drax,-0.969,53.746,50
 86,Longstreet,-1.794,51.261,50
-211,Nuneaton,-1.48,52.52,86
+123,Nuneaton,-1.48,52.52,86
 72,Bourton-on-the-Water,-1.754,51.887,72
-86,Cranborne,-1.919,50.919,50
+72,Cranborne,-1.919,50.919,50
 103,New Rossington,-1.074,53.475,50
-86,Devizes,-1.991,51.348,86
-176,Rugby,-1.248,52.378,123
-211,Amesbury,-1.768,51.172,72
-176,Witney,-1.491,51.784,103
+123,Devizes,-1.991,51.348,60
 60,Ibstock,-1.399,52.691,50
 211,Salisbury,-1.797,51.072,176
 86,Lower Boddington,-1.297,52.166,72
-60,Verwood,-1.871,50.875,50
+72,Verwood,-1.871,50.875,50
 123,Normanby,-0.667,53.64,50
 60,Hill Wootton,-1.557,52.315,50
-211,Coventry,-1.514,52.411,176
+303,Coventry,-1.514,52.411,176
 72,Syerston,-0.886,53.02,50
-103,Malton,-0.797,54.138,86
 123,Moreton-in-Marsh,-1.696,51.989,50
-176,Fordingbridge,-1.791,50.931,50
-103,Stanford on Avon,-1.134,52.404,50
+123,Stanford on Avon,-1.134,52.404,50
 72,Purton,-1.873,51.585,50
 86,Kexby,-0.686,53.362,50
 72,Leconfield,-0.456,53.879,50
-72,Dunscroft,-1.014,53.576,50
 147,Worksop,-1.122,53.312,103
-363,Mansfield,-1.193,53.141,176
+176,Mansfield,-1.193,53.141,147
 60,Aldsworth,-1.772,51.79,50
 72,Blyborough,-0.593,53.438,50
 86,Grindale,-0.267,54.125,50
 72,Burshill,-0.335,53.918,50
-60,Speeton,-0.238,54.157,50
-103,Croxton Kerrial,-0.758,52.854,72
+60,Speeton,-0.238,54.157,60
+103,Croxton Kerrial,-0.758,52.854,60
 86,Hawkesbury,-1.472,52.459,50
 253,Bicester,-1.155,51.905,123
 72,Merton,-1.163,51.855,50
 86,Coalville,-1.357,52.722,72
 103,Fraisthorpe,-0.238,54.038,50
-123,Highclere,-1.375,51.338,50
-103,Bircotes,-1.061,53.42,50
+147,Highclere,-1.375,51.338,50
 86,Skipsea Brough,-0.227,53.975,50
 60,Caythorpe,-0.602,53.023,50
 86,Waddington,-0.535,53.168,50
 72,Thornton le Moor,-0.418,53.452,50
 60,Preston Bissett,-1.042,51.961,50
 86,Market Lavington,-1.977,51.285,50
-253,Whitby,-0.627,54.485,176
-72,Hodsock,-1.078,53.362,50
-123,Royal Leamington Spa,-1.532,52.286,103
+211,Whitby,-0.627,54.485,176
 72,Yattendon,-1.204,51.466,50
-103,Hucknall,-1.211,53.038,50
-176,Hornsea,-0.172,53.913,86
+176,Hucknall,-1.211,53.038,50
+176,Hornsea,-0.172,53.913,103
 123,Tisbury,-2.075,51.061,72
 60,North Killingholme,-0.268,53.64,50
 60,Usselby,-0.352,53.428,50
@@ -2780,27 +2598,23 @@ rs,name,lon,lat,r1
 60,Harringworth,-0.649,52.567,50
 123,Blandford Forum,-2.158,50.863,123
 176,Thorne,-0.965,53.613,72
-72,Ibworth,-1.188,51.288,50
+60,Ibworth,-1.188,51.288,50
 103,Fairford,-1.775,51.708,50
 86,Pangbourne,-1.088,51.482,50
 103,Haceby,-0.47,52.913,60
 103,Rowston,-0.379,53.093,50
-60,Burton Latimer,-0.685,52.363,50
+72,Burton Latimer,-0.685,52.363,50
 86,Deene,-0.606,52.523,50
-123,Lepe,-1.361,50.785,50
-103,Keisby,-0.459,52.844,50
-86,Bishop's Waltham,-1.213,50.954,72
+60,Lepe,-1.361,50.785,50
+176,Keisby,-0.459,52.844,72
 72,Middle Assendon,-0.935,51.564,50
 60,Bighton,-1.124,51.105,50
-253,Aylesbury,-0.81,51.811,86
 60,Moreton Morrell,-1.544,52.2,60
-86,Dowsby,-0.347,52.852,50
+86,Dowsby,-0.347,52.852,60
 123,Pillerton Priors,-1.573,52.127,50
-147,Oundle,-0.471,52.485,86
 86,Ravenshead,-1.163,53.085,50
-103,Wool,-2.222,50.679,60
+123,Wool,-2.222,50.679,60
 72,Four Marks,-1.044,51.11,50
-103,Berwick Bassett,-1.86,51.458,50
 72,Fisherton de la Mere,-2,51.146,60
 60,Bramcote,-1.403,52.495,50
 72,Hinckley,-1.38,52.544,50
@@ -2809,178 +2623,144 @@ rs,name,lon,lat,r1
 72,Westdown Camp,-1.938,51.229,50
 522,Swindon,-1.783,51.572,363
 60,Great Givendale,-0.764,53.975,50
-303,Goole,-0.872,53.704,123
-253,Pocklington,-0.777,53.93,123
+253,Goole,-0.872,53.704,123
+303,Pocklington,-0.777,53.93,123
 72,Hardwick Village,-1.043,53.273,50
 86,Wroughton,-1.791,51.526,50
-60,Gotham,-1.204,52.867,50
 72,Ebbesbourne Wake,-2.01,51.015,50
-751,Nottingham,-1.167,52.908,253
-60,Perlethorpe,-1.03,53.232,50
-147,Loughborough,-1.222,52.772,103
-123,Shapwick,-2.084,50.816,50
-72,Yedingham,-0.632,54.203,60
-60,Arnold,-1.12,52.999,50
+86,Nottingham,-1.167,52.908,50
+211,Shapwick,-2.084,50.816,50
+103,Yedingham,-0.632,54.203,60
+86,Arnold,-1.12,52.999,50
 60,Lower Tysoe,-1.502,52.103,60
 123,Robin Hood's Bay,-0.536,54.435,50
 86,Shrewton,-1.901,51.193,50
-123,New Ollerton,-1.006,53.207,86
-176,Wareham,-2.111,50.687,72
-147,Chipping Norton,-1.546,51.94,123
-103,Bilsthorpe,-1.03,53.14,50
-103,Crowle,-0.831,53.608,60
-103,Carlton,-1.092,52.97,50
 103,Broxa,-0.548,54.31,60
-86,Groby,-1.22,52.66,50
+72,Groby,-1.22,52.66,50
 123,Retford,-0.944,53.315,86
-86,Southam,-1.387,52.254,72
+103,Southam,-1.387,52.254,72
 60,Asthall,-1.583,51.799,50
 60,Kimmeridge,-2.118,50.617,60
 72,Harwood Dale,-0.519,54.35,60
-103,Sawdon,-0.556,54.253,72
-60,Carterton,-1.593,51.763,50
+86,Sawdon,-0.556,54.253,72
+60,Ogbourne St Andrew,-1.731,51.45,50
 86,Ravenscar,-0.493,54.398,86
 60,Burcombe,-1.899,51.076,50
-60,Belton,-0.827,53.557,50
 123,Fimber,-0.635,54.032,86
-123,Grafton,-1.611,51.707,50
+147,Grafton,-1.611,51.707,50
 86,Hook Norton,-1.485,51.993,50
-60,Leamington Hastings,-1.345,52.305,50
 86,South Newton,-1.873,51.108,50
 147,Pewsey,-1.766,51.341,60
 86,Shrivenham,-1.649,51.6,50
 86,Norden,-2.077,50.651,50
-123,Epworth,-0.825,53.526,86
-86,Epperstone,-1.027,53.031,50
+72,Epperstone,-1.027,53.031,50
 86,Keyworth,-1.083,52.877,50
 60,Warmington,-1.399,52.127,60
-72,Woodsend,-1.682,51.482,50
+60,Woodsend,-1.682,51.482,50
 103,Mountsorrel,-1.141,52.723,50
-86,Market Weighton,-0.665,53.864,60
-147,East Lutton,-0.561,54.114,103
+86,East Lutton,-0.561,54.114,86
 72,Sledmere,-0.574,54.071,50
 60,Stratford Tony,-1.867,51.037,50
-72,Faringdon,-1.585,51.653,60
-103,West Stockwith,-0.813,53.444,50
+60,West Stockwith,-0.813,53.444,50
 211,Charlbury,-1.478,51.872,60
 60,Headon,-0.876,53.284,50
 60,Durrington,-1.774,51.199,50
-86,Southwell,-0.957,53.08,72
-123,Birstall,-1.124,52.676,50
+86,Birstall,-1.124,52.676,50
 72,Marston Doles,-1.318,52.22,50
-60,Tuxford,-0.89,53.231,60
-60,Derrythorpe,-0.751,53.569,50
+72,Tuxford,-0.89,53.231,60
 72,Willoughby-on-the-Wolds,-1.056,52.823,50
 147,Faxfleet,-0.691,53.707,72
-147,Lutterworth,-1.206,52.459,60
+123,Lutterworth,-1.206,52.459,60
 123,North Cave,-0.647,53.781,60
-435,Leicester,-1.128,52.618,363
-123,Countesthorpe,-1.145,52.555,50
-103,Poole,-1.952,50.732,60
+72,Sawbridge,-1.26,52.289,50
 86,Durley,-1.659,51.373,50
-363,Banbury,-1.338,52.063,211
-60,Willerby,-0.446,54.199,50
-123,Ferndown,-1.899,50.793,50
+86,Willerby,-0.446,54.199,50
+103,Ferndown,-1.899,50.793,50
 363,Gainsborough,-0.766,53.397,103
-123,Tithby,-0.961,52.925,60
-751,Scarborough,-0.411,54.279,363
-60,Peatling Magna,-1.125,52.529,50
-86,Aughton,-1.659,51.305,50
+86,Tithby,-0.961,52.925,60
+60,Aughton,-1.659,51.305,50
 60,Peatling Parva,-1.134,52.501,50
 60,Foxholes,-0.451,54.144,60
-253,Swanage,-1.965,50.612,86
+303,Swanage,-1.965,50.612,103
 60,Studland,-1.949,50.642,50
-86,Normanton on Trent,-0.815,53.211,50
+60,Normanton on Trent,-0.815,53.211,50
 86,Brighthampton,-1.444,51.73,50
 86,Idmiston,-1.71,51.134,50
 72,Langtoft,-0.456,54.087,72
-86,Kilsby,-1.176,52.334,50
+72,Kilsby,-1.176,52.334,50
 60,Cholderton,-1.678,51.176,50
-147,Lambourn,-1.529,51.507,60
-72,Cayton,-0.383,54.235,50
+147,Lambourn,-1.529,51.507,72
 60,Beeby,-1.021,52.67,50
-303,Scunthorpe,-0.642,53.582,176
+303,Scunthorpe,-0.642,53.582,147
 86,Alderbury,-1.727,51.039,50
-103,Messingham,-0.648,53.528,50
-123,Ludgershall,-1.617,51.255,60
 60,Middle Aston,-1.31,51.936,60
 60,Kings Sutton,-1.272,52.018,50
 72,Eynsham,-1.375,51.783,50
-176,Daventry,-1.165,52.262,103
-60,Great Glen,-1.029,52.576,50
-303,Bournemouth,-1.836,50.74,253
+72,Daventry,-1.165,52.262,72
+86,Great Glen,-1.029,52.576,50
 147,Driffield,-0.435,54.006,123
 60,Ab Kettleby,-0.926,52.801,50
 86,Shalbourne,-1.547,51.363,50
-103,Morgan's Vale,-1.715,50.988,50
+103,Morgan's Vale,-1.715,50.988,60
 86,Ringwood,-1.778,50.848,72
 72,Beswick,-0.459,53.92,50
 103,Hungerford,-1.517,51.412,103
+72,Upper Chute,-1.574,51.283,50
 211,Newark-on-Trent,-0.796,53.078,123
 103,Hutton Cranswick,-0.436,53.955,50
-72,Langford,-0.772,53.113,50
 123,Collingham,-0.758,53.147,50
 60,Appleby,-0.562,53.622,50
-123,Wantage,-1.423,51.59,86
 60,Kilham,-0.383,54.064,50
 72,Plungar,-0.857,52.898,50
 72,Stow,-0.676,53.328,50
 86,Souldern,-1.243,51.979,50
-123,Winwick,-1.078,52.359,50
-72,Kibworth Harcourt,-0.995,52.536,50
+103,Winwick,-1.078,52.359,50
 72,Caulcott,-1.263,51.913,50
 72,Cold Newton,-0.943,52.652,50
 72,Moreton Pinkney,-1.162,52.137,72
 123,Twyford,-0.921,52.686,60
-103,Kirton in Lindsey,-0.589,53.476,50
-176,Filey,-0.294,54.211,60
-253,Melton Mowbray,-0.881,52.765,147
-72,Long Buckby,-1.077,52.303,50
+123,Kirton in Lindsey,-0.589,53.476,60
+176,Melton Mowbray,-0.881,52.765,147
+86,Long Buckby,-1.077,52.303,50
 147,Kidlington,-1.286,51.819,72
-123,Middle Wallop,-1.583,51.139,60
+86,Middle Wallop,-1.583,51.139,60
 86,Bottesford,-0.797,52.942,72
 123,Saxilby,-0.659,53.272,60
-211,Beverley,-0.423,53.846,72
-60,Bransgore,-1.738,50.78,50
+176,Beverley,-0.423,53.846,72
 60,Whilton,-1.067,52.277,50
 86,Harpswell,-0.594,53.397,60
 86,Long Bennington,-0.753,52.991,50
-103,Farnborough,-1.375,51.535,50
-60,Wildhern,-1.494,51.254,50
+103,Farnborough,-1.375,51.535,60
 123,Brackley,-1.149,52.032,86
-86,Hessle,-0.439,53.725,60
+72,Hessle,-0.439,53.725,50
 72,Waltham on the Wolds,-0.807,52.817,50
 60,Norton Disney,-0.672,53.121,50
-123,Goadby,-0.894,52.582,60
+72,Goadby,-0.894,52.582,60
 72,Leckhampstead,-1.37,51.484,72
-86,Barton-upon-Humber,-0.438,53.682,50
-86,Brigg,-0.487,53.555,72
+147,Barton-upon-Humber,-0.438,53.682,50
 60,Skellingthorpe,-0.617,53.234,50
 123,Abingdon-on-Thames,-1.281,51.672,50
 60,Cammeringham,-0.577,53.327,50
-303,Andover,-1.483,51.211,211
+303,Andover,-1.483,51.211,147
 86,Elsfield,-1.217,51.787,50
 86,Market Harborough,-0.918,52.478,86
 60,Meaux,-0.331,53.841,50
-60,New Milton,-1.654,50.756,50
 86,Bugbrooke,-1.007,52.206,60
 103,Horsebridge,-1.505,51.072,60
 60,Launde Abbey,-0.822,52.632,50
 60,Lissett,-0.255,54.007,60
 60,Fullerton,-1.463,51.151,50
 60,Stragglethorpe,-0.637,53.06,60
-123,Burnham,-0.4,53.64,50
+103,Burnham,-0.4,53.64,50
 60,Glentham,-0.493,53.402,50
 60,Coston,-0.742,52.791,60
-103,Binley,-1.397,51.276,50
+86,Binley,-1.397,51.276,50
 60,Chieveley,-1.314,51.462,50
 253,Didcot,-1.243,51.609,50
-60,Bransholme,-0.325,53.788,50
 86,Lyndhurst,-1.571,50.87,50
-522,Lincoln,-0.555,53.211,303
-435,Bridlington,-0.198,54.092,176
-751,Kingston upon Hull,-0.33,53.758,626
-253,Newbury,-1.318,51.4,123
+211,Lincoln,-0.555,53.211,211
+901,Bridlington,-0.198,54.092,176
+60,Sway,-1.604,50.78,50
 72,Blaston,-0.814,52.553,50
 60,Edmondthorpe,-0.726,52.75,60
 60,Hanging Houghton,-0.893,52.356,50
@@ -2988,21 +2768,17 @@ rs,name,lon,lat,r1
 123,Brixworth,-0.902,52.328,72
 60,Compton,-1.253,51.515,50
 86,Romsey,-1.485,50.993,60
-103,Setley,-1.568,50.804,50
 60,Poundon,-1.064,51.922,50
-176,Welton,-0.477,53.308,72
 86,Searby,-0.383,53.538,50
-303,Grantham,-0.635,52.914,147
 72,Coleby,-0.542,53.133,50
 86,Wheatley,-1.131,51.747,60
-86,Totton,-1.501,50.919,50
-176,Oakham,-0.728,52.672,86
+86,Totton,-1.501,50.919,60
+123,Oakham,-0.728,52.672,86
 60,Carlton Scroop,-0.589,52.995,60
 72,Blisworth,-0.935,52.174,50
-86,Desborough,-0.818,52.441,50
 60,Toothill,-1.464,50.963,50
 60,Little Ponton,-0.627,52.879,50
-147,Lymington,-1.551,50.758,123
+72,Lymington,-1.551,50.758,72
 60,Atwick,-0.189,53.941,50
 72,Little Hatfield,-0.216,53.873,50
 103,Navenby,-0.529,53.098,60
@@ -3013,299 +2789,235 @@ rs,name,lon,lat,r1
 147,Uppingham,-0.723,52.59,72
 86,Edgcott,-1.013,51.894,50
 72,Cholsey,-1.149,51.573,50
-60,Marchwood,-1.452,50.886,50
-176,Caistor,-0.323,53.496,72
-176,Totland,-1.538,50.681,60
+103,Caistor,-0.323,53.496,72
 60,Great Haseley,-1.071,51.713,50
 103,South Wonston,-1.334,51.119,50
+60,Sproatley,-0.191,53.792,60
 72,Chalgrove,-1.079,51.667,50
 72,Lyndon,-0.658,52.629,50
 86,Exton,-0.629,52.691,50
-123,Eastleigh,-1.372,50.98,50
-901,Southampton,-1.397,50.921,522
 123,Benson,-1.084,51.614,72
-86,Deanshanger,-0.89,52.053,50
-147,Market Rasen,-0.329,53.387,86
+60,Deanshanger,-0.89,52.053,50
 60,Nocton,-0.415,53.166,50
-253,Winchester,-1.322,51.059,60
 86,Hackleton,-0.823,52.189,50
-211,Corby,-0.692,52.495,72
 60,Keelby,-0.244,53.574,50
 72,Birkholme,-0.561,52.801,72
 72,Heydour,-0.498,52.944,50
 60,Newton,-0.705,52.442,50
-147,Hythe,-1.401,50.85,60
 72,Rand,-0.342,53.296,60
 147,Immingham,-0.212,53.615,60
 60,Beachampton,-0.875,52.024,50
-303,Kettering,-0.714,52.399,123
-103,Thorngumbald,-0.166,53.72,72
+86,Thorngumbald,-0.166,53.72,86
 86,Metheringham,-0.402,53.138,60
 86,Hanslope,-0.828,52.115,50
-123,Tadley,-1.157,51.356,72
-103,Aldbrough,-0.112,53.828,50
+176,Tadley,-1.157,51.356,72
+60,Aldbrough,-0.112,53.828,50
 60,The Common,-0.876,51.98,50
 147,Thame,-0.975,51.749,86
-123,Winslow,-0.88,51.944,50
-147,Stainfield,-0.332,53.245,60
-103,Waddesdon,-0.921,51.848,50
+176,Winslow,-0.88,51.944,50
+123,Stainfield,-0.332,53.245,60
+86,Waddesdon,-0.921,51.848,50
 72,Thoresway,-0.241,53.454,50
 60,Watlington,-1.003,51.644,50
 60,Popham,-1.199,51.19,50
-72,Burton Pidsea,-0.106,53.763,50
+86,Burton Pidsea,-0.106,53.763,50
 123,East Torrington,-0.276,53.335,50
-103,Pickworth,-0.531,52.714,50
-103,Wellingborough,-0.703,52.304,72
-147,Sleaford,-0.409,52.999,123
+123,Pickworth,-0.531,52.714,50
 86,Theale,-1.076,51.435,50
-72,Newtown,-1.4,50.714,50
-86,Ruskington,-0.387,53.044,50
 86,Mottistone,-1.428,50.651,50
-60,Healing,-0.163,53.578,50
+72,Healing,-0.163,53.578,50
 60,Langton by Wragby,-0.275,53.277,60
 60,Northington,-1.191,51.131,60
 60,Kirmond le Mire,-0.213,53.417,60
-86,Brigstock,-0.607,52.46,50
-86,Burghfield Common,-1.061,51.397,50
+72,Brigstock,-0.607,52.46,50
 60,Duddington,-0.541,52.596,50
 60,Upton,-0.881,51.799,50
-60,Upham,-1.234,50.983,50
-60,Chinnor,-0.909,51.703,50
-60,Ludford,-0.199,53.385,50
+60,Porchfield,-1.364,50.716,50
+86,Upham,-1.234,50.983,50
+72,Ludford,-0.199,53.385,50
 60,Tichborne,-1.185,51.07,60
-303,Milton Keynes,-0.766,52.016,147
 86,Olney,-0.704,52.158,60
-303,Basingstoke,-1.095,51.263,147
 60,Sunk Island,-0.082,53.652,50
 72,Threekingham,-0.382,52.911,50
 211,Stamford,-0.487,52.655,103
-123,Newport Pagnell,-0.724,52.081,50
-72,Cowes,-1.31,50.752,50
+86,Newport Pagnell,-0.724,52.081,50
 123,Stokenchurch,-0.9,51.658,50
-86,Beauworth,-1.177,51.03,60
-303,Grimsby,-0.092,53.554,176
-60,Ewerby Thorpe,-0.31,53.015,50
-86,Wold Newton,-0.127,53.454,50
+86,Beauworth,-1.177,51.03,72
+72,Ewerby Thorpe,-0.31,53.015,50
+60,Wold Newton,-0.127,53.454,50
 626,Reading,-0.967,51.451,363
 86,Bradley,-1.09,51.168,50
-176,Newport,-1.297,50.696,123
-60,Heckington,-0.302,52.982,50
-103,Morton,-0.371,52.805,50
-72,Princes Risborough,-0.829,51.728,60
+72,Heckington,-0.302,52.982,50
 72,Herriard,-1.051,51.208,50
 103,Wittering,-0.442,52.609,50
-72,Kelstern,-0.116,53.394,50
-176,Bourne,-0.375,52.758,72
-103,Thrapston,-0.525,52.397,50
-72,Woodhall Spa,-0.21,53.152,50
-72,Raunds,-0.539,52.345,72
+60,Kelstern,-0.116,53.394,50
+103,Woodhall Spa,-0.21,53.152,50
 60,Hardmead,-0.634,52.118,50
-123,Withernsea,0.033,53.728,123
 103,Holton le Clay,-0.055,53.504,50
-103,Fareham,-1.183,50.851,50
 60,Wing,-0.718,51.897,50
 176,Souldrop,-0.557,52.244,60
 60,Salford,-0.637,52.044,50
-60,Charvil,-0.885,51.477,50
 86,Old Weston,-0.386,52.384,60
 72,Driby,0.083,53.256,50
-211,Tattershall,-0.177,53.098,50
 72,Felmersham,-0.55,52.207,60
 60,Langtoft,-0.34,52.698,50
-253,Ely,0.263,52.397,123
-60,Marholm,-0.305,52.605,50
 60,Swineshead,-0.159,52.945,50
 60,Eskham,0.06,53.464,50
 60,Crowthorne,-0.798,51.374,50
-103,Leighton Buzzard,-0.662,51.92,86
+123,Stilton,-0.292,52.491,50
+86,Leighton Buzzard,-0.662,51.92,86
 147,Bracknell,-0.751,51.408,86
 72,Warfield,-0.733,51.442,50
 123,Easton,-0.328,52.331,72
 86,Elton,-0.398,52.531,50
-60,Little Carlton,0.104,53.347,50
+72,Little Carlton,0.104,53.347,50
 123,Church End,0.145,53.44,72
 103,Cawkwell,-0.074,53.3,50
 72,Windsor,-0.627,51.478,50
 60,Sunninghill,-0.656,51.401,50
-253,Horncastle,-0.114,53.197,123
-86,Hurst,-0.855,51.452,50
-60,Little Paxton,-0.26,52.249,50
-176,Skeffling,0.076,53.654,60
+60,Hurst,-0.855,51.452,50
+147,Skeffling,0.076,53.654,60
 123,Leake Hurn's End,0.129,53.021,60
 72,Potton,-0.21,52.129,50
 60,Heyshott,-0.723,50.955,50
 211,Alton,-0.974,51.152,50
-60,Chidden,-1.063,50.954,50
 72,Tongue End,-0.282,52.75,50
 86,Frogmore,-0.334,51.718,50
-103,Long Sutton,-0.941,51.219,50
+123,Long Sutton,-0.941,51.219,50
 60,Bushey,-0.357,51.644,50
 60,Hatley St George,-0.129,52.141,50
-60,Baldock,-0.186,51.986,50
 72,Marlow,-0.776,51.58,50
 147,Chatteris,0.05,52.456,72
 176,March,0.088,52.546,86
 72,Knebworth,-0.186,51.866,50
-60,Castor,-0.344,52.574,50
+72,Castor,-0.344,52.574,50
 60,Amber Hill,-0.163,53.007,50
 123,Donington,-0.203,52.905,72
 123,Market Deeping,-0.298,52.674,72
-103,Arundel,-0.562,50.851,50
+72,Comberton,0.019,52.189,50
 176,High Wycombe,-0.749,51.617,86
 60,Melbourn,0.02,52.084,50
 60,Wood Enderby,-0.094,53.153,50
 86,Histon,0.107,52.246,50
-176,Storrington,-0.451,50.92,72
-72,Marston Moretaine,-0.55,52.059,50
 86,Tring,-0.662,51.798,72
-147,Shanklin,-1.181,50.63,60
-72,Fulletby,-0.053,53.241,50
-435,Louth,0,53.372,147
+60,Fulletby,-0.053,53.241,50
+751,Louth,0,53.372,147
 60,Barwick,0.008,51.856,50
-72,Swineshead,-0.45,52.28,60
+72,Swineshead,-0.45,52.28,72
 103,Cheshunt,-0.041,51.707,86
-60,Chesterton,-0.336,52.546,50
-86,Lutton,-0.365,52.477,50
+60,Lutton,-0.365,52.477,50
 363,King's Lynn,0.419,52.755,363
-72,Pitstone,-0.637,51.835,50
 72,Glinton,-0.295,52.638,50
+60,Sidlow,-0.2,51.207,50
 72,Hazlemere,-0.71,51.654,50
 86,Henfield,-0.277,50.93,50
 363,Harlow,0.109,51.767,123
 60,Summerfield,0.599,52.914,50
 60,Little Walden,0.252,52.051,50
-72,White Waltham,-0.775,51.486,50
+60,White Waltham,-0.775,51.486,50
 60,Tilbrook,-0.417,52.31,50
 176,Feltwell,0.519,52.485,50
 60,Beachamwell,0.588,52.617,50
 60,Hop Pole,-0.243,52.71,50
-147,Seaview,-1.112,50.717,60
-303,Portsmouth,-1.068,50.807,147
 72,Kilnsea,0.133,53.622,72
-60,Wicken Green Village,0.74,52.856,60
+60,Wicken Green Village,0.74,52.856,50
 86,Forest Row,0.04,51.093,50
 60,Waterden,0.801,52.888,50
+60,Purbrook,-1.033,50.867,50
 60,Cookham Rise,-0.726,51.555,50
-176,Horndean,-1.015,50.903,50
+123,Horndean,-1.015,50.903,50
 86,Hawkley,-0.937,51.059,50
 72,Maidenhead,-0.727,51.523,60
-211,Bedford,-0.457,52.139,176
 60,North Cockerington,0.065,53.396,50
 72,Burwell,0.036,53.296,60
-626,Peterborough,-0.258,52.581,363
-86,Sandhurst,-0.786,51.342,50
+435,Peterborough,-0.258,52.581,363
 123,Flitwick,-0.496,52.004,86
-72,Carrington,-0.041,53.078,60
-60,Chalton,-0.96,50.938,50
 147,Chesham,-0.613,51.71,50
 147,Petersfield,-0.925,51.005,72
-363,Spalding,-0.152,52.788,123
-86,Havant,-0.987,50.858,50
-123,Yaxley,-0.258,52.517,50
-147,Sawtry,-0.282,52.432,72
+60,Shortstown,-0.433,52.111,50
+123,Sawtry,-0.282,52.432,86
 86,Frith Bank,-0.043,53.003,50
 103,Bordon,-0.856,51.107,60
 60,Batt's Corner,-0.83,51.16,50
-103,Farnborough,-0.763,51.3,50
 60,Crowland,-0.161,52.679,60
 60,Eye Green,-0.185,52.618,50
+60,Haynes Church End,-0.422,52.058,50
 86,Amersham,-0.588,51.674,72
 60,Kirton,-0.053,52.93,50
-60,North Hayling,-0.961,50.825,50
+103,South Hayling,-0.976,50.792,50
 86,Perry,-0.317,52.289,50
 103,Cowbit,-0.126,52.743,50
-103,Aldershot,-0.757,51.248,86
-626,Boston,-0.019,52.963,211
-60,Haynes,-0.394,52.066,60
-60,Great Barford,-0.352,52.157,50
+86,Aldershot,-0.757,51.248,50
+363,Boston,-0.019,52.963,211
 72,Barton-le-Clay,-0.427,51.968,50
 103,Fosdyke Bridge,-0.041,52.873,50
-103,Spilsby,0.091,53.172,60
+86,Spilsby,0.091,53.172,60
 60,Churt,-0.774,51.137,50
-72,Lightwater,-0.673,51.35,50
-123,Markyate,-0.458,51.836,50
-253,Slough,-0.595,51.515,211
-901,Luton,-0.428,51.894,303
+253,Slough,-0.595,51.515,147
 103,Gerrards Cross,-0.554,51.58,50
-72,Whittlesey,-0.131,52.559,60
+60,Tempsford,-0.292,52.17,50
 86,Hemel Hempstead,-0.472,51.751,72
-147,St Neots,-0.272,52.216,103
 86,Lade Bank,0.084,53.07,72
-86,Pondersbridge,-0.143,52.509,50
+103,Pondersbridge,-0.143,52.509,50
 72,Ramsey St Mary's,-0.154,52.475,50
-123,Alford,0.175,53.258,60
+123,Alford,0.175,53.258,50
 103,Sandy,-0.291,52.134,50
-72,Maple Cross,-0.511,51.621,50
 60,Elstead,-0.701,51.184,50
-103,Holbeach,0.014,52.805,86
 72,Freiston Shore,0.079,52.962,50
-363,Haslemere,-0.722,51.09,72
-303,Huntingdon,-0.176,52.339,86
-86,East Wittering,-0.864,50.764,50
+211,Haslemere,-0.722,51.09,72
+211,Huntingdon,-0.176,52.339,86
+72,East Wittering,-0.864,50.764,50
 60,Candlesby,0.177,53.184,50
 60,Colnbrook,-0.525,51.484,50
 123,Ramsey,-0.112,52.444,86
-211,Mablethorpe,0.257,53.342,123
 60,Birdham,-0.83,50.795,50
 103,Midhurst,-0.742,50.983,86
-147,Biggleswade,-0.256,52.086,86
-60,Stonehill,-0.563,51.362,50
-60,Abbotsley,-0.202,52.193,50
+103,Biggleswade,-0.256,52.086,50
+86,Abbotsley,-0.202,52.193,50
 86,Throckenholt,0,52.667,72
 86,Thorney Toll,-0.016,52.615,60
 60,Sutton St Edmund,0.026,52.7,50
 60,Holbeach St Matthew,0.097,52.868,50
 72,Harpenden,-0.353,51.799,50
-72,Sutton on Sea,0.281,53.311,50
-123,Chichester,-0.772,50.842,50
+72,Chichester,-0.772,50.842,50
 363,Watford,-0.402,51.671,123
 60,Cumberworth,0.255,53.236,50
 86,Charlton,-0.737,50.909,50
 103,Godalming,-0.611,51.18,50
-363,Woking,-0.553,51.311,176
 86,Warboys,-0.079,52.404,50
 123,Hitchin,-0.27,51.954,50
-147,Staines-upon-Thames,-0.499,51.423,86
+147,Staines-upon-Thames,-0.499,51.423,60
 60,Chiddingfold,-0.63,51.112,50
 60,Fisherstreet,-0.644,51.07,50
-123,Stotfold,-0.228,52.019,50
-147,Guildford,-0.568,51.237,60
-86,Selsey,-0.789,50.732,60
-123,Hilton,-0.11,52.279,50
+253,Guildford,-0.568,51.237,86
+103,Hilton,-0.11,52.279,50
 86,Wainfleet All Saints,0.233,53.097,50
 60,St Ives,-0.074,52.333,50
 123,Harlington,-0.435,51.486,50
 60,St Albans,-0.318,51.754,60
-60,Burntcommon,-0.511,51.284,50
-72,Long Sutton,0.132,52.787,60
+86,Long Sutton,0.132,52.787,60
 60,Radlett,-0.319,51.685,50
-123,Gedney Drove End,0.17,52.841,50
+103,Gedney Drove End,0.17,52.841,50
 123,Chapel St Leonards,0.333,53.212,50
 60,Somersham,0,52.384,50
-72,Petworth,-0.607,50.984,50
+86,Petworth,-0.607,50.984,60
 60,East Clandon,-0.482,51.256,50
 303,Skegness,0.327,53.149,176
 86,Doddington,0.059,52.495,50
 147,Bognor Regis,-0.678,50.792,147
 211,Stevenage,-0.189,51.903,123
-123,Sutton,-0.608,50.928,50
+86,Sutton,-0.608,50.928,50
 86,Shingay,-0.093,52.103,50
 72,Alfold Crossways,-0.515,51.104,50
-86,Borehamwood,-0.271,51.659,60
 176,Wisbech,0.165,52.665,123
 103,Cranleigh,-0.487,51.142,60
 86,Madehurst,-0.601,50.887,50
-123,Welwyn Garden City,-0.189,51.804,72
 60,Elm,0.174,52.635,50
-86,Esher,-0.364,51.37,50
 60,Cromer,-0.113,51.939,50
 60,Bar Hill,0.021,52.253,50
-72,Hardwick,0.007,52.21,50
 60,Kelshall,-0.065,52.01,50
 60,Potters Bar,-0.189,51.697,50
-86,Pulborough,-0.503,50.958,50
-103,Sutton,0.119,52.389,60
-123,Royston,-0.022,52.051,103
+72,Royston,-0.022,52.051,72
 60,Emneth Hungate,0.234,52.643,50
 123,Upwell,0.22,52.602,60
 72,Christchurch,0.2,52.547,50
@@ -3316,46 +3028,37 @@ rs,name,lon,lat,r1
 72,North Hill,0.136,52.359,50
 72,Littlehampton,-0.534,50.811,72
 86,Coldharbour,-0.356,51.182,50
-86,Cottenham,0.123,52.286,50
 103,Buntingford,-0.018,51.946,86
 103,Ongar Hill,0.341,52.796,50
-86,Dorking,-0.325,51.226,60
-253,Epsom,-0.263,51.338,123
+103,Dorking,-0.325,51.226,60
+86,Epsom,-0.263,51.338,86
 60,Welney,0.247,52.522,60
 522,Cambridge,0.135,52.206,303
-60,Ware,-0.031,51.811,60
+60,Ware,-0.031,51.811,50
 86,Puckeridge,0.012,51.885,50
 103,Southwater,-0.35,51.017,50
 103,Horsham,-0.316,51.072,72
 60,Babbs Green,0.021,51.826,50
 72,Hunstanton,0.49,52.937,50
-123,Littleport,0.302,52.457,50
+103,Littleport,0.302,52.457,50
 72,Watlington,0.394,52.671,50
 303,Heacham,0.491,52.901,123
 103,West Winch,0.413,52.707,50
-176,Sawston,0.169,52.121,72
-60,Duxford,0.157,52.092,50
-147,Worthing,-0.39,50.829,103
 100000,London,-0.086,51.513,100000
-147,Downham Market,0.38,52.602,103
 123,Ten Mile Bank,0.356,52.545,50
 60,Fulbourn,0.209,52.185,50
-211,Reigate,-0.202,51.223,72
 60,Black Horse Drove,0.349,52.501,50
-72,Partridge Green,-0.305,50.961,50
 123,Dersingham,0.503,52.844,50
-86,Steyning,-0.322,50.887,50
 72,Bottisham,0.26,52.223,50
-123,Soham,0.334,52.339,50
+147,Soham,0.334,52.339,60
 72,Pease Pottage,-0.206,51.082,50
-103,Horley,-0.164,51.174,50
-522,Crawley,-0.184,51.116,211
-72,Burwell,0.326,52.277,50
+123,Horley,-0.164,51.174,50
+435,Crawley,-0.184,51.116,211
 60,Congham,0.537,52.783,50
 253,Loughton,0.064,51.649,50
 147,Bishop's Stortford,0.159,51.868,72
 72,Newport,0.211,51.981,50
-103,Caterham,-0.088,51.284,50
+86,Caterham,-0.088,51.284,50
 86,Sawbridgeworth,0.153,51.814,50
 60,Chigwell,0.077,51.619,50
 103,Saffron Walden,0.249,52.02,103
@@ -3370,12 +3073,9 @@ rs,name,lon,lat,r1
 123,Newmarket,0.401,52.247,123
 86,New Houghton,0.657,52.816,72
 60,Hassocks,-0.146,50.925,50
-253,Burgess Hill,-0.132,50.956,86
-86,Oxted,0,51.252,50
+86,Burgess Hill,-0.132,50.956,50
 60,Oxborough,0.573,52.585,60
-626,Brighton and Hove,-0.177,50.838,522
 72,Tatsfield,0.028,51.292,50
-86,Haywards Heath,-0.093,51.002,50
 103,Little Laver,0.239,51.761,50
 123,Lakenheath,0.524,52.413,50
 123,East Grinstead,-0.015,51.127,86
@@ -3383,110 +3083,88 @@ rs,name,lon,lat,r1
 123,Mildenhall,0.513,52.348,72
 72,Great Bradley,0.437,52.15,50
 86,High Ongar,0.264,51.709,50
-253,Haverhill,0.434,52.082,123
 72,Cranwich,0.623,52.522,60
-123,Edenbridge,0.064,51.196,50
 60,Gazeley,0.516,52.247,60
 72,Great Dunmow,0.359,51.874,72
 176,Swaffham,0.69,52.646,72
-147,Weasenham All Saints,0.738,52.759,72
+147,Weasenham All Saints,0.738,52.759,60
 60,Brandon,0.622,52.448,50
-86,Swanley,0.176,51.396,50
+86,Swanley,0.176,51.396,86
 103,Doddinghurst,0.301,51.666,50
 72,Stock,0.445,51.663,50
-103,Firle,0.086,50.846,50
-72,Lewes,0.006,50.873,72
+72,Firle,0.086,50.846,50
+123,Lewes,0.006,50.873,72
 103,Long Stratton,1.23,52.485,60
-253,Fakenham,0.859,52.834,123
 147,Wells-next-the-Sea,0.852,52.953,103
-72,Dartford,0.221,51.444,60
 211,Braintree,0.558,51.878,103
-72,Borough Green,0.308,51.293,60
 72,Dunstall Green,0.554,52.219,72
 123,Glemsford,0.668,52.099,50
-123,Gravesend,0.386,51.426,50
 86,Shipdham,0.894,52.628,50
 123,Seaford,0.107,50.778,86
 72,Troston,0.782,52.314,50
 72,Golden Cross,0.183,50.893,50
-60,Markbeech,0.109,51.165,50
 86,Salthouse,1.091,52.949,50
 176,Sudbury,0.731,52.043,123
 60,Barningham,0.885,52.351,50
 60,Wadhurst,0.34,51.061,50
 123,East Harling,0.932,52.438,60
-60,South Benfleet,0.571,51.552,50
-72,Ditton,0.464,51.296,50
 103,Reepham,1.116,52.767,72
 103,Brentwood,0.319,51.621,60
 86,Little Barningham,1.176,52.855,50
 72,Eynsford,0.211,51.367,50
-103,Barcombe,0.018,50.914,50
+86,Barcombe,0.018,50.914,50
 86,Litcham,0.792,52.725,50
-86,Cranbrook,0.534,51.097,50
-103,Aylsham,1.254,52.793,72
 147,Hadleigh,0.956,52.043,103
 60,Colby,1.297,52.835,50
 103,Lackford,0.624,52.303,50
-60,South Ockendon,0.288,51.512,50
 60,West Tofts,0.705,52.495,50
 103,Dyer's End,0.508,52.019,50
-103,Lenham,0.712,51.235,50
+103,Lenham,0.712,51.235,72
 211,Sevenoaks,0.196,51.275,60
-123,Manningtree,1.058,51.946,72
+123,Manningtree,1.058,51.946,86
 60,Great Saling,0.471,51.902,50
 60,Elveden,0.675,52.384,50
 72,Hartford End,0.446,51.831,50
-60,Great Fransham,0.804,52.685,50
 86,Westwell,0.847,51.192,50
 60,Monewden,1.274,52.177,50
 123,Stalham,1.52,52.772,60
-60,Risby,0.634,52.266,50
 60,Holme Hale,0.788,52.632,50
 86,Warehorne,0.838,51.058,50
 86,Depden,0.603,52.181,60
 60,Harwich,1.264,51.933,50
 60,Whitstable,1.03,51.356,50
-176,Felixstowe,1.344,51.965,86
+211,Felixstowe,1.344,51.965,86
 86,Hemsby,1.693,52.695,50
-72,Dymchurch,1,51.03,50
 72,Thorington,1.549,52.31,50
-123,Uckfield,0.097,50.969,60
+103,Uckfield,0.097,50.969,60
 60,Howe Street,0.46,51.804,50
 60,Margaretting,0.417,51.689,50
-147,Grays,0.329,51.486,72
 72,Clare,0.583,52.077,50
 60,Underriver,0.227,51.246,50
 60,Tarring Neville,0.049,50.815,50
 72,Thurston End,0.623,52.131,50
 72,Broomfield,0.47,51.769,50
-72,Hartley,0.307,51.387,50
+86,Hartley,0.307,51.387,50
 60,Ash,0.297,51.355,50
 363,Thetford,0.749,52.415,147
-147,Crowborough,0.17,51.051,60
+123,Crowborough,0.17,51.051,60
 60,Billericay,0.42,51.619,50
 60,Gateley,0.907,52.779,50
-253,Chelmsford,0.482,51.732,176
-86,Fornham St Martin,0.71,52.269,50
+253,Chelmsford,0.482,51.732,147
 86,Sible Hedingham,0.589,51.978,50
 176,Watton,0.841,52.57,72
 363,Bury St Edmunds,0.717,52.227,211
-147,Tonbridge,0.281,51.202,50
+123,Tonbridge,0.281,51.202,50
 86,East Wretham,0.824,52.473,50
-60,Stanford-le-Hope,0.429,51.515,50
-211,Royal Tunbridge Wells,0.268,51.134,147
-176,Basildon,0.46,51.573,123
+123,Basildon,0.46,51.573,103
 60,Foxearth,0.674,52.07,50
-72,Wood Norton,0.984,52.812,50
 123,Halstead,0.642,51.943,50
 211,Dereham,0.951,52.676,147
 72,Mayfield,0.263,51.021,50
-60,Foulsham,1.012,52.783,50
-103,Heathfield,0.249,50.968,72
 72,Horam,0.245,50.935,50
 103,Briston,1.061,52.852,50
 60,Bicknacre,0.584,51.696,50
-123,Witham,0.636,51.803,60
+72,Guestwick Green,1.047,52.794,50
 147,Holt,1.097,52.905,103
 72,East Peckham,0.388,51.212,60
 103,Great Green,0.802,52.168,50
@@ -3494,89 +3172,73 @@ rs,name,lon,lat,r1
 86,Gasthorpe,0.903,52.392,50
 60,Friston,0.206,50.762,50
 86,Hingham,0.986,52.581,50
-72,Rochester,0.486,51.396,50
+60,Rochester,0.486,51.396,50
 176,Stanton,0.884,52.324,72
-176,Hailsham,0.26,50.866,72
-86,Polegate,0.251,50.821,50
+211,Hailsham,0.26,50.866,72
 123,South Woodham Ferrers,0.612,51.644,50
-103,Rayleigh,0.608,51.588,50
+72,Rayleigh,0.608,51.588,50
 60,Canvey Island,0.587,51.523,50
 103,Maldon,0.679,51.725,60
 103,Attleborough,1.012,52.515,60
 86,Brandon Parva,1.063,52.631,50
-86,Elmswell,0.911,52.234,50
 72,Kilndown,0.427,51.088,50
-211,Eastbourne,0.287,50.771,211
+363,Eastbourne,0.287,50.771,211
 123,Kettlebaston,0.868,52.115,60
-86,Tiptree,0.749,51.811,60
 103,Wormingford,0.813,51.948,50
 86,Leavenheath,0.838,51.992,50
-522,Maidstone,0.531,51.268,211
+211,Maidstone,0.531,51.268,86
 60,Copford,0.806,51.881,50
-176,Stoke,0.62,51.446,60
-147,Gillingham,0.578,51.347,60
+147,Stoke,0.62,51.446,50
 86,Lindsey Tye,0.893,52.077,50
-72,Fersfield,1.034,52.405,50
 60,Pevensey Bay,0.359,50.816,50
 72,New Buckenham,1.072,52.471,50
-60,Rochford,0.704,51.584,50
 103,Wymondham,1.118,52.57,86
 60,West Bergholt,0.851,51.913,50
-60,Ward Green,0.997,52.234,50
+72,Short Green,1.079,52.434,50
 60,Metton,1.269,52.889,50
 123,Robertsbridge,0.467,50.984,50
-86,Staplehurst,0.551,51.16,86
-626,Southend-on-Sea,0.72,51.543,435
+123,Staplehurst,0.551,51.16,50
 123,Stowmarket,0.995,52.184,123
 123,Taverham,1.203,52.683,50
-103,Hawkhurst,0.511,51.049,50
-211,Cromer,1.302,52.924,86
-60,Leeds,0.609,51.247,50
-176,Tollesbury,0.833,51.759,50
+123,Hawkhurst,0.511,51.049,50
+72,Lower Halstow,0.667,51.374,50
+176,Tollesbury,0.833,51.759,86
 303,Colchester,0.892,51.876,147
 123,Battle,0.481,50.921,50
-211,Diss,1.113,52.378,123
 72,Bexhill,0.464,50.849,50
 72,Langham,0.941,51.947,50
 60,Burnham-on-Crouch,0.814,51.636,60
 86,St Lawrence,0.843,51.701,50
-103,Paglesham Eastend,0.803,51.595,50
+60,Paglesham Eastend,0.803,51.595,50
 103,Yaxley,1.111,52.324,50
 86,Stratton Strawless,1.29,52.739,50
 72,Needham Market,1.054,52.151,50
 60,Mulbarton,1.235,52.562,50
 60,Linkhill,0.584,51.023,50
-86,Sittingbourne,0.73,51.34,72
-60,Trimingham,1.39,52.898,50
-2240,Norwich,1.282,52.632,751
+901,Norwich,1.282,52.632,751
 72,Curteis' Corner,0.648,51.126,50
 60,Northiam,0.602,50.996,50
-123,Minster,0.798,51.425,60
 60,Westwick,1.373,52.793,50
 363,North Walsham,1.388,52.821,103
 176,Hastings,0.565,50.869,147
-86,Bramford,1.099,52.075,50
 103,Mundesley,1.428,52.873,50
 103,Bush Green,1.254,52.441,50
 86,Egerton,0.728,51.195,50
 123,Bedingfield,1.193,52.272,72
-103,Debenham,1.178,52.224,50
-147,Tenterden,0.686,51.068,103
+60,Debenham,1.178,52.224,50
 60,Pettaugh,1.167,52.19,60
 86,Frating Green,1.035,51.867,50
-86,Henley,1.151,52.118,50
+123,Henley,1.151,52.118,50
 60,Brightlingsea,1.025,51.814,60
 147,Poringland,1.345,52.563,50
 72,Stalisfield Green,0.8,51.243,50
-86,Harleston,1.298,52.395,72
-1081,Ipswich,1.165,52.038,363
+147,Harleston,1.298,52.395,72
 86,Cliff End,0.682,50.891,50
 60,Ostend,1.506,52.84,50
 60,Neatishead,1.47,52.735,50
-72,Leysdown-on-Sea,0.912,51.4,50
-60,Hengherst,0.785,51.095,50
+86,Leysdown-on-Sea,0.912,51.4,60
 103,Brundall,1.434,52.624,72
-123,Faversham,0.887,51.313,72
+86,Faversham,0.887,51.313,72
 60,Crown Corner,1.304,52.282,50
 123,Rye,0.74,50.945,103
 60,Happisburgh Common,1.527,52.807,50
@@ -3584,15 +3246,13 @@ rs,name,lon,lat,r1
 123,Upper Street,1.492,52.7,60
 60,Beaumont,1.158,51.881,50
 60,Claxton,1.452,52.58,50
-60,Kesgrave,1.239,52.061,50
 72,South Walsham,1.494,52.665,50
-303,Ashford,0.876,51.155,176
+435,Ashford,0.876,51.155,176
 211,Clacton-on-Sea,1.154,51.799,123
 72,Park Farm,0.871,51.121,50
 123,Framlingham,1.34,52.222,86
 60,Camber,0.797,50.936,50
 72,Bucklesham,1.267,52.029,50
-103,Bungay,1.443,52.45,60
 86,Loddon,1.483,52.532,60
 72,Shotley,1.249,51.967,50
 103,Woodbridge,1.309,52.096,72
@@ -3607,39 +3267,277 @@ rs,name,lon,lat,r1
 60,Chartham,1.014,51.249,50
 72,Horsey,1.645,52.748,50
 103,Sole Street,1.001,51.204,50
-72,Lydd,0.907,50.948,50
-147,Shottisham,1.382,52.052,50
+60,Lydd,0.907,50.948,50
+72,Shottisham,1.382,52.052,50
 60,West Somerton,1.656,52.72,50
 253,Halesworth,1.503,52.344,86
 72,Bodsham,1.015,51.172,60
 123,Beccles,1.569,52.453,86
-176,New Romney,0.95,50.984,50
-176,Canterbury,1.084,51.282,123
 147,Herne Bay,1.128,51.368,72
 86,Bawdsey,1.418,52.012,50
 60,Butley,1.459,52.106,50
 60,Brampton,1.578,52.379,50
-147,Caister-on-Sea,1.726,52.654,60
+303,Caister-on-Sea,1.726,52.654,50
 72,Iken,1.521,52.14,50
 72,Hythe,1.084,51.072,50
-176,Great Yarmouth,1.723,52.581,72
-60,Eastbridge,1.588,52.237,50
-303,Leiston,1.577,52.209,123
+72,Eastbridge,1.588,52.237,50
 60,Orford,1.534,52.094,50
 60,Bramling,1.19,51.265,50
-86,Hopton on Sea,1.73,52.542,50
+103,Hopton on Sea,1.73,52.542,50
 72,Dunwich,1.627,52.277,50
 363,Lowestoft,1.725,52.489,211
-103,Aldeburgh,1.592,52.159,50
-103,Aylesham,1.202,51.227,50
+86,Aldeburgh,1.592,52.159,50
+86,Aylesham,1.202,51.227,60
 60,Hawkinge,1.159,51.115,50
-123,Sandwich,1.339,51.272,50
 103,Kessingland,1.716,52.418,60
 72,Southwold,1.679,52.327,72
-86,Ramsgate,1.409,51.339,50
-211,Folkestone,1.16,51.084,147
-123,Lydden,1.237,51.164,50
-435,Margate,1.359,51.379,253
-86,Dover,1.296,51.128,72
-363,Deal,1.387,51.211,60
+60,Ramsgate,1.409,51.339,50
+72,Lydden,1.237,51.164,50
+303,Deal,1.387,51.211,60
 72,St Margaret's at Cliffe,1.374,51.149,50
+522,Douglas-Willaston,-4.48,54.163,522
+303,Ramsey,-4.384,54.324,123
+123,Port Saint Mary,-4.747,54.082,123
+2240,Birmingham + Wolverhampton,-1.961,52.513,901
+4644,Manchester + Stockport + Bolton,-2.264,53.5,751
+147,Liverpool + Birkenhead + St Helens,-2.914,53.414,147
+9627,Glasgow,-4.301,55.856,2240
+253,Leeds + Bradford,-1.655,53.806,253
+2240,Newcastle upon Tyne + Sunderland,-1.511,54.97,901
+626,Nottingham + Long Eaton,-1.181,52.949,363
+211,Leicester,-1.128,52.631,211
+1297,Portsmouth + Gosport + Havant,-1.081,50.834,626
+2240,Belfast,-5.939,54.609,901
+176,Bournemouth + Poole + Christchurch,-1.902,50.738,176
+901,Middlesbrough + Stockton-on-Tees,-1.259,54.558,363
+176,Stoke-on-Trent + Newcastle-under-Lyme,-2.181,53.017,176
+211,Southampton,-1.385,50.916,147
+435,Kingston upon Hull,-0.357,53.764,435
+211,Brighton,-0.169,50.839,211
+626,Southend-on-Sea,0.656,51.558,363
+72,Plymouth,-4.144,50.393,50
+751,Luton,-0.451,51.896,303
+363,Medway,0.542,51.372,147
+901,Blackpool,-3.024,53.852,363
+363,Milton Keynes,-0.767,52.034,147
+147,Woking + Weybridge,-0.501,51.35,147
+86,Aldershot + Farnborough + Frimley,-0.745,51.289,86
+253,Preston,-2.697,53.761,147
+1081,Ipswich,1.167,52.057,363
+72,Wigan + Skelmersdale,-2.673,53.54,72
+147,Blackburn + Darwen,-2.48,53.738,103
+303,Grimsby + Cleethorpes,-0.076,53.549,176
+147,Worthing,-0.382,50.825,103
+522,Thanet,1.389,51.366,363
+86,Burnley + Nelson,-2.239,53.806,86
+103,Halton,-2.718,53.35,72
+363,Torbay,-3.549,50.456,211
+147,Bedford,-0.459,52.135,147
+363,Basingstoke,-1.096,51.265,147
+253,Royal Leamington Spa + Warwick,-1.545,52.286,103
+103,Hamilton,-4.069,55.79,72
+103,Grays + South Ockenden,0.318,51.491,86
+211,Coatbridge + Airdrie,-3.993,55.858,50
+72,Tamworth,-1.67,52.621,72
+176,Cannock,-2.015,52.689,72
+147,Gravesham,0.371,51.431,50
+60,Motherwell + Wishaw,-3.963,55.789,50
+211,Aylesbury,-0.812,51.815,176
+303,Crewe,-2.452,53.095,123
+123,Rugby,-1.267,52.372,123
+253,Tunbridge Wells,0.257,51.137,147
+103,Great Yarmouth,1.719,52.59,86
+72,Washington,-1.537,54.898,60
+86,Newbury + Thatcham,-1.303,51.399,86
+176,Loughborough,-1.222,52.767,103
+123,Eastleigh,-1.373,50.979,50
+123,Redhill + Reigate,-0.177,51.237,103
+303,Corby,-0.706,52.485,176
+176,Kettering,-0.711,52.396,72
+86,Keighley,-1.914,53.862,86
+211,Folkestone,1.162,51.086,147
+176,Canterbury,1.076,51.281,123
+103,Wellingborough,-0.701,52.302,72
+147,Leyland,-2.681,53.696,50
+363,Banbury,-1.342,52.061,211
+123,Welwyn Garden City,-0.196,51.803,72
+435,Scarborough,-0.416,54.285,363
+123,Sittingbourne,0.736,51.343,103
+522,Winchester,-1.323,51.064,60
+72,Yateley + Sandhurst + Blackwater,-0.804,51.341,50
+253,Bridgend,-3.58,51.511,103
+176,Grantham,-0.64,52.914,176
+72,Ilkeston,-1.31,52.973,60
+211,Bridgwater,-2.996,51.127,72
+176,Stoke Gifford + Patchway,-2.554,51.529,60
+435,Ashington,-1.564,55.175,147
+147,Llanelli,-4.146,51.685,86
+86,Dover,1.295,51.136,72
+211,Haywards Heath,-0.097,51.001,103
+86,Borehamwood,-0.275,51.659,60
+103,Bromsgrove,-2.061,52.329,60
+60,Wickford,0.525,51.61,50
+60,Yeadon + Guiseley,-1.695,53.865,50
+253,St Neots,-0.269,52.226,103
+103,Kimberworth,-1.389,53.44,50
+123,Rhyl + Kinmel Bay,-3.491,53.315,123
+60,Plympton,-4.047,50.391,50
+72,Pontefract,-1.304,53.691,50
+363,Spalding,-0.153,52.788,123
+60,Banstead,-0.224,51.311,50
+60,Tonypandy + Porth,-3.434,51.621,50
+86,Sheerness + Minster,0.785,51.43,72
+253,Haverhill,0.433,52.084,123
+211,Ryde,-1.162,50.724,86
+123,Witham,0.634,51.8,72
+86,Inverkeithing,-3.38,56.033,50
+176,Witney,-1.485,51.787,103
+72,Peterborough (West),-0.289,52.546,50
+123,Stanley,-1.71,54.866,60
+123,Portishead,-2.775,51.483,86
+103,Bideford,-4.212,51.027,86
+103,Garforth + Kippax,-1.374,53.783,50
+72,Hoddesdon,-0.003,51.773,50
+86,Methil + Leven + Buckhaven,-3.015,56.188,72
+72,Chapeltown,-1.483,53.465,50
+176,Burnham-on-Sea + Highbridge,-2.989,51.236,86
+72,Shotton,-3.055,53.212,72
+147,Selby,-1.075,53.776,86
+211,Dorchester,-2.441,50.71,86
+103,Wickham,-1.683,54.937,50
+363,Ely,0.259,52.403,123
+86,Melksham,-2.127,51.372,50
+103,South Elmsall,-1.298,53.598,72
+123,Tickhill + Harworth + Bawtry,-1.065,53.427,72
+176,Glossop,-1.949,53.443,60
+123,Shefford + Henlow + Meppershall,-0.319,52.026,60
+123,Hoyland,-1.441,53.501,50
+176,Bangor (Gwynedd),-4.141,53.226,176
+147,Sleaford,-0.413,52.998,123
+176,Sandown + Shanklin,-1.167,50.641,72
+103,Tidworth + Ludgershall,-1.648,51.243,86
+123,Midsomer Norton,-2.478,51.287,72
+103,Cowes,-1.299,50.76,60
+103,Dursley,-2.359,51.688,72
+72,Calne,-2,51.441,60
+123,Wantage,-1.425,51.601,86
+103,Dinnington + North Anston,-1.211,53.365,50
+147,Ormskirk,-2.889,53.568,50
+103,Westbury,-2.19,51.258,50
+72,Oxted,0.006,51.251,50
+60,Gorseinon + Loughor,-4.052,51.667,50
+363,Cumnock,-4.258,55.454,147
+72,Carterton,-1.596,51.764,60
+60,Denby Dale,-1.64,53.583,60
+147,Tewkesbury,-2.145,51.99,72
+86,Bishop's Waltham + Shirrell Heath,-1.201,50.94,86
+211,Mablethorpe + Sutton on Sea,0.269,53.327,123
+72,Bourne,-0.377,52.769,72
+103,Penistone,-1.631,53.524,50
+103,Cullompton,-3.385,50.871,50
+253,Coleford,-2.606,51.796,103
+72,Henley-on-Thames,-0.908,51.533,60
+60,Yatton + Congresbury,-2.805,51.383,50
+211,Diss,1.103,52.376,147
+176,Sawston,0.162,52.112,72
+60,Hoylake,-3.168,53.399,50
+176,Ellon,-2.078,57.368,147
+103,Selsey,-0.784,50.732,60
+103,Garstang,-2.772,53.896,103
+86,Braunton,-4.154,51.107,50
+86,Sherborne,-2.519,50.949,60
+103,Holbeach,0.003,52.804,72
+123,Steyning,-0.316,50.885,50
+435,New Romney,0.96,50.967,72
+211,Cromer,1.311,52.923,86
+72,Desborough,-0.818,52.444,50
+60,Hatfield (South Yorkshire),-1.01,53.577,50
+522,Bude,-4.537,50.831,211
+72,Barnham + Fontwell,-0.645,50.843,50
+86,Princes Risborough,-0.832,51.729,72
+211,Amesbury,-1.77,51.17,72
+253,Fordingbridge,-1.811,50.925,50
+103,Heathfield,0.254,50.969,72
+103,Ashbourne,-1.73,53.015,86
+522,Oban,-5.473,56.41,303
+211,Marlborough,-1.725,51.421,123
+86,Storrington,-0.44,50.917,60
+211,Fakenham,0.849,52.835,147
+86,Eastfield,-0.396,54.243,50
+123,Edenbridge,0.064,51.203,50
+211,Malton + Norton,-0.785,54.133,147
+5572,Thurso,-3.529,58.595,751
+103,Narborough,-1.209,52.575,50
+123,Wareham,-2.103,50.69,72
+60,Coalisland,-6.682,54.54,50
+72,Borough Green,0.306,51.293,60
+72,Pulborough + West Chiltington Common,-0.476,50.953,50
+123,Freshwater + Totland,-1.525,50.683,60
+176,Millom,-3.279,54.205,72
+86,Brigg,-0.485,53.555,72
+147,Egremont,-3.529,54.479,50
+86,Otley,-1.693,53.904,50
+147,Downham Market,0.381,52.606,103
+103,Bungay,1.442,52.456,60
+86,Todmorden,-2.092,53.719,86
+72,Faringdon,-1.586,51.653,60
+72,Thrapston,-0.535,52.398,72
+147,Tenterden,0.694,51.073,103
+435,Wick,-3.078,58.441,176
+147,Chipping Norton,-1.548,51.943,123
+86,Grange-over-Sands,-2.937,54.183,72
+253,Horncastle,-0.114,53.207,123
+86,Southwell,-0.956,53.076,72
+103,New Mills,-1.992,53.369,50
+86,Wirksworth,-1.573,53.09,50
+123,Tadcaster,-1.267,53.879,50
+147,Kinross,-3.422,56.215,86
+103,Wootton-under-Edge + Kingswood,-2.349,51.636,50
+123,Ollerton,-1.005,53.209,86
+103,Market Weighton,-0.667,53.864,60
+123,Malmesbury,-2.099,51.587,86
+147,Okehampton,-3.997,50.741,147
+72,Dymchurch + St Mary's Bay,1,51.027,50
+86,Newmilns + Darvel,-4.31,55.609,86
+72,Burwell,0.327,52.276,50
+147,Withernsea,0.03,53.728,123
+176,Banff + Macduff,-2.51,57.67,176
+176,Welton,-0.476,53.304,72
+103,Aylsham,1.25,52.79,72
+303,Leiston,1.575,52.203,147
+147,Kingsbridge,-3.765,50.279,103
+103,Coningsby + Tattershall,-0.178,53.105,72
+211,Wem,-2.722,52.855,86
+901,Steornabhagh,-6.377,58.218,751
+72,Pontarddulais,-4.04,51.715,50
+60,Chinnor,-0.913,51.699,50
+103,Williton,-3.321,51.173,72
+72,St Dennis + Foxhole + Lanjeth,-4.868,50.368,50
+72,Cambourne,-0.073,52.215,72
+72,Elmswell + Tostock + Wetherden,0.902,52.232,50
+60,Bedale + Leeming,-1.573,54.294,60
+60,New Whittington,-1.415,53.273,50
+123,Hilton,-1.632,52.871,50
+72,Alrewas + Fradley,-1.761,52.724,50
+86,Dalry,-4.721,55.707,50
+123,Selkirk,-2.841,55.548,50
+176,Kibworth,-0.997,52.536,50
+86,Cottenham,0.118,52.289,50
+86,Twyford,-0.862,51.478,50
+103,Callington,-4.311,50.507,86
+253,Llandrindod Wells,-3.384,52.244,211
+253,Great Torrington,-4.14,50.954,60
+72,Ruskington,-0.387,53.045,50
+103,Bethesda + Tregarth,-4.069,53.184,50
+147,Saundersfoot + Kilgetty,-4.722,51.72,103
+123,Sandwich,1.335,51.266,50
+123,Market Rasen,-0.339,53.387,72
+147,Oundle,-0.477,52.484,60
+176,Crumlin,-6.217,54.621,72
+86,Glyn-neath,-3.629,51.742,50
+147,Axminster,-2.994,50.78,50
+211,Ruthin,-3.305,53.111,72
+303,Turriff,-2.458,57.539,103
+86,Cranbrook,0.536,51.098,72
+60,Repton + Willington,-1.549,52.843,50
+60,Sutton + Mepal,0.123,52.394,60

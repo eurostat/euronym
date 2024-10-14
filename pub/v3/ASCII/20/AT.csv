@@ -2,9 +2,8 @@ rs,name,lon,lat,r1
 28,Halden,9.647,47.203,20
 94,Warth,10.184,47.258,39
 39,Bangs,9.545,47.266,24
-39,Rankweil,9.641,47.275,28
 66,Hohenweiler,9.781,47.588,28
-33,Fluh,9.775,47.493,20
+39,Fluh,9.775,47.493,20
 46,Moeggers,9.816,47.561,20
 46,Thal,9.885,47.539,20
 33,Sulzberg,9.913,47.521,24
@@ -16,23 +15,20 @@ rs,name,lon,lat,r1
 66,Gaschurn,10.028,46.987,28
 46,Stuben,10.158,47.137,39
 112,Holzgau,10.344,47.259,55
-24,Gaissau,9.601,47.466,20
-55,Hoechst,9.633,47.46,24
-94,Meiningen,9.578,47.299,28
-28,Fussach,9.662,47.479,20
+28,Gaissau,9.601,47.466,20
+46,Meiningen,9.578,47.299,28
+39,Fussach,9.662,47.479,20
 28,Koblach,9.604,47.332,20
 24,Paspels,9.587,47.288,20
-66,Lustenau,9.651,47.431,55
-331,Feldkirch,9.586,47.255,134
-39,Hard,9.697,47.486,20
-24,Brederis,9.608,47.277,20
+66,Lustenau,9.651,47.431,46
+476,Feldkirch,9.586,47.255,134
+24,Hard,9.697,47.486,20
+28,Brederis,9.608,47.277,20
 55,Goetzis,9.641,47.334,24
-28,Altach,9.651,47.354,20
-112,Hoerbranz,9.751,47.555,46
-160,Bregenz,9.732,47.497,66
+134,Hoerbranz,9.751,47.555,55
 55,Lochau,9.751,47.53,20
-46,Weiler,9.653,47.302,24
-33,Lauterach,9.728,47.474,20
+28,Weiler,9.653,47.302,20
+24,Lauterach,9.728,47.474,20
 112,Hohenems,9.682,47.363,39
 79,Frastanz,9.629,47.217,33
 24,Fraxern,9.674,47.315,20
@@ -43,13 +39,13 @@ rs,name,lon,lat,r1
 24,Kennelbach,9.763,47.479,20
 28,Dafins,9.686,47.294,20
 28,Uebersaxen,9.672,47.253,20
-1183,Dornbirn,9.743,47.414,986
+160,Dornbirn,9.743,47.414,55
 66,Schwarzach,9.763,47.445,24
 24,Weienried,9.82,47.573,20
 24,Bildstein,9.771,47.457,20
 33,Satteins,9.672,47.225,24
 24,Latz,9.661,47.191,20
-79,Laterns,9.704,47.266,28
+46,Laterns,9.704,47.266,28
 46,Ebnit,9.745,47.349,33
 46,Guetle,9.774,47.392,20
 28,Buch,9.818,47.481,20
@@ -85,13 +81,12 @@ rs,name,lon,lat,r1
 94,Sonntag,9.899,47.238,33
 28,Bings,9.859,47.145,20
 33,Sankt Anton im Montafon,9.869,47.113,20
-46,Vandans,9.865,47.096,28
+33,Vandans,9.865,47.096,24
 39,Buchboden,9.952,47.244,28
 94,Sibratsgfaell,10.037,47.427,46
 24,Bartholomaeberg,9.907,47.092,20
 94,Schoppernau,10.016,47.312,46
-160,Schruns,9.92,47.081,66
-46,Silbertal,9.977,47.094,24
+55,Silbertal,9.977,47.094,24
 55,Dalaas,9.997,47.121,46
 134,Sankt Gallenkirch,9.975,47.02,46
 28,Wald am Arlberg,10.032,47.133,20
@@ -101,9 +96,9 @@ rs,name,lon,lat,r1
 39,Mittelberg,10.154,47.324,20
 28,Hirschegg,10.167,47.343,20
 39,Zug,10.109,47.2,20
-331,Riezlern,10.187,47.358,134
+397,Riezlern,10.187,47.358,134
 134,Kloesterle,10.09,47.132,33
-397,Lech,10.142,47.209,66
+331,Lech,10.142,47.209,66
 33,Partenen,10.061,46.97,20
 79,Zuers,10.163,47.168,24
 24,Wirl,10.163,46.965,20
@@ -115,10 +110,10 @@ rs,name,lon,lat,r1
 46,Mathon,10.244,46.99,28
 28,Zoeblen,10.478,47.508,20
 46,Boden,10.606,47.284,20
-33,Ehenbichl,10.703,47.472,20
+28,Ehenbichl,10.703,47.472,20
 160,Haeselgehr,10.491,47.309,94
 39,Pettneu am Arlberg,10.343,47.15,39
-134,Vils,10.63,47.549,46
+134,Vils,10.63,47.549,55
 46,Bach,10.403,47.27,20
 112,Ischgl,10.291,47.011,46
 112,Tannheim,10.516,47.498,66
@@ -133,7 +128,7 @@ rs,name,lon,lat,r1
 46,Obsteig,10.928,47.299,28
 39,Obermieming,10.987,47.305,24
 24,Mittelberg,10.875,46.957,20
-192,Laengenfeld,10.969,47.074,134
+230,Laengenfeld,10.969,47.074,134
 28,Graen,10.553,47.502,20
 24,Flirsch,10.408,47.149,24
 192,Kappl,10.374,47.064,55
@@ -154,12 +149,10 @@ rs,name,lon,lat,r1
 94,Weissenbach am Lech,10.642,47.443,39
 55,Bschlabs,10.586,47.308,24
 94,Spiss,10.436,46.959,55
-46,Grins,10.515,47.141,28
+55,Grins,10.515,47.141,28
 24,Brandstatt,10.679,47.524,20
-55,Pflach,10.716,47.514,20
-192,Landeck,10.562,47.14,94
+55,Pflach,10.716,47.514,24
 66,Namlos,10.657,47.356,39
-331,Reutte,10.717,47.488,192
 28,Kelmen,10.682,47.37,20
 24,Rinnen,10.719,47.405,20
 160,Nauders,10.502,46.891,66
@@ -169,14 +162,14 @@ rs,name,lon,lat,r1
 28,Birkach,10.556,46.982,20
 33,Berwang,10.746,47.408,20
 55,Schoenwies,10.656,47.195,39
-55,Fliess,10.629,47.119,39
+55,Fliess,10.629,47.119,33
 39,Serfaus,10.609,47.038,28
 39,Fiss,10.621,47.056,20
 24,Imsterberg,10.698,47.206,24
 55,Bichlbach,10.79,47.419,24
 33,Bichlbaechle,10.79,47.399,20
 24,Gunglgruen,10.72,47.225,20
-134,Prutz,10.666,47.076,33
+160,Prutz,10.666,47.076,33
 55,Tarrenz,10.763,47.262,20
 33,Obtarrenz,10.775,47.279,20
 33,Laehn,10.836,47.418,24
@@ -221,11 +214,11 @@ rs,name,lon,lat,r1
 28,Gries,11.02,47.072,28
 46,Flaurling,11.124,47.291,28
 39,Heiligkreuz,10.975,46.91,28
-276,Soelden,11.007,46.968,79
+230,Soelden,11.007,46.968,79
 112,Seefeld in Tirol,11.184,47.328,46
 28,Hatting,11.167,47.278,24
 66,Zwieselstein,11.027,46.938,24
-134,Praxmar,11.134,47.15,39
+160,Praxmar,11.134,47.15,39
 39,Gries im Sellrain,11.154,47.196,33
 24,Giessenbach,11.236,47.378,20
 24,Inzing,11.197,47.274,20
@@ -240,49 +233,45 @@ rs,name,lon,lat,r1
 24,Kematen in Tirol,11.272,47.255,20
 46,Axams,11.279,47.23,24
 160,Ranalt,11.228,47.035,66
-66,Axamer Lizum,11.303,47.196,28
+55,Axamer Lizum,11.303,47.196,28
 66,Kroessbach,11.267,47.077,28
 24,Milders,11.283,47.099,20
-331,Neustift im Stubaital,11.308,47.11,94
+55,Neustift im Stubaital,11.308,47.11,24
 160,Hinterriss,11.467,47.474,112
 28,Natters,11.376,47.234,20
-33,Kampl,11.336,47.125,20
+28,Kampl,11.336,47.125,20
 24,Raitis,11.378,47.222,20
-94,Fulpmes,11.349,47.152,33
 2042,Innsbruck,11.403,47.268,822
 33,Kreith,11.38,47.204,20
-33,Mieders,11.381,47.168,20
+66,Mieders,11.381,47.168,24
 33,Obertal,11.331,47.028,20
 33,Schoenberg im Stubaital,11.403,47.186,20
 55,Patsch,11.415,47.203,24
-66,Gschnitz,11.349,47.045,39
+94,Gschnitz,11.349,47.045,39
 33,Aldrans,11.446,47.252,24
-39,Rum,11.461,47.287,24
+39,Rum,11.461,47.287,28
 28,Sistrans,11.448,47.239,20
 24,Ampass,11.461,47.262,20
 55,Steinach am Brenner,11.467,47.093,55
-66,Hall in Tirol,11.507,47.284,55
 24,Hainzenberg,11.898,47.218,20
 28,Oberndorf,12.212,47.617,20
 24,Wald im Pinzgau,12.226,47.247,24
 66,Weerberg,11.667,47.299,33
 24,Fanghaus,11.672,47.271,20
 46,Steinberg am Rofan,11.8,47.513,46
-66,Innerellboegen,11.454,47.166,28
+55,Innerellboegen,11.454,47.166,28
 46,Trins,11.419,47.083,28
 66,Hintertux,11.681,47.115,39
-46,Muenster,11.833,47.421,24
-24,Absam,11.516,47.295,20
+39,Muenster,11.833,47.421,28
 55,Schlitters,11.838,47.375,24
 28,Rinn,11.502,47.249,20
 134,Landl,12.033,47.588,39
-55,Kundl,11.985,47.469,33
 46,Obernberg am Brenner,11.422,47.017,33
 94,Ebbs,12.215,47.63,39
-79,Sankt Martin,11.554,47.32,20
-192,Kelchsau,12.134,47.39,28
+66,Sankt Martin,11.554,47.32,20
+112,Kelchsau,12.134,47.39,28
 112,Soell,12.191,47.504,46
-55,Tulfes,11.531,47.257,20
+66,Tulfes,11.531,47.257,24
 46,Ausserweg,11.474,47.121,24
 55,Koenigsleiten,12.122,47.251,28
 134,Krimml,12.174,47.222,28
@@ -293,11 +282,10 @@ rs,name,lon,lat,r1
 685,Mariahilf,12.298,46.914,476
 46,Sankt Jakob in Haus,12.562,47.501,20
 33,Simling,12.796,48.061,20
-134,Gries am Brenner,11.483,47.04,39
-39,Wattens,11.59,47.293,39
+192,Gries am Brenner,11.483,47.04,39
 46,Sankt Jodok am Brenner,11.502,47.062,20
 230,Achenkirch,11.705,47.527,79
-79,Navis,11.54,47.13,39
+160,Navis,11.54,47.13,39
 94,Pertisau,11.695,47.44,33
 24,Weer,11.646,47.304,20
 39,Schmirn,11.563,47.08,39
@@ -307,7 +295,7 @@ rs,name,lon,lat,r1
 46,Pill,11.683,47.321,20
 66,Madern,11.602,47.107,24
 24,Stans,11.717,47.37,20
-192,Schwaz,11.708,47.346,160
+192,Schwaz,11.708,47.346,112
 28,Ausserweerberg,11.703,47.305,20
 33,Eben am Achensee,11.759,47.415,20
 94,Jenbach,11.769,47.395,39
@@ -315,47 +303,42 @@ rs,name,lon,lat,r1
 24,Maurach,11.79,47.383,20
 46,Strass im Zillertal,11.826,47.396,20
 66,Hochfuegen,11.777,47.271,46
-160,Tux,11.733,47.16,112
+160,Tux,11.733,47.16,79
 33,Aschau,11.889,47.51,20
 55,Brandenberg,11.894,47.49,33
-134,Kramsach,11.875,47.443,55
-24,Brixlegg,11.881,47.429,20
 33,Reith im Alpbachtal,11.878,47.417,20
-55,Fuegen,11.849,47.346,46
+24,Fuegen,11.849,47.346,20
 46,Moosen,11.907,47.468,20
-33,Kapfing,11.855,47.331,20
 24,Hygna,11.889,47.401,20
-24,Radfeld,11.91,47.447,20
-94,Finkenberg,11.825,47.155,39
-160,Stumm,11.887,47.291,46
+28,Radfeld,11.91,47.447,20
+94,Finkenberg,11.825,47.155,33
+94,Stumm,11.887,47.291,33
 112,Dornauberg,11.808,47.1,46
-94,Alpbach,11.942,47.399,39
+66,Alpbach,11.942,47.399,33
 33,Laimach,11.865,47.217,20
-192,Schwendau,11.861,47.199,66
-33,Schoenau,11.993,47.508,28
+33,Schoenau,11.993,47.508,24
 79,Zell am Ziller,11.88,47.234,28
 55,Aschau,11.895,47.265,20
 24,Mayrhofen,11.863,47.167,20
-28,Hollenzen,11.872,47.184,20
+24,Hollenzen,11.872,47.184,20
 28,Haslach,11.906,47.251,20
 55,Inneralpbach,11.96,47.373,20
 46,Brandberg,11.898,47.168,24
 33,Angerberg,12.041,47.507,20
 24,Muehltal,12.026,47.428,20
 24,Niederbreitenbach,12.08,47.537,20
-66,Wildschoenau,12.043,47.439,39
-476,Woergl,12.066,47.486,331
+66,Wildschoenau,12.043,47.439,33
+230,Woergl,12.066,47.486,79
 66,Auffach,12.036,47.408,24
 24,Vorderthiersee,12.118,47.594,24
 55,Kirchbichl,12.091,47.514,24
 33,Schwarzenau,12.05,47.392,20
-397,Erl,12.18,47.681,39
+192,Erl,12.18,47.681,39
 24,Niederau,12.089,47.449,24
 24,Muehlgraben,12.185,47.669,20
 33,Bruckhaeusl,12.112,47.488,20
 79,Schwoich,12.141,47.544,28
 66,Gmuend,12.004,47.211,66
-192,Kufstein,12.17,47.585,79
 55,Erlerberg,12.224,47.69,20
 33,Eichelwang,12.191,47.601,20
 33,Gerlos,12.034,47.226,20
@@ -363,7 +346,7 @@ rs,name,lon,lat,r1
 46,Itter,12.144,47.47,20
 46,Penningberg,12.128,47.425,20
 66,Reith,12.241,47.663,20
-79,Hopfgarten im Brixental,12.159,47.449,55
+66,Hopfgarten im Brixental,12.159,47.449,55
 24,Stockach,12.205,47.514,20
 24,Rettenschoess,12.27,47.658,20
 24,Durchholzen,12.288,47.64,20
@@ -384,11 +367,11 @@ rs,name,lon,lat,r1
 46,Neukirchen am Grossvenediger,12.275,47.252,39
 46,Oberndorf in Tirol,12.385,47.5,20
 160,Kitzbuehel,12.39,47.448,66
-331,Sankt Johann in Tirol,12.425,47.522,134
+192,Sankt Johann in Tirol,12.425,47.522,134
 55,Wohlmuting,12.464,47.598,20
 79,Kirchdorf in Tirol,12.448,47.558,28
 28,Furth,12.449,47.545,20
-160,Bramberg am Wildkogel,12.345,47.275,134
+276,Bramberg am Wildkogel,12.345,47.275,134
 39,Erpfendorf,12.479,47.575,20
 24,Filzen,12.414,47.389,24
 39,Wiesenegg-Gruental,12.431,47.4,39
@@ -409,7 +392,7 @@ rs,name,lon,lat,r1
 79,Lengau,12.536,47.373,33
 55,Strub,12.624,47.582,39
 55,Ueberackern,12.875,48.193,24
-160,Ostermiething,12.831,48.045,46
+112,Ostermiething,12.831,48.045,55
 33,Kalkstein,12.319,46.806,28
 39,Feistritz,12.369,46.913,33
 24,Wilhelmsdorf,12.523,47.276,20
@@ -431,28 +414,27 @@ rs,name,lon,lat,r1
 28,Hof,13.485,48.169,20
 24,Patschgsiedlung,13.129,47.104,20
 28,Gundertshausen,12.992,48.089,20
-66,Stadl-Traun,13.869,48.085,39
 79,Stubach,12.565,47.262,20
 28,Stockham,12.984,48.018,20
 66,Virgen,12.459,47.005,46
 79,Sankt Veit in Defereggen,12.426,46.925,66
-46,Viehhofen,12.732,47.367,33
+46,Viehhofen,12.732,47.367,39
 24,Bogenhofen,13.112,48.266,20
 134,Niederland,12.736,47.658,55
 28,Steinbach,13.012,47.974,20
 39,Lenzing,12.816,47.447,20
 66,Reit,12.726,47.626,28
 39,Tobersbach,12.586,47.286,33
-230,Zell am See,12.794,47.326,79
 28,Bachwinkl,12.852,47.447,20
 39,Sankt Martin bei Lofer,12.705,47.566,20
 66,Gilgenberg am Weilhart,12.937,48.131,39
-55,Bruck an der Grossglocknerstrasse,12.823,47.289,28
+55,Bruck an der Grossglocknerstrasse,12.823,47.289,24
 134,Saalbach,12.637,47.392,66
 39,Maria Alm am Steinernen Meer,12.904,47.406,33
 55,Scherschham,13.175,48.021,20
 33,Werberg,12.923,48.079,20
-46,Sankt Pantaleon,12.895,48.008,20
+39,Sankt Pantaleon,12.895,48.008,20
+33,Untereching,12.882,47.975,28
 24,Schwaighofen,13.136,47.831,20
 24,Sankt Georgen bei Obernberg am Inn,13.334,48.292,20
 24,Schwendt,13.456,48.556,20
@@ -470,27 +452,25 @@ rs,name,lon,lat,r1
 79,Aurolzmuenster,13.453,48.248,33
 55,Muehlbach am Hochkoenig,13.127,47.377,39
 33,Tumeltsham,13.496,48.231,20
-230,Mondsee,13.351,47.856,66
 28,Sankt Kolloman,13.465,48.121,20
 24,Rangersdorf,12.962,46.863,20
 28,Vichtenstein,13.65,48.529,20
 39,Lichtenberg,13.422,47.928,24
 94,Bischofshofen,13.217,47.418,55
 39,Lafen,13.108,47.151,20
-55,Sankt Gilgen,13.367,47.768,33
+134,Sankt Gilgen,13.367,47.768,33
 46,Taiskirchen im Innkreis,13.573,48.264,39
-822,Sankt Johann im Pongau,13.204,47.35,397
+822,Sankt Johann im Pongau,13.204,47.35,276
 33,Kenading,13.636,48.412,20
 28,Au,13.404,47.816,20
 24,Jagern,13.631,48.377,20
 46,Ranshofen,13.017,48.232,20
 192,Thalgau,13.332,47.595,112
 24,Geiersberg,13.581,48.2,20
-94,Buermoos,12.92,47.984,33
-160,Sankt Wolfgang im Salzkammergut,13.449,47.738,94
+46,Sankt Wolfgang im Salzkammergut,13.449,47.738,46
 134,Schneiderau,12.601,47.205,66
 39,Gampern,13.553,47.988,28
-112,Unterach,13.488,47.805,55
+66,Unterach,13.488,47.805,55
 28,Panidorf,13.854,48.711,20
 46,Hackenbuch,12.949,48.044,20
 39,Parschallen,13.525,47.859,20
@@ -499,29 +479,24 @@ rs,name,lon,lat,r1
 79,Julbach,13.867,48.659,55
 28,Prossegg,12.527,47.016,20
 33,Hofkirchen im Muehlkreis,13.81,48.483,33
-66,Lenzing,13.61,47.976,20
+55,Lenzing,13.61,47.976,20
 112,Annaberg im Lammertal,13.432,47.514,39
 39,Hinterkleinarl,13.327,47.258,20
 66,Ibm,12.964,48.066,20
-66,Wolfsegg am Hausruck,13.674,48.107,33
+79,Wolfsegg am Hausruck,13.674,48.107,33
 33,Feistritz,13.124,46.736,24
 276,Sillian,12.418,46.748,134
-94,Voecklabruck,13.659,48.005,66
 33,Igelsberg,12.685,47.379,28
-94,Braunau am Inn,13.046,48.254,94
-24,Regau,13.69,47.992,20
 33,Hatzing,13.842,48.372,20
 39,Reitsteg,13.466,47.436,20
 79,Lembach im Muehlkreis,13.895,48.495,66
 24,Lebertsham,13.736,48.049,20
 39,Niedernsill,12.65,47.28,39
-46,Bad Ischl,13.625,47.709,46
-134,Schwanenstadt,13.775,48.055,55
 46,Haibach ob der Donau,13.917,48.41,46
 112,Weissbach bei Lofer,12.754,47.522,33
-55,Desselbrunn,13.771,48.022,20
+39,Desselbrunn,13.771,48.022,24
 192,Matrei in Osttirol,12.537,47.002,134
-24,Hofern,13.822,48.089,20
+24,Hofern,13.822,48.089,24
 24,Handenberg,13.008,48.134,24
 33,Kletzenmarkt,13.905,48.248,20
 33,Fellbach,13.325,46.753,20
@@ -530,17 +505,15 @@ rs,name,lon,lat,r1
 112,Zederhaus,13.507,47.154,79
 28,Eggelsberg,12.99,48.076,24
 39,Sankt Lorenzen im Gitschtal,13.305,46.67,28
-24,Lamprechtshausen,12.956,47.992,20
 46,Krenglbach,13.956,48.204,20
 46,Finstergrube,13.542,47.132,20
-94,Eferding,14.02,48.309,79
-33,Niederarnsdorf,12.952,47.968,20
+46,Niederarnsdorf,12.952,47.968,20
 28,Fraham,14.029,48.283,20
 28,Wimpassing,13.986,48.164,20
 28,Hopfgarten in Defereggen,12.52,46.922,28
 24,Lacken,14.089,48.382,20
 33,Seblas,12.548,46.985,20
-134,Oberndorf bei Salzburg,12.945,47.94,94
+112,Oberndorf bei Salzburg,12.945,47.94,39
 33,Asten,12.973,48.004,20
 28,Feichten,13.02,48.119,20
 28,Kimmelsdorf,12.995,48.054,20
@@ -555,10 +528,10 @@ rs,name,lon,lat,r1
 28,Hummersdorf,12.696,47.279,20
 24,Sankt Oswald,12.479,46.738,20
 39,Piesendorf,12.717,47.292,24
-79,Altheim,13.038,48.072,55
+94,Altheim,13.038,48.072,66
 55,Strassen,12.489,46.75,39
 39,Ottendorf,13.069,48.142,33
-33,Hart,13.119,48.242,20
+24,Hart,13.119,48.242,20
 46,Michaelbeuern,13.03,48.02,20
 112,Grossgmain,12.91,47.726,55
 24,Nussdorf am Haunsberg,13.008,47.959,24
@@ -572,61 +545,59 @@ rs,name,lon,lat,r1
 55,Mining,13.162,48.277,33
 24,Lahntal,12.8,47.386,20
 24,Reit,13.051,47.984,20
-112,Kaprun,12.759,47.273,46
+55,Kaprun,12.759,47.273,39
 134,Mauerkirchen,13.137,48.191,46
 28,Mitterhofen,12.803,47.375,20
 46,Kals am Grossglockner,12.647,47.002,46
 39,Lesach,12.64,46.984,20
 33,Siezenheim,12.984,47.81,20
 33,Anthering,13.013,47.88,28
-39,Elling,13.164,48.253,20
+24,Elling,13.164,48.253,20
 55,Berndorf bei Salzburg,13.062,47.996,24
 46,Anras,12.556,46.772,39
 66,Hoefen,13.128,48.151,24
 28,Zellermoos,12.776,47.292,20
-79,Maishofen,12.806,47.36,28
-24,Wagenham,13.111,48.095,20
+94,Maishofen,12.806,47.36,33
+33,Wagenham,13.111,48.095,24
 28,Muntigl,13.014,47.854,20
-33,Schuettdorf,12.791,47.309,20
 28,Dietraching,13.165,48.22,20
 134,Saalfelden am Steinernen Meer,12.842,47.427,134
 24,Perwang am Grabensee,13.084,48.007,20
-55,Auerbach,13.107,48.065,24
+55,Auerbach,13.107,48.065,28
 28,Moosbach,13.165,48.206,20
 55,Bsuch,12.834,47.398,20
 39,Weng im Innkreis,13.179,48.234,28
-33,Wiesenlehen,12.816,47.341,20
+24,Wiesenlehen,12.816,47.341,20
 66,Oberleibnig,12.637,46.913,28
 24,Gerling,12.836,47.385,20
 24,Seeham,13.077,47.968,20
 33,Weikertsham,13.101,48.024,20
+28,Thumersbach,12.818,47.33,20
 66,Untermoedlham,13.061,47.904,24
 46,Obertrum am See,13.077,47.937,46
 33,Muehlheim am Inn,13.218,48.282,24
-230,Mattighofen,13.148,48.105,192
-33,Schalchen,13.157,48.12,20
+46,Schalchen,13.157,48.12,20
 28,Mitterhof,13.089,47.949,20
 33,Lengfelden,13.049,47.846,20
 986,Salzburg,13.034,47.81,685
 39,Mittewald,12.602,46.773,24
-28,Trattmannsberg,13.149,48.091,20
 79,Mattsee,13.105,47.97,28
 24,Schlaiten,12.653,46.877,20
 39,Elixhausen,13.065,47.869,33
 28,Jeging,13.147,48.049,20
 28,Pichl,12.83,47.276,20
-192,Altheim,13.232,48.25,112
+94,Altheim,13.232,48.25,94
 39,Untertreubach,13.211,48.195,24
 46,Groedig,13.035,47.741,33
 39,Fusch an der Grossglocknerstrasse,12.826,47.227,39
 160,Obertilliach,12.615,46.71,66
-79,Munderfing,13.181,48.068,28
-230,Ferleiten,12.812,47.17,46
+55,Munderfing,13.181,48.068,24
+192,Ferleiten,12.812,47.17,46
 24,Mayrwies,13.087,47.835,20
 24,Gruenau,13.246,48.222,20
 33,Reitsham,13.152,47.981,20
-79,Maria Schmolln,13.218,48.139,33
-79,Ainet,12.691,46.865,20
+46,Maria Schmolln,13.218,48.139,33
+39,Ainet,12.691,46.865,20
 24,Kirchdorf am Inn,13.282,48.294,24
 94,Thal-Aue,12.661,46.786,46
 46,Esch,13.103,47.847,20
@@ -649,12 +620,10 @@ rs,name,lon,lat,r1
 46,Sankt Jakob am Thurn,13.095,47.74,20
 24,Tannberg,13.199,47.989,20
 55,Obernberg am Inn,13.336,48.322,55
-79,Puch bei Hallein,13.091,47.717,20
-28,Oberlienz,12.729,46.844,24
+66,Puch bei Hallein,13.091,47.717,24
+39,Oberlienz,12.729,46.844,33
 33,Untertilliach,12.678,46.703,33
 24,Ausserleiten,13.281,48.145,20
-28,Oberalm,13.1,47.694,20
-276,Hallein,13.099,47.681,112
 28,Freiling,13.335,48.262,20
 66,Henndorf am Wallersee,13.188,47.899,33
 94,Aspach,13.305,48.186,46
@@ -674,18 +643,16 @@ rs,name,lon,lat,r1
 33,Taxenbach,12.964,47.296,33
 24,Adnet,13.13,47.697,20
 24,Neufahrn,13.223,47.921,20
-331,Lienz,12.77,46.829,276
-571,Schaerding,13.437,48.453,160
+24,Schaerding,13.437,48.453,20
 39,Dienten am Hochkoenig,13.003,47.384,39
 24,Steindorf,13.24,47.961,20
 46,Antiesenhofen,13.398,48.344,33
 28,Wernstein am Inn,13.464,48.508,20
 46,Weilbach,13.372,48.277,28
 24,Storach,13.141,47.707,20
-94,Suben,13.431,48.411,20
+112,Suben,13.431,48.411,20
 46,Vorderschroffenau,13.187,47.799,20
-33,Brunnenthal,13.46,48.47,20
-28,Bad Vigaun,13.135,47.665,20
+46,Bad Vigaun,13.135,47.665,20
 33,Rojach,12.869,47.023,20
 94,Frauschereck,13.312,48.096,20
 24,Maria Luggau,12.736,46.705,24
@@ -708,11 +675,11 @@ rs,name,lon,lat,r1
 24,Hundsdorf,12.983,47.241,20
 24,Jadorf,13.147,47.638,20
 33,Rainding,13.467,48.423,20
-276,Hinding,13.527,48.573,24
+192,Hinding,13.527,48.573,24
 24,Wallester,13.273,47.934,24
-112,Kuchl,13.147,47.626,24
+134,Kuchl,13.147,47.626,24
 24,Hundsdorf,13.019,47.313,20
-46,Debant,12.818,46.832,28
+28,Debant,12.818,46.832,20
 66,Woerth,12.975,47.197,28
 39,Ort im Innkreis,13.434,48.315,20
 112,Rauris,12.994,47.23,66
@@ -723,7 +690,7 @@ rs,name,lon,lat,r1
 94,Bucheben,12.974,47.16,55
 28,Asing,13.532,48.532,20
 28,Stelzen,13.365,48.112,28
-112,Sankt Martin im Innkreis,13.438,48.294,66
+160,Sankt Martin im Innkreis,13.438,48.294,66
 24,Rabenschwand,13.302,47.955,20
 134,Doellach,12.897,46.973,55
 66,Sankt Lorenzen im Lesachtal,12.783,46.701,66
@@ -736,13 +703,13 @@ rs,name,lon,lat,r1
 28,Strubau,13.179,47.617,20
 33,Schwandt,13.323,47.97,20
 28,Goednach,12.848,46.819,20
-134,Vordersee,13.24,47.761,33
+79,Vordersee,13.24,47.761,33
 24,Egg,13.267,47.823,20
 55,Lavant,12.841,46.797,20
 28,Forstern,13.343,48.009,20
 39,Winklern,12.877,46.87,24
 33,Forchtenau,13.452,48.264,20
-55,Sankt Koloman,13.203,47.642,28
+46,Sankt Koloman,13.203,47.642,28
 33,Mehrnbach,13.434,48.208,28
 28,Mayrhof,13.492,48.351,20
 55,Esternberg,13.571,48.545,39
@@ -755,9 +722,9 @@ rs,name,lon,lat,r1
 66,Taufkirchen an der Pram,13.536,48.411,28
 94,Waldzell,13.428,48.136,46
 55,Oberasch,13.265,47.733,24
-79,Muenzkirchen,13.57,48.484,66
+66,Muenzkirchen,13.57,48.484,66
 33,Tenneck,13.17,47.493,20
-79,Hofmark,13.099,47.318,28
+39,Hofmark,13.099,47.318,28
 46,Haslau,13.35,47.925,20
 39,Pyrawang,13.606,48.563,20
 46,Wetzendorf,13.591,48.52,20
@@ -771,22 +738,21 @@ rs,name,lon,lat,r1
 33,Hintersee,13.286,47.715,20
 79,Lainach,12.93,46.854,46
 46,Hatz,13.313,47.771,20
-24,Hauberg,13.353,47.868,20
-33,Schwarzindien,13.344,47.841,20
+33,Hauberg,13.353,47.868,20
+24,Schwarzindien,13.344,47.841,20
 39,Poetting,13.518,48.267,24
 24,Huett,13.629,48.545,20
-134,Nikolsdorf,12.909,46.785,55
+112,Nikolsdorf,12.909,46.785,55
 46,Ludham,13.6,48.462,20
 55,Dorfgastein,13.108,47.243,55
 66,Fornach,13.429,48.023,28
 46,Pattigham,13.484,48.155,28
 46,Luggau,13.102,47.22,20
-160,Andorf,13.574,48.372,79
+192,Andorf,13.574,48.372,79
 79,Pfarrwerfen,13.205,47.458,33
 33,Wiesenberg,13.543,48.288,20
-66,Sankt Lorenz,13.356,47.823,28
+66,Sankt Lorenz,13.356,47.823,24
 79,Frankenmarkt,13.424,47.986,39
-46,Sankt Veit im Pongau,13.155,47.329,28
 28,Birnbaum,12.885,46.685,24
 33,Gallwies,13.1,47.186,20
 46,Kasten,13.654,48.543,46
@@ -820,7 +786,7 @@ rs,name,lon,lat,r1
 24,Altmannsdorf,13.583,48.252,20
 39,Voecklamarkt,13.486,48.002,33
 55,Innerfragant,13.058,46.963,39
-66,Oberwang,13.433,47.868,39
+55,Oberwang,13.433,47.868,39
 33,Hipping,13.466,47.949,20
 55,Zipf,13.501,48.034,24
 28,Schmidham,13.477,47.973,20
@@ -829,8 +795,8 @@ rs,name,lon,lat,r1
 39,Enzenkirchen,13.646,48.389,24
 55,Boeckstein,13.118,47.092,20
 24,Zwickenberg,12.981,46.764,24
-276,Stall,13.036,46.888,94
-331,Bad Gastein,13.134,47.116,160
+230,Stall,13.036,46.888,94
+276,Bad Gastein,13.134,47.116,160
 55,Schied,13.197,47.266,24
 112,Eberschwang,13.561,48.155,46
 55,Zell an der Pram,13.63,48.317,28
@@ -840,11 +806,11 @@ rs,name,lon,lat,r1
 39,Niederaigen,13.193,47.219,20
 33,Riedau,13.634,48.302,20
 24,Au,13.218,47.278,20
-230,Grossarl,13.201,47.237,79
+230,Grossarl,13.201,47.237,66
 28,Oberprenning,13.603,48.221,20
 24,Falkenstein,13.414,47.75,20
 28,Hackendorf,13.704,48.468,20
-94,Sankt Georgen im Attergau,13.491,47.933,94
+94,Sankt Georgen im Attergau,13.491,47.933,79
 28,Zeiling,13.528,48.019,20
 24,Koetschachtal,13.162,47.127,20
 24,Kehlhof,13.348,47.575,20
@@ -912,10 +878,10 @@ rs,name,lon,lat,r1
 33,Schlag,13.814,48.512,24
 24,Untergallaberg,13.606,47.99,20
 55,Weyregg am Attersee,13.571,47.902,46
-79,Seefeld,13.547,47.839,33
+134,Seefeld,13.547,47.839,33
 46,Freundorf,13.893,48.704,33
 28,Seeberg,13.58,47.919,20
-33,Timelkam,13.614,48.002,24
+28,Timelkam,13.614,48.002,24
 33,Teucht,13.762,48.369,20
 94,Kleinarl,13.319,47.278,46
 79,Neumarkt im Hausruckkreis,13.728,48.274,55
@@ -929,7 +895,7 @@ rs,name,lon,lat,r1
 55,Aichberg,13.808,48.445,33
 46,Dellach,13.08,46.662,46
 33,Aigen,13.52,47.717,20
-192,Peuerbach,13.773,48.343,79
+134,Peuerbach,13.773,48.343,79
 66,Eben im Pongau,13.395,47.408,24
 55,Eckartsroith,13.76,48.302,20
 24,Bruck an der Aschach,13.773,48.328,20
@@ -955,13 +921,13 @@ rs,name,lon,lat,r1
 39,Hoelzing,13.838,48.406,24
 79,Altenmarkt im Pongau,13.424,47.378,79
 33,Haiden,13.565,47.718,24
-94,Gaspoltshofen,13.737,48.142,55
+79,Gaspoltshofen,13.737,48.142,55
 24,Heiligenberg,13.822,48.354,20
 33,Schindlau,13.949,48.662,20
 66,Sarleinsbach,13.905,48.548,46
 28,Aurach am Hongar,13.674,47.953,20
 33,Rutzersdorf,13.924,48.577,24
-134,Gosau,13.524,47.58,55
+112,Gosau,13.524,47.58,55
 33,Niederkappel,13.881,48.465,24
 39,Greifenburg,13.182,46.75,39
 66,Teuchl,13.234,46.872,20
@@ -975,16 +941,15 @@ rs,name,lon,lat,r1
 24,Radstadt,13.46,47.388,20
 24,Schlaegl,13.962,48.635,20
 24,Reisach,13.154,46.649,20
-39,Attnang,13.722,48.021,28
+46,Attnang,13.722,48.021,28
 160,Aigen im Muehlkreis,13.971,48.646,55
 94,Penk,13.264,46.902,24
 24,Puchheim,13.719,48.008,20
 24,Obergallspach,13.794,48.194,20
 33,Michaelnbach,13.831,48.287,33
-28,Preising,13.713,47.989,20
+33,Preising,13.713,47.989,20
 28,Napplach,13.263,46.889,20
-24,Jainzen,13.607,47.721,20
-66,Rutzenmoos,13.71,47.973,28
+33,Rutzenmoos,13.71,47.973,28
 33,Fuerling,13.935,48.531,20
 79,Sankt Agatha,13.878,48.386,20
 33,Meggenhofen,13.797,48.181,20
@@ -993,8 +958,7 @@ rs,name,lon,lat,r1
 24,Freiling,13.875,48.368,20
 33,Niederthalheim,13.768,48.099,33
 66,Gallspach,13.814,48.206,24
-134,Grieskirchen,13.83,48.236,112
-28,Niederholzham,13.765,48.069,20
+33,Niederholzham,13.765,48.069,20
 28,Taufel,13.688,47.862,20
 28,Bachmanning,13.796,48.131,20
 94,Zauchensee,13.457,47.293,39
@@ -1004,27 +968,24 @@ rs,name,lon,lat,r1
 33,Fuerling,13.987,48.59,20
 33,Roith,13.642,47.727,20
 55,Filzmoos,13.522,47.433,39
-24,Kroess,13.613,47.653,20
+46,Kroess,13.613,47.653,20
 24,Gstattersiedlung,13.494,47.364,20
 28,Reindlmuehl,13.714,47.896,20
 33,Grosskufhaus,13.724,47.918,24
 33,Kirchberg ob der Donau,13.934,48.443,20
 46,Hoerhag,13.946,48.471,20
-33,Eck,13.635,47.693,20
-397,Bad Goisern,13.616,47.643,94
-331,Rohrbach,13.99,48.574,134
+39,Eck,13.635,47.693,20
+276,Rohrbach,13.99,48.574,134
 160,Steinfeld,13.252,46.759,112
 94,Neukirchen,13.714,47.875,28
 24,Haselbach,13.965,48.501,20
 39,Haiden,13.937,48.427,20
 28,Sankt Thomas,13.881,48.285,28
-55,Mitterweissenbach,13.662,47.742,28
+33,Mitterweissenbach,13.662,47.742,28
 33,Unterkolbnitz,13.306,46.875,24
 39,Reith,13.912,48.358,24
-24,Ruestorf,13.79,48.043,20
 24,Altenfelden,13.968,48.486,24
 46,Offenhausen,13.836,48.155,39
-24,Neukirchen bei Lambach,13.815,48.1,24
 55,Prambachkirchen,13.904,48.318,33
 46,Arnreit,13.993,48.526,20
 33,Schluesslberg,13.872,48.217,24
@@ -1036,7 +997,6 @@ rs,name,lon,lat,r1
 33,Waidegg,13.232,46.634,24
 94,Rotguelden,13.434,47.112,39
 46,Frindorf,14.017,48.55,20
-39,Sankt Agatha,13.646,47.623,20
 33,Forstau,13.549,47.379,24
 24,Gajach,13.29,46.751,20
 39,Altmuenster,13.767,47.902,20
@@ -1046,38 +1006,36 @@ rs,name,lon,lat,r1
 24,Eck,13.777,47.915,20
 33,Untermuehl,13.982,48.425,20
 24,Grosskrottendorf,13.875,48.154,20
-28,Roitham,13.823,48.024,20
+28,Roitham,13.823,48.024,28
 55,Mandling,13.572,47.405,28
-66,Langwies,13.723,47.773,28
+66,Langwies,13.723,47.773,24
 46,Muehldorf,13.349,46.858,20
 46,Stroheim,13.956,48.337,28
 55,Pichl bei Wels,13.9,48.184,24
 33,Sankt Marienkirchen an der Polsenz,13.932,48.264,28
 24,Hallstatt,13.65,47.564,20
 24,Ploecking,14.003,48.437,20
-46,Bad Schallerbach,13.921,48.231,46
+33,Bad Schallerbach,13.921,48.231,33
 24,Lahn,13.649,47.552,20
 134,Laakirchen,13.824,47.983,55
 476,Gmunden,13.799,47.919,192
 28,Senghuebl,13.988,48.383,20
 55,Hoerleinsoedt,14.071,48.591,20
 24,Jedl,13.473,47.111,24
-28,Plankau,13.751,47.789,20
+24,Plankau,13.751,47.789,20
 66,Obergottesfeld,13.348,46.803,24
 55,Neusach,13.314,46.717,33
 33,Lessnig,13.346,46.787,20
 66,Moellbruecke,13.37,46.835,66
 39,Lindach,13.85,48.001,20
 46,Marbach,14.061,48.527,20
-55,Traunkirchen,13.789,47.845,33
+55,Traunkirchen,13.789,47.845,39
 28,Bergham,13.869,48.043,20
 39,Kasten,14.072,48.548,24
-230,Ebensee,13.775,47.803,79
 24,Goeriach,13.385,46.855,20
 33,Sankt Ulrich im Muehlkreis,14.044,48.473,24
-24,Kropfing,13.895,48.095,20
 79,Obertauern,13.556,47.251,46
-33,Wackersbach,13.98,48.295,20
+24,Wackersbach,13.98,48.295,20
 66,Lind im Drautal,13.356,46.77,55
 24,Giering,13.874,48.029,20
 33,Pupping,14,48.339,24
@@ -1086,16 +1044,16 @@ rs,name,lon,lat,r1
 112,Obertraun,13.688,47.558,46
 39,Gschwandt,13.845,47.935,24
 55,Sankt Martin im Muehlkreis,14.037,48.415,39
-28,Kalkoefen,13.983,48.277,20
+66,Kalkoefen,13.983,48.277,20
 46,Aschach an der Donau,14.021,48.367,46
 24,Gfereth,13.953,48.193,20
-46,Wimsbach,13.902,48.062,20
-39,Lupitsch,13.727,47.63,33
+55,Wimsbach,13.902,48.062,20
+24,Lupitsch,13.727,47.63,24
 24,Sankt Stefan am Walde,14.103,48.568,20
 66,Sankt Peter am Wimberg,14.078,48.502,46
 28,Finklham,13.978,48.249,24
 55,Koschach,13.463,46.982,24
-79,Gunskirchen,13.941,48.133,46
+79,Gunskirchen,13.941,48.133,39
 55,Ramsau am Dachstein,13.655,47.421,24
 46,Koesslwang,13.903,48.03,20
 33,Saag,13.94,48.107,20
@@ -1106,7 +1064,7 @@ rs,name,lon,lat,r1
 24,Kirchham,13.899,47.972,20
 28,Oberthan,13.984,48.178,20
 33,Feldkirchen an der Donau,14.053,48.345,20
-28,Fischerndorf,13.771,47.642,24
+33,Fischerndorf,13.771,47.642,24
 24,Bimberg,14.077,48.403,24
 55,Vorchdorf,13.922,48.004,55
 79,Hemerach,13.55,47.089,55
@@ -1133,17 +1091,17 @@ rs,name,lon,lat,r1
 28,Herzogsdorf,14.111,48.43,20
 39,Schauersberg,14.007,48.137,20
 24,Weyern,13.866,47.461,20
-66,Bad Aussee,13.783,47.609,55
-33,Fleckendorf,14.303,48.194,20
+39,Bad Aussee,13.783,47.609,39
+24,Fleckendorf,14.303,48.194,24
 28,Goldwoerth,14.1,48.329,24
 28,Frauenstein,14.185,47.848,20
-134,Neumarkt im Muehlkreis,14.485,48.427,46
-28,Knieruebl,14.435,48.286,20
+160,Neumarkt im Muehlkreis,14.485,48.427,46
+46,Knieruebl,14.435,48.286,20
 230,Gmuend in Kaernten,13.536,46.906,66
 24,Baldramsdorf,13.451,46.802,24
-33,Rottenegg,14.135,48.368,20
+39,Rottenegg,14.135,48.368,20
 55,Hagenmuehle,13.923,47.945,28
-112,Gruenau im Almtal,13.957,47.855,94
+94,Gruenau im Almtal,13.957,47.855,94
 28,Kainisch,13.849,47.573,24
 24,Unterkainisch,13.784,47.598,20
 112,Waldhausen im Strudengau,14.949,48.273,79
@@ -1151,11 +1109,11 @@ rs,name,lon,lat,r1
 28,Weisspriach,13.703,47.176,20
 66,Wang,15.026,48.045,20
 24,Edramsberg,14.176,48.311,20
-46,Emling,14.066,48.285,20
+39,Emling,14.066,48.285,20
 46,Zlan,13.584,46.73,24
 39,Vordergoeriach,13.772,47.174,20
-160,Kremsmuenster,14.132,48.053,66
-39,Puchenau,14.235,48.312,24
+94,Kremsmuenster,14.132,48.053,66
+66,Puchenau,14.235,48.312,24
 55,Pruggern,13.879,47.42,20
 33,Wartberg an der Krems,14.116,47.989,28
 66,Altersberg,13.489,46.858,20
@@ -1163,12 +1121,12 @@ rs,name,lon,lat,r1
 39,Fischertratten,13.521,46.934,20
 28,Sautern,14.113,47.951,20
 46,Zlatting,13.502,46.884,20
-66,Schlierbach,14.126,47.936,24
+79,Schlierbach,14.126,47.936,24
 79,Traun,14.244,48.229,33
-230,Kirchdorf an der Krems,14.124,47.906,112
+24,Kirchdorf an der Krems,14.124,47.906,20
 28,Fuerling,14.163,48.506,20
 55,Eberstalzell,13.98,48.044,33
-134,Nussbach,14.163,47.972,55
+79,Nussbach,14.163,47.972,55
 276,Wels,14.03,48.168,134
 24,Micheldorf,13.393,46.616,20
 66,Tauplitz,14.013,47.561,46
@@ -1181,13 +1139,12 @@ rs,name,lon,lat,r1
 24,Sankt Marien,14.28,48.146,24
 28,Birnberg,13.728,47.413,20
 39,Wintersdorf,14.396,48.436,24
-33,Furth,14.213,47.919,20
+55,Furth,14.213,47.919,20
 24,Erlach,13.755,46.763,20
 28,Untervellach,13.406,46.629,20
 55,Niederneukirchen,14.34,48.159,20
 33,Niederlaab,14.055,48.206,20
 46,Steinhaus,14.02,48.116,28
-33,Hausleiten,14.307,48.031,20
 28,Thalheim bei Wels,14.035,48.151,20
 33,Schlag,14.53,48.526,20
 230,Sankt Nikolai im Soelktal,14.049,47.32,66
@@ -1201,13 +1158,12 @@ rs,name,lon,lat,r1
 66,Sankt Margarethen,13.891,46.812,33
 28,Sankt Ruprecht ob Murau,14.024,47.113,24
 55,Sankt Oswald bei Freistadt,14.584,48.501,46
-192,Enns,14.473,48.215,94
+94,Enns,14.473,48.215,39
 33,Lassersdorf,14.147,48.409,20
 46,Spieldorf,13.989,48.01,28
 24,Sand,14.403,47.998,20
-46,Hopfgarten,13.835,47.628,28
+55,Hopfgarten,13.835,47.628,28
 28,Sankt Ulrich bei Steyr,14.425,48.022,20
-331,Villach,13.852,46.61,276
 24,Ranten,14.083,47.157,20
 66,Haidershofen,14.46,48.076,24
 331,Spittal an der Drau,13.496,46.796,192
@@ -1216,19 +1172,19 @@ rs,name,lon,lat,r1
 24,Landfrass,13.538,46.894,20
 33,Neusserling,14.162,48.427,28
 94,Lederau,13.979,47.968,33
-39,Schwertberg,14.584,48.274,28
+33,Schwertberg,14.584,48.274,28
 24,Sankt Peter,13.595,47.028,20
 28,Gschloessl,13.828,47.593,20
 28,Stiftung,14.651,48.424,20
 28,Alkoven,14.108,48.285,20
 46,Selzthal,14.316,47.548,24
-112,Bodensdorf,13.975,46.687,55
+79,Bodensdorf,13.975,46.687,55
 33,Umberg,13.958,46.639,20
 33,Harbach,14.797,48.711,20
 39,Grosstraberg,14.201,48.514,33
 94,Scharnstein,13.958,47.904,39
 24,Goritschach,13.953,46.609,20
-66,Laab,14.634,48.216,24
+79,Laab,14.634,48.216,24
 112,Vorderweissenbach,14.22,48.554,66
 24,Wultschau,14.827,48.7,20
 39,Treffling,13.525,46.837,20
@@ -1238,13 +1194,13 @@ rs,name,lon,lat,r1
 46,Seeboden am Millstaetter See,13.518,46.818,20
 24,Winkeln,14.113,48.273,20
 55,Unterweissenbach,14.781,48.437,33
-79,Arbing,14.705,48.23,28
-66,Dellach,14.079,46.678,39
+55,Arbing,14.705,48.23,28
+66,Dellach,14.079,46.678,33
 39,Bubendorf,14.658,48.055,20
 33,Igelschwang,14.705,48.146,20
 24,Presseggen,13.448,46.631,20
 55,Sankt Lambrecht,14.301,47.072,55
-66,Axberg,14.115,48.256,20
+94,Axberg,14.115,48.256,20
 28,Rupertiberg,14.098,46.561,20
 24,Weissenbach,13.78,47.424,20
 94,Hammer,13.665,47.144,33
@@ -1260,13 +1216,12 @@ rs,name,lon,lat,r1
 28,Wurmbrand,14.971,48.611,20
 24,Wetzelsdorf,14.813,48.2,20
 39,Eisgarn,15.1,48.917,24
-160,Stockenboi,13.495,46.723,46
+112,Stockenboi,13.495,46.723,46
 28,Bernhardschlag,14.232,48.536,20
 39,Eberweis,15.095,48.886,20
 46,Ardagger Markt,14.827,48.182,20
 55,Dellach,13.447,46.606,46
 46,Zeillern,14.809,48.129,28
-160,Walding,14.16,48.351,55
 79,Gaflenz,14.726,47.896,55
 46,Heckenau,13.955,47.834,20
 476,Sankt Martin,13.654,47.1,230
@@ -1280,7 +1235,7 @@ rs,name,lon,lat,r1
 28,Koettmannsdorf,14.235,46.562,24
 24,Limbach,15.118,48.7,20
 33,Bergern,14.021,47.981,20
-55,Sattledt,14.057,48.07,39
+28,Sattledt,14.057,48.07,28
 94,Kraig,14.369,46.813,39
 79,Baernkopf,15.005,48.391,55
 24,Steinmuehle,14.834,47.945,24
@@ -1290,7 +1245,7 @@ rs,name,lon,lat,r1
 55,Ruperting,13.793,47.412,46
 55,Kleintaxen,15.244,48.957,20
 24,Triglas,15.239,48.907,20
-94,Strassham,14.147,48.284,33
+66,Strassham,14.147,48.284,33
 28,Sankt Peter,13.532,46.775,20
 24,Ferndorf,14.921,48.044,24
 24,Roiten,15.127,48.53,20
@@ -1307,12 +1262,12 @@ rs,name,lon,lat,r1
 24,Schlag,15.252,48.728,20
 39,Kaltenbach,15.135,48.424,20
 112,Kremsbruecke,13.617,46.961,33
-66,Gramastetten,14.193,48.38,24
+66,Gramastetten,14.193,48.38,28
 33,Schoenering,14.161,48.299,20
-39,Ottensheim,14.176,48.332,20
+33,Ottensheim,14.176,48.332,20
 94,Leombach,14.093,48.123,20
 28,Laimbach am Ostrong,15.123,48.317,28
-160,Berndorf,14.216,48.431,134
+331,Berndorf,14.216,48.431,112
 94,Zell-Pfarre,14.385,46.471,46
 28,Koechling,15.059,48.126,20
 39,Ulrichschlag,15.322,48.796,24
@@ -1322,7 +1277,7 @@ rs,name,lon,lat,r1
 39,Koestendorf,13.495,46.625,24
 28,Millstatt am See,13.571,46.804,28
 28,Thening,14.164,48.256,20
-160,Obersdorf,13.889,47.571,94
+112,Obersdorf,13.889,47.571,94
 55,Weisskirchen,14.128,48.163,24
 28,Gassen,13.54,46.726,24
 55,Pratsdorf,14.045,47.955,39
@@ -1368,10 +1323,9 @@ rs,name,lon,lat,r1
 55,Hellmonsoedt,14.3,48.43,46
 66,Kreuzen,13.584,46.672,33
 24,Reith,14.242,48.265,20
-39,Leonding,14.249,48.279,33
+28,Leonding,14.249,48.279,24
 33,Sankt Andrae im Lungau,13.793,47.148,20
 66,Ferndorf,13.625,46.736,28
-24,Hasenufer,14.223,48.198,20
 33,Langholzfeld,14.244,48.246,20
 55,Innerkrems,13.726,46.97,33
 55,Kematen an der Krems,14.191,48.11,24
@@ -1384,41 +1338,38 @@ rs,name,lon,lat,r1
 66,Schenkenfelden,14.364,48.504,66
 33,Rohr im Kremstal,14.192,48.066,24
 28,Gersdorf,13.945,47.452,20
-39,Kremsdorf,14.122,47.888,20
 79,Tamsweg,13.812,47.127,79
 24,Stein an der Enns,13.94,47.437,20
 55,Reichenthal,14.384,48.543,33
 46,Reichenau im Muehlkreis,14.351,48.456,28
 24,Erdmannsiedlung,13.677,46.794,20
-160,Neuhofen an der Krems,14.229,48.137,66
+134,Neuhofen an der Krems,14.229,48.137,55
 55,Noestlbach,14.242,48.165,20
 24,Mignitz,13.807,47.086,20
 24,Hehenberg,14.202,48.054,20
 24,Reith,13.945,47.418,20
 24,Weifersdorf,14.231,48.125,20
 46,Kleinsoelk,13.937,47.394,33
+33,Micheldorf,14.135,47.878,20
 79,Bleiberg-Kreuth,13.62,46.628,33
 46,Kaning,13.705,46.827,20
 94,Hinterwald,13.929,47.367,24
 24,Feistritz an der Gail,13.607,46.575,20
-39,Bad Hall,14.207,48.036,39
 39,Zulissen,14.423,48.578,20
 134,Karneralm,13.791,47.011,55
-112,Feistritz an der Drau,13.663,46.702,79
-33,Hinterburg,14.146,47.871,20
+160,Feistritz an der Drau,13.663,46.702,79
 79,Radenthein,13.708,46.803,79
 79,Noetsch,13.62,46.587,55
 2042,Linz,14.307,48.268,986
 46,Wullowitz,14.454,48.64,28
 39,Altenberg bei Linz,14.35,48.374,39
 24,Ottenschlag im Muehlkreis,14.386,48.465,20
-24,Freindorf,14.291,48.223,20
-46,Ansfelden,14.29,48.211,24
+39,Freindorf,14.291,48.223,20
 33,Grosssoelk,13.967,47.409,20
 46,Schoen,14.151,47.855,20
 28,Kelzendorf,14.375,48.415,20
 55,Oeblarn,13.994,47.459,46
-66,Plesching,14.341,48.321,28
+79,Plesching,14.341,48.321,28
 28,Kulm,14.359,48.361,20
 28,Neu-Feffernitz,13.68,46.688,20
 24,Fresach,13.692,46.713,20
@@ -1429,19 +1380,20 @@ rs,name,lon,lat,r1
 24,Summerau,14.444,48.551,20
 55,Klaus an der Pyhrnbahn,14.159,47.832,24
 33,Schiedlberg,14.268,48.091,28
+28,Oberer Wienerweg,14.178,47.867,20
 33,Niederoeblarn,14.02,47.476,20
 24,Bleiberg-Noetsch,13.67,46.626,24
 33,Waldburg,14.439,48.509,20
 33,Kerschbaum,14.47,48.588,24
 66,Sankt Oswald,13.765,46.837,28
-160,Dietlgut,14.106,47.669,66
+134,Dietlgut,14.106,47.669,66
 39,Woerschachwald,14.064,47.557,24
 24,Niederstuttern,14.047,47.51,20
-46,Waidern,14.273,48.071,20
+55,Waidern,14.273,48.071,20
 24,Feld am See,13.746,46.776,20
-28,Pesendorf,14.263,48.039,20
-66,Wimberg,14.256,48.019,20
-55,Steyregg,14.367,48.287,33
+39,Pesendorf,14.263,48.039,20
+33,Wimberg,14.256,48.019,20
+46,Steyregg,14.367,48.287,33
 28,Hohenthurn,13.661,46.557,20
 33,Kellerberg,13.712,46.672,20
 112,Rainbach im Muehlkreis,14.477,48.558,39
@@ -1452,13 +1404,13 @@ rs,name,lon,lat,r1
 39,Waldneukirchen,14.262,47.997,24
 24,Unterburg,14.074,47.527,20
 24,Enzing,14.345,48.196,20
-79,Oelkam,14.36,48.225,24
+28,Oelkam,14.36,48.225,20
 39,Obergruenburg,14.253,47.953,20
 28,Leonstein,14.232,47.9,20
 33,Weichstetten,14.322,48.121,24
 24,Spattendorf,14.425,48.381,20
 46,Untergruenburg,14.263,47.972,20
-192,Gallneukirchen,14.417,48.353,66
+46,Gallneukirchen,14.417,48.353,46
 79,Schwarzenbichl,13.933,47.149,46
 24,Schweinbach,14.426,48.341,20
 46,Predlitz,13.914,47.07,33
@@ -1470,39 +1422,37 @@ rs,name,lon,lat,r1
 55,Falkenburg,14.099,47.506,24
 46,Moessna,14.033,47.344,20
 79,Sankt Pankraz,14.208,47.765,39
-476,Freistadt,14.504,48.507,160
+192,Freistadt,14.504,48.507,160
 46,Molln,14.258,47.886,46
-134,Arnoldstein,13.711,46.55,79
+134,Arnoldstein,13.711,46.55,66
 55,Fernbach,14.38,48.182,20
 94,Turrach,13.886,46.964,55
 66,Kraa,13.787,46.727,33
-39,Raffelstetten,14.405,48.237,20
+28,Raffelstetten,14.405,48.237,20
 55,Heiligengeist,13.744,46.617,39
 33,Einach,13.942,47.088,20
 55,Lest,14.494,48.455,24
 66,Puch,13.767,46.664,46
-79,Neuzeug,14.334,48.047,55
-24,Pachschallern,14.34,48.059,20
+39,Pachschallern,14.34,48.059,20
 24,Grub,14.513,48.483,20
 28,Hofkirchen im Traunkreis,14.378,48.142,28
 24,Unterweitersdorf,14.468,48.368,24
 24,Niederlindach,14.366,48.1,20
-28,Abwinden,14.431,48.26,20
+24,Abwinden,14.431,48.26,20
 28,Loibersdorf,14.482,48.386,20
-55,Aschach an der Steyr,14.335,48.012,28
+55,Aschach an der Steyr,14.335,48.012,24
 46,Windhaag bei Freistadt,14.562,48.587,46
 24,Winkling,14.398,48.162,20
 24,Asten,14.42,48.218,20
 24,Lantschern,14.139,47.51,20
 28,Vorwald,13.859,46.828,20
-55,Sankt Georgen an der Gusen,14.447,48.272,46
 28,Riemetschlag,14.566,48.569,20
-66,Wolfern,14.375,48.082,28
+66,Wolfern,14.375,48.082,33
 39,Oberschuett,13.757,46.569,24
 46,Edlau,14.533,48.476,20
 192,Donnersbach,14.129,47.464,33
 24,Au,14.509,48.411,20
-66,Katsdorf,14.473,48.318,28
+79,Katsdorf,14.473,48.318,28
 28,Siegelsdorf,14.53,48.457,20
 79,Stadl an der Mur,13.981,47.092,55
 28,Saass,14.36,48.024,20
@@ -1510,7 +1460,6 @@ rs,name,lon,lat,r1
 24,Volkersdorf,14.431,48.195,20
 55,Aeussere Einoede,13.826,46.695,20
 134,Ebene Reichenau,13.893,46.855,46
-24,Gusen,14.464,48.259,20
 39,Oberrauchenoedt,14.569,48.524,20
 46,Duernbach,14.355,47.981,24
 24,Laastadt,13.85,46.742,20
@@ -1519,18 +1468,16 @@ rs,name,lon,lat,r1
 33,Kefermarkt,14.541,48.442,28
 28,Standorf,14.485,48.298,20
 79,Arriach,13.85,46.73,46
-24,Hagenberg im Muehlkreis,14.519,48.367,20
+28,Hagenberg im Muehlkreis,14.519,48.367,20
 28,Oberwollanig,13.821,46.649,20
-24,Goritschach,13.808,46.611,24
-94,Ternberg,14.357,47.946,79
+134,Ternberg,14.357,47.946,79
 24,Piessling,14.272,47.732,20
 33,Dietach,14.416,48.09,24
 33,Mahrersdorf,14.533,48.385,20
 24,Spoerbichl,14.6,48.556,20
 39,Seebach,14.042,47.161,20
 24,Ruhstetten,14.509,48.311,20
-39,Langenstein,14.489,48.25,24
-55,Pregarten,14.531,48.354,55
+24,Langenstein,14.489,48.25,20
 24,Oberstallbach,14.438,48.117,20
 28,Doellach,14.21,47.548,20
 24,Stadlkirchen,14.435,48.105,20
@@ -1538,7 +1485,7 @@ rs,name,lon,lat,r1
 66,Treffen,13.855,46.668,46
 28,Kronstorf,14.464,48.142,20
 476,Steyr,14.428,48.045,192
-33,Gruenau,14.526,48.284,28
+55,Gruenau,14.526,48.284,28
 66,Fuernitz,13.824,46.562,39
 39,Stiftungsberg,14.606,48.481,20
 28,Rading,14.31,47.735,20
@@ -1551,9 +1498,8 @@ rs,name,lon,lat,r1
 94,Ernsthofen,14.485,48.127,39
 46,Erdmannsdorf,14.612,48.443,20
 46,Neusiedl,14.251,47.535,24
-28,Oberzirking,14.541,48.259,20
 331,Windischgarsten,14.328,47.722,134
-28,Heinrichsbrunn,14.535,48.239,20
+39,Heinrichsbrunn,14.535,48.239,20
 46,Planneralm,14.2,47.404,46
 33,Dorf an der Enns,14.48,48.092,20
 46,Schoeder,14.113,47.181,20
@@ -1575,21 +1521,21 @@ rs,name,lon,lat,r1
 79,Oppenberg,14.274,47.486,39
 28,Sankt Pantaleon,14.569,48.211,20
 24,Niedersebern,14.582,48.243,20
-66,Behamberg,14.499,48.034,33
+55,Behamberg,14.499,48.034,33
 39,Erdleiten,14.633,48.37,20
-46,Faak am See,13.902,46.571,28
+46,Faak am See,13.902,46.571,33
 24,Kleinraming,14.492,48.01,20
 28,Vestenthal,14.52,48.076,24
-94,Tragwein,14.622,48.333,46
+33,Tragwein,14.622,48.333,33
 24,Erla,14.573,48.199,20
 33,Pogoeriach,13.908,46.556,20
 28,Puergschachen,14.332,47.581,20
-66,Wernberg,13.938,46.625,20
+79,Wernberg,13.938,46.625,20
 55,Reichraming,14.457,47.89,28
 28,Rosenau am Hengstpass,14.386,47.712,28
 28,Sankt Leonhard bei Freistadt,14.679,48.443,28
 66,Lauterbach,14.778,48.697,33
-192,Gurk,14.008,46.777,66
+112,Gurk,14.008,46.777,55
 39,Sankt Peter am Kammersberg,14.188,47.186,39
 39,Hintere Poellau,14.201,47.217,24
 46,Langfirling,14.7,48.459,20
@@ -1604,7 +1550,7 @@ rs,name,lon,lat,r1
 39,Bad Zell,14.669,48.349,24
 276,Murau,14.171,47.112,192
 33,Allerheiligen im Muehlkreis,14.653,48.302,20
-160,Perg,14.632,48.247,66
+39,Perg,14.632,48.247,39
 33,Foederlach,13.963,46.598,20
 66,Sirnitz,14.057,46.823,28
 46,Anzenbach,14.478,47.85,20
@@ -1624,14 +1570,14 @@ rs,name,lon,lat,r1
 24,Koestenberg,14.01,46.652,20
 46,Weistrach,14.585,48.055,39
 28,Thurnhof,14.66,48.245,20
-112,Sankt Martin,13.984,46.582,79
-79,Nadling,14.043,46.722,20
+79,Sankt Martin,13.984,46.582,79
+46,Nadling,14.043,46.722,20
 28,Frauenberg,14.398,47.585,20
 28,Reinprechts,14.847,48.714,24
 33,Windhaag bei Perg,14.68,48.284,20
-46,Hoehenberg,14.877,48.769,20
+55,Hoehenberg,14.877,48.769,20
 33,Schagges,14.863,48.732,20
-192,Sankt Martin,14.837,48.662,160
+192,Sankt Martin,14.837,48.662,94
 46,Gloednitz,14.119,46.874,24
 66,Bad Grosspertholz,14.825,48.629,28
 33,Ruprechtshofen,14.651,48.183,24
@@ -1642,7 +1588,7 @@ rs,name,lon,lat,r1
 46,Strass,14.752,48.416,20
 24,Triebendorf,14.236,47.131,24
 46,Anger,14.862,48.683,20
-134,Grossraming,14.549,47.887,39
+112,Grossraming,14.549,47.887,39
 112,Liebenau,14.806,48.532,79
 46,Limbach,14.659,48.151,24
 55,Kerschdorf,14.043,46.639,20
@@ -1650,21 +1596,21 @@ rs,name,lon,lat,r1
 39,Steirisch Lassnitz,14.218,47.057,39
 24,Goeriach,14.042,46.626,20
 192,Oberwoelz,14.281,47.202,79
-66,Muenzbach,14.713,48.267,20
+55,Muenzbach,14.713,48.267,20
 55,Velden am Woerther See,14.041,46.614,33
 33,Singsdorf,14.412,47.509,33
-39,Feistritz,14.103,46.75,24
+39,Feistritz,14.103,46.75,28
 28,Loa,14.689,48.195,20
 39,Sankt Michael am Bruckbach,14.617,48.013,20
 66,Weitra,14.892,48.702,33
 33,Pierbach,14.755,48.348,20
 192,Hall,14.459,47.601,66
-24,Eichberg,14.912,48.743,20
-112,Rennweg,14.127,46.784,24
+46,Eichberg,14.912,48.743,28
+66,Rennweg,14.127,46.784,24
 55,Bruderndorf,14.857,48.595,24
 94,Hackstock,14.813,48.477,20
 33,Oberhall,14.459,47.586,20
-39,Altweitra,14.909,48.72,20
+33,Altweitra,14.909,48.72,20
 39,Landshut,14.805,48.454,20
 24,Moetlas,14.786,48.405,24
 39,Altenmarkt,14.162,46.855,20
@@ -1674,12 +1620,12 @@ rs,name,lon,lat,r1
 46,Zammelsberg,14.155,46.829,20
 24,Admont,14.461,47.575,20
 24,Augsdorf,14.062,46.602,20
-79,Maria Neustift,14.608,47.936,79
+112,Maria Neustift,14.608,47.936,79
 24,Mitterkirchen,14.71,48.185,20
 28,Schlag,15.01,48.952,20
 94,Wolfsbach,14.669,48.079,33
 66,Sankt Thomas am Blasenstein,14.763,48.315,55
-160,Seitenstetten,14.653,48.036,66
+94,Seitenstetten,14.653,48.036,66
 28,Rosenbach,14.039,46.534,20
 79,Ertl,14.631,47.976,33
 24,Sankt Martin am Techelsberg,14.09,46.65,24
@@ -1694,14 +1640,12 @@ rs,name,lon,lat,r1
 33,Oberglan,14.118,46.693,20
 55,Moenchdorf,14.797,48.361,24
 66,Pusterwald,14.376,47.309,46
-46,Dietmanns,14.948,48.747,20
 28,Harmannstein,14.908,48.642,20
 276,Sankt Andrae,14.2,46.876,94
 24,Baumgartenberg,14.74,48.208,20
 66,Ading,14.214,46.905,24
 28,Pernach,14.116,46.663,20
 28,Wetzles,14.936,48.696,20
-112,Sankt Martin,14.144,46.725,94
 46,Weng,14.505,47.599,24
 28,Grades,14.253,46.979,20
 33,Bretstein-Gassen,14.403,47.344,28
@@ -1715,7 +1659,7 @@ rs,name,lon,lat,r1
 24,Schoenau bei Litschau,15.041,48.933,20
 66,Litschau,15.045,48.945,46
 24,Dietmannsdorf bei Trieben,14.477,47.504,20
-55,Sankt Urban,14.168,46.751,20
+79,Sankt Urban,14.168,46.751,39
 39,Ingolsthal,14.27,46.997,20
 46,Doerfl,14.565,47.718,28
 24,Graslitz,14.327,47.131,24
@@ -1724,9 +1668,8 @@ rs,name,lon,lat,r1
 24,Kasbach,14.909,48.58,20
 24,Besendorf,14.711,48.074,20
 28,Maria Elend,14.081,46.531,20
-46,Hoermanns bei Weitra,14.967,48.722,20
+39,Hoermanns bei Weitra,14.967,48.722,28
 33,Kleinpertholz,14.901,48.552,28
-66,Gmuend,14.986,48.769,46
 46,Grossschoenau,14.942,48.654,39
 24,Krenstetten,14.713,48.061,20
 33,Gopprechts,15.04,48.893,24
@@ -1745,7 +1688,7 @@ rs,name,lon,lat,r1
 28,Moar in Gaschbach,14.422,47.3,24
 33,Greif,14.432,47.322,28
 24,Thaures,15.049,48.881,20
-160,Kleinreifling,14.639,47.821,46
+192,Kleinreifling,14.639,47.821,46
 33,Teufenbach,14.36,47.132,20
 28,Plescherken,14.137,46.591,20
 112,Hohentauern,14.485,47.434,39
@@ -1755,7 +1698,7 @@ rs,name,lon,lat,r1
 55,Moosburg,14.174,46.657,24
 39,Neudorf,14.673,47.879,28
 55,Tigring,14.186,46.685,24
-33,Hoheneich,15.026,48.772,20
+46,Hoheneich,15.026,48.772,24
 24,Maria Woerth,14.161,46.617,20
 28,Aschbach-Markt,14.754,48.072,24
 24,Russdorf,14.364,47.106,20
@@ -1782,24 +1725,23 @@ rs,name,lon,lat,r1
 39,Frauendorf,14.968,48.553,20
 33,Abetzdorf,14.773,48.052,20
 33,Ottenschlag,14.907,48.39,24
-55,Kematen an der Ybbs,14.764,48.028,55
+46,Kematen an der Ybbs,14.764,48.028,33
 46,Pisweg,14.286,46.849,20
 66,Stephanshart,14.816,48.158,24
-230,Sankt Georgen am Walde,14.896,48.36,66
+94,Sankt Georgen am Walde,14.896,48.36,66
 46,Gaishorn am See,14.55,47.492,33
 28,Hirschenschlag,15.144,48.992,20
-28,Boehlerwerk,14.751,47.982,20
 33,Gross-Radischen,15.122,48.931,20
 112,Arbesbach,14.953,48.495,66
 24,Keutschach,14.186,46.593,20
 66,Altenmarkt bei Sankt Gallen,14.65,47.722,24
-160,Schrems,15.073,48.793,112
+94,Schrems,15.073,48.793,55
 46,Mariahof,14.399,47.099,20
 46,Mauer bei Amstetten,14.801,48.092,39
 79,Amaliendorf,15.089,48.83,28
 94,Grein,14.856,48.228,46
 112,Johnsbach,14.584,47.541,39
-822,Leopoldsdorf,15.138,48.948,230
+822,Leopoldsdorf,15.138,48.948,160
 55,Krumpendorf,14.21,46.627,33
 94,Moederbrugg,14.48,47.281,55
 94,Unzmarkt,14.449,47.199,79
@@ -1817,7 +1759,7 @@ rs,name,lon,lat,r1
 39,Dimbach,14.908,48.307,24
 55,Zweikirchen,14.263,46.712,20
 24,Etlas,14.975,48.475,20
-331,Waidhofen an der Ybbs,14.773,47.959,134
+55,Waidhofen an der Ybbs,14.773,47.959,20
 24,Gross-Gundholz,15.002,48.54,20
 66,Hausmening,14.815,48.065,20
 28,Dietweis,15.135,48.885,20
@@ -1832,13 +1774,11 @@ rs,name,lon,lat,r1
 46,Duernstein in der Steiermark,14.39,46.991,20
 24,Rohnsdorf,14.279,46.722,20
 192,Neumarkt in Steiermark,14.426,47.074,94
-28,Greinsfurth,14.844,48.109,20
 112,Schweiggers,15.063,48.668,46
 28,Kirchberg am Walde,15.086,48.724,20
 24,Seyfrieds,15.131,48.837,24
 24,Holzhausen,14.874,48.176,24
 28,Unterwindhag,15.064,48.652,20
-46,Windhag,14.802,47.979,20
 33,Reauz,14.234,46.586,20
 39,Gebharts,15.127,48.806,20
 39,Gotthardsdorf,14.452,47.104,24
@@ -1892,7 +1832,7 @@ rs,name,lon,lat,r1
 39,Merzenstein,15.096,48.57,20
 79,Opponitz,14.824,47.877,66
 33,Rappottenstein,15.078,48.522,20
-46,Sankt Leonhard am Wald,14.873,47.995,39
+39,Sankt Leonhard am Wald,14.873,47.995,39
 55,Kautzen,15.24,48.931,55
 39,Waldhams,15.11,48.592,28
 46,Ottenschlag,15.152,48.699,33
@@ -1900,7 +1840,7 @@ rs,name,lon,lat,r1
 28,Dielach,14.4,46.816,20
 55,Maria Rain,14.293,46.556,20
 39,Kleingoepfritz,15.217,48.86,20
-66,Maria Saal,14.346,46.681,33
+55,Maria Saal,14.346,46.681,33
 28,Kleinpoppen,15.17,48.733,20
 79,Vitis,15.181,48.759,55
 28,Dorfstadt,15.058,48.439,20
@@ -1911,7 +1851,7 @@ rs,name,lon,lat,r1
 24,Wolfenstein,15.174,48.717,20
 94,Noechling,14.982,48.224,39
 39,Unterloibl,14.287,46.508,20
-94,Poels,14.582,47.22,46
+94,Poels,14.582,47.22,39
 28,Unterholz,14.965,48.175,20
 33,Fruehwaerts,15.24,48.88,20
 33,Wald am Schoberpass,14.676,47.447,28
@@ -1952,12 +1892,12 @@ rs,name,lon,lat,r1
 55,Echsenbach,15.217,48.718,24
 33,Bromberg,15.127,48.482,20
 55,Sankt Georgen am Reith,14.876,47.841,28
-24,Rothenthurm,14.608,47.173,24
+28,Rothenthurm,14.608,47.173,24
 24,Rudolz,15.315,48.962,20
 28,Sankt Thomas,14.399,46.665,20
 39,Pisching,15.069,48.323,28
 33,Kainraths,15.252,48.793,20
-24,Allerheiligen,14.627,47.212,24
+28,Allerheiligen,14.627,47.212,24
 46,Radmer an der Stube,14.763,47.545,46
 24,Germanns,15.206,48.663,20
 24,Frankenreith,15.156,48.534,20
@@ -1967,7 +1907,7 @@ rs,name,lon,lat,r1
 24,Hoermanns,15.217,48.679,20
 33,Thaya,15.286,48.856,33
 28,Tutzach,14.378,46.588,20
-33,Sankt Martin am Ybbsfelde,15.019,48.165,20
+39,Sankt Martin am Ybbsfelde,15.019,48.165,20
 33,Hoertendorf,14.402,46.638,24
 28,Silberegg,14.492,46.852,20
 55,Waidisch,14.346,46.499,24
@@ -2000,19 +1940,16 @@ rs,name,lon,lat,r1
 28,Radsberg,14.419,46.586,20
 94,Lassing,14.893,47.744,46
 28,Schuppertholz,15.353,48.919,20
-79,Fohnsdorf,14.678,47.208,28
 55,Sankt Wolfgang,14.633,47.097,33
 66,Poggersdorf,14.449,46.651,24
 24,Grosshaselbach,15.282,48.726,20
 39,Wieting,14.541,46.87,20
 24,Rottenstein,14.415,46.567,20
 39,Ulrichschlag,15.131,48.336,20
-94,Judenburg,14.666,47.171,79
 46,Bischoffeld,14.708,47.271,46
 28,Neumarkt an der Ybbs,15.06,48.141,28
 28,Linsenberg,14.466,46.673,20
 112,Goestling an der Ybbs,14.931,47.807,55
-94,Ybbs an der Donau,15.082,48.178,39
 94,Klein Sankt Paul,14.542,46.836,55
 94,Sankt Margareten im Rosental,14.421,46.543,55
 28,Rappolz,15.386,48.956,20
@@ -2021,7 +1958,6 @@ rs,name,lon,lat,r1
 39,Hohenwarth,15.378,48.905,20
 24,Liesingau,14.789,47.404,20
 112,Plaggowitz,14.611,46.96,55
-24,Aichdorf,14.708,47.195,20
 24,Kemmelbach,15.095,48.155,20
 55,Brueckl,14.531,46.75,55
 24,Lugendorf,15.201,48.467,20
@@ -2036,19 +1972,17 @@ rs,name,lon,lat,r1
 33,Wegscheid,15.326,47.687,20
 55,Geistthal,15.164,47.17,28
 46,Buttendorf,15.742,48.587,20
-46,Fisching,14.739,47.163,28
+55,Fisching,14.739,47.163,24
 24,Sankt Bartholomae,15.258,47.069,24
 55,Seckau,14.786,47.274,33
 39,Marhof,15.217,46.913,20
 66,Sankt Jakob-Breitenau,15.43,47.392,55
 39,Sankt Stefan ob Stainz,15.256,46.93,20
-134,Wieselburg,15.138,48.125,55
 55,Lannach,15.334,46.946,24
 24,Kleinpertholz,15.178,48.394,24
-94,Neulengbach,15.909,48.201,94
 24,Poels an der Wieserbahn,15.407,46.893,24
 28,Starzing,15.972,48.217,20
-46,Lind,14.782,47.194,24
+24,Lind,14.782,47.194,20
 331,Weiz,15.63,47.216,94
 192,Wildon,15.507,46.887,66
 24,Sankt Margarethen bei Lebring,15.523,46.863,20
@@ -2063,7 +1997,7 @@ rs,name,lon,lat,r1
 39,Muenichreith am Ostrong,15.132,48.266,39
 28,Doella,15.239,48.264,20
 39,Loelling Graben,14.592,46.92,24
-79,Gresten,15.025,47.988,66
+94,Gresten,15.025,47.988,66
 33,Puch,15.359,48.846,33
 66,Raabs an der Thaya,15.5,48.848,46
 46,Grafenstein,14.467,46.611,33
@@ -2085,12 +2019,12 @@ rs,name,lon,lat,r1
 55,Brunn an der Wild,15.521,48.694,39
 24,Voitschlag,15.228,48.482,20
 33,Friedersbach,15.271,48.59,20
-160,Spitz,15.413,48.369,94
+192,Spitz,15.413,48.369,94
 28,Schoenbuehel an der Donau,15.377,48.256,24
 397,Rotmoos,15.16,47.688,79
 55,Eberstein,14.559,46.807,24
 24,Mitterarnsdorf,15.437,48.365,20
-66,Sankt Marein,14.819,46.81,20
+66,Sankt Marein,14.819,46.81,24
 46,Zissersdorf,15.624,48.83,20
 24,Mahrersdorf,15.564,48.661,20
 24,Gross-Schollach,15.38,48.179,20
@@ -2118,11 +2052,10 @@ rs,name,lon,lat,r1
 28,Stratzing,15.604,48.45,20
 24,Abtei,14.469,46.552,20
 79,Riegersburg,15.776,48.852,28
-24,Pichling bei Koeflach,15.081,47.054,20
 28,Ambach,15.582,48.306,20
 28,Felling,15.798,48.866,20
 66,Karlstein an der Thaya,15.404,48.883,55
-79,Karlstetten,15.567,48.258,46
+66,Karlstetten,15.567,48.258,46
 39,Aschbach,15.335,47.67,20
 39,Halltal,15.374,47.76,33
 33,Zell-Freibach,14.442,46.48,33
@@ -2132,12 +2065,12 @@ rs,name,lon,lat,r1
 24,Klein-Kainach,15.121,47.093,20
 46,Ulreichsberg,15.419,47.833,33
 28,Obritzberg,15.6,48.289,20
-79,Mautern in Steiermark,14.823,47.401,79
+94,Mautern in Steiermark,14.823,47.401,94
 46,Klein Sankt Veit,14.546,46.724,20
 66,Wolfsberg,15.286,48.568,66
 79,Weitersfeld,15.81,48.781,55
 28,Sankt Oswald,14.588,46.819,20
-33,Marbach an der kleinen Erlauf,15.11,48.111,20
+39,Marbach an der kleinen Erlauf,15.11,48.111,20
 79,Terz,15.451,47.772,66
 66,Kirchschlag,15.223,48.393,24
 28,Hollenburg,15.694,48.379,20
@@ -2148,13 +2081,11 @@ rs,name,lon,lat,r1
 66,Lehenrotte,15.552,47.959,33
 39,Modl,14.838,47.418,20
 24,Kremschitz,14.544,46.699,20
-192,Herzogenburg,15.695,48.287,79
 28,Maria Taferl,15.162,48.226,20
 230,Eisenerz,14.891,47.543,94
 46,Hinterwildalpen,14.932,47.645,28
 39,Blumau,14.884,47.525,20
 66,Soboth,15.076,46.681,39
-112,Traismauer,15.747,48.35,55
 66,Sankt Anna am Lavantegg,14.688,47.039,24
 39,Eggersdorf,15.412,48.865,20
 55,Muerzsteg,15.492,47.675,46
@@ -2166,12 +2097,11 @@ rs,name,lon,lat,r1
 24,Grainbrunn,15.27,48.486,20
 28,Sankt Oswald ob Eibiswald,15.143,46.708,20
 66,Furth,15.229,46.865,24
-24,Krummnussbaum,15.165,48.209,20
 24,Loibersdorf,15.212,48.329,20
-66,Eggendorf,15.812,48.308,39
+66,Eggendorf,15.812,48.308,46
 79,Goggendorf,15.935,48.619,20
 24,Mitterdorf im Muerztal,15.512,47.534,20
-66,Muehldorf,14.736,47.135,24
+55,Muehldorf,14.736,47.135,24
 28,Waldsdorf,15.337,47.087,20
 24,Feichsen,15.105,48.052,20
 39,Wienings,15.401,48.813,20
@@ -2183,7 +2113,7 @@ rs,name,lon,lat,r1
 112,Kleinzell,15.738,47.979,46
 28,Hainfeld,15.772,48.035,28
 46,Gallizien,14.505,46.56,39
-46,Stattegg,15.42,47.139,39
+39,Stattegg,15.42,47.139,39
 33,Tainach,14.536,46.634,24
 46,Stoessing,15.815,48.123,24
 134,Hinternasswald,15.668,47.738,55
@@ -2207,11 +2137,11 @@ rs,name,lon,lat,r1
 24,Vellach,14.516,46.571,20
 24,Weinitzen,15.49,47.14,20
 28,Braunegg,15.236,48.352,24
-46,Petzenkirchen,15.156,48.146,20
+39,Petzenkirchen,15.156,48.146,20
 55,Brand,15.311,48.542,20
 24,Rossa,15.45,48.902,20
 28,Mostbach,15.421,48.826,20
-39,Golling an der Erlauf,15.177,48.194,20
+28,Golling an der Erlauf,15.177,48.194,20
 33,Niederrussbach,16.042,48.451,33
 24,Pixendorf,15.981,48.287,20
 66,Kaumberg,15.899,48.025,46
@@ -2237,12 +2167,12 @@ rs,name,lon,lat,r1
 39,Artstetten,15.207,48.242,24
 46,Allerheiligen bei Wildon,15.552,46.914,24
 55,Wilfersdorf,16.101,48.278,24
-160,Purgstall an der Erlauf,15.136,48.058,134
+134,Purgstall an der Erlauf,15.136,48.058,55
 28,Wildenstein,14.523,46.546,20
 33,Etzersdorf,15.692,47.198,24
 39,Edelstauden,15.625,46.981,20
 28,Patzmannsdorf,16.28,48.638,20
-39,Ungerdorf,15.678,47.087,20
+46,Ungerdorf,15.678,47.087,20
 24,Liebnitz,15.451,48.852,20
 28,Laubegg,15.599,46.825,20
 33,Reichendorf,15.749,47.189,24
@@ -2254,16 +2184,17 @@ rs,name,lon,lat,r1
 192,Weikertschlag an der Thaya,15.477,48.913,24
 24,Obervogau,15.583,46.744,20
 24,Grossreinprechts,15.31,48.478,24
-112,Pockau,15.099,47.938,46
+94,Pockau,15.099,47.938,46
 33,Seiterndorf,15.234,48.278,20
 24,Landfriedstetten,15.188,48.156,20
 46,Diex,14.618,46.744,39
 39,Purk,15.302,48.443,24
-79,Poechlarn,15.215,48.213,66
+28,Poechlarn,15.215,48.213,20
 33,Elsenreith,15.284,48.387,20
 33,Marbach im Felde,15.348,48.545,20
 79,Sankt Kanzian am Klopeiner See,14.574,46.615,39
-28,Grosslobming,14.81,47.186,20
+46,Grosslobming,14.81,47.186,20
+24,Rassnitz,14.832,47.238,20
 331,Knittelfeld,14.824,47.213,134
 94,Reichenfels,14.74,47.007,33
 28,Muenichreith,15.297,48.4,20
@@ -2276,7 +2207,7 @@ rs,name,lon,lat,r1
 46,Praebichl,14.955,47.522,24
 112,Sankt Martin,14.618,46.697,112
 28,Voitsau,15.315,48.429,20
-79,Kobenz,14.847,47.249,20
+79,Kobenz,14.847,47.249,28
 28,Rueckersdorf,14.567,46.564,20
 28,Niedergruenbach,15.358,48.531,20
 46,Weiten,15.267,48.292,39
@@ -2287,7 +2218,6 @@ rs,name,lon,lat,r1
 39,Lindau,15.488,48.827,20
 28,Maierhoefen,15.113,47.86,20
 24,Grafenbach,14.662,46.747,20
-33,Sankt Margarethen bei Knittelfeld,14.859,47.227,20
 39,Trandorf,15.312,48.361,20
 28,Modsiedl,15.507,48.861,20
 28,Mannersdorf,15.241,48.169,20
@@ -2300,7 +2230,7 @@ rs,name,lon,lat,r1
 39,Sankt Marxen,14.623,46.631,24
 46,Leiben,15.275,48.243,28
 94,Woelfnitz,14.69,46.784,79
-66,Albrechtsberg an der Grossen Krems,15.365,48.463,28
+55,Albrechtsberg an der Grossen Krems,15.365,48.463,28
 46,Feistritz bei Knittelfeld,14.892,47.268,24
 28,Zelking,15.258,48.184,20
 24,Kuffarn,15.298,48.283,20
@@ -2308,14 +2238,14 @@ rs,name,lon,lat,r1
 39,Droesiedl,15.494,48.788,20
 55,Langau,15.129,47.845,55
 134,Bad Vellach,14.55,46.426,46
-33,Schardorf,14.959,47.419,24
+33,Schardorf,14.959,47.419,28
 55,Ludweis,15.492,48.77,39
 39,Radl,15.506,48.807,20
 24,Oberndorf an der Melk,15.219,48.065,24
 55,Fahnsdorf,15.3,48.269,20
 28,Neupoella,15.446,48.643,24
 94,Vordernberg,14.992,47.491,55
-33,Matzleinsdorf,15.275,48.202,28
+55,Matzleinsdorf,15.275,48.202,28
 55,Sittersdorf,14.606,46.546,24
 66,Lichtenau,15.391,48.497,46
 28,Haimburg,14.669,46.696,28
@@ -2335,32 +2265,33 @@ rs,name,lon,lat,r1
 33,Zabernreith,15.55,48.862,20
 46,Sankt Georgen an der Leys,15.228,48.031,28
 79,Krumau am Kamp,15.448,48.592,39
-46,Diesendorf,15.254,48.091,24
+39,Diesendorf,15.254,48.091,24
 46,Oberndorf,15.35,48.337,20
 55,Winkl,15.479,48.669,20
 55,Aichberg,14.746,46.823,28
 46,Oetscherwiese,15.171,47.873,24
 55,Sankt Anton an der Jessnitz,15.207,47.961,39
-24,Hafning,14.999,47.44,20
+94,Hafning,14.999,47.44,20
 33,Viessling,15.364,48.357,20
 33,Grossweichselbach,15.293,48.173,20
 28,Luden,15.574,48.895,20
 28,Wiesenau,14.803,46.947,20
 39,Altpoella,15.471,48.623,20
+55,Rachau,14.914,47.216,39
 66,Bad Weissenbach,14.777,46.873,20
 79,Sankt Leonhard am Forst,15.287,48.141,55
 24,Schweinburg,15.545,48.806,20
 24,Altendorf,14.644,46.548,20
 39,Emmersdorf an der Donau,15.332,48.245,20
 33,Sankt Peter am Wallersberg,14.69,46.654,33
-112,Trofaiach,15.008,47.428,46
 94,Ramsau,15.488,48.642,33
 24,Felling,15.423,48.472,20
 28,Pribelsdorf,14.68,46.622,20
 39,Kaisersberg,14.974,47.334,20
-230,Melk,15.33,48.227,160
+112,Melk,15.33,48.227,79
 160,Niederdorf,14.967,47.308,33
 28,Loiwein,15.437,48.492,24
+39,Glein,14.94,47.233,20
 24,Gossam,15.349,48.257,20
 46,Messern,15.528,48.72,20
 28,Pustritz,14.745,46.747,24
@@ -2374,11 +2305,10 @@ rs,name,lon,lat,r1
 94,Neuhaus,15.181,47.789,46
 55,Oberort,15.078,47.532,20
 28,Sankt Margarethen im Lavanttal,14.804,46.855,24
-39,Sankt Peter-Freienstein,15.027,47.398,24
+39,Sankt Peter-Freienstein,15.027,47.398,20
 24,Schwallenbach,15.402,48.341,20
 24,Feinfeld,15.528,48.667,20
 39,Schiefling,14.843,46.942,28
-24,Sankt Michael,14.799,46.835,20
 55,Liesingtal,15.01,47.35,46
 46,Pichl-Grossdorf,15.073,47.507,46
 24,Wappoltenreith,15.563,48.752,20
@@ -2433,7 +2363,7 @@ rs,name,lon,lat,r1
 46,Greith,15.219,47.709,33
 28,Moos,14.769,46.598,20
 571,Leoben,15.092,47.374,230
-46,Altenburg,15.594,48.646,33
+55,Altenburg,15.594,48.646,28
 28,Raisdorf,15.634,48.748,20
 24,Paildorf,14.864,46.808,24
 24,Sankt Ilgen,15.167,47.544,20
@@ -2441,7 +2371,7 @@ rs,name,lon,lat,r1
 39,Huerm,15.411,48.156,24
 39,Preitenegg,14.923,46.939,33
 66,Hirschegg,14.958,47.022,55
-66,Schenkenbrunn,15.486,48.344,24
+55,Schenkenbrunn,15.486,48.344,24
 28,Gansbach,15.473,48.307,20
 28,Kottaun,15.675,48.824,20
 24,Harth,15.655,48.763,20
@@ -2453,7 +2383,7 @@ rs,name,lon,lat,r1
 160,Oed,15.481,48.285,46
 39,Wienerbruck,15.311,47.855,33
 55,Bleiburg,14.799,46.59,55
-112,Kilb,15.409,48.1,39
+79,Kilb,15.409,48.1,39
 46,Eis,14.83,46.664,20
 39,Reideben,14.887,46.797,20
 55,Kamp,14.922,46.883,24
@@ -2480,30 +2410,29 @@ rs,name,lon,lat,r1
 46,Pack,14.983,46.977,33
 39,Niklasdorf,15.155,47.397,28
 28,Sankt Paul im Lavanttal,14.87,46.699,20
-192,Horn,15.655,48.667,192
 39,Lauterbach,15.499,48.26,20
 28,Egelsee,15.561,48.419,20
 33,Unterbergern,15.55,48.376,20
 28,Schwarzenbach an der Pielach,15.383,47.947,28
 46,Gemmersdorf,14.903,46.757,33
 33,Loich,15.402,47.995,28
-55,Goessnitz,15.024,47.05,20
+39,Goessnitz,15.024,47.05,20
 33,Haindorf,15.476,48.177,20
 160,Mariazell,15.317,47.772,134
 33,Dallein,15.702,48.76,20
 24,Doberndorf,15.683,48.708,20
 66,Gusswerk,15.31,47.741,24
-46,Lengenfeld,15.598,48.472,33
+66,Lengenfeld,15.598,48.472,33
 28,Aeussere Schmelz,15.36,47.865,28
 55,Kirchberg an der Pielach,15.428,48.027,55
-46,Schiltern,15.624,48.517,33
+46,Schiltern,15.624,48.517,39
 28,Bischofstetten,15.471,48.123,28
 46,Seewiesen,15.272,47.619,28
 39,Palbersdorf,15.236,47.525,20
 28,Weyersdorf,15.534,48.274,20
 55,Mautern an der Donau,15.581,48.392,20
 112,Gars am Kamp,15.661,48.597,55
-33,Breiteneich,15.693,48.674,20
+33,Breiteneich,15.693,48.674,24
 39,Oberhoeflein,15.742,48.801,24
 66,Sankt Georgen im Lavanttal,14.916,46.717,24
 33,Windschnur,15.521,48.225,20
@@ -2512,24 +2441,24 @@ rs,name,lon,lat,r1
 55,Prinzersdorf,15.517,48.202,39
 33,Sankt Dionysen,15.206,47.415,33
 46,Rabenstein an der Pielach,15.467,48.064,33
-66,Edelschrott,15.051,47.023,24
+79,Edelschrott,15.051,47.023,33
 24,Zaingrub,15.688,48.626,20
 112,Gollrad,15.306,47.651,55
 46,Kainreith,15.723,48.712,20
 24,Gneixendorf,15.62,48.439,20
 46,Poppendorf,15.52,48.179,20
-46,Mold,15.7,48.641,24
+55,Mold,15.7,48.641,24
 230,Krems an der Donau,15.614,48.415,160
 33,Oberaich,15.215,47.397,20
-24,Koeflach,15.083,47.065,24
+39,Koeflach,15.083,47.065,28
 24,Rassingdorf,15.763,48.777,20
 39,Starrein,15.759,48.763,24
 39,Arndorf,15.238,47.433,20
 28,Gruenau,15.503,48.101,20
 79,Plank am Kamp,15.682,48.557,33
 33,Furth bei Goettweig,15.613,48.375,20
-55,Oberwoelbling,15.593,48.319,46
-24,Piber,15.1,47.081,20
+66,Oberwoelbling,15.593,48.319,46
+33,Piber,15.1,47.081,20
 39,Flinsbach,15.563,48.238,20
 24,Schwarzenbach,14.94,46.683,20
 24,Heinrichsdorf,15.762,48.745,20
@@ -2548,11 +2477,9 @@ rs,name,lon,lat,r1
 55,Weinburg,15.533,48.114,20
 79,Lavamuend,14.941,46.642,46
 24,Fronsburg,15.805,48.803,20
-134,Langenlois,15.678,48.473,46
 33,Klein-Meiseldorf,15.753,48.664,20
-94,Schoenberg am Kamp,15.698,48.518,39
+112,Schoenberg am Kamp,15.698,48.518,39
 33,Parschlug,15.292,47.483,20
-39,Baernbach,15.125,47.07,20
 24,Diemlach,15.273,47.435,20
 79,Greith,15.344,47.611,28
 28,Sankt Martin am Woellmissberg,15.104,47.01,28
@@ -2560,12 +2487,12 @@ rs,name,lon,lat,r1
 160,Bruck an der Mur,15.272,47.412,94
 24,Harmannsdorf,15.74,48.602,20
 66,Theras,15.791,48.73,39
-46,Zoebing,15.7,48.493,20
+55,Zoebing,15.7,48.493,20
 24,Witzendorf,15.589,48.206,20
 39,Kapfenberg,15.291,47.446,20
 46,Turnau,15.336,47.558,46
 24,Hoebenbach,15.649,48.348,20
-24,Hochtregist,15.146,47.081,20
+46,Hochtregist,15.146,47.081,20
 94,Tuernitz,15.492,47.93,55
 46,Obermixnitz,15.813,48.752,20
 24,Reinprechtspoella,15.76,48.613,20
@@ -2574,50 +2501,46 @@ rs,name,lon,lat,r1
 33,Nadelbach,15.596,48.188,20
 46,Hardegg,15.859,48.852,20
 33,Pleissing,15.84,48.802,20
-192,Voitsberg,15.15,47.05,160
 33,Sankt Pankrazen,15.186,47.137,28
 39,Brunn im Felde,15.699,48.43,24
 33,Weitern,15.623,48.233,24
 79,Glashuetten,15.06,46.824,28
 28,Soedingberg,15.174,47.102,20
 24,Kuehnring,15.781,48.634,20
-24,Rottersdorf,15.649,48.288,20
+28,Rottersdorf,15.649,48.288,20
 33,Theiss,15.692,48.399,24
 33,Sankt Vinzenz,15.013,46.696,33
 112,Deuchendorf,15.329,47.466,46
 24,Dickenau,15.522,47.949,20
 46,Markt-Uebelbach,15.235,47.227,46
-28,Hadersdorf am Kamp,15.723,48.459,24
 46,Niederalpl,15.418,47.681,39
 28,Reikersdorf,15.767,48.571,20
 39,Sankt Oswald in Freiland,15.1,46.89,39
 28,Kattau,15.81,48.677,20
 28,Eschenau,15.567,48.048,24
-33,Strass im Strassertale,15.736,48.473,20
 39,Inzersdorf ob der Traisen,15.677,48.318,20
 55,Grossstuebing,15.235,47.193,28
 28,Goeblasbruck,15.59,48.082,20
 28,Grunddorf,15.722,48.411,20
 28,Oberfladnitz,15.864,48.778,20
-28,Elsarn im Strassertale,15.756,48.497,20
+28,Elsarn im Strassertale,15.756,48.497,28
 192,Wilhelmsburg,15.604,48.106,79
 46,Schroeckenhof,15.396,47.577,33
 39,Rotheau,15.593,48.068,20
-33,Reichersdorf,15.698,48.336,24
-160,Eggenburg,15.817,48.643,94
+39,Reichersdorf,15.698,48.336,20
+192,Eggenburg,15.817,48.643,94
 33,Eggendorf,15.62,48.134,20
 94,Zlatten,15.315,47.365,33
-24,Etsdorf am Kamp,15.742,48.445,20
+33,Etsdorf am Kamp,15.742,48.445,20
 33,Frauenberg,15.342,47.427,28
-24,Franzhausen,15.707,48.348,20
 33,Schrambach,15.572,47.999,20
 39,Sankt Lorenzen im Muerztal,15.37,47.482,20
 33,Leodagger,15.858,48.721,20
-94,Stiwoll,15.22,47.102,39
+79,Stiwoll,15.22,47.102,39
 33,Ratzersdorf an der Traisen,15.666,48.223,20
 39,Harland,15.642,48.159,33
 46,Burgschleinitz,15.815,48.606,28
-66,Unterradlberg,15.68,48.257,20
+55,Unterradlberg,15.68,48.257,20
 46,Niederfladnitz,15.895,48.797,33
 79,Pulkau,15.86,48.705,46
 55,Frein an der Muerz,15.485,47.742,24
@@ -2631,12 +2554,11 @@ rs,name,lon,lat,r1
 24,Waldstein,15.289,47.223,24
 33,Stallhofen,15.22,47.049,20
 24,Pernegg,15.348,47.36,20
-24,Sankt Andrae an der Traisen,15.719,48.297,20
+33,Sankt Andrae an der Traisen,15.719,48.297,20
 33,Pottenbrunn,15.696,48.237,33
 28,Ober Zwischenbrunn,15.686,48.209,20
 28,Freiland bei Deutschlandsberg,15.141,46.848,20
 79,Maissau,15.83,48.572,55
-28,Ossarn,15.715,48.272,20
 55,Ligist Markt,15.207,46.994,20
 24,Meierhof,15.256,47.112,20
 28,Frohnleiten,15.32,47.27,28
@@ -2650,7 +2572,7 @@ rs,name,lon,lat,r1
 55,Heuberg,15.688,48.155,24
 55,Roeschitz,15.887,48.667,28
 39,Hohenwarth,15.826,48.506,24
-24,Goesing am Wagram,15.813,48.47,24
+33,Goesing am Wagram,15.813,48.47,24
 39,Schrauding,15.328,47.241,20
 55,Schwarzenbach an der Goelsen,15.656,48.066,20
 33,Schrattenthal,15.909,48.717,24
@@ -2667,9 +2589,9 @@ rs,name,lon,lat,r1
 94,Kindberg,15.449,47.504,66
 24,Maria Jeutendorf,15.743,48.244,20
 28,Schirning,15.29,47.104,20
-79,Fels am Wagram,15.819,48.438,66
+66,Fels am Wagram,15.819,48.438,66
 55,Wald,15.699,48.127,20
-33,Etzersdorf,15.753,48.266,20
+33,Etzersdorf,15.753,48.266,24
 33,Reiteregg,15.273,47.055,20
 33,Hohenfeld,15.207,46.883,20
 33,Gundersdorf,15.233,46.948,20
@@ -2683,13 +2605,12 @@ rs,name,lon,lat,r1
 24,Nuetzling,15.72,48.149,20
 24,Sankt Anna ob Schwanberg,15.159,46.748,24
 28,Wipfing,15.299,47.089,20
-24,Gratwein,15.316,47.131,20
 55,Friesach,15.335,47.172,20
 39,Unternalb,15.954,48.74,20
-79,Berndorf,15.276,47.02,66
+94,Berndorf,15.276,47.02,79
 33,Mitterretzbach,15.975,48.784,20
-33,Eggenfeld,15.334,47.152,20
-33,Gemeinlebarn,15.805,48.339,20
+39,Eggenfeld,15.334,47.152,20
+46,Gemeinlebarn,15.805,48.339,20
 24,Grossmeiseldorf,15.88,48.53,20
 39,Roseldorf,15.927,48.645,24
 55,Grossriedenthal,15.868,48.484,39
@@ -2699,14 +2620,13 @@ rs,name,lon,lat,r1
 46,Boeheimkirchen,15.763,48.198,20
 39,Hitzendorf,15.301,47.037,20
 24,Tyrnau,15.413,47.312,24
-46,Strassengel,15.335,47.112,20
+33,Strassengel,15.335,47.112,20
 66,Furth,15.756,48.166,24
 33,Steinberg,15.319,47.069,28
 24,Grosssoeding,15.291,46.999,20
 112,Deutschlandsberg,15.218,46.817,46
 24,Kollersdorf,15.852,48.407,20
 24,Reidling,15.82,48.32,20
-112,Gratkorn,15.351,47.135,46
 39,Neudorf,15.394,47.236,20
 79,Wiesen,15.786,48.219,55
 33,Schwanberg,15.201,46.758,28
@@ -2725,7 +2645,7 @@ rs,name,lon,lat,r1
 28,Pirkhof,15.288,46.942,20
 24,Pichling bei Stainz,15.274,46.905,20
 33,Kleinhoeflein,16.004,48.751,20
-39,Frauendorf an der Schmida,15.937,48.574,20
+46,Frauendorf an der Schmida,15.937,48.574,20
 46,Semriach,15.403,47.217,33
 39,Schamberg,15.253,46.843,20
 33,Ottenthal,15.899,48.466,20
@@ -2758,8 +2678,8 @@ rs,name,lon,lat,r1
 94,Wuermla,15.86,48.255,39
 24,Obergrabern,15.996,48.608,20
 24,Ruppersthal,15.944,48.468,24
-46,Sankt Veit,15.411,47.116,20
-46,Buch,15.432,47.16,20
+33,Sankt Veit,15.411,47.116,20
+66,Buch,15.432,47.16,20
 28,Duernrohr,15.896,48.331,20
 24,Baumgarten am Wagram,15.957,48.483,20
 46,Kapellen,15.631,47.647,33
@@ -2780,10 +2700,10 @@ rs,name,lon,lat,r1
 24,Plenzengreith,15.477,47.218,20
 33,Umsee,15.871,48.202,20
 24,Gstettl,15.806,48.034,20
-134,Seiersberg,15.398,47.011,55
+94,Seiersberg,15.398,47.011,55
 79,Guntersdorf,16.047,48.649,39
 24,Oberfellabrunn,16.016,48.56,24
-33,Raipoltenbach,15.885,48.219,20
+46,Raipoltenbach,15.885,48.219,20
 112,Passail,15.515,47.281,46
 134,Grossweikersdorf,15.985,48.471,79
 55,Utzenlaa,15.948,48.371,20
@@ -2804,8 +2724,7 @@ rs,name,lon,lat,r1
 39,Michelhausen,15.938,48.29,39
 55,Asperhofen,15.924,48.246,33
 55,Dietersdorf,15.399,46.922,20
-79,Schoengrabern,16.064,48.602,33
-476,Muerzzuschlag,15.676,47.604,192
+79,Schoengrabern,16.064,48.602,39
 94,Alpl,15.637,47.507,39
 24,Feldkirchen bei Graz,15.442,47.014,24
 28,Sankt Ulrich in Greith,15.321,46.715,28
@@ -2818,8 +2737,8 @@ rs,name,lon,lat,r1
 66,Puch,16.04,48.497,28
 24,Lebern,15.449,47.003,20
 55,Wettmannstaetten,15.384,46.832,24
-79,Mariatrost,15.498,47.112,33
-66,Dietersdorf,16.058,48.529,20
+66,Mariatrost,15.498,47.112,33
+55,Dietersdorf,16.058,48.529,20
 28,Zettling,15.435,46.952,20
 39,Sankt Kathrein am Offenegg,15.577,47.3,33
 55,Ries,15.494,47.088,20
@@ -2829,18 +2748,16 @@ rs,name,lon,lat,r1
 28,Sankt Andrae im Sausal,15.377,46.792,28
 46,Innermanzing,15.913,48.132,20
 55,Preding,15.405,46.86,55
-276,Hollabrunn,16.08,48.563,134
 39,Pretul,15.686,47.555,24
 39,Hadres,16.136,48.709,33
 33,Brandlucken,15.6,47.336,28
 28,Oberrussbach,16.05,48.475,20
 39,Gleinstaetten,15.368,46.755,39
-94,Kumberg,15.533,47.16,39
+79,Kumberg,15.533,47.16,39
 28,Aspersdorf,16.097,48.587,20
 24,Haselbach bei Weiz,15.566,47.234,20
 39,Fischbach,15.65,47.441,20
 79,Altlengbach,15.931,48.153,24
-33,Raschala,16.088,48.546,20
 28,Wimmersdorf,15.967,48.231,24
 46,Immendorf,16.128,48.645,20
 24,Wundschuh,15.45,46.927,20
@@ -2898,9 +2815,9 @@ rs,name,lon,lat,r1
 66,Hausleiten,16.101,48.395,55
 33,Pacher,15.727,47.441,20
 66,Grossklein,15.442,46.737,24
-66,Lassnitzhoehe,15.581,47.077,46
-46,Eggersdorf bei Graz,15.601,47.123,39
-94,Premstaetten,15.563,47.021,66
+46,Lassnitzhoehe,15.581,47.077,46
+39,Eggersdorf bei Graz,15.601,47.123,39
+134,Premstaetten,15.563,47.021,66
 39,Haslach,16.19,48.608,20
 39,Strallegg,15.724,47.411,33
 24,Breitenstein,15.822,47.658,20
@@ -2961,12 +2878,12 @@ rs,name,lon,lat,r1
 33,Noestach,16.026,48.025,28
 24,Neutillmitsch,15.545,46.819,20
 55,Irenental,16.1,48.206,20
-28,Wilfersdorf,15.665,47.107,28
+28,Wilfersdorf,15.665,47.107,24
 39,Krumegg,15.632,47.021,33
 39,Sankt Georgen an der Stiefing,15.576,46.876,20
 33,Wulzeshofen,16.304,48.718,33
 94,Leibnitz,15.54,46.783,94
-39,Koenigstetten,16.147,48.302,39
+39,Koenigstetten,16.147,48.302,24
 66,Puch bei Weiz,15.726,47.226,24
 24,Waidmannsfeld,15.983,47.869,20
 24,Rollsdorf,15.709,47.182,20
@@ -2992,6 +2909,7 @@ rs,name,lon,lat,r1
 39,Roseldorf,16.241,48.478,20
 24,Gasteil,15.941,47.707,20
 33,Mittergoggitsch,15.675,47.038,20
+24,Wolfpassing,16.179,48.313,20
 28,Schwarzensee,16.062,48.01,20
 55,Alland,16.081,48.059,39
 39,Wolfsgraben,16.122,48.159,24
@@ -2999,11 +2917,9 @@ rs,name,lon,lat,r1
 24,Ottendorf,16.257,48.506,20
 112,Gamlitz,15.552,46.72,33
 39,Vornholz,15.826,47.396,20
-192,Gloggnitz,15.937,47.676,46
 33,Gruenbach am Schneeberg,15.987,47.798,33
 24,Frannach,15.632,46.911,20
 66,Praetis,15.81,47.349,20
-230,Gleisdorf,15.713,47.106,79
 28,Neu-Purkersdorf,16.144,48.195,24
 33,Obersaifen,15.8,47.323,33
 46,Oed,16.023,47.879,33
@@ -3029,28 +2945,27 @@ rs,name,lon,lat,r1
 24,Wollmannsberg,16.265,48.429,20
 276,Laa an der Thaya,16.385,48.723,112
 46,Petersdorf 2,15.692,46.994,20
-66,Woerdern,16.22,48.33,46
 46,Hanfthal,16.363,48.703,20
 55,Eichenbrunn,16.356,48.62,33
 28,Laab im Walde,16.177,48.154,20
 33,Festenburg,15.913,47.46,24
 33,Merkersdorf,16.3,48.535,20
 46,Purkersdorf,16.175,48.21,20
-39,Oberhausen,16.584,48.178,20
+55,Oberhausen,16.584,48.178,33
 28,Molzegg,15.971,47.585,20
 33,Drassburg,16.488,47.746,28
-134,Kirchberg am Wechsel,15.991,47.61,55
+66,Kirchberg am Wechsel,15.991,47.61,46
 46,Hernstein,16.106,47.895,20
 112,Sankt Stefan im Rosental,15.711,46.904,55
 28,Sierndorf an der March,16.887,48.512,20
 24,Horitschon,16.55,47.588,20
-112,Lassee,16.824,48.226,79
+160,Lassee,16.824,48.226,79
 39,Ratsch an der Weinstrasse,15.571,46.689,20
 28,Kaltenleutgeben,16.2,48.117,28
 55,Moerbisch am See,16.667,47.753,39
 134,Ernstbrunn,16.361,48.529,94
 39,Egelsdorf,15.811,47.122,20
-66,Penk,16.03,47.663,20
+55,Penk,16.03,47.663,28
 28,Oberrettenbach,15.831,47.139,20
 46,Sankt Corona am Wechsel,16.009,47.586,20
 28,Wetzelsdorf bei Jagerberg,15.725,46.87,20
@@ -3060,7 +2975,7 @@ rs,name,lon,lat,r1
 46,Halt,15.82,47.295,20
 28,Stubenberg am See,15.8,47.243,20
 79,Nickelsdorf,17.07,47.94,39
-33,Hintersdorf,16.217,48.303,20
+24,Hintersdorf,16.217,48.303,20
 33,Waldegg,16.051,47.87,20
 28,Stambach,15.95,47.346,24
 33,Wiesen,16.258,48.403,24
@@ -3069,7 +2984,7 @@ rs,name,lon,lat,r1
 24,Weixelberg,15.904,47.204,20
 79,Perchtoldsdorf,16.269,48.124,33
 28,Hainsdorf im Schwarzautal,15.638,46.835,20
-79,Bad Voeslau,16.216,47.966,33
+33,Bad Voeslau,16.216,47.966,20
 28,Grafensulz,16.444,48.553,20
 33,Glatzau,15.671,46.913,20
 28,Reibersdorf,15.982,47.357,20
@@ -3084,7 +2999,6 @@ rs,name,lon,lat,r1
 24,Ebersdorf,15.958,47.2,20
 24,Manhartsbrunn,16.427,48.388,20
 39,Krennach,15.892,47.025,20
-28,Koettlach,15.981,47.674,20
 39,Oberlungitz,16.024,47.315,20
 24,Vogau,15.603,46.731,20
 39,Theresienfeld,16.249,47.862,20
@@ -3094,7 +3008,7 @@ rs,name,lon,lat,r1
 46,Schaeffern,16.11,47.478,28
 28,Pottenstein,16.096,47.959,20
 24,Zweiersdorf,16.037,47.807,20
-24,Muenichsthal,16.472,48.386,20
+28,Muenichsthal,16.472,48.386,20
 46,Zoebern,16.132,47.512,33
 33,Spillern,16.26,48.378,20
 39,Bad Waltersdorf,16.01,47.169,39
@@ -3105,9 +3019,8 @@ rs,name,lon,lat,r1
 55,Drasenhofen,16.647,48.756,46
 24,Rams,15.972,47.633,20
 33,Klingfurth,16.25,47.688,20
-39,Putzmannsdorf,15.997,47.691,20
-28,Wiesfleck,16.146,47.384,20
-46,Neusiedl,16.088,47.919,20
+39,Wiesfleck,16.146,47.384,20
+46,Neusiedl,16.088,47.919,24
 24,Flatz,16.02,47.744,20
 33,Prebensdorf,15.781,47.142,28
 66,Herrnbaumgarten,16.682,48.697,24
@@ -3116,10 +3029,9 @@ rs,name,lon,lat,r1
 55,Kettlasbrunn,16.657,48.561,20
 79,Kemeten,16.15,47.251,33
 55,Niederhollabrunn,16.3,48.451,39
-24,Hadersfeld,16.257,48.337,20
+28,Hadersfeld,16.257,48.337,20
 39,Sankt Veit am Vogau,15.626,46.746,20
 24,Nexing,16.654,48.493,20
-79,Berndorf,16.105,47.944,66
 79,Deutsch Kaltenbrunn,16.107,47.089,33
 39,Sankt Johann bei Herberstein,15.816,47.214,20
 24,Gross-Schweinbarth,16.634,48.415,24
@@ -3127,6 +3039,7 @@ rs,name,lon,lat,r1
 55,Stein,16.085,46.999,24
 55,Sigless,16.394,47.777,24
 79,Riegersbach,15.898,47.415,33
+33,Maria Gugging,16.251,48.312,24
 24,Altenmarkt,16.389,48.674,20
 28,Glojach,15.681,46.874,24
 94,Pischelsdorf in der Steiermark,15.804,47.175,55
@@ -3138,8 +3051,8 @@ rs,name,lon,lat,r1
 39,Sittendorf,16.163,48.074,20
 24,Grieselstein,16.12,46.95,20
 24,Rotenturm an der Pinka,16.243,47.253,24
-66,Matzen,16.694,48.402,28
-33,Rutzendorf,16.626,48.208,24
+55,Matzen,16.694,48.402,28
+79,Rutzendorf,16.626,48.208,24
 24,Loretto,16.515,47.915,20
 33,Altlichtenwarth,16.798,48.645,20
 192,Jennersdorf,16.143,46.937,79
@@ -3152,7 +3065,7 @@ rs,name,lon,lat,r1
 55,Margarethen am Moos,16.604,48.047,28
 24,Zoebing,15.752,47.023,20
 46,Ternitz,16.027,47.709,33
-24,Sankt Georgen am Leithagebirge,16.551,47.854,20
+28,Sankt Georgen am Leithagebirge,16.551,47.854,24
 55,Oberrohrbach,16.295,48.396,20
 79,Grosspetersdorf,16.318,47.239,66
 33,Wuerflach,16.055,47.776,24
@@ -3166,7 +3079,7 @@ rs,name,lon,lat,r1
 55,Tobaj,16.305,47.09,20
 192,Duernkrut,16.849,48.475,55
 39,Klement,16.368,48.572,20
-39,Oslip,16.621,47.833,24
+55,Oslip,16.621,47.833,24
 55,Weidlingbach,16.253,48.267,28
 134,Guessing,16.327,47.062,94
 55,Oberweiden,16.824,48.31,33
@@ -3192,7 +3105,7 @@ rs,name,lon,lat,r1
 24,Poellau bei Gleisdorf,15.802,47.068,24
 24,Hofkirchen bei Hartberg,15.867,47.23,20
 24,Muthmannsdorf,16.11,47.838,20
-33,Kritzendorf,16.301,48.328,20
+28,Kritzendorf,16.301,48.328,20
 39,Sankt Anna,15.896,47.293,20
 39,Leobendorf,16.321,48.376,20
 28,Eichkoegl,15.791,47.027,20
@@ -3234,7 +3147,7 @@ rs,name,lon,lat,r1
 39,Rueckersdorf,16.371,48.396,20
 33,Weinburg am Sassbach,15.721,46.755,24
 28,Markt Hartmannsdorf,15.843,47.054,28
-39,Sooss,16.216,47.985,20
+46,Sooss,16.216,47.985,20
 28,Mitterdombach,15.93,47.259,20
 24,Schlag,15.993,47.417,20
 55,Staatz-Kautendorf,16.486,48.678,24
@@ -3251,13 +3164,11 @@ rs,name,lon,lat,r1
 55,Baumgarten,16.033,47.475,24
 28,Seebarn,16.388,48.38,20
 24,Hochegg,16.092,47.615,20
-230,Baden,16.245,48.004,160
 28,Herrnleis,16.447,48.526,24
 33,Hoelles,16.204,47.897,20
-79,Leobersdorf,16.217,47.928,20
+46,Leobersdorf,16.217,47.928,20
 28,Brunn am Gebirge,16.288,48.109,20
 28,Radisch,15.788,46.85,20
-33,Kottingbrunn,16.228,47.951,20
 33,Breitenau,16.143,47.734,33
 33,Perlsdorf,15.815,46.915,20
 28,Fraettingsdorf,16.496,48.644,20
@@ -3273,7 +3184,7 @@ rs,name,lon,lat,r1
 39,Ziegenberg,15.89,47.07,20
 160,Moedling,16.292,48.082,66
 24,Gleissenfeld,16.133,47.676,20
-79,Lafnitz,16.013,47.368,24
+94,Lafnitz,16.013,47.368,24
 33,Waltersdorf bei Staatz,16.517,48.661,20
 33,Neusiedl,15.933,47.158,33
 46,Seebenstein,16.149,47.7,28
@@ -3288,15 +3199,14 @@ rs,name,lon,lat,r1
 24,Ottendorf an der Rittschein,15.901,47.048,24
 33,Grabersdorf,15.821,46.844,20
 39,Altruppersdorf,16.551,48.693,24
-134,Pinggau,16.066,47.445,55
+160,Pinggau,16.066,47.445,66
 39,Eggendorf,16.007,47.296,20
 33,Enzersfeld im Weinviertel,16.425,48.361,24
-46,Traiskirchen,16.292,48.017,24
 28,Dietersdorf am Gnasbach,15.812,46.81,20
 33,Ottenthal,16.578,48.761,33
 134,Ilz,15.926,47.086,46
 79,Ladendorf,16.494,48.534,39
-94,Felixdorf,16.242,47.882,33
+134,Felixdorf,16.242,47.882,33
 39,Maierdorf,15.85,46.892,20
 46,Niederkreuzstetten,16.477,48.48,46
 55,Mureck,15.776,46.708,55
@@ -3309,7 +3219,6 @@ rs,name,lon,lat,r1
 28,Hainersdorf,15.947,47.113,20
 55,Geiseldorf,15.99,47.214,20
 28,Schoelbing,16.01,47.263,20
-28,Teesdorf,16.282,47.95,24
 28,Edlitz,16.145,47.599,20
 33,Gosdorf,15.795,46.728,20
 66,Siebenhirten,16.54,48.609,20
@@ -3322,7 +3231,7 @@ rs,name,lon,lat,r1
 822,Wiener Neustadt,16.241,47.816,331
 33,Schleinbach,16.476,48.419,20
 94,Ratschendorf,15.816,46.743,28
-24,Grafenschachen,16.066,47.363,20
+28,Grafenschachen,16.066,47.363,20
 33,Altenmarkt bei Riegersburg,15.922,47.004,33
 24,Naegelsdorf,15.837,46.793,20
 24,Foehrenhain,16.444,48.323,20
@@ -3336,20 +3245,20 @@ rs,name,lon,lat,r1
 33,Stuetzenhofen,16.611,48.743,20
 33,Laxenburg,16.355,48.068,20
 33,Riegersdorf,15.974,47.098,20
-39,Oberwaltersdorf,16.324,47.978,28
+46,Oberwaltersdorf,16.324,47.978,33
 28,Schlag,16.132,47.49,20
 33,Paasdorf,16.543,48.544,24
 28,Kaltenberg,16.184,47.615,20
 24,Hainfeld bei Fuerstenfeld,15.969,47.071,20
 24,Loipersdorf im Burgenland,16.077,47.336,24
-39,Ulrichskirchen,16.494,48.401,20
+33,Ulrichskirchen,16.494,48.401,20
 28,Oberlembach,15.95,47.015,20
 28,Oberspitz,15.849,46.762,20
 28,Diepersdorf,15.836,46.728,20
 46,Elsenau,16.124,47.442,28
 24,Hart bei Straden,15.859,46.78,20
 33,Trumau,16.342,47.993,20
-46,Hochart,16.112,47.404,20
+39,Hochart,16.112,47.404,20
 28,Unterrohr,16.051,47.248,24
 822,Mistelbach,16.571,48.573,192
 55,Leopoldsdorf,16.393,48.11,28
@@ -3372,12 +3281,10 @@ rs,name,lon,lat,r1
 24,Schleinz,16.254,47.72,20
 39,Laengenbach,16.049,47.202,24
 28,Loedersdorf I,15.951,46.957,20
-66,Wolkersdorf im Weinviertel,16.513,48.382,66
 24,Pellendorf,16.554,48.486,20
 39,Muenchendorf,16.379,48.03,33
 33,Gschaidt,16.154,47.456,20
 28,Eichbuechl,16.274,47.76,20
-160,Pinkafeld,16.122,47.371,66
 39,Buchschachen,16.102,47.319,20
 112,Poysdorf,16.63,48.67,79
 33,Sulzbach,15.898,46.805,20
@@ -3392,14 +3299,14 @@ rs,name,lon,lat,r1
 24,Maierhofen,16.009,47.058,20
 24,Hoebersbrunn,16.577,48.506,20
 33,Lambuch,15.957,46.926,20
-33,Zillingdorf,16.327,47.855,20
+39,Zillingdorf,16.327,47.855,20
 28,Radochen,15.892,46.764,20
 46,Wolfau,16.096,47.257,28
 33,Haschendorf,16.346,47.889,20
 28,Stickelberg,16.238,47.614,20
 24,Grametschlag,16.173,47.442,20
 28,Schreibersdorf,16.156,47.397,20
-55,Riedlingsdorf,16.136,47.345,20
+46,Riedlingsdorf,16.136,47.345,20
 28,Schoenherrn,16.164,47.41,20
 46,Soechau,16.017,47.03,33
 46,Bad Blumau,16.052,47.116,24
@@ -3415,36 +3322,32 @@ rs,name,lon,lat,r1
 28,Oberlaasen,15.922,46.775,24
 46,Moeltern,16.206,47.479,20
 94,Hochneukirchen,16.199,47.457,33
-33,Rannersdorf,16.464,48.127,20
 39,Waltra,15.959,46.85,20
 46,Hochwolkersdorf,16.283,47.661,33
 33,Bad Sauerbrunn,16.329,47.777,20
-160,Ebreichsdorf,16.403,47.964,66
 24,Altenmarkt bei Fuerstenfeld,16.047,47.065,20
 24,Huerth,15.924,46.759,20
 28,Kapfenstein,15.976,46.886,28
 46,Wilfersdorf,16.644,48.587,39
-39,Zwoelfaxing,16.462,48.109,20
+39,Zwoelfaxing,16.462,48.109,24
 66,Hollenthon,16.259,47.59,24
 24,Walterskirchen,16.671,48.653,20
-134,Schwechat,16.477,48.143,55
-112,Pottendorf,16.387,47.91,46
+33,Schwechat,16.477,48.143,20
+66,Pottendorf,16.387,47.91,33
 79,Schrick,16.621,48.513,28
 46,Bad Pirawarth,16.598,48.452,20
 55,Neudau,16.1,47.177,39
-55,Neufeld an der Leitha,16.375,47.87,33
-28,Weigelsdorf,16.408,47.95,20
 28,Aderklaa,16.538,48.285,20
 24,Tieschen,15.945,46.786,20
 39,Aigen,16.249,47.542,24
 33,Velm,16.446,48.043,20
 33,Bad Schoenau,16.234,47.495,24
 94,Fehring,16.011,46.937,66
-46,Grossengersdorf,16.571,48.358,33
-112,Wiesmath,16.287,47.619,79
+46,Grossengersdorf,16.571,48.358,28
+192,Wiesmath,16.287,47.619,79
 55,Burgau,16.098,47.142,28
 230,Sankt Anna am Aigen,15.973,46.83,94
-46,Wiesen,16.338,47.738,20
+55,Wiesen,16.338,47.738,20
 24,Neustift,15.99,46.861,20
 66,Schrattenberg,16.723,48.725,24
 24,Aigen,15.976,46.818,20
@@ -3456,7 +3359,7 @@ rs,name,lon,lat,r1
 39,Schranawand,16.445,47.979,20
 24,Moosbrunn,16.463,48.02,20
 28,Petersdorf I,16.026,46.918,20
-55,Forchtenstein,16.344,47.712,28
+66,Forchtenstein,16.344,47.712,39
 66,Halbenrain,15.948,46.722,24
 28,Sauberg,16.126,47.161,20
 24,Mannswoerth,16.515,48.147,20
@@ -3466,12 +3369,11 @@ rs,name,lon,lat,r1
 33,Rohrbrunn,16.115,47.124,20
 24,Spratzeck,16.295,47.574,20
 39,Oberschuetzen,16.208,47.35,39
-94,Raasdorf,16.564,48.247,33
+79,Raasdorf,16.564,48.247,28
 28,Unterschuetzen,16.202,47.321,20
 39,Mitterndorf an der Fischa,16.47,47.997,28
 28,Kalch,16.011,46.841,20
 46,Stuben,16.247,47.428,20
-160,Gross-Enzersdorf,16.55,48.201,55
 28,Hohenruppersdorf,16.652,48.464,28
 24,Litzelsdorf,16.162,47.208,20
 79,Stang,16.295,47.537,20
@@ -3481,9 +3383,9 @@ rs,name,lon,lat,r1
 39,Ungerbach,16.272,47.471,24
 39,Obersulz,16.673,48.503,28
 94,Neuhaus am Klausenbach,16.031,46.869,33
-66,Steinbrunn,16.416,47.834,28
+55,Steinbrunn,16.416,47.834,28
 39,Ginzersdorf,16.722,48.627,20
-79,Mariasdorf,16.232,47.367,20
+66,Mariasdorf,16.232,47.367,20
 28,Maustrenk,16.701,48.572,24
 24,Parbasdorf,16.589,48.28,20
 28,Magland,16.073,46.967,20
@@ -3491,7 +3393,7 @@ rs,name,lon,lat,r1
 39,Poelten,15.982,46.744,20
 33,Bad Tatzmannsdorf,16.227,47.334,20
 24,Blumau,16.312,47.547,20
-28,Hornstein,16.443,47.879,28
+24,Hornstein,16.443,47.879,24
 28,Schwarzenbach,16.349,47.638,20
 822,Oberwart,16.21,47.286,276
 94,Bernstein,16.258,47.405,46
@@ -3501,7 +3403,6 @@ rs,name,lon,lat,r1
 24,Niedersulz,16.682,48.484,20
 276,Stegersbach,16.166,47.16,94
 33,Lembach,16.31,47.518,20
-134,Mattersburg,16.396,47.737,94
 33,Bonisdorf,16.04,46.842,20
 24,Muehlleiten,16.566,48.169,20
 39,Ebergassing,16.519,48.046,20
@@ -3533,7 +3434,7 @@ rs,name,lon,lat,r1
 46,Hirm,16.454,47.788,33
 24,Gillersdorf,16.14,46.996,20
 24,Neusiedl,16.176,47.08,20
-39,Rohrbach bei Mattersburg,16.426,47.709,20
+39,Rohrbach bei Mattersburg,16.426,47.709,24
 28,Untermuehl,16.213,47.165,20
 33,Limbach,16.171,47.061,20
 33,Eisenzicken,16.258,47.275,20
@@ -3556,19 +3457,18 @@ rs,name,lon,lat,r1
 33,Sankt Martin an der Raab,16.134,46.921,20
 55,Koenigsdorf,16.17,47.006,46
 28,Antau,16.478,47.773,20
-94,Fischamend,16.613,48.119,66
+66,Fischamend,16.613,48.119,66
 39,Pilgersdorf,16.349,47.44,33
 24,Siget in der Wart,16.278,47.261,20
 33,Franzensdorf,16.643,48.191,28
 33,Goetzendorf an der Leitha,16.577,48.014,33
 24,Jabing,16.273,47.239,20
 24,Rauchwart,16.231,47.133,20
-79,Enzersdorf an der Fischa,16.606,48.083,28
+94,Enzersdorf an der Fischa,16.606,48.083,28
 39,Kukmirn,16.209,47.075,39
 33,Eisenberg an der Raab,16.141,46.905,20
 28,Kaisersdorf,16.396,47.536,20
-94,Stotzing,16.546,47.905,20
-134,Eisenstadt,16.525,47.844,134
+112,Stotzing,16.546,47.905,20
 33,Au am Leithaberge,16.557,47.924,20
 39,Neuberg im Burgenland,16.259,47.169,33
 55,Hausbrunn,16.83,48.628,24
@@ -3576,12 +3476,12 @@ rs,name,lon,lat,r1
 24,Deutsch Gerisdorf,16.362,47.413,20
 24,Loipersbach im Burgenland,16.474,47.696,20
 33,Drassmarkt,16.403,47.513,28
-331,Gaenserndorf,16.724,48.338,160
+331,Gaenserndorf,16.724,48.338,112
 79,Velm,16.774,48.468,39
 39,Zahling,16.213,47.026,24
 39,Markt Sankt Martin,16.427,47.565,20
 24,Rohrbach an der Teich,16.287,47.21,20
-46,Hof am Leithaberge,16.576,47.945,24
+39,Hof am Leithaberge,16.576,47.945,24
 28,Maria Bild,16.187,46.959,20
 39,Leopoldsdorf im Marchfelde,16.687,48.223,39
 160,Bernhardsthal,16.868,48.693,33
@@ -3648,15 +3548,15 @@ rs,name,lon,lat,r1
 24,Kleinmuerbisch,16.325,47.032,20
 66,Haringsee,16.786,48.193,28
 46,Burg,16.405,47.213,20
-39,Wilfleinsdorf,16.722,48.012,28
-39,Goettlesbrunn,16.74,48.057,20
+33,Wilfleinsdorf,16.722,48.012,28
+39,Goettlesbrunn,16.74,48.057,24
 28,Bahnhofsiedlung,16.814,48.247,20
 46,Schandorf,16.421,47.242,20
 33,Pframa,16.783,48.164,20
 28,Harmisch,16.385,47.147,20
 55,Oberloisdorf,16.508,47.447,46
 66,Purbach am Neusiedler See,16.693,47.915,55
-79,Oggau am Neusiedler See,16.664,47.833,28
+28,Oggau am Neusiedler See,16.664,47.833,28
 46,Rattersdorf,16.499,47.408,20
 39,Eckartsau,16.797,48.146,39
 28,Urbersdorf,16.374,47.057,24
@@ -3669,14 +3569,12 @@ rs,name,lon,lat,r1
 33,Nebersdorf,16.568,47.516,20
 33,Wildungsmauer,16.803,48.111,28
 33,Scharndorf,16.798,48.094,20
-160,Bruck an der Leitha,16.775,48.028,66
 28,Hoeflein,16.791,48.067,20
 24,Deutsch Ehrensdorf,16.414,47.097,24
-24,Bruckneudorf,16.778,48.017,20
 28,Deutsch-Schuetzen,16.448,47.164,20
 24,Witzelsdorf,16.836,48.152,20
 24,Hoell,16.44,47.142,20
-397,Deutschkreutz,16.624,47.601,134
+397,Deutschkreutz,16.624,47.601,112
 33,Steinfurt,16.418,47.071,20
 66,Strem,16.415,47.044,46
 55,Marchegg,16.908,48.28,46
@@ -3686,7 +3584,7 @@ rs,name,lon,lat,r1
 55,Eberau,16.461,47.108,39
 39,Groissenbrunn,16.901,48.222,20
 66,Engelhartstetten,16.886,48.182,39
-46,Pachfurth,16.838,48.049,28
+55,Pachfurth,16.838,48.049,28
 28,Marchegg-Bahnhof,16.918,48.253,20
 79,Petronell-Carnuntum,16.865,48.112,20
 94,Gaas,16.462,47.084,20
@@ -3697,12 +3595,12 @@ rs,name,lon,lat,r1
 66,Lutzmannsburg,16.636,47.464,55
 55,Moschendorf,16.477,47.058,33
 33,Bad Deutsch-Altenburg,16.904,48.134,24
-331,Neusiedl am See,16.846,47.946,160
+160,Neusiedl am See,16.846,47.946,55
 33,Markthof,16.958,48.192,33
 160,Illmitz,16.8,47.763,66
 28,Hundsheim,16.938,48.118,20
 39,Podersdorf am See,16.837,47.855,39
-571,Hainburg an der Donau,16.95,48.146,112
+276,Hainburg an der Donau,16.95,48.146,112
 39,Weiden am See,16.868,47.927,20
 39,Neudorf,16.928,48.015,28
 46,Prellenkirchen,16.952,48.075,46
@@ -3711,9 +3609,9 @@ rs,name,lon,lat,r1
 46,Edelstal,16.989,48.098,20
 66,Gattendorf,16.981,48.015,24
 39,Moenchhof,16.943,47.881,20
-230,Frauenkirchen,16.926,47.836,46
+331,Frauenkirchen,16.926,47.836,46
 28,Berg,17.038,48.103,20
-94,Zurndorf,17.004,47.983,66
+79,Zurndorf,17.004,47.983,66
 94,Pama,17.033,48.048,28
 55,Pamhagen,16.906,47.7,24
 28,Sankt Andrae am Zicksee,16.942,47.784,28
@@ -3722,3 +3620,81 @@ rs,name,lon,lat,r1
 39,Tadten,16.988,47.764,24
 79,Deutsch Jahrndorf,17.106,48.011,39
 112,Andau,17.033,47.776,66
+24,Wien,16.359,48.202,20
+33,Linz,14.29,48.284,20
+1419,Bregenz,9.721,47.486,986
+397,Villach,13.844,46.613,276
+230,Baden,16.242,48.004,160
+94,Kaiserebersdorf,16.46,48.159,46
+79,Hall in Tirol,11.515,47.289,66
+331,Lienz,12.788,46.829,276
+571,Kufstein,12.17,47.586,331
+112,Eisenstadt,16.508,47.843,112
+112,Bad Vöslau-Kottingbrunn,16.22,47.951,46
+94,Gratwein-Gratkorn,15.33,47.129,55
+192,Voitsberg,15.137,47.06,112
+230,Hallein,13.101,47.687,94
+134,Mattersburg,16.424,47.739,94
+276,Waidhofen an der Ybbs,14.767,47.984,112
+160,St. Georgen an der Gusen-Mauthausen,14.464,48.261,79
+160,Essling,16.523,48.212,46
+66,Rankweil,9.648,47.289,33
+192,Reutte,10.713,47.486,192
+33,Wattens,11.583,47.296,33
+192,Landeck,10.567,47.148,94
+397,Bad Ischl,13.605,47.712,160
+39,Trofaiach,15.007,47.417,39
+112,Brixlegg-Kramsach,11.887,47.434,94
+276,Fulpmes,11.34,47.138,112
+79,Berndorf,16.112,47.944,55
+397,Mattighofen,13.157,48.096,160
+112,Langenlois,15.705,48.465,46
+571,Schärding,13.441,48.465,192
+192,Stadl-Paura-Lambach,13.878,48.089,79
+66,Ebreichsdorf,16.416,47.959,66
+66,Wolkersdorf im Weinviertel,16.523,48.383,66
+112,Judenburg,14.653,47.17,94
+476,Bruck an der Leitha,16.779,48.025,160
+331,Mayrhofen,11.87,47.197,112
+134,Zell am See,12.799,47.317,94
+331,Gmünd,14.97,48.764,112
+112,Erlauf,15.181,48.207,112
+33,St.Andrä-Wördern,16.193,48.331,33
+192,Braunau am Inn,13.041,48.255,134
+66,Höchst,9.636,47.46,24
+55,Ebelsberg-Wambach,14.334,48.239,24
+230,Kirchdorf-Micheldorf,14.127,47.895,160
+79,Sierning,14.326,48.04,55
+46,Traiskirchen,16.293,48.021,24
+134,Feldkirchen in Kärnten,14.1,46.716,94
+39,Ansfelden-Haid,14.252,48.205,20
+230,Gleisdorf,15.711,47.108,79
+28,Deutsch-Wagram,16.577,48.309,20
+276,Hollabrunn,16.081,48.556,134
+160,Ottensheim,14.16,48.348,66
+160,Pregarten-Wartberg-Hagenberg,14.519,48.353,79
+55,Zeltweg,14.75,47.193,39
+192,Ebensee am Traunsee,13.766,47.8,79
+94,Eferding,14.019,48.306,79
+94,Vöcklabruck,13.656,48.002,79
+79,Schwanenstadt,13.774,48.053,55
+79,Grieskirchen,13.83,48.235,79
+66,Ybbs an der Donau,15.084,48.18,55
+476,Mürzzuschlag,15.679,47.605,192
+46,Fohnsdorf,14.68,47.199,24
+230,Bürmoos,12.932,47.99,112
+160,Pinkafeld,16.125,47.366,66
+160,Wieselburg,15.139,48.127,39
+46,Neufeld an der Leitha,16.373,47.871,46
+94,Neulengbach,15.911,48.196,94
+160,Schruns,9.908,47.081,66
+160,Gloggnitz,15.947,47.673,39
+192,Herzogenburg,15.697,48.283,66
+192,Horn,15.649,48.669,160
+39,Bad Hall,14.208,48.033,39
+79,Kundl,11.982,47.477,46
+230,Tiefgraben,13.338,47.853,112
+112,Fügen,11.85,47.334,46
+160,Bad Goisern am Hallstättersee,13.63,47.631,66
+55,Schwarzach im Pongau,13.149,47.326,28
+112,Traismauer,15.733,48.352,55

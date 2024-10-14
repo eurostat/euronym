@@ -18,20 +18,18 @@ rs,name,lon,lat,r1
 123,Melahverfi Hvalfirdi,-21.849,64.382,86
 103,Hafnir,-22.679,63.933,72
 176,Keflavik og Njardvik,-22.548,63.998,176
-363,Grindavik,-22.434,63.843,123
+303,Grindavik,-22.434,63.843,123
 103,Vogar,-22.377,63.984,50
-435,Akranes,-22.058,64.319,147
+435,Akranes,-22.058,64.319,176
 303,Budardalur,-21.762,65.109,303
 363,Borgarnes,-21.91,64.545,147
-60,Alftanes,-22.013,64.11,50
 123,Drangsnes,-21.44,65.69,72
 60,Hvanneyri,-21.766,64.562,50
-176,Grundarhverfi Kjalarnesi,-21.831,64.242,72
+211,Grundarhverfi Kjalarnesi,-21.831,64.242,72
 253,Bifrost,-21.549,64.766,147
-103,Mosfellsbaer,-21.69,64.167,72
+103,Mosfellsbaer,-21.69,64.167,86
 751,Holmavik,-21.683,65.701,303
-60,Seltjarnarnes,-21.983,64.151,50
-100000,Reykjavik,-21.897,64.133,100000
+86,Seltjarnarnes,-21.983,64.151,50
 72,Solheimar,-20.642,64.066,50
 303,Hvammstangi,-20.943,65.398,303
 147,Thorlakshofn,-21.378,63.861,123
@@ -87,3 +85,4 @@ rs,name,lon,lat,r1
 211,Stodvarfjordur,-13.874,64.833,86
 303,Faskrudsfjordur,-14.014,64.93,103
 435,Neskaupstadur,-13.676,65.147,211
+100000,Reykjavík,-21.903,64.115,100000
