@@ -65,15 +65,14 @@ public class EuroNymeProduction {
 
 		//prepare data from inputs
 		//format: name,pop,cc,lon,lat
-		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_ASCII_lat.gpkg", true, true);
-		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_UTF_lat.gpkg", false, true);
-		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_ASCII_all.gpkg", true, false);
-		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_UTF_all.gpkg", false, false);
+		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_ASCII.gpkg", true, false);
+		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_UTF.gpkg", false, false);
+		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_UTF_LATIN.gpkg", false, true);
 		if(true) return;
 
 		//get country codes
 		HashSet<String> ccs = new HashSet<>();
-		ccs.addAll(FeatureUtil.getIdValues(GeoData.getFeatures(basePath + "gisco/tmp/namesStruct_ASCII_all.gpkg"), "cc"));
+		ccs.addAll(FeatureUtil.getIdValues(GeoData.getFeatures(basePath + "gisco/tmp/namesStruct_ASCII.gpkg"), "cc"));
 		ccs.add("EUR");
 		//TODO ccs.add("EU");
 		//TODO ccs.add("EFTA");
@@ -83,7 +82,7 @@ public class EuroNymeProduction {
 		//generate
 		for(String cc : ccs) {
 			for (int lod : new int[] { 20, 50, 100, 200 }) {
-				for(String enc : new String[] {"UTF", "ASCII"}) {
+				for(String enc : new String[] {"UTF", "UTF_LATIN", "ASCII"}) {
 					System.out.println("******* " + cc + " LOD " + lod + " enc="+enc);
 
 					// get input labels
@@ -284,7 +283,6 @@ public class EuroNymeProduction {
 		System.out.println(buP.size() + " features loaded");
 		CoordinateReferenceSystem crsERM = GeoData.getCRS(erm);
 
-		Transliterator transliterator = Transliterator.getInstance("Greek-Latin");
 		for (Feature f : buP) {
 			Feature f_ = new Feature();
 
@@ -330,11 +328,7 @@ public class EuroNymeProduction {
 					}
 				}
 			}
-
-			//transcript to latin
-			if(forceLatin) name = transliterator.transliterate(name);
 			f_.setAttribute("name", name);
-
 
 
 			// lon / lat
@@ -380,10 +374,10 @@ public class EuroNymeProduction {
 		}
 
 
-		/*/ REGIO town names
+		// REGIO town names
 
 		System.out.println("REGIO - town names");
-		String nt_ = basePath + "gisco/geodata/regio_town_names/nt.gpkg";
+		String nt_ = basePath + "regio_town_names/centroides_wgs84.gpkg";
 		ArrayList<Feature> nt = GeoData.getFeatures(nt_, "STTL_ID");
 		System.out.println(nt.size() + " features loaded");
 		CoordinateReferenceSystem crsNT = GeoData.getCRS(nt_);
@@ -393,12 +387,9 @@ public class EuroNymeProduction {
 
 			// name
 			String name = (String) f.getAttribute("STTL_NAME");
-			if (name.length() == 0)
-				continue;
-			if(name.contains(" / "))
-				continue;
+			if (name.length() == 0) continue;
+			if(name.contains(" / ")) continue;
 			f_.setAttribute("name", name);
-
 
 			// lon / lat
 			Point g = f.getGeometry().getCentroid();
@@ -423,7 +414,6 @@ public class EuroNymeProduction {
 
 			out.add(f_);
 		}
-*/
 
 		//manual corrections
 		for(Feature f : out) {
@@ -452,6 +442,18 @@ public class EuroNymeProduction {
 			//	System.out.println(name + " " + f.getAttribute("pop"));
 		}
 
+
+		//transcript to latin
+		if(forceLatin){
+			Transliterator greekToLatin = Transliterator.getInstance("Greek-Latin");
+			Transliterator cyrillicToLatin = Transliterator.getInstance("Cyrillic-Latin");
+			for(Feature f : out) {
+				String name = f.getAttribute("name").toString();
+				name = greekToLatin.transliterate(name);
+				name = cyrillicToLatin.transliterate(name);
+				f.setAttribute("name", name);
+			}		
+		}
 
 		// save output
 		System.out.println("Save " + out.size());
