@@ -33,8 +33,8 @@ import eu.europa.ec.eurostat.jgiscotools.util.Util;
  */
 public class EuroNymeProduction {
 
-	private static String basePath = "/home/juju/Bureau/";
-	private static String version = "v2";
+	private static String basePath = "/home/juju/geodata/";
+	private static String version = "v3";
 
 	//TODO local names, with accents - see in ERM (NAMN). OR: eurogazeeter ?
 	//TODO correct paris position
@@ -275,8 +275,7 @@ public class EuroNymeProduction {
 		// Add ERM BuiltupP
 
 		System.out.println("ERM - BuiltupP");
-		String erm = "/home/juju/geodata/eurogeographics/ERM/data/FullEurope/OpenEuroRegionalMap.gpkg";
-		//basePath + "gisco/geodata/euro-regional-map-gpkg/data/OpenEuroRegionalMap.gpkg";
+		String erm = basePath + "eurogeographics/ERM/data/FullEurope/OpenEuroRegionalMap.gpkg";
 		ArrayList<Feature> buP = GeoData.getFeatures(erm, "BuiltupP", "id");
 		System.out.println(buP.size() + " features loaded");
 		CoordinateReferenceSystem crsERM = GeoData.getCRS(erm);
@@ -373,7 +372,7 @@ public class EuroNymeProduction {
 		}
 
 
-		// REGIO town names
+		/*/ REGIO town names
 
 		System.out.println("REGIO - town names");
 		String nt_ = basePath + "gisco/geodata/regio_town_names/nt.gpkg";
@@ -416,7 +415,7 @@ public class EuroNymeProduction {
 
 			out.add(f_);
 		}
-
+*/
 
 		//manual corrections
 		for(Feature f : out) {
