@@ -20,6 +20,8 @@ import org.locationtech.jts.index.strtree.STRtree;
 import org.opengis.filter.Filter;
 import org.opengis.referencing.crs.CoordinateReferenceSystem;
 
+import com.ibm.icu.text.Transliterator;
+
 import eu.europa.ec.eurostat.jgiscotools.feature.Feature;
 import eu.europa.ec.eurostat.jgiscotools.feature.FeatureUtil;
 import eu.europa.ec.eurostat.jgiscotools.io.CSVUtil;
@@ -280,6 +282,7 @@ public class EuroNymeProduction {
 		System.out.println(buP.size() + " features loaded");
 		CoordinateReferenceSystem crsERM = GeoData.getCRS(erm);
 
+		Transliterator transliterator = Transliterator.getInstance("Greek-Latin");
 		for (Feature f : buP) {
 			Feature f_ = new Feature();
 
@@ -287,8 +290,9 @@ public class EuroNymeProduction {
 			//NAMA: ASCII character - NAMN: utf8
 			// NAMA1 NAMA2 NAMN1 NAMN2
 
+			String name = null;
 			if(ascii) {
-				String name = (String) f.getAttribute("NAMA1");
+				name = (String) f.getAttribute("NAMA1");
 				if (name == null || name.equals("UNK")) {
 					System.out.println("No NAMA1 for " + f.getID() + " " + f.getAttribute("ICC"));
 					name = (String) f.getAttribute("NAMA2");
@@ -305,9 +309,8 @@ public class EuroNymeProduction {
 						}
 					}
 				}
-				f_.setAttribute("name", name);
 			} else {
-				String name = (String) f.getAttribute("NAMN1");
+				name = (String) f.getAttribute("NAMN1");
 				if (name == null || name.equals("UNK")) {
 					System.out.println("No NAMN1 for " + f.getID() + " " + f.getAttribute("ICC"));
 					name = (String) f.getAttribute("NAMN2");
@@ -324,8 +327,10 @@ public class EuroNymeProduction {
 						}
 					}
 				}
-				f_.setAttribute("name", name);
 			}
+			if(name == null || "".equals(name)) continue;
+			String latinName = transliterator.transliterate(name);
+			f_.setAttribute("name", latinName);
 
 
 
