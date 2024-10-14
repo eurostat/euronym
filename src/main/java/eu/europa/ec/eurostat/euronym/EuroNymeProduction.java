@@ -65,16 +65,15 @@ public class EuroNymeProduction {
 
 		//prepare data from inputs
 		//format: name,pop,cc,lon,lat
-		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_ASCII_ltn.gpkg", true, true);
-		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_UTF_ltn.gpkg", false, true);
+		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_ASCII_lat.gpkg", true, true);
+		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_UTF_lat.gpkg", false, true);
 		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_ASCII_all.gpkg", true, false);
 		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_UTF_all.gpkg", false, false);
-
 		if(true) return;
 
 		//get country codes
 		HashSet<String> ccs = new HashSet<>();
-		ccs.addAll(FeatureUtil.getIdValues(GeoData.getFeatures(basePath + "gisco/tmp/namesStruct_ASCII.gpkg"), "cc"));
+		ccs.addAll(FeatureUtil.getIdValues(GeoData.getFeatures(basePath + "gisco/tmp/namesStruct_ASCII_all.gpkg"), "cc"));
 		ccs.add("EUR");
 		//TODO ccs.add("EU");
 		//TODO ccs.add("EFTA");
