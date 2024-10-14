@@ -275,7 +275,8 @@ public class EuroNymeProduction {
 		// Add ERM BuiltupP
 
 		System.out.println("ERM - BuiltupP");
-		String erm = basePath + "gisco/geodata/euro-regional-map-gpkg/data/OpenEuroRegionalMap.gpkg";
+		String erm = "/home/juju/geodata/eurogeographics/ERM/data/FullEurope/OpenEuroRegionalMap.gpkg";
+		//basePath + "gisco/geodata/euro-regional-map-gpkg/data/OpenEuroRegionalMap.gpkg";
 		ArrayList<Feature> buP = GeoData.getFeatures(erm, "BuiltupP", "id");
 		System.out.println(buP.size() + " features loaded");
 		CoordinateReferenceSystem crsERM = GeoData.getCRS(erm);
