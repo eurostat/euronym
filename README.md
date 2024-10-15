@@ -23,7 +23,7 @@ The parameters are:
 
 | Parameter | Supported values | Description |
 | ------------- | ------------- |-------------|
-| `ENCODING` | `UTF` `ASCII` | The encoding. By default, you should use `UTF`. |
+| `ENCODING` | `UTF_LATIN` `UTF` `ASCII` | The encoding. By default, you should use `UTF_LATIN`. |
 | `RESOLUTION` | `20` `50` `100` `200` | The most detailled resolution. The unit is the zoom level of your visualisation expressed in *m/pixel*. If small, more labels are necessary and the file gets larger. |
 | `GEO` | See for example [here](https://github.com/eurostat/euronym/tree/main/pub/v2/UTF/20). `EUR` is for the entire dataset. | The code of the geographic entity to cover. |
 
