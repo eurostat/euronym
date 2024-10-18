@@ -56,8 +56,7 @@ Longitude and latitude are expressed in ETRS89 ([EPSG 4258](https://spatialrefer
 Euronym relies on the following datasets:
 
 - [EuroRegionalMap](https://eurogeographics.org/maps-for-europe/euroregionalmap/), by [EuroGeographics](https://eurogeographics.org/) (class *BuiltupP*).
-- [European commission town names table](https://ec.europa.eu/regional_policy/en/information/maps/urban-centres-towns)
-
+- [European commission town names table](https://ec.europa.eu/regional_policy/information-sources/maps/urban-centres-towns_en)
 The transformation process is available [here](https://github.com/eurostat/euronym/tree/main/src/), based on [GeoTools library](https://www.geotools.org).
 
 ## Own deployment
