@@ -70,7 +70,7 @@ To deploy your own stable version of Euronym, `git clone` the repository and sim
 | | |
 |-|-|
 | *contributors* | [<img src="https://github.com/jgaffuri.png" height="40" />](https://github.com/jgaffuri)  |
-| *version* | 2 |
+| *version* | 3 |
 | *status* | Since 2022 |
 | *license* | [EuroGeographics Open Data Licence](https://www.mapsforeurope.org/licence), [EUPL 1.2](https://github.com/eurostat/Nuts2json/blob/master/LICENSE) for the code. |
 
@@ -84,7 +84,7 @@ Feel free to [ask support](https://github.com/eurostat/euronym/issues/new), fork
 
 The copyright of the input datasets apply:
 
-- [EuroGeographics Open Data Licence](https://www.mapsforeurope.org/licence). [EuroRegionalMap](https://eurogeographics.org/maps-for-europe/euroregionalmap/) dataset is protected by copyright and other applicable laws. It is provided under the terms of this licence, which you accept by using it and accepting the terms of the licence. Note that **© EuroGeographics 2022** attribution must be added.
+- [EuroGeographics Open Data Licence](https://www.mapsforeurope.org/licence). [EuroRegionalMap](https://eurogeographics.org/maps-for-europe/euroregionalmap/) dataset is protected by copyright and other applicable laws. It is provided under the terms of this licence, which you accept by using it and accepting the terms of the licence. Note that **© EuroGeographics 2024** attribution must be added.
 
 
 ## Disclaimer
