@@ -291,7 +291,7 @@ public class EuroNymeProduction {
 			// NAMA1 NAMA2 NAMN1 NAMN2
 
 			String name = null;
-			if(ascii || forceLatin && (icc.equals("GR") || icc.equals("CY"))) {
+			if(ascii || forceLatin && (icc.equals("GR") || icc.equals("CY") || icc.equals("UA") || icc.equals("MK") || icc.equals("GE"))) {
 				name = (String) f.getAttribute("NAMA1");
 				if (name == null || name.equals("UNK")) {
 					System.out.println("No NAMA1 for " + f.getID() + " " + f.getAttribute("ICC"));
