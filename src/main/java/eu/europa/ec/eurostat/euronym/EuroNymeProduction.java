@@ -434,6 +434,7 @@ public class EuroNymeProduction {
 
 			if(name.equals("Brussel")) f.setAttribute("pop", 1200000); //210000);
 			if(name.equals("Brussel")) f.setAttribute("name", "Bruxelles/Brussel");
+			if(name.equals("Vaduz")) f.setAttribute("pop", 12000); //5300);
 
 			if(name.contains("Arrondissement"))
 				f.setAttribute("name", name.replace(" Arrondissement", ""));
