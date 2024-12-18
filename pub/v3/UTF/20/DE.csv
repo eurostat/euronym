@@ -1,4 +1,7 @@
 rs,name,lon,lat,r1
+66,Rönnebeck,11.641,52.769,55
+39,Boitin,11.98,53.759,20
+24,Wedringen,11.465,52.273,20
 55,Stützerbach,10.86,50.636,24
 46,Hintermoos,9.712,47.799,24
 46,Baustetten,9.885,48.205,20
@@ -12,6 +15,7 @@ rs,name,lon,lat,r1
 46,Tribur,10.279,49.15,24
 66,Ankenreute,9.752,47.884,28
 66,Lindenberg,11.735,53.025,24
+24,Hillersleben-Siedlung,11.476,52.284,20
 28,Mittelsteinach,10.547,49.814,24
 33,Kottenbrunn,10.64,50.051,20
 79,Mestlin,11.927,53.581,46
@@ -196,6 +200,7 @@ rs,name,lon,lat,r1
 24,Sildemow,12.14,54.052,20
 28,Grund,9.779,47.806,20
 24,Büchel,11.155,51.248,20
+24,Meseberg,11.529,52.272,20
 46,Vogt,9.767,47.775,46
 46,Kettmannshausen,10.976,50.769,28
 39,Techentin,11.987,53.588,28
@@ -25727,6 +25732,7 @@ rs,name,lon,lat,r1
 33,Reichenbach,9.992,48.855,20
 134,Feuchtwangen,10.331,49.168,134
 79,Granzin,11.944,53.503,39
+28,Storbeck,11.691,52.765,28
 55,Wettringen,10.157,49.258,39
 39,Reutti,9.868,48.555,20
 55,Kassow,12.074,53.878,24
@@ -26425,7 +26431,7 @@ rs,name,lon,lat,r1
 28,Oberbreitenau,10.276,49.338,20
 33,Groß Niendorf,11.851,53.59,24
 46,Gladigau,11.57,52.771,46
-33,Einwinkel,11.578,52.796,20
+39,Einwinkel,11.578,52.796,20
 46,Weingarten,9.641,47.807,20
 79,Neuendambach,10.724,50.471,33
 134,Wörnitz,10.244,49.255,24
@@ -26644,7 +26650,7 @@ rs,name,lon,lat,r1
 24,Rudelsdorf,10.735,50.338,24
 33,Schielo,11.219,51.618,20
 28,Bentwisch,11.726,53.039,20
-55,Klein Rossau,11.638,52.786,46
+33,Klein Rossau,11.638,52.786,33
 39,Dosdorf,10.913,50.798,20
 39,Tannau,9.644,47.663,28
 55,Achstetten,9.898,48.259,24
@@ -26672,6 +26678,3 @@ rs,name,lon,lat,r1
 46,Günstedt,11.08,51.222,20
 28,Buchholz,12.062,54.007,20
 24,Berolzheim,10.433,49.546,24
-33,Rönnebeck,11.641,52.769,33
-39,Boitin,11.98,53.759,20
-24,Wedringen,11.465,52.273,20

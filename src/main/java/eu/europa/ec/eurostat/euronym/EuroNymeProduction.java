@@ -460,27 +460,6 @@ public class EuroNymeProduction {
 			}
 		}
 
-		System.out.println(out.iterator().next().getGeometry());
-
-		/*
-		 * addFeature(out, crsNT, "", "PT", , , );
-		 * 
-		 * STTL_NAME: Lagoa
-		 * POPL_2011: 5203
-		 * 37,7469° -25,5798°
-		 * 
-		 * STTL_NAME: Ribeira Grande
-		 * POPL_2011: 7872
-		 * 37,8217° -25,5231°
-		 * 
-		 * addFeature(out, crsNT, "", "PT", , , );
-		 * addFeature(out, crsNT, "", "PT", , , );
-		 * 
-		 * STTL_NAME: Vila Franca do Campo
-		 * POPL_2011: 7175
-		 * 37,7174° -25,4357°
-		 */
-
 		// manual additions for few missing ones
 		addFeature(out, "Vila do Porto", "PT", 5552, -25.14535, 36.95069);
 		addFeature(out, "Angra do Heroísmo", "PT", 6480, -27.2114, 38.6447);
@@ -488,6 +467,9 @@ public class EuroNymeProduction {
 		addFeature(out, "Capelas", "PT", 7191, -25.68776, 37.83288);
 		addFeature(out, "Ponta Delgada", "PT", 29526, -25.66484, 37.74029);
 		addFeature(out, "Rabo de Peixe", "PT", 5496, -25.5791, 37.8162);
+		addFeature(out, "Lagoa", "PT", 5203, -25.5798, 37.7469);
+		addFeature(out, "Ribeira Grande", "PT", 7872, -25.5231, 37.8217);
+		addFeature(out, "Vila Franca do Campo", "PT", 7175, -25.4357, 37.7174);
 
 		// save output
 		System.out.println("Save " + out.size());
@@ -503,9 +485,9 @@ public class EuroNymeProduction {
 		f.setAttribute("lon", lon);
 		f.setAttribute("lat", lat);
 		Point geom = new GeometryFactory().createPoint(new Coordinate(lat, lon));
-		System.out.println(geom);
-		f.setGeometry(CRSUtil.toLAEA(geom, CRSUtil.getWGS_84_CRS()));
-		System.out.println(f.getGeometry());
+		geom = (Point) CRSUtil.toLAEA(geom, CRSUtil.getWGS_84_CRS());
+		geom = new GeometryFactory().createPoint(new Coordinate(geom.getY(), geom.getX()));
+		f.setGeometry(geom);
 		out.add(f);
 	}
 

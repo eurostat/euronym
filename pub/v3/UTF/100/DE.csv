@@ -12,6 +12,7 @@ rs,name,lon,lat,r1
 206,Marnitz,11.928,53.318,100
 144,Schlüsselfeld,10.619,49.757,100
 355,Osterburg (Altmark),11.754,52.788,144
+144,Vollenschier,11.667,52.534,100
 120,Langenau,10.121,48.499,100
 172,Perleberg,11.864,53.076,100
 296,Sangerhausen,11.299,51.474,247
@@ -24,7 +25,6 @@ rs,name,lon,lat,r1
 172,Berlstedt,11.244,51.062,100
 206,Weißenhorn,10.16,48.304,100
 355,Ansbach,10.577,49.304,247
-144,Angern,11.734,52.358,100
 882,Coburg,10.964,50.258,296
 120,Lindenberg i.Allgäu,9.885,47.602,100
 120,Staßfurt,11.582,51.857,100
@@ -78,7 +78,6 @@ rs,name,lon,lat,r1
 206,Möckern,11.953,52.14,100
 120,Pabsdorf,11.974,52.194,100
 120,Gumtow,12.25,52.978,100
-120,Ladeburg,11.937,52.082,100
 172,Malchow,12.423,53.475,120
 296,Erlangen,11.003,49.595,120
 144,Wemding,10.724,48.872,100
@@ -1061,7 +1060,6 @@ rs,name,lon,lat,r1
 296,Gotha,10.703,50.949,172
 120,Fleetmark,11.39,52.794,100
 144,Hornbach,9.29,49.591,100
-144,Groß Labenz,11.776,53.78,100
 120,Thielbeer,11.481,52.847,100
 144,Hailfingen,8.868,48.527,100
 172,Mittelkalbach,9.641,50.424,100
@@ -1170,7 +1168,7 @@ rs,name,lon,lat,r1
 144,Wernigerode,10.784,51.834,144
 355,Salzwedel,11.154,52.853,296
 355,Schwäbisch Hall,9.735,49.113,247
-144,Bad Kleinen,11.473,53.771,100
+172,Bad Kleinen,11.473,53.771,100
 144,Hain,10.148,50.11,100
 120,Wasungen,10.369,50.664,100
 247,Pfullendorf,9.256,47.924,120
@@ -1215,13 +1213,15 @@ rs,name,lon,lat,r1
 120,Altshausen,9.538,47.934,100
 120,Geislingen an der Steige,9.836,48.623,100
 296,Calvörde,11.293,52.395,100
+172,Kalbe (Milde),11.389,52.656,100
 144,Ohrdruf,10.734,50.827,100
 206,Uffenheim,10.234,49.544,144
 144,Crailsheim,10.071,49.136,144
-206,Kahrstedt,11.43,52.709,100
+120,Kahrstedt,11.43,52.709,100
 247,Ehingen (Donau),9.725,48.284,144
 144,Rothenburg ob der Tauber,10.179,49.377,144
 120,Blaubeuren,9.784,48.413,100
+120,Laase,11.821,53.8,100
 247,Ellwangen (Jagst),10.132,48.963,100
 206,Hildburghausen,10.729,50.426,144
 144,Eggenstedt,11.236,52.102,100

@@ -5208,6 +5208,7 @@ rs,name,lon,lat,r1
 72,Harpe,11.558,52.918,50
 72,Aulendorf,9.638,47.951,60
 86,Zierzow,11.686,53.284,60
+72,Packebusch,11.504,52.755,60
 60,Kuhbier,12.093,53.149,50
 60,Saal,12.495,54.31,60
 86,Prerow,12.568,54.447,60
@@ -5316,7 +5317,6 @@ rs,name,lon,lat,r1
 626,Aalen,10.092,48.835,363
 60,Groß Godems,11.795,53.364,50
 103,Dornstadt,9.943,48.466,50
-60,Schmersau,11.591,52.76,60
 72,Hohen Pritz,11.892,53.629,50
 211,Biberach an der Riß,9.792,48.097,211
 72,Schwabsberg,10.138,48.928,50
