@@ -37,7 +37,7 @@ public class EuroNymeProduction {
 	private static String basePath = "/home/juju/geodata/";
 	private static String version = "v3";
 
-	private static boolean limitUseRegio = false;
+	private static boolean limitUseRegio = true;
 
 	// remove regio things
 	// hard validation on 1:1M
