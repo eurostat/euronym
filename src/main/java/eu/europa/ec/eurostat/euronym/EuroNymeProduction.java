@@ -36,6 +36,10 @@ public class EuroNymeProduction {
 	private static String basePath = "/home/juju/geodata/";
 	private static String version = "v3";
 
+
+	//remove regio things
+	//hard validation on 1:1M
+
 	//TODO local names, with accents - see in ERM (NAMN). OR: eurogazeeter ?
 	//TODO correct paris position
 	//TODO:check EBM_NAM PPL NAMA NAMN
