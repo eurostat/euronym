@@ -2,10 +2,11 @@ rs,name,lon,lat,r1
 363,Camariñas,-9.182,43.134,147
 60,Mallas,-9.255,42.935,50
 72,Senande,-9.146,43.041,50
+435,Cee,-9.188,42.955,176
 147,Laxe,-9.003,43.216,123
-147,O Pindo,-9.134,42.893,50
+147,O Pindo,-9.134,42.893,60
 103,Os Muíños,-9.19,43.083,50
-123,Lires,-9.243,42.998,50
+103,Lires,-9.243,42.998,50
 72,Camelle,-9.091,43.184,60
 72,Fisterra,-9.263,42.906,50
 60,Braño,-9.093,43.148,50
@@ -29,160 +30,195 @@ rs,name,lon,lat,r1
 103,Bormoio,-8.803,43.158,72
 86,Cristelos,-8.763,42.033,50
 176,Muros,-9.057,42.774,50
-86,Porto do Son,-9.004,42.724,86
+72,Porto do Son,-9.004,42.724,72
 72,Melón,-8.213,42.258,50
 86,A Laracha,-8.584,43.248,50
 60,Cances Grande,-8.732,43.245,50
 72,O Pino de Val,-8.953,42.908,50
+72,A Pobra do Caramiñal,-8.938,42.603,50
+147,Cambados,-8.812,42.514,60
+60,Deiro,-8.786,42.55,50
+123,Padrón,-8.659,42.737,86
 60,A Pereiriña,-8.871,42.99,50
+72,Sanxenxo,-8.805,42.4,60
 123,Boaña de Arriba,-8.79,43.101,50
+176,Baiona,-8.85,42.12,86
 72,Goente,-7.977,43.438,50
 103,Camporrapado,-8.363,42.804,50
 72,O Maio,-8.975,42.797,50
+86,Gondomar,-8.76,42.112,50
 60,A Imende,-8.641,43.301,50
-253,Carballo,-8.691,43.212,211
+60,O Calvario,-8.834,41.938,50
+253,Carballo,-8.691,43.212,176
 253,Santa Comba,-8.807,43.033,103
+176,Viveiro,-7.592,43.663,123
 86,Vilachá,-7.529,43.725,50
 123,Soutelo de Montes,-8.3,42.535,50
+123,A Esfarrapada,-8.558,42.101,50
 60,Vilatuxe,-8.188,42.605,50
-176,Tarrío,-9.028,42.672,50
+522,Vilalba,-7.678,43.297,147
+123,Tarrío,-9.028,42.672,50
 72,Brués,-8.148,42.451,50
 72,A Ribela,-7.335,43.629,50
 60,Bazar,-8.722,43.071,50
 60,Guntián,-8.62,43.194,50
+435,Noia,-8.886,42.785,103
 103,San Vicenzo,-8.757,42.961,50
 86,A Baiuca,-8.509,43.304,72
 72,Pousada,-8.871,42.749,50
 60,Moimenta,-8.887,42.716,50
 147,Negreira,-8.736,42.911,103
 86,Bembibre,-8.659,43.025,72
-60,San Pedro de Visma,-8.429,43.368,50
 123,A Silva,-8.564,43.156,60
 60,Valle,-8.483,43.277,50
+147,Boiro de Arriba,-8.884,42.647,60
+8023,A Coruña,-8.409,43.365,1556
 72,Portomouro de Abaixo,-8.649,42.964,50
 86,A Calle,-8.731,42.833,60
 86,A Pontepedra,-8.551,43.09,50
-123,Orro,-8.425,43.28,50
+86,Orro,-8.425,43.28,50
 60,O Campo da Feira,-8.471,43.191,60
 72,Queixas,-8.478,43.152,50
 123,Quintá,-8.209,43.553,50
-72,O Temple,-8.354,43.316,50
+86,Teaio,-8.753,42.715,50
+72,Lorbé,-8.309,43.39,50
+123,O Temple,-8.354,43.316,50
 72,Valdoviño,-8.148,43.612,60
+60,Rial,-8.77,42.654,50
+176,Ferrol,-8.222,43.487,123
 72,Viaño Pequeno,-8.515,43.028,50
 72,Ares,-8.243,43.429,50
-60,O Monte,-8.813,42.538,50
-123,Carral,-8.355,43.228,72
+147,Carral,-8.355,43.228,72
 86,A Ponte,-8.715,42.669,50
+751,Vilagarcía,-8.763,42.597,147
 60,Son de Abaixo,-8.533,42.929,50
+60,Neda,-8.158,43.499,50
 60,O Mesón do Vento,-8.385,43.15,50
+435,Cedeira,-8.051,43.661,123
 60,Castrelos,-8.394,43.119,50
 363,Santiago de Compostela,-8.539,42.879,363
 363,Ordes,-8.403,43.079,147
+103,Coirón,-8.803,42.462,50
 72,Os Tilos,-8.539,42.844,50
 176,Pontedeume,-8.169,43.407,72
 103,A Carreira,-8.205,43.347,50
-86,O Freixo,-8.749,42.521,60
 147,Sigüeiro,-8.443,42.968,72
-123,Montouto,-8.559,42.785,50
+72,A Cruz,-8.73,42.529,50
+103,Montouto,-8.559,42.785,50
 123,A Igrexa,-8.303,43.135,72
-211,Betanzos,-8.207,43.277,103
+253,Betanzos,-8.207,43.277,103
+86,Caldas de Reis,-8.643,42.605,72
 60,Deseiro de Arriba,-8.476,42.823,50
 72,As Neves,-8.071,43.435,60
 176,Cariño,-7.872,43.741,123
 103,As Felgosas,-7.953,43.611,50
+211,Bueu,-8.785,42.326,50
 86,Prada,-8.088,43.38,50
 72,Vilar,-8.467,42.797,50
 60,Areas,-8.135,43.295,50
 123,Lois,-8.183,43.218,50
-86,Santo Antoniño,-8.636,42.524,50
+147,Santo Antoniño,-8.636,42.524,60
 60,A Pobra,-8.243,43.116,50
-72,Santa Lucía de Moraña,-8.588,42.588,72
 60,O Pedrouzo,-8.363,42.904,60
+72,Marín,-8.703,42.392,50
+86,Cangas,-8.785,42.264,50
 123,Ortigueira,-7.851,43.685,50
-176,A Igrexa,-7.942,43.536,72
+211,A Igrexa,-7.942,43.536,72
+211,A Estrada,-8.486,42.689,147
 103,O Chao da Viña,-8.077,43.304,60
 86,Ponte Carreira,-8.248,43.021,60
-103,O Porto,-8.886,42.052,50
-72,Os Fontáns,-8.592,42.48,50
+211,Pontevedra,-8.64,42.428,147
+60,Patos,-8.824,42.154,50
+123,O Porto,-8.886,42.052,50
+86,Os Fontáns,-8.592,42.48,50
 86,A Salceda,-8.279,42.926,50
-176,A Estación,-8.144,43.124,103
+253,A Estación,-8.144,43.124,103
 103,Fonte Díaz,-8.305,42.867,50
+2240,Vigo,-8.726,42.229,901
 86,O Arrabal,-8.873,42.001,50
+123,A Calle,-8.608,42.342,50
 60,Ru,-8.121,43.072,50
 147,Ponte Aranga,-8.015,43.234,50
 72,A Garrida,-8.72,42.168,50
-363,As Pontes de García Rodríguez,-7.86,43.452,176
-60,Pazos,-8.515,42.453,50
+253,As Pontes de García Rodríguez,-7.86,43.452,211
+86,Pazos,-8.515,42.453,50
 147,Caión,-7.736,43.642,60
 72,A Castellana,-8.024,43.191,50
-147,O Vicedo,-7.672,43.733,60
+176,O Vicedo,-7.672,43.733,72
+626,A Guarda,-8.874,41.901,176
 72,Foro,-8.106,43.048,50
 147,A Gándara,-8.132,43.002,50
+147,Redondela,-8.608,42.283,72
 72,Teixeiro,-8.036,43.14,60
 86,A Bandeira,-8.303,42.73,50
 147,Arzúa,-8.16,42.929,86
 60,Moreira,-8.561,42.324,50
 60,A Moa,-8.261,42.767,50
-72,Ponte Caldelas,-8.501,42.39,72
+103,Ponte Caldelas,-8.501,42.39,72
 72,Cerdedo,-8.39,42.532,50
-176,Forcarei,-8.351,42.589,86
+211,Forcarei,-8.351,42.589,86
 86,San Antoíño,-8.591,42.221,50
-72,O Porriño,-8.616,42.16,72
+86,O Seixo,-8.742,41.991,72
+60,Pazos,-8.529,42.294,50
+86,O Porriño,-8.616,42.16,72
 86,Sobrado,-8.023,43.04,72
 123,Silleda,-8.245,42.699,72
-176,Xermade,-7.812,43.356,60
+176,Xermade,-7.812,43.356,72
 72,Paredes,-8.647,42.083,50
 176,Vila de Cruces,-8.17,42.794,60
 60,Forzáns,-8.446,42.368,50
 123,A Igrexa,-8.451,42.34,50
-211,Tui,-8.644,42.049,86
+123,Tui,-8.644,42.049,86
 176,Guitiriz,-7.894,43.181,147
 147,Ourol,-7.641,43.562,72
 72,O Seixido,-8.379,42.424,50
 60,Casco,-8.487,42.256,50
+253,Ponteareas,-8.504,42.173,123
+176,Melide,-8.012,42.912,176
 72,Xove,-7.511,43.685,50
-86,Souto,-7.972,42.967,50
+103,Souto,-7.972,42.967,50
 103,Mondariz,-8.455,42.233,50
 60,A Pobra de Parga,-7.838,43.162,50
-60,Os Baños,-8.568,42.055,50
+86,Os Baños,-8.568,42.055,50
 72,Agro do Chao,-8.039,42.845,50
 176,Beariz,-8.27,42.466,60
 60,O Regueiro,-8.238,42.503,50
 60,Fontoura,-8.501,42.081,50
-253,Lalín,-8.11,42.66,176
-86,San Cibrao,-7.441,43.694,50
+435,Lalín,-8.11,42.66,176
+103,San Cibrao,-7.441,43.694,50
 86,A Xesta,-8.116,42.618,50
 123,Agolada,-8.02,42.763,72
 72,Santiago de Covelo,-8.362,42.233,50
 72,Feás,-8.209,42.442,50
 86,San Xusto,-8.251,42.375,72
 211,Friol,-7.791,43.029,123
-72,As Neves,-8.413,42.088,50
+86,As Neves,-8.413,42.088,50
 123,Ferreira,-7.44,43.552,72
 103,O Irixo,-8.105,42.523,50
 60,Vilamartín,-7.607,43.282,50
-147,Palas de Rei,-7.868,42.873,72
-176,Burela,-7.362,43.661,123
+123,Palas de Rei,-7.868,42.873,72
+901,Burela,-7.362,43.661,522
 72,Begonte,-7.685,43.15,50
 72,O Castro,-8.045,42.571,50
 123,A Cañiza,-8.274,42.213,86
 60,A Seara,-7.414,43.529,50
-103,O Pazo,-8.312,42.112,60
+211,O Pazo,-8.312,42.112,60
 147,Rodeiro,-7.95,42.651,86
 123,Abadín,-7.487,43.362,72
 103,Leiro,-8.125,42.37,50
 60,Rubián,-7.477,42.654,50
+363,Xinzo de Limia,-7.725,42.064,147
 147,A Feira do Monte,-7.558,43.237,60
 253,Oencia,-6.969,42.547,86
 60,Vilanova,-7.297,43.47,50
-901,Lugo,-7.556,43.011,435
+1081,Lugo,-7.556,43.011,435
 253,O Carballiño,-8.076,42.432,103
 86,Vilamarín,-7.89,42.465,50
-86,O Souto,-7.19,43.544,50
+72,O Souto,-7.19,43.544,50
 211,Rábade,-7.62,43.123,103
 253,Monterroso,-7.833,42.793,123
-60,Fazouro,-7.299,43.597,50
-123,Ribadavia,-8.143,42.288,103
+72,Fazouro,-7.299,43.597,50
+211,Ribadavia,-8.143,42.288,103
 72,Crecente,-8.222,42.152,50
 86,Parada de Sil,-7.567,42.383,50
 86,Urbanización Os Alargos,-7.619,43.06,50
@@ -200,6 +236,8 @@ rs,name,lon,lat,r1
 123,Folgoso do Courel,-7.195,42.588,86
 211,Mondoñedo,-7.359,43.43,103
 103,Guntín de Pallares,-7.693,42.887,72
+176,Foz,-7.254,43.569,86
+253,O Barco,-6.986,42.417,253
 72,Riego Abajo,-6.24,43.583,50
 103,Peranzanes,-6.632,42.877,50
 60,Muimenta,-7.431,43.254,60
@@ -213,13 +251,16 @@ rs,name,lon,lat,r1
 60,Castro de Rei,-7.4,43.209,50
 103,Bretoña,-7.317,43.338,72
 60,Quintela de Leirado,-8.1,42.14,50
+253,Chantada,-7.768,42.61,123
 123,A Barrela,-7.814,42.539,50
 86,O Cuco,-7.51,42.976,50
 123,Portomarín,-7.615,42.808,103
 60,Cambeo,-7.871,42.412,50
 123,Trabada,-7.194,43.447,60
+60,Moreiras,-7.921,42.3,50
 60,Rinlo,-7.103,43.557,50
 103,Mosteiro,-7.353,43.131,60
+1081,Ourense,-7.864,42.341,522
 253,Meira,-7.293,43.213,123
 86,A Peroxa,-7.793,42.442,50
 123,A Manchica,-7.932,42.222,50
@@ -239,19 +280,20 @@ rs,name,lon,lat,r1
 123,A Pobra de San Xiao,-7.443,42.865,72
 147,A Veiga/Vegadeo,-7.049,43.465,60
 176,Castroverde,-7.326,43.029,103
-147,Luíntra,-7.726,42.411,103
+123,Luíntra,-7.726,42.411,86
 253,Bande,-7.974,42.032,86
 86,O Chao de Pousadoiro,-7.203,43.202,50
 72,Taboadela,-7.825,42.241,50
+86,Tapia de Casariego,-6.942,43.569,60
 86,Mugueimes,-7.971,41.958,60
-253,Allariz,-7.802,42.19,103
+303,Allariz,-7.802,42.19,103
 522,Sarria,-7.411,42.779,176
 103,O Oural,-7.447,42.718,50
 60,Sabariz,-7.841,42.108,50
 60,O Cádavo,-7.245,43.016,50
 60,Esgos,-7.694,42.325,50
 211,Bóveda,-7.483,42.624,72
-86,La Roda,-6.896,43.533,86
+86,La Roda,-6.896,43.533,50
 103,Sober,-7.585,42.461,50
 123,Guntumil,-7.922,41.911,50
 60,Forxa,-7.847,42.019,50
@@ -264,7 +306,7 @@ rs,name,lon,lat,r1
 147,Maceda,-7.65,42.27,103
 123,Samos,-7.326,42.73,50
 72,Ganade,-7.786,42.027,50
-435,A Fonsagrada,-7.067,43.125,211
+303,A Fonsagrada,-7.067,43.125,211
 86,Arancedo,-6.826,43.504,50
 123,A Cruz do Incio,-7.363,42.656,60
 176,San Martín de Oscos,-6.961,43.266,50
@@ -272,15 +314,16 @@ rs,name,lon,lat,r1
 211,Boal,-6.818,43.429,72
 86,Triacastela,-7.239,42.757,50
 103,Illano,-6.864,43.333,72
-72,Cortegada,-7.642,42.119,50
+86,Cortegada,-7.642,42.119,50
+522,Navia,-6.721,43.541,176
 72,Vilar de Barrio,-7.611,42.16,50
 72,Nocedo,-7.711,41.989,50
 72,Trelles,-6.73,43.487,50
 123,Montederramo,-7.502,42.275,72
 123,Baltar,-7.715,41.951,50
 123,Grandas de Salime,-6.874,43.218,123
-123,O Castro de Caldelas,-7.419,42.374,86
-72,Puerto de Vega,-6.648,43.564,50
+147,O Castro de Caldelas,-7.419,42.374,86
+86,Puerto de Vega,-6.648,43.564,50
 123,Villayón,-6.704,43.448,60
 103,As Nogais,-7.108,42.809,50
 86,Trasmiras,-7.619,42.026,50
@@ -291,18 +334,19 @@ rs,name,lon,lat,r1
 60,Otur,-6.6,43.54,50
 72,A Xironda,-7.637,41.9,60
 123,San Antolín,-6.871,43.039,86
+176,Luarca,-6.536,43.542,103
 147,Laza,-7.46,42.06,103
 147,Pedrafita do Cebreiro,-7.019,42.727,60
 123,A Pobra de Trives,-7.258,42.342,103
 86,Medeiros,-7.543,41.904,72
-60,Busto,-6.462,43.555,50
+72,Busto,-6.462,43.555,50
 60,Matamá,-7.433,42.035,50
 176,Navelgas,-6.543,43.404,72
 72,Bousés,-7.539,41.855,50
 72,Manzaneda,-7.232,42.311,50
 103,Pola de Allande,-6.61,43.271,86
 103,Castrelo do Val,-7.425,41.99,50
-103,Trevías,-6.432,43.502,50
+123,Trevías,-6.432,43.502,50
 901,Verín,-7.434,41.941,363
 72,Balboa,-6.921,42.706,50
 72,Cadavedo,-6.385,43.548,50
@@ -311,16 +355,17 @@ rs,name,lon,lat,r1
 60,Petín,-7.125,42.382,60
 123,San Cibrao,-7.462,41.868,50
 72,Muñás,-6.394,43.474,50
-123,O Bolo,-7.097,42.308,60
+303,Cangas del Narcea,-6.549,43.176,303
+176,O Bolo,-7.097,42.308,60
 253,Feces de Abaixo,-7.42,41.815,86
 86,Pousada de Rengos,-6.605,43.055,50
-751,Tineo,-6.407,43.334,103
+253,Tineo,-6.407,43.334,103
 86,Riós,-7.281,41.975,50
 253,Xedré,-6.605,43.015,60
 103,Candín,-6.727,42.816,50
 103,Vilardevós,-7.31,41.908,72
 60,La Espina,-6.334,43.396,50
-435,Viana do Bolo,-7.11,42.181,176
+363,Viana do Bolo,-7.11,42.181,176
 60,Arzádegos,-7.321,41.86,50
 123,Tuña,-6.37,43.274,50
 103,A Veiga,-7.024,42.25,60
@@ -336,6 +381,7 @@ rs,name,lon,lat,r1
 176,Salas,-6.257,43.408,103
 123,Porto,-6.897,42.167,86
 147,Grau/Grado,-6.072,43.385,123
+211,Avilés,-5.923,43.552,147
 123,Silván,-6.668,42.332,50
 147,Cudillero,-6.147,43.559,60
 72,Toral de los Vados,-6.775,42.545,50
@@ -345,21 +391,23 @@ rs,name,lon,lat,r1
 60,Asturianos,-6.486,42.051,60
 147,Cacabelos,-6.721,42.599,60
 253,Los Sauces,-17.773,28.803,86
+60,Tiuya/Tuilla,-5.643,43.328,50
 103,Quintana del Castillo,-6.048,42.661,50
 147,Zarréu,-6.491,42.945,103
 60,Muelas de los Caballeros,-6.336,42.129,50
 86,Los Barrios de Luna,-5.861,42.845,60
 103,Castrocontrigo,-6.189,42.184,103
-60,Puente de Domingo Flórez,-6.819,42.412,60
+147,Puente de Domingo Flórez,-6.819,42.412,103
 303,Los Canarios,-17.843,28.492,123
-86,Carucedo,-6.762,42.49,50
+147,Carucedo,-6.762,42.49,50
 86,Carrizo de la Ribera,-5.824,42.583,60
 147,Veguellina de Órbigo,-5.884,42.437,86
-435,La Robla,-5.628,42.804,176
+435,La Robla,-5.628,42.804,147
 86,Mieza,-6.688,41.162,50
 72,Saucelle,-6.752,41.047,50
 60,Sobradillo,-6.796,40.918,50
 103,Sancedo,-6.634,42.667,50
+176,Pravia,-6.11,43.489,86
 147,Camarzana de Tera,-6.028,41.995,60
 147,A Mezquita,-7.046,42.01,50
 72,Soto,-6.072,43.532,50
@@ -374,20 +422,23 @@ rs,name,lon,lat,r1
 60,Benuza,-6.709,42.4,60
 176,Toreno,-6.512,42.697,72
 86,Pola de Somiedo,-6.255,43.094,86
+626,Ponferrada,-6.595,42.55,522
 103,La Peral,-5.989,43.489,50
 86,Villabre,-6.127,43.252,50
 103,Lubián,-6.905,42.035,86
+901,Villablino,-6.319,42.94,211
 60,Calamocos,-6.51,42.577,50
+103,Villar de los Barrios,-6.552,42.508,50
 103,Hermisende,-6.893,41.969,50
 72,Santullano,-5.967,43.415,50
-60,Molinaseca,-6.52,42.538,50
-60,El Monte,-5.824,43.636,50
+123,El Monte,-5.824,43.636,50
 103,Noceda,-6.4,42.717,72
 253,La Baña,-6.671,42.268,123
 211,Samartín,-6.095,43.161,103
 123,Trubia,-5.979,43.341,50
 103,Cancienes,-5.868,43.51,50
 147,Proaza,-6.015,43.252,60
+123,Bembibre,-6.415,42.617,123
 86,Piedrafita de Babia,-6.19,42.951,72
 60,Pando,-5.955,43.315,50
 60,La Miranda,-5.85,43.465,50
@@ -398,9 +449,10 @@ rs,name,lon,lat,r1
 86,Castrillo de Cabrera,-6.544,42.34,50
 211,Murias de Paredes,-6.19,42.85,86
 123,Lugo de Llanera,-5.817,43.442,60
+303,Oviedo,-5.85,43.363,123
 86,Bárzana,-5.972,43.158,72
 72,Torre del Bierzo,-6.323,42.596,50
-72,Llamaoscura,-5.859,43.329,50
+60,Llamaoscura,-5.859,43.329,50
 103,Santa Eulalia,-5.878,43.282,60
 60,El Puente,-6.641,42.085,50
 303,Tremor de Arriba,-6.21,42.728,86
@@ -409,16 +461,17 @@ rs,name,lon,lat,r1
 176,Corporales,-6.456,42.31,123
 86,Casas del Jaral,-17.932,28.831,60
 1556,Gijón/Xixón,-5.67,43.53,1556
-86,Torrebarrio,-5.993,43.007,86
-60,Mieres,-5.769,43.362,50
+211,Torrebarrio,-5.993,43.007,123
+72,Mieres,-5.769,43.362,50
 72,San Emiliano,-5.999,42.971,50
 60,Brañuelas,-6.206,42.636,60
 60,Lucillo,-6.304,42.409,50
 60,Caldones,-5.626,43.485,50
-211,La Pola,-5.827,43.158,103
+303,La Pola,-5.827,43.158,103
 147,El Pueblo,-17.954,28.711,103
 103,Santuyano,-5.782,43.22,50
 123,Sena de Luna,-5.952,42.929,50
+176,Pola de Siero,-5.659,43.392,72
 103,Campumanes,-5.826,43.106,50
 72,Santa Colomba de Somoza,-6.243,42.445,72
 211,Llangréu/Langreo,-5.677,43.293,86
@@ -436,10 +489,12 @@ rs,name,lon,lat,r1
 123,Puerto Naos,-17.91,28.587,86
 86,Valdesamario,-5.951,42.721,50
 72,Las Palmas-El Tributo,-17.747,28.727,50
-60,San Román,-5.507,43.412,50
+72,San Román,-5.507,43.412,50
 60,Castrillos de Cepeda,-6.017,42.584,50
+2688,Santa Cruz de la Palma,-17.765,28.683,751
 60,San Miguel,-5.4,43.542,50
-86,Nava,-5.508,43.36,60
+123,Villaviciosa,-5.433,43.482,123
+86,Nava,-5.508,43.36,86
 86,El Remo,-17.888,28.554,50
 60,Nuez,-6.515,41.774,50
 176,Cabañaquinta,-5.623,43.161,60
@@ -452,7 +507,7 @@ rs,name,lon,lat,r1
 86,Peque,-6.274,42.074,50
 147,Canales,-5.809,42.782,86
 123,Destriana,-6.094,42.327,72
-103,Santolaya,-5.409,43.417,50
+147,Santolaya,-5.409,43.417,60
 60,Los Roques,-17.776,28.575,50
 363,Mahide,-6.377,41.869,72
 72,Nistal,-6.008,42.424,50
@@ -493,8 +548,8 @@ rs,name,lon,lat,r1
 60,Jiménez de Jamuz,-5.929,42.265,50
 60,Vegacervera,-5.533,42.887,50
 123,El Campu,-5.344,43.183,60
-176,Cuadros,-5.639,42.709,50
-363,La Bañeza,-5.899,42.298,147
+123,Cuadros,-5.639,42.709,50
+522,La Bañeza,-5.899,42.298,147
 72,Sarracín de Aliste,-6.189,41.843,72
 60,Matalobos del Páramo,-5.816,42.418,50
 60,La Zarza de Pumareda,-6.626,41.162,50
@@ -504,10 +559,10 @@ rs,name,lon,lat,r1
 123,Barruecopardo,-6.664,41.073,86
 103,San Esteban de Nogales,-5.93,42.16,50
 103,Lugueros,-5.411,42.973,86
-103,Carbajal de la Legua,-5.604,42.655,50
+123,Carbajal de la Legua,-5.604,42.655,50
 86,Bezanes,-5.29,43.151,50
 211,Lumbrales,-6.717,40.936,176
-176,Ferreras de Abajo,-6.077,41.897,72
+147,Ferreras de Abajo,-6.077,41.897,72
 60,Bermellar,-6.669,40.999,50
 60,Ahigal de los Aceiteros,-6.746,40.873,50
 103,Garrafe de Torío,-5.523,42.732,60
@@ -516,15 +571,18 @@ rs,name,lon,lat,r1
 60,Encinasola de los Comendadores,-6.531,41.03,50
 103,Ribadesella,-5.056,43.461,86
 123,Mohedas de Granadilla,-6.202,40.269,60
+60,Navatejera,-5.563,42.628,50
 123,Samir de los Caños,-6.163,41.673,72
 72,San Felices de los Gallegos,-6.707,40.849,72
 176,Sancti-Spíritus,-6.399,40.705,103
+147,Valencia de Alcántara,-7.244,39.409,60
 103,El Burgo Ranero,-5.219,42.423,50
 60,Camaleño,-4.693,43.151,50
 103,Peñausende,-5.866,41.287,103
 103,Cangues d'Onís/Cangas de Onís,-5.127,43.35,103
 72,Villárdiga,-5.464,41.819,50
 60,Valsalabroso,-6.502,41.109,50
+103,Icod de los Vinos,-16.712,28.368,103
 72,Cerralbo,-6.586,40.974,60
 123,Santa María del Páramo,-5.749,42.354,103
 60,Respenda de la Peña,-4.685,42.765,50
@@ -534,6 +592,7 @@ rs,name,lon,lat,r1
 86,Benia de Onís,-4.968,43.335,72
 522,Vitigudino,-6.433,41.01,303
 253,Monleras,-6.225,41.187,103
+2240,León,-5.571,42.599,626
 103,Espadaña,-6.283,41.061,50
 60,San Cristóbal de Entreviñas,-5.634,42.045,50
 60,Valcabado del Páramo,-5.805,42.223,60
@@ -551,49 +610,50 @@ rs,name,lon,lat,r1
 86,La Unión de Campos,-5.326,42.077,50
 147,Mayorga,-5.264,42.165,123
 72,Alija del Infantado,-5.832,42.138,60
-303,San Vicente de Alcántara,-7.136,39.361,123
+303,San Vicente de Alcántara,-7.136,39.361,303
 123,Cabrillas,-6.177,40.74,60
 86,Ferreruela de Tábara,-6.071,41.766,72
 147,Villarmayor,-5.972,41.015,50
 60,Peleas de Abajo,-5.689,41.393,50
-123,Vilecha,-5.566,42.546,50
+103,Vilecha,-5.566,42.546,50
 147,Beleño,-5.162,43.19,60
 147,Puebla de Lillo,-5.274,43.009,103
 901,Cedillo,-7.498,39.651,147
 103,Rollán,-5.917,40.963,60
 86,Sanzoles,-5.565,41.433,86
+123,Playa de San Juan,-16.816,28.182,50
 211,Puentenansa,-4.405,43.254,50
 176,Villar de Ciervo,-6.738,40.738,86
 86,Fonfría,-6.139,41.636,50
 103,Matilla de los Caños del Río,-5.942,40.825,103
-86,Villavente,-5.507,42.618,50
 123,Lagartos,-4.903,42.406,50
 103,San Pedro de Latarce,-5.325,41.736,103
 103,Villafrechós,-5.218,41.893,72
 60,Ruiseñada,-4.291,43.364,50
-72,Benijos,-16.545,28.361,50
 60,Brime de Urz,-5.872,42.037,60
 176,Nuevo Poblado,-6.82,40.605,147
 123,Cembranos,-5.584,42.485,50
 103,Fariza de Sayago,-6.269,41.422,50
 86,Valderrodrigo,-6.507,41.064,50
-72,San Cristóbal de la Laguna,-16.318,28.49,50
+72,La Postura,-16.729,28.121,50
+86,San Cristóbal de la Laguna,-16.318,28.49,50
 60,Villarrabé,-4.784,42.421,50
-72,Vilaflor,-16.637,28.157,50
-86,Villares de la Reina,-5.647,41.007,50
+72,Torviscas Bajo,-16.732,28.083,50
+103,Vilaflor,-16.637,28.157,50
+72,Villares de la Reina,-5.647,41.007,50
 86,Valdevimbre,-5.616,42.42,50
 86,Trabanca,-6.383,41.233,50
 86,Colmenar de Montemayor,-5.956,40.399,50
 72,Fuentelapeña,-5.382,41.252,72
-72,Gévora,-6.94,38.92,50
+86,Gévora,-6.94,38.92,50
 123,Villanuño de Valdavia,-4.517,42.508,50
 72,Fuentes de Nava,-4.781,42.083,60
 363,Carrión de los Condes,-4.603,42.338,176
-72,Cerro Gordo,-6.901,38.888,50
+60,Cerro Gordo,-6.901,38.888,50
 60,Barrillos de Curueño,-5.403,42.72,50
 86,Vegaquemada,-5.332,42.819,50
 253,Torregamones,-6.179,41.487,72
-176,Tábara,-5.958,41.824,176
+303,Tábara,-5.958,41.824,211
 72,Nueva,-4.938,43.438,50
 103,Villadepera,-6.131,41.548,50
 86,Morales de Rey,-5.785,42.067,60
@@ -619,13 +679,13 @@ rs,name,lon,lat,r1
 72,Luelmo,-6.134,41.438,50
 123,Espeja,-6.716,40.565,50
 103,Iruelos,-6.327,41.142,60
-86,Posada,-4.862,43.424,72
+86,Posada,-4.862,43.424,60
 176,Oseja de Sajambre,-5.037,43.138,123
 103,Frontera,-18.008,27.755,72
 147,Salce,-6.218,41.27,50
 60,Moreruela de Tábara,-5.869,41.799,50
 253,Mansilla de las Mulas,-5.416,42.499,103
-123,Burganes de Valverde,-5.78,41.921,72
+147,Burganes de Valverde,-5.78,41.921,72
 1556,Valverde,-17.914,27.809,626
 211,Villavieja de Yeltes,-6.467,40.876,103
 60,Carpio de Azaba,-6.646,40.596,50
@@ -641,14 +701,16 @@ rs,name,lon,lat,r1
 176,Villaquejida,-5.596,42.145,72
 123,Navasfrías,-6.819,40.297,50
 176,Taibique,-17.979,27.705,50
+1081,Benavente,-5.677,42.006,363
 60,Casillas de Flores,-6.753,40.382,60
 72,Sabero,-5.146,42.835,50
 60,Cimanes de la Vega,-5.596,42.114,50
 123,Muelas del Pan,-5.969,41.521,50
 60,Reliegos,-5.354,42.474,50
 60,Carbellino,-6.151,41.23,50
+522,Llanes,-4.759,43.422,303
 60,Villaseco de los Reyes,-6.183,41.162,50
-211,Cistierna,-5.127,42.804,176
+211,Cistierna,-5.127,42.804,147
 303,Fuenteguinaldo,-6.675,40.429,123
 211,Las Arenas,-4.816,43.303,86
 147,Santiago de Alcántara,-7.243,39.605,103
@@ -660,6 +722,8 @@ rs,name,lon,lat,r1
 86,Gradefes,-5.225,42.625,50
 435,Riaño,-5.005,42.976,103
 522,Ciudad Rodrigo,-6.529,40.6,435
+60,San Roque,-4.728,43.395,50
+60,Castrogonzalo,-5.602,41.991,50
 103,Almeida de Sayago,-6.073,41.266,86
 86,Andavías,-5.857,41.596,50
 86,Villamarco,-5.306,42.45,50
@@ -676,7 +740,7 @@ rs,name,lon,lat,r1
 103,Peñaparda,-6.668,40.321,50
 147,Manganeses de la Lampreana,-5.709,41.751,50
 86,Boca de Huérgano,-4.926,42.973,50
-86,Alles,-4.703,43.333,72
+86,Alles,-4.703,43.333,50
 123,Robleda,-6.605,40.385,50
 60,Gazapos,-6.467,40.583,50
 123,Cilleros,-6.788,40.112,72
@@ -728,6 +792,7 @@ rs,name,lon,lat,r1
 72,Molacillos,-5.658,41.583,50
 103,Aspariegos,-5.598,41.675,50
 72,Serradilla del Arroyo,-6.359,40.522,60
+86,Buenavista del Norte,-16.849,28.371,86
 60,Gordaliza del Pino,-5.157,42.344,60
 60,Cadalso,-6.54,40.237,50
 123,Morales del Vino,-5.731,41.447,50
@@ -741,8 +806,9 @@ rs,name,lon,lat,r1
 123,Morasverdes,-6.275,40.601,103
 176,Alcántara,-6.884,39.713,86
 72,Cañizo,-5.501,41.769,72
+751,Guardo,-4.849,42.79,363
 435,Potes,-4.621,43.155,176
-303,San Sebastián de la Gomera,-17.114,28.089,253
+363,San Sebastián de la Gomera,-17.114,28.089,253
 72,Saelices de Mayorga,-5.205,42.212,50
 103,La Vega,-4.646,43.099,50
 123,Coreses,-5.622,41.548,72
@@ -759,12 +825,12 @@ rs,name,lon,lat,r1
 103,Cea,-5.011,42.462,72
 72,Abusejo,-6.14,40.71,50
 60,Castroverde de Campos,-5.314,41.97,50
-123,La Codosera,-7.172,39.208,103
+103,La Codosera,-7.172,39.208,103
 72,Monsagro,-6.27,40.504,50
 103,Bielva,-4.462,43.315,50
 72,Casas de Don Gómez,-6.6,40.009,50
-72,Villalba de Guardo,-4.823,42.722,50
-211,El Molledo,-16.813,28.287,50
+86,Villalba de Guardo,-4.823,42.722,50
+86,El Molledo,-16.813,28.287,50
 60,Villavicencio de los Caballeros,-5.235,42.058,60
 211,Sahagún,-5.031,42.371,211
 60,Melgar de Arriba,-5.096,42.268,50
@@ -774,10 +840,10 @@ rs,name,lon,lat,r1
 72,Pescueza,-6.644,39.918,50
 176,Triollo,-4.68,42.924,86
 72,Casares de las Hurdes,-6.286,40.44,50
-176,San Vicente de la Barquera,-4.4,43.383,176
+123,San Vicente de la Barquera,-4.4,43.383,86
 72,Torrecilla de los Ángeles,-6.415,40.248,60
 103,Villa del Rey,-6.82,39.659,50
-72,Puerto de Santiago,-16.84,28.236,50
+123,Puerto de Santiago,-16.84,28.236,123
 176,Fresno del Río,-4.816,42.682,86
 72,Calzadilla,-6.531,40.059,60
 103,Valdelosa,-5.782,41.172,86
@@ -796,6 +862,7 @@ rs,name,lon,lat,r1
 522,Coria,-6.538,39.986,303
 60,Torresmenudas,-5.784,41.102,50
 123,Nuñomoral,-6.245,40.407,72
+60,Tigaiga,-16.597,28.385,50
 253,Brozas,-6.778,39.612,123
 72,Portaje,-6.56,39.918,50
 103,Pozoantiguo,-5.435,41.597,50
@@ -808,21 +875,22 @@ rs,name,lon,lat,r1
 123,Poza de la Vega,-4.796,42.579,50
 86,Nava de Francia,-6.116,40.536,50
 60,Peleagonzalo,-5.482,41.482,50
-72,Tejina,-16.763,28.186,50
 60,Cambroncino,-6.237,40.342,50
 60,Santa Cruz de Paniagua,-6.339,40.192,50
 60,San Miguel de la Ribera,-5.576,41.333,50
 253,Vezdemarbán,-5.366,41.654,60
 147,Venialbo,-5.536,41.39,50
+435,Alburquerque,-7.003,39.221,123
 72,Parada de Arriba,-5.792,40.987,50
-147,Tejina,-16.361,28.533,50
+211,La Orotava,-16.523,28.391,176
+176,Tejina,-16.361,28.533,50
 303,Villada,-4.967,42.249,103
 72,Vegas de Coria,-6.184,40.384,50
 123,La R.A.D.,-5.816,40.928,86
 303,La Alberca,-6.108,40.489,176
 123,Aceituna,-6.33,40.149,50
 211,Calzada de Valdunciel,-5.7,41.086,72
-72,El Pirul,-16.427,28.443,60
+86,Ravelo Alto,-16.419,28.455,60
 123,Lombraña,-4.413,43.101,72
 123,San Salvador de Cantamuda,-4.496,42.965,86
 86,Valdefinjas,-5.452,41.452,50
@@ -834,25 +902,26 @@ rs,name,lon,lat,r1
 72,Ledigos,-4.863,42.355,60
 211,Montehermoso,-6.348,40.088,123
 60,Morales de Campos,-5.173,41.86,50
-103,Congosto de Valdavia,-4.632,42.715,60
+86,Congosto de Valdavia,-4.632,42.715,60
 211,Vecinos,-5.877,40.779,50
 60,Villavellid,-5.276,41.692,50
 103,Las Montañas,-16.275,28.554,50
 211,Torrejoncillo,-6.466,39.897,86
 123,Navas del Madroño,-6.653,39.621,72
 60,Cóbreces,-4.209,43.385,60
-253,Saldaña,-4.734,42.522,211
+626,Saldaña,-4.734,42.522,211
 72,Berrueces,-5.096,41.946,50
 72,Moral de la Reina,-5.071,41.986,50
 103,Valrío,-6.37,40.011,60
 60,Villagarcía de Campos,-5.192,41.78,50
+86,Cabezón de la Sal,-4.231,43.308,86
 60,Tiedra,-5.265,41.652,50
 60,Villalcón,-4.855,42.293,50
 176,Cervera de Pisuerga,-4.498,42.865,123
 60,Bustillo de la Vega,-4.74,42.456,50
 60,Almáciga,-16.196,28.571,50
 522,Garrovillas de Alconétar,-6.548,39.711,147
-86,Barrio de Arriba,-4.245,43.258,72
+86,Barrio de Arriba,-4.245,43.258,50
 86,Dehesa de Montejo,-4.509,42.82,50
 60,Villafrades de Campos,-4.97,42.078,50
 103,Buenavista de Valdavia,-4.613,42.637,86
@@ -862,12 +931,17 @@ rs,name,lon,lat,r1
 86,Viallan,-4.135,43.4,50
 103,Villabrágima,-5.114,41.821,50
 363,Fuentesaúco,-5.495,41.231,147
+1081,Salamanca,-5.667,40.966,626
 123,Ahigal,-6.187,40.19,86
 86,Cisneros,-4.857,42.22,60
 147,Linares de Riofrío,-5.92,40.583,123
 123,Las Veguillas,-5.831,40.715,86
+1081,Santa Cruz de Tenerife,-16.267,28.462,522
+103,Los Cristianos,-16.711,28.053,103
 72,La Bóveda de Toro,-5.41,41.344,72
 60,Valdeobispo,-6.247,40.083,50
+60,Radazul Bajo,-16.321,28.402,50
+147,Candelaria,-16.37,28.355,86
 60,Güímar,-16.41,28.317,50
 60,Aldeanueva de Figueroa,-5.524,41.148,50
 60,La Sierpe,-5.856,40.645,50
@@ -884,16 +958,18 @@ rs,name,lon,lat,r1
 72,Mazuecos de Valdeginate,-4.839,42.168,50
 72,San Cebrián de Mazote,-5.148,41.68,50
 72,Mota del Marqués,-5.177,41.632,72
-72,Granadilla de Abona,-16.576,28.121,50
+103,Granadilla de Abona,-16.576,28.121,50
 147,Villarramiel,-4.912,42.043,60
 103,Villaeles de Valdavia,-4.582,42.566,50
 72,Villafranca de Duero,-5.3,41.432,50
-176,Fasnia,-16.439,28.236,60
+253,Fasnia,-16.439,28.236,60
 123,Galisteo,-6.265,39.976,50
 103,Riolobos,-6.303,39.92,103
 86,Carcaboso,-6.214,40.05,72
 103,Cañaveral,-6.391,39.791,86
+176,Suances,-4.044,43.428,60
 253,Villar del Rey,-6.847,39.132,86
+103,El Fraile,-16.668,28.012,50
 60,Arico,-16.479,28.183,50
 303,Cheles,-7.281,38.511,123
 60,Mozárbez,-5.65,40.857,50
@@ -907,8 +983,9 @@ rs,name,lon,lat,r1
 60,Villasila de Valdavia,-4.557,42.532,50
 72,Brañosera,-4.307,42.936,50
 86,Zarza de Granadilla,-6.048,40.235,86
-72,San Isidro,-16.557,28.078,72
-176,Valdebótoa,-6.923,38.967,50
+363,San Isidro,-16.557,28.078,253
+86,Valdebótoa,-6.923,38.967,50
+176,Torrelavega,-4.049,43.347,147
 86,Meneses de Campos,-4.919,41.942,72
 60,San Benito de la Contienda,-7.157,38.632,50
 253,Castronuño,-5.265,41.388,72
@@ -916,15 +993,16 @@ rs,name,lon,lat,r1
 72,Porís de Abona,-16.432,28.163,60
 60,Cuatro Calzadas,-5.634,40.808,50
 147,Urbanización El Encinar,-5.583,40.883,50
-363,Olivenza,-7.098,38.684,147
+363,Olivenza,-7.098,38.684,123
 60,Aldearrubia,-5.497,41.007,60
 72,Bahillo,-4.578,42.442,60
+3225,Badajoz,-6.959,38.873,1297
 86,Barruelo de Santullán,-4.287,42.905,86
 147,Villalar de los Comuneros,-5.137,41.549,72
 103,Espino de la Orbada,-5.424,41.107,50
 86,Los Santos,-5.797,40.544,72
 60,Barranco del Rio,-16.481,28.1,50
-253,Los Corrales de Buelna,-4.066,43.262,60
+303,Los Corrales de Buelna,-4.066,43.262,72
 72,El Cabezo,-16.537,28.046,50
 72,Casafranca,-5.759,40.592,50
 72,Hinojal,-6.356,39.709,50
@@ -932,15 +1010,17 @@ rs,name,lon,lat,r1
 86,Cortijo del Guarda de la Peralta,-6.808,39.045,72
 103,Mirabel,-6.23,39.864,50
 123,Beleña,-5.627,40.75,50
+60,Malpartida de Cáceres,-6.508,39.445,50
 60,La Mudarra,-4.944,41.78,50
 176,Torrelobatón,-5.024,41.649,86
 86,Arce,-3.932,43.406,60
 86,Castillejo,-5.654,40.683,50
 86,Casar de Cáceres,-6.417,39.559,72
 72,Peñaflor de Hornija,-4.979,41.712,50
+435,Miajadas,-5.909,39.151,147
 176,Villanueva del Fresno,-7.165,38.376,147
 86,San Cebrián de Campos,-4.53,42.201,72
-1081,Plasencia,-6.085,40.036,435
+1867,Plasencia,-6.085,40.036,435
 86,Aldea del Cano,-6.319,39.289,60
 60,Gallegos de Solmirón,-5.447,40.537,50
 60,Valdestillas,-4.771,41.48,50
@@ -952,15 +1032,15 @@ rs,name,lon,lat,r1
 72,Valdelacasa,-5.763,40.506,50
 147,Serradilla,-6.14,39.828,103
 363,Paredes de Nava,-4.691,42.153,123
-303,Navaluenga,-4.704,40.411,103
+211,Navaluenga,-4.704,40.411,103
 123,Arenas de Iguña,-4.049,43.187,60
 72,Casas del Monte,-5.961,40.203,50
 60,Sorihuela,-5.678,40.444,50
-60,Pomar de Valdivia,-4.167,42.774,60
+72,Pomar de Valdivia,-4.167,42.774,50
 103,Santibáñez de Béjar,-5.61,40.487,50
 86,Valdecarros,-5.42,40.77,60
 72,Vargas,-3.961,43.321,50
-72,Novelda del Guadiana,-6.833,38.938,50
+123,Novelda del Guadiana,-6.833,38.938,50
 86,Palaciosrubios,-5.193,41.052,60
 103,Sierra de Fuentes,-6.272,39.439,60
 147,Frómista,-4.405,42.267,72
@@ -969,22 +1049,25 @@ rs,name,lon,lat,r1
 86,Villalba de los Alcores,-4.858,41.864,50
 176,Alaejos,-5.216,41.307,86
 86,Talaván,-6.281,39.715,72
-103,Trigueros del Valle,-4.649,41.829,50
+72,Trigueros del Valle,-4.649,41.829,50
 60,La Seca,-4.905,41.413,50
 103,Pollos,-5.124,41.444,86
-103,Lobón,-6.624,38.848,50
+123,Lobón,-6.624,38.848,50
 72,Siete Iglesias de Trabancos,-5.183,41.352,50
 86,Bobadilla del Campo,-5.022,41.205,50
-103,Santovenia de Pisuerga,-4.688,41.694,50
+2688,Valladolid,-4.731,41.65,1081
+72,Santovenia de Pisuerga,-4.688,41.694,50
 86,Ciudad Jardín Virgen del Milagro,-4.515,41.955,50
 123,Castrillo de Villavega,-4.48,42.454,50
 176,Alaraz,-5.287,40.749,60
 60,Bóveda del Río Almar,-5.21,40.857,50
-60,Dueñas,-4.546,41.878,50
-123,Laguna de Duero,-4.722,41.584,50
+72,Dueñas,-4.546,41.878,50
+147,Laguna de Duero,-4.722,41.584,50
+211,Venta de Baños,-4.492,41.919,72
 1081,Reinosa,-4.137,43,253
 86,Astudillo,-4.293,42.193,86
 103,La Roca de la Sierra,-6.69,39.108,50
+363,Aguilar de Campoo,-4.26,42.795,147
 103,Bárcena de Pie de Concha,-4.054,43.127,50
 147,Villalaco,-4.258,42.155,50
 147,Alba de Tormes,-5.512,40.826,123
@@ -992,11 +1075,13 @@ rs,name,lon,lat,r1
 176,Villoldo,-4.594,42.246,50
 60,Vallejera,-4.151,42.182,50
 60,Villalcázar de Sirga,-4.542,42.317,50
-176,Ramales de la Victoria,-3.464,43.257,72
+176,Ampuero,-3.413,43.345,50
+176,Ramales de la Victoria,-3.464,43.257,60
 72,Galisancho,-5.553,40.744,50
 123,Puebla de Obando,-6.625,39.176,123
 60,Balboa,-6.816,38.905,50
 72,Agaete,-15.698,28.099,50
+147,La Aldea de San Nicolás,-15.781,27.98,86
 86,Cabezas Rubias,-7.086,37.727,72
 86,Valverde de Leganés,-6.979,38.67,72
 72,Montejo,-5.622,40.632,50
@@ -1008,10 +1093,12 @@ rs,name,lon,lat,r1
 72,Cordovilla,-5.405,40.951,50
 60,Artenara,-15.646,28.021,50
 103,Muñana,-5.015,40.589,60
+103,Arucas,-15.522,28.118,60
 123,Ampudia,-4.779,41.914,123
 147,Villoria,-5.373,40.994,103
 253,Fregenal de la Sierra,-6.652,38.167,147
 103,Santa María del Campo,-3.973,42.132,103
+626,Santander,-3.822,43.463,522
 72,El Torno,-5.944,40.136,60
 123,Alar del Rey,-4.309,42.659,50
 147,Ledrada,-5.718,40.468,60
@@ -1024,6 +1111,7 @@ rs,name,lon,lat,r1
 60,Bodonal de la Sierra,-6.557,38.146,50
 103,Medina de las Torres,-6.411,38.344,50
 72,La Zarza,-6.855,37.714,50
+626,Béjar,-5.764,40.386,253
 72,Pesquera de Duero,-4.158,41.64,50
 86,Adanero,-4.603,40.944,50
 72,Martiherrero,-4.779,40.674,50
@@ -1031,7 +1119,8 @@ rs,name,lon,lat,r1
 103,Becerril de Campos,-4.639,42.109,50
 60,Mengabril,-5.932,38.936,50
 60,Villaherreros,-4.463,42.388,60
-522,Herrera de Pisuerga,-4.332,42.595,147
+1081,Burgos,-3.673,42.354,626
+363,Herrera de Pisuerga,-4.332,42.595,147
 60,Ramacastañas,-5.047,40.185,50
 60,Garvín,-5.345,39.72,50
 60,Santa Cruz de Boedo,-4.373,42.525,50
@@ -1044,10 +1133,10 @@ rs,name,lon,lat,r1
 60,Navales,-5.479,40.789,50
 72,Pedro Bernardo,-4.909,40.243,50
 103,Los Pinos,-6.792,37.518,50
-147,Monasterio de Rodilla,-3.467,42.457,103
+123,Monasterio de Rodilla,-3.467,42.457,103
 103,Sangarcía,-4.414,40.947,50
 60,Corteconcepción,-6.503,37.895,50
-86,Atapuerca,-3.507,42.377,50
+147,Atapuerca,-3.507,42.377,50
 86,Tornadizos de Ávila,-4.612,40.625,50
 60,Mediana de Voltoya,-4.562,40.7,50
 86,La Horra,-3.874,41.742,50
@@ -1057,9 +1146,15 @@ rs,name,lon,lat,r1
 72,Arlanzón,-3.458,42.323,72
 147,Tordesillas,-4.999,41.503,147
 211,Monesterio,-6.271,38.088,123
+60,Palos de la Frontera,-6.896,37.228,50
+103,Moguer,-6.835,37.275,72
 60,Valle de la Serena,-5.797,38.702,60
+123,El Astillero,-3.816,43.398,50
+86,Talavera la Real,-6.769,38.877,86
 72,Peñarandilla,-5.392,40.883,60
 176,Galinduste,-5.538,40.662,86
+86,Sarón,-3.853,43.324,60
+60,Navacarros,-5.713,40.398,50
 60,Revenga de Campos,-4.481,42.284,50
 60,Foncastín,-5.018,41.435,50
 103,Nava del Rey,-5.081,41.331,103
@@ -1069,9 +1164,8 @@ rs,name,lon,lat,r1
 72,Villaflores,-5.234,41.084,50
 60,Arroyal,-4.076,42.91,60
 72,Cespedosa de Tormes,-5.578,40.544,50
-72,Guadiana del Caudillo,-6.69,38.928,50
+60,Guadiana del Caudillo,-6.69,38.928,50
 86,Ciguñuela,-4.855,41.641,50
-60,Somo,-3.733,43.452,50
 72,Vega,-3.849,43.259,50
 176,Cabezuela del Valle,-5.805,40.192,72
 123,Cantalapiedra,-5.182,41.125,103
@@ -1094,15 +1188,18 @@ rs,name,lon,lat,r1
 86,Tornavacas,-5.688,40.255,86
 72,Fuentes de Valdepero,-4.499,42.075,50
 86,La Nava de Santiago,-6.504,39.063,86
+253,Montijo,-6.612,38.909,176
 72,Santa Gadea de Alfoz,-3.953,42.954,50
 176,Torrejón el Rubio,-6.011,39.77,72
 211,Cigales,-4.698,41.758,86
+60,Arroyo de la Encomienda,-4.788,41.611,50
 86,Cortijo del Barbancillo,-6.537,39.007,50
 72,Sotresgudo,-4.175,42.579,72
 86,Cordobilla de Lácara,-6.435,39.148,60
 60,Armenteros,-5.447,40.593,50
+626,Palencia,-4.53,42.009,253
 123,Macotera,-5.285,40.83,60
-123,Entrambasaguas,-3.679,43.378,86
+72,Entrambasaguas,-3.679,43.378,72
 86,Horcajo Medianero,-5.405,40.639,72
 72,Aldeaseca de la Frontera,-5.205,40.941,50
 72,Torre de Miguel Sesmero,-6.796,38.618,72
@@ -1123,6 +1220,7 @@ rs,name,lon,lat,r1
 86,Vega de Pas,-3.782,43.158,50
 60,El Losar del Barco,-5.538,40.394,50
 60,Lantadilla,-4.279,42.341,50
+176,Peñaranda de Bracamonte,-5.199,40.9,176
 253,Jaraíz de la Vera,-5.756,40.058,147
 60,Santoyo,-4.341,42.215,50
 60,Cabezón de Pisuerga,-4.646,41.732,50
@@ -1155,6 +1253,7 @@ rs,name,lon,lat,r1
 72,Renedo de Esgueva,-4.628,41.654,50
 72,Barrio de Bricia,-3.846,42.908,50
 147,Valoria la Buena,-4.533,41.799,60
+211,Oliva de la Frontera,-6.916,38.278,103
 123,La Secada,-3.588,43.327,50
 86,Toril,-5.779,39.897,50
 123,Majadas,-5.746,39.943,86
@@ -1181,7 +1280,7 @@ rs,name,lon,lat,r1
 72,Solana de los Barros,-6.538,38.725,72
 147,Valle de Santa Ana,-6.792,38.368,50
 176,Torquemada,-4.32,42.036,86
-253,Santoña,-3.454,43.443,123
+211,Santoña,-3.454,43.443,123
 123,La Morera,-6.652,38.547,50
 72,Barromán,-4.929,41.066,50
 147,Piedrahíta,-5.324,40.465,147
@@ -1201,8 +1300,9 @@ rs,name,lon,lat,r1
 72,Sasamón,-4.042,42.417,72
 103,Casatejada,-5.681,39.887,50
 147,Mirandilla,-6.289,39.001,60
+211,Talayuela,-5.608,39.985,86
 72,Jerez de los Caballeros,-6.769,38.323,72
-522,Mérida,-6.342,38.919,435
+522,Mérida,-6.342,38.919,363
 72,Laredo,-3.428,43.409,50
 103,Villabáñez,-4.522,41.631,50
 123,Jaraicejo,-5.813,39.665,86
@@ -1211,20 +1311,21 @@ rs,name,lon,lat,r1
 86,Fontiveros,-4.962,40.927,86
 72,Saucedilla,-5.677,39.853,50
 103,Alcazarén,-4.673,41.37,50
-86,Punta de Gáldar,-15.683,28.169,50
+72,Punta de Gáldar,-15.683,28.169,50
 72,Hornillos de Cerrato,-4.273,41.988,50
 86,La Cumbre,-5.975,39.405,72
 60,Villanueva del Campillo,-5.179,40.576,50
 86,Quintana del Puente,-4.206,42.084,72
 72,Arrabal de Portillo,-4.592,41.474,50
-103,Piña de Esgueva,-4.428,41.729,72
+211,Piña de Esgueva,-4.428,41.729,72
 253,Puebla de Guzmán,-7.247,37.613,147
 60,La Parte,-3.927,42.526,50
 147,Almaraz,-5.675,39.815,103
 147,Manzanedo,-3.691,42.899,72
 123,Veguilla,-3.516,43.188,50
-147,Crespos,-4.969,40.871,50
-72,Villalba de los Barros,-6.509,38.613,50
+123,Crespos,-4.969,40.871,50
+72,Aceuchal,-6.485,38.646,60
+60,Villalba de los Barros,-6.509,38.613,50
 86,Sinlabajos,-4.831,41.076,50
 60,La Parrilla,-4.532,41.537,50
 211,Torremejía,-6.376,38.789,86
@@ -1238,16 +1339,18 @@ rs,name,lon,lat,r1
 60,Vertavillo,-4.326,41.833,50
 123,Romangordo,-5.699,39.742,50
 103,Zarza de Montánchez,-6.031,39.257,50
+211,Gáldar,-15.649,28.146,147
 72,Valdemorales,-6.066,39.206,50
 103,Susinos del Páramo,-3.924,42.472,50
 147,Espinosa de los Monteros,-3.55,43.077,103
 103,Casas del Guarda,-5.389,40.186,86
-103,Baltanás,-4.248,41.938,103
+123,Baltanás,-4.248,41.938,123
+435,Trujillo,-5.878,39.458,253
 123,Aroche,-6.952,37.944,72
 176,Los Balbases,-4.068,42.214,72
 86,Solana de Rioalmar,-5.01,40.739,86
 72,Tiétar,-5.483,40.03,50
-86,El Risco,-15.726,28.047,50
+103,El Risco,-15.726,28.047,50
 253,Sedano,-3.748,42.716,103
 103,San Silvestre de Guzmán,-7.348,37.388,72
 60,Bocigas,-4.68,41.229,50
@@ -1270,7 +1373,7 @@ rs,name,lon,lat,r1
 60,Villarcayo,-3.576,42.936,50
 123,Rosalejo,-5.457,39.995,72
 72,El Puente,-3.324,43.348,50
-147,Torrecillas de la Tiesa,-5.742,39.567,103
+176,Torrecillas de la Tiesa,-5.742,39.567,103
 60,Montemayor de Pililla,-4.457,41.509,60
 86,Cillán,-4.976,40.704,50
 60,Amusquillo,-4.301,41.748,50
@@ -1279,11 +1382,15 @@ rs,name,lon,lat,r1
 176,Montorio,-3.776,42.585,86
 60,Tabanera de Cerrato,-4.123,42.024,50
 60,Montes de San Benito,-7.071,37.681,50
+60,Barranco del Pinar,-15.622,28.074,50
 72,Las Cefiñas,-6.858,37.968,50
 147,Dobro,-3.633,42.808,86
+176,Íscar,-4.529,41.363,147
 147,Villablanca,-7.342,37.303,60
 123,Quintanilla de Onésimo,-4.36,41.625,123
 86,Nava de Arévalo,-4.774,40.978,50
+60,Ayamonte,-7.401,37.215,50
+60,Cérdigo,-3.265,43.4,50
 103,Pueblonuevo de Miramontes,-5.377,40.06,60
 60,Belbimbre,-4.012,42.168,50
 60,San Telmo,-6.966,37.795,50
@@ -1294,7 +1401,6 @@ rs,name,lon,lat,r1
 522,Arévalo,-4.714,41.054,211
 103,Papatrigo,-4.833,40.868,50
 103,San Miguel del Arroyo,-4.459,41.443,50
-60,El Tablero,-15.593,28.068,50
 60,Alange,-6.245,38.785,50
 123,San Pedro del Arroyo,-4.872,40.802,72
 123,Deleitosa,-5.645,39.644,72
@@ -1306,17 +1412,17 @@ rs,name,lon,lat,r1
 60,Villaflor,-4.874,40.758,50
 60,Rapariegos,-4.652,41.094,50
 60,Campillo de Deleitosa,-5.573,39.703,50
-72,Lanzarote,-15.579,28.04,60
-123,Madroñera,-5.756,39.424,72
+86,Lanzarote,-15.579,28.04,60
+103,Madroñera,-5.756,39.424,72
 86,Hérmedes de Cerrato,-4.175,41.82,50
 103,Peraleda de la Mata,-5.46,39.853,50
 363,Medina de Pomar,-3.487,42.932,211
 72,Tejeda,-15.613,27.994,50
 60,Sanchorreja,-4.914,40.664,50
 176,Cortegana,-6.82,37.911,147
-176,Castro-Urdiales,-3.216,43.376,123
-176,Mogán,-15.723,27.883,72
-253,Tiñosillos,-4.729,40.935,86
+303,Castro-Urdiales,-3.216,43.376,123
+303,Mogán,-15.723,27.883,72
+176,Tiñosillos,-4.729,40.935,86
 72,Bularros,-4.864,40.724,50
 123,Candeleda,-5.242,40.155,103
 176,El Cerro de Andévalo,-6.937,37.734,72
@@ -1325,12 +1431,14 @@ rs,name,lon,lat,r1
 72,Mengamuñoz,-5,40.5,60
 72,Tardajos,-3.817,42.35,50
 103,Herguijuela,-5.759,39.373,50
+72,Isla Cristina,-7.32,37.201,72
 60,La Iglesia,-3.255,43.272,60
 147,Santa Amalia,-6.009,39.011,86
-86,Playa de Mogán,-15.761,27.821,50
+103,Playa de Mogán,-15.761,27.821,50
 123,Castrobarto,-3.388,43.041,72
 86,Valdelamusa,-6.879,37.787,50
 103,Valdetorres,-6.069,38.915,50
+19960,Las Palmas de Gran Canaria,-15.43,28.119,8023
 86,Yelbes,-6.025,38.97,50
 60,Atalaya,-6.475,38.334,50
 363,Zafra,-6.411,38.423,211
@@ -1340,7 +1448,7 @@ rs,name,lon,lat,r1
 103,Aldeacentenera,-5.63,39.527,60
 103,Chañe,-4.426,41.338,60
 103,Codorniz,-4.599,41.066,60
-211,Ubierna,-3.699,42.492,50
+123,Ubierna,-3.699,42.492,50
 103,Muñogalindo,-4.898,40.603,50
 72,Las Ventas de San Julián,-5.293,40.008,50
 123,San Bartolomé de la Torre,-7.104,37.445,72
@@ -1352,24 +1460,26 @@ rs,name,lon,lat,r1
 60,Cumbres Mayores,-6.644,38.062,60
 86,Oliva de Mérida,-6.122,38.791,50
 60,Gotarrendura,-4.74,40.826,50
+103,Tafira Alta,-15.465,28.052,50
 60,Puebla de Sancho Pérez,-6.4,38.395,50
 103,El Rincón,-15.53,27.979,50
 86,Quintanadueñas,-3.735,42.384,50
 123,Vivares,-5.895,39.087,50
 72,Jabugo,-6.728,37.916,60
 103,Valencia del Ventoso,-6.473,38.266,86
-211,Puerto Rico,-15.72,27.79,86
+60,Puerto Rico,-15.72,27.79,50
 72,San Bartolomé de Tirajana,-15.574,27.923,60
 123,El Arenal,-5.083,40.269,50
 86,Abajas,-3.579,42.623,50
 60,Peñalba de Ávila,-4.746,40.772,50
+303,Lepe,-7.202,37.256,176
 72,Villahoz,-3.912,42.077,50
 72,Royuela de Río Franco,-3.957,41.999,60
 103,Martín Muñoz de las Posadas,-4.596,40.994,60
 147,Nava de la Asunción,-4.488,41.154,123
 72,Villasana de Mena,-3.278,43.1,72
 86,Encinas de Esgueva,-4.102,41.757,86
-86,Sotopalacios,-3.68,42.434,50
+176,Sotopalacios,-3.68,42.434,50
 60,Medellín,-5.957,38.963,50
 103,Samboal,-4.416,41.258,60
 60,Robledollano,-5.506,39.609,50
@@ -1378,6 +1488,7 @@ rs,name,lon,lat,r1
 60,Ribera del Fresno,-6.238,38.551,60
 86,Nofuentes,-3.418,42.843,50
 72,Palomas,-6.134,38.693,50
+60,La Antilla,-7.212,37.208,50
 303,Cuéllar,-4.312,41.401,211
 103,La Baluga,-3.156,43.274,60
 72,Espinosa de Cerrato,-3.953,41.967,50
@@ -1389,16 +1500,18 @@ rs,name,lon,lat,r1
 626,Arenas de San Pedro,-5.082,40.211,211
 60,Alcollarín,-5.738,39.244,50
 123,Campo Lugar,-5.771,39.195,60
-60,Balmaseda,-3.196,43.192,50
+176,Balmaseda,-3.196,43.192,123
 86,Segura de León,-6.53,38.121,50
 86,Villagonzalo Pedernales,-3.734,42.301,50
 86,Ruecas,-5.874,39.04,50
+60,Cornisa del Suroeste,-15.684,27.768,60
 211,Zorita,-5.698,39.286,123
 86,Pizarro,-5.791,39.152,50
 60,Peraleda de San Román,-5.386,39.741,50
 86,Casas de la Bomba,-7.039,37.408,50
 123,Poza de la Sal,-3.5,42.666,60
 60,Manchita,-6.02,38.814,50
+253,Telde,-15.414,28,103
 123,Navalosa,-4.931,40.4,103
 147,Fuentes de León,-6.539,38.068,86
 72,Tordómar,-3.863,42.046,60
@@ -1406,7 +1519,6 @@ rs,name,lon,lat,r1
 103,Cortelazor,-6.624,37.935,50
 123,Puebla de la Reina,-6.101,38.664,86
 86,Velayos,-4.622,40.84,50
-60,Montaña la Data,-15.611,27.791,50
 123,Trespaderne,-3.386,42.803,50
 147,Sanchonuño,-4.304,41.325,60
 123,Sanchidrián,-4.58,40.892,86
@@ -1418,24 +1530,27 @@ rs,name,lon,lat,r1
 60,Mingorría,-4.665,40.751,50
 363,Peñafiel,-4.12,41.598,147
 60,El Fresno,-4.753,40.614,50
-363,Oña,-3.411,42.735,147
+751,Oña,-3.411,42.735,147
 103,El Rompido,-7.124,37.222,50
 147,Villafruela,-3.911,41.917,60
 60,Pedrosa de Tobalina,-3.334,42.85,50
+147,Ingenio,-15.436,27.92,60
 363,Don Benito,-5.861,38.957,303
 103,Quincoces de Yuso,-3.243,42.99,86
 211,Navalcán,-5.092,40.07,86
 103,Llano de Bureba,-3.458,42.624,50
-72,Villafria,-3.615,42.365,50
+60,Villafria,-3.615,42.365,50
 86,Navarrevisca,-4.892,40.364,50
 60,Mudrián,-4.332,41.222,50
+626,San Fernando,-15.58,27.768,176
 86,Navalvillar de Ibor,-5.412,39.584,50
-1081,Ávila,-4.697,40.65,435
+901,Ávila,-4.697,40.65,435
 60,Concepción,-6.675,37.776,50
 147,Oropesa,-5.173,39.917,123
 303,Cogollos,-3.699,42.199,86
 211,Gibraleón,-6.967,37.376,86
 123,Modúbar de la Emparedada,-3.659,42.26,50
+123,Sopelana,-2.979,43.381,72
 72,Torrico,-5.225,39.829,50
 60,Canalejas de Peñafiel,-4.115,41.524,50
 123,Artziniega,-3.132,43.121,60
@@ -1443,6 +1558,7 @@ rs,name,lon,lat,r1
 147,Navezuelas,-5.438,39.51,60
 363,Torresandino,-3.912,41.83,103
 72,Valdelacasa de Tajo,-5.281,39.725,50
+60,Aljaraque,-7.023,37.267,50
 60,Bernardos,-4.35,41.128,50
 901,Aracena,-6.564,37.892,211
 60,Cabeza la Vaca,-6.421,38.086,60
@@ -1451,17 +1567,21 @@ rs,name,lon,lat,r1
 60,Los Salones,-6.956,37.347,50
 72,Zurbarán,-5.723,39.065,50
 103,Berzocana,-5.461,39.437,60
-60,Quintanapalla,-3.533,42.408,50
+72,Quintanapalla,-3.533,42.408,50
 123,Tolbaños,-4.581,40.752,50
 123,Cortijo de Castilrubio,-5.904,38.796,72
 86,Navalmoral,-4.766,40.46,50
 103,Hornachos,-6.068,38.553,103
+103,Sodupe,-3.047,43.2,60
 60,Lanzahíta,-4.932,40.204,60
 60,Piérnigas,-3.412,42.59,50
+72,San Vicente de Barakaldo/San Bizenti-Barakaldo,-2.99,43.292,50
 363,Lerma,-3.757,42.025,253
 103,La Haba,-5.802,38.919,50
+72,Castillo del Romeral,-15.461,27.8,60
 60,Muñopedro,-4.471,40.888,50
-86,Zaramillo,-3.013,43.233,50
+60,Zaramillo,-3.013,43.233,50
+147,Playa de Arinaga,-15.39,27.858,60
 60,Frías,-3.293,42.762,50
 103,Navalmanzano,-4.255,41.216,72
 72,Quintanilla de la Mata,-3.766,41.988,50
@@ -1471,7 +1591,7 @@ rs,name,lon,lat,r1
 72,Arroyomolinos de León,-6.421,38.024,50
 86,Maello,-4.509,40.809,50
 60,Castrillo de Duero,-4.014,41.575,50
-211,Logrosán,-5.49,39.336,147
+363,Logrosán,-5.49,39.336,147
 60,Alcañizo,-5.104,39.903,50
 147,Madrigalejo,-5.626,39.138,72
 103,El Puente del Arzobispo,-5.17,39.803,86
@@ -1484,6 +1604,7 @@ rs,name,lon,lat,r1
 72,Cilleruelo de Abajo,-3.796,41.884,72
 123,Nava de Roa,-3.963,41.613,60
 103,Campofrío,-6.573,37.767,60
+1081,Huelva,-6.939,37.267,522
 72,Zarzuela del Pinar,-4.185,41.261,50
 103,Montesclaros,-4.937,40.107,60
 86,Cubillo del Campo,-3.61,42.168,50
@@ -1495,6 +1616,7 @@ rs,name,lon,lat,r1
 103,Fontioso,-3.738,41.943,50
 147,Valderrama,-3.253,42.732,50
 103,Trigueros,-6.833,37.383,50
+2688,Bilbao,-2.933,43.261,1556
 72,Fuentesaúco de Fuentidueña,-4.06,41.423,60
 147,Llera,-6.056,38.446,86
 147,Punta Umbría,-6.968,37.183,60
@@ -1511,24 +1633,24 @@ rs,name,lon,lat,r1
 103,Busto de Bureba,-3.264,42.659,72
 72,Luiaondo,-2.996,43.102,50
 147,Casavieja,-4.767,40.284,86
-123,Velada,-4.972,39.976,72
+147,Velada,-4.972,39.976,72
 176,Guadalupe,-5.325,39.452,123
 363,Briviesca,-3.323,42.549,253
-123,Mungia,-2.841,43.353,72
-72,San Juan del Puerto,-6.84,37.316,50
-253,Laudio/Llodio,-2.965,43.141,72
+86,San Juan del Puerto,-6.84,37.316,50
+176,Laudio/Llodio,-2.965,43.141,72
 60,Prádanos de Bureba,-3.347,42.503,50
+86,Larrauri,-2.822,43.375,60
 103,Higuera de la Sierra,-6.446,37.836,60
+176,Nerva,-6.546,37.695,147
 60,San Adrián de Juarros,-3.476,42.274,50
 103,Montemolín,-6.212,38.154,50
-60,Emerando,-2.803,43.387,50
 253,Sacramenia,-3.96,41.494,103
 123,La Coronada,-5.669,38.919,50
 176,Amurrio,-2.999,43.053,72
 60,Solarana,-3.657,41.974,50
 60,Torrecilla del Pinar,-4.033,41.373,50
-211,Villacastín,-4.412,40.779,103
-147,Arizgoiti,-2.883,43.238,50
+211,Villacastín,-4.412,40.779,86
+60,Arizgoiti,-2.883,43.238,50
 86,Mecerreyes,-3.573,42.096,50
 60,Escarabajosa de Cabezas,-4.192,41.105,50
 60,Monterrubio,-4.35,40.849,50
@@ -1543,23 +1665,25 @@ rs,name,lon,lat,r1
 60,San Bartolomé de las Abiertas,-4.718,39.828,50
 123,Urduña/Orduña,-3.007,42.993,50
 303,Cantimpalos,-4.159,41.074,60
-123,Calera y Chozas,-4.979,39.883,103
+123,Calera y Chozas,-4.979,39.883,123
 123,Orellana la Vieja,-5.535,39.007,60
 103,Villagarcía de la Torre,-6.079,38.293,50
 176,Antigua,-14.011,28.42,103
-86,Goitioltza,-2.828,43.29,50
-60,Larrabetzu,-2.795,43.261,50
+103,Larrabetzu,-2.795,43.261,50
+123,La Puebla de Montalbán,-4.358,39.864,86
 123,Villarta de los Montes,-4.79,39.214,86
 72,Valmojado,-4.087,40.206,60
+72,Torrelaguna,-3.536,40.827,72
 147,Navalilla,-3.932,41.342,50
 211,Saceruela,-4.607,38.944,103
 60,Daganzo de Arriba,-3.456,40.547,50
 60,Obando,-5.495,39.117,50
 103,Puerto Real,-6.192,36.53,50
-103,Amorebieta,-2.734,43.221,60
+123,Amorebieta,-2.734,43.221,50
 211,Navamorcuende,-4.785,40.157,60
 123,Castillo de Bayuela,-4.684,40.1,72
 60,Lezama,-2.971,43.028,50
+123,El Espinar,-4.242,40.715,86
 60,La Atalaya,-4.459,40.382,50
 60,Escalona del Prado,-4.122,41.166,60
 72,La Estrella,-5.095,39.689,60
@@ -1568,13 +1692,14 @@ rs,name,lon,lat,r1
 60,Palazuelos de la Sierra,-3.459,42.212,60
 123,Segurilla,-4.864,40.022,50
 60,Higuera de Llerena,-5.998,38.376,50
-123,Uga,-13.744,28.951,50
+103,Uga,-13.744,28.951,50
 72,Villanasur Río de Oca,-3.32,42.437,60
+253,Durango,-2.63,43.168,147
 72,Mohedas de la Jara,-5.141,39.604,72
 123,San Ildefonso,-4.007,40.903,60
 435,Almonte,-6.516,37.261,253
 72,Valverde de Llerena,-5.82,38.213,60
-123,Bermeo,-2.725,43.42,123
+253,Bermeo,-2.725,43.42,123
 72,Zubiaur,-2.91,43.107,50
 103,Etxabarri Ibiña,-2.709,42.917,50
 147,Abades,-4.267,40.916,50
@@ -1592,18 +1717,21 @@ rs,name,lon,lat,r1
 60,Costa Teguise,-13.493,28.999,50
 253,Los Navalmorales,-4.642,39.725,86
 86,Granja de Torrehermosa,-5.598,38.309,60
+60,Elgoibar,-2.412,43.217,50
 147,Pilas,-6.304,37.304,147
 123,Pájara,-14.107,28.35,86
+147,La Estación,-4.008,40.626,72
 60,Garagarza,-2.384,43.252,50
 72,Adrada de Haza,-3.821,41.595,72
 86,Malcocinado,-5.691,38.123,60
 60,Vallarta de Bureba,-3.204,42.589,60
-60,Cerro Alarcon,-4.082,40.466,50
+123,Cerro Alarcon,-4.082,40.466,72
 103,Sanlúcar la Mayor,-6.2,37.386,72
 60,Espeja de San Marcelino,-3.221,41.803,50
-147,Costa Calma,-14.221,28.172,103
+147,Costa Calma,-14.221,28.172,123
+176,Guillena,-6.06,37.546,50
 303,Navalvillar de Pela,-5.467,39.091,176
-176,Cazalla de la Sierra,-5.758,37.933,86
+176,Cazalla de la Sierra,-5.758,37.933,72
 123,Miño de San Esteban,-3.345,41.536,60
 103,Canencia,-3.739,40.908,50
 176,Peñalsordo,-5.113,38.819,86
@@ -1617,7 +1745,7 @@ rs,name,lon,lat,r1
 103,La Granjuela,-5.351,38.371,50
 123,Las Ventas de Retamosa,-4.119,40.156,50
 176,Zarautz,-2.168,43.284,123
-123,Colmenar Viejo,-3.77,40.665,103
+522,Colmenar Viejo,-3.77,40.665,103
 176,Gumiel de Izán,-3.687,41.771,72
 72,Villoruebo,-3.441,42.168,50
 72,Berzosa del Lozoya,-3.52,40.975,72
@@ -1627,7 +1755,7 @@ rs,name,lon,lat,r1
 123,Valdemaluque,-3.045,41.674,72
 123,Encinillas,-4.157,41.016,50
 147,Gálvez,-4.272,39.701,72
-147,Móstoles,-3.858,40.319,103
+176,Móstoles,-3.858,40.319,123
 103,El Molar,-3.582,40.735,50
 103,Torrecilla en Cameros,-2.632,42.257,72
 60,Chillón,-4.864,38.797,50
@@ -1642,21 +1770,28 @@ rs,name,lon,lat,r1
 123,Santa Eufemia,-4.903,38.597,86
 72,Quintana de la Serena,-5.668,38.739,72
 123,Alamillo,-4.789,38.679,86
+60,El Casar,-3.431,40.701,60
+72,Bonares,-6.684,37.321,72
 60,Irun,-1.799,43.339,60
 303,Llerena,-6.016,38.238,211
-211,Okillegi,-1.846,43.224,72
+147,El Cuervo,-6.037,36.854,60
+147,Okillegi,-1.846,43.224,60
 60,La Mierla,-3.234,40.938,50
 253,Utrera,-5.777,37.185,103
 103,Goizueta,-1.863,43.172,50
-147,Marzagalejo,-6.745,37.23,50
+60,Marzagalejo,-6.745,37.23,50
 751,Jerez de la Frontera,-6.127,36.69,522
 60,Valdeavellano de Tera,-2.574,41.942,50
 103,Semillas,-3.118,41.059,72
+60,Borox,-3.741,40.07,50
 211,Tejada,-3.535,41.952,60
 103,Miedes de Atienza,-2.963,41.267,50
 60,Puerto de San Vicente,-5.113,39.522,50
+626,Talavera de la Reina,-4.815,39.966,626
 103,Puentelarrá/Larrazubi,-3.045,42.751,50
 86,Seseña,-3.694,40.105,50
+86,Añover de Tajo,-3.766,39.989,86
+522,Pozoblanco,-4.847,38.379,435
 303,Mazagón,-6.809,37.132,86
 103,Campolara,-3.426,42.12,50
 60,Arenillas,-2.845,41.347,60
@@ -1673,6 +1808,7 @@ rs,name,lon,lat,r1
 86,Cebreros,-4.463,40.458,50
 72,Izarra,-2.899,42.952,50
 60,Higuera de las Dueñas,-4.601,40.239,50
+60,Gernika-Lumo,-2.68,43.312,60
 123,Turégano,-4.004,41.156,72
 123,Aldehorno,-3.777,41.513,50
 147,La Nava de Ricomalillo,-4.99,39.651,103
@@ -1687,9 +1823,9 @@ rs,name,lon,lat,r1
 86,Fuentespina,-3.685,41.633,50
 103,Zalamea de la Serena,-5.658,38.652,72
 86,Areatza,-2.769,43.122,50
-147,Belorado,-3.192,42.418,86
+253,Belorado,-3.192,42.418,86
 60,El Real de la Jara,-6.156,37.949,50
-103,Los Ángeles de San Rafael,-4.224,40.774,50
+123,Los Ángeles de San Rafael,-4.224,40.774,50
 103,El Golfo,-13.83,28.983,50
 626,Segovia,-4.112,40.944,253
 211,Alcaudete de la Jara,-4.87,39.788,86
@@ -1707,12 +1843,13 @@ rs,name,lon,lat,r1
 72,Baños de Valdearados,-3.555,41.77,72
 103,Murgia,-2.818,42.957,103
 123,Pradoluengo,-3.2,42.325,72
-72,Cazalegas,-4.676,40.009,60
+60,Cazalegas,-4.676,40.009,60
 86,Santo Domingo de Silos,-3.418,41.963,86
 72,Altzusta,-2.734,43.088,50
 211,Valdecaballeros,-5.188,39.242,72
 176,Bollullos Par del Condado,-6.539,37.34,72
 103,Treviana,-3.049,42.558,60
+901,Castuera,-5.545,38.725,211
 86,Revenga,-4.102,40.872,60
 60,Quemada,-3.575,41.7,50
 176,Caleta de Sebo,-13.502,29.231,72
@@ -1720,9 +1857,11 @@ rs,name,lon,lat,r1
 72,Elexalde,-2.583,43.321,50
 60,Maguna,-2.637,43.228,50
 60,Montejo de la Vega de la Serrezuela,-3.652,41.548,50
+211,Montaña Roja,-13.859,28.862,86
 86,Urueñas,-3.772,41.355,50
 123,Berlanga,-5.828,38.282,86
-176,San Martín de Valdeiglesias,-4.399,40.364,176
+253,Miranda de Ebro,-2.943,42.686,176
+253,San Martín de Valdeiglesias,-4.399,40.364,211
 86,Cenicientos,-4.465,40.263,50
 303,La Estación,-4.266,40.566,60
 72,Munitibar,-2.591,43.263,50
@@ -1735,14 +1874,14 @@ rs,name,lon,lat,r1
 60,Valdevacas de Montejo,-3.634,41.521,50
 86,Ye,-13.478,29.195,50
 60,Majanicho,-13.939,28.739,50
-72,Lekeitio,-2.504,43.364,50
+103,Lekeitio,-2.504,43.364,50
 72,Benquerencia de la Serena,-5.495,38.7,50
 123,Almadén de la Plata,-6.081,37.873,72
 60,Castilblanco,-5.089,39.286,60
 60,Tao,-13.624,29.04,50
 103,San Pedro de Gaíllos,-3.808,41.227,50
 86,Nombela,-4.502,40.156,60
-72,Lucillos,-4.612,39.986,50
+86,Lucillos,-4.612,39.986,50
 176,El Ronquillo,-6.175,37.727,103
 72,La Mata,-3.886,41.09,50
 86,Gopegi,-2.729,42.96,50
@@ -1755,7 +1894,7 @@ rs,name,lon,lat,r1
 103,Puebla de Alcocer,-5.256,38.986,50
 123,Otxandio,-2.654,43.043,50
 103,Peñaranda de Duero,-3.478,41.689,72
-103,Robledo de Chavela,-4.232,40.501,103
+123,Robledo de Chavela,-4.232,40.501,123
 86,Lajares,-13.936,28.681,50
 72,El Casar de Escalona,-4.525,40.046,60
 303,Corralejo,-13.868,28.74,176
@@ -1767,11 +1906,11 @@ rs,name,lon,lat,r1
 86,Almorox,-4.388,40.234,60
 72,Markina-Xemein,-2.496,43.268,50
 72,Puerto del Carmen,-13.666,28.923,72
-211,Cercedilla,-4.055,40.741,50
+253,Cercedilla,-4.055,40.741,50
 72,Aznalcóllar,-6.268,37.52,72
 103,Cebolla,-4.568,39.948,103
 147,Huerta de Rey,-3.347,41.84,147
-103,Guadarrama,-4.085,40.672,50
+123,Guadarrama,-4.085,40.672,50
 147,El Garrobo,-6.171,37.625,50
 147,Peraleda del Zaucejo,-5.564,38.474,72
 86,Tindaya,-13.982,28.587,60
@@ -1784,9 +1923,9 @@ rs,name,lon,lat,r1
 123,Navafría,-3.822,41.054,86
 103,Hormigos,-4.444,40.098,50
 72,Castrillo de la Reina,-3.235,41.987,50
-253,Ondarroa,-2.431,43.321,103
+363,Ondarroa,-2.431,43.321,86
 86,Boceguillas,-3.639,41.337,72
-103,Elorrio,-2.541,43.129,50
+86,Elorrio,-2.541,43.129,50
 303,Guadalcanal,-5.817,38.092,123
 103,Santo Domingo de la Calzada,-2.953,42.44,103
 72,Grajera,-3.612,41.373,50
@@ -1796,26 +1935,28 @@ rs,name,lon,lat,r1
 86,La Palmosa,-6.462,37.183,50
 176,Herrera del Duque,-5.049,39.168,123
 303,Anchuras,-4.836,39.48,123
-253,Villa del Prado,-4.304,40.277,86
+211,Villa del Prado,-4.304,40.277,86
 72,Quintanarraya,-3.337,41.787,50
-901,Azuaga,-5.677,38.26,253
+1081,Azuaga,-5.677,38.26,253
 123,Monterrubio de la Serena,-5.444,38.589,123
+751,Arrecife,-13.551,28.966,751
 72,Ibarra,-2.564,43.052,50
 72,Doroño,-2.729,42.775,50
-123,Haro,-2.849,42.573,103
+253,Haro,-2.849,42.573,103
 147,Tefía,-13.99,28.528,50
-522,Vitoria-Gasteiz,-2.679,42.85,363
+901,Vitoria-Gasteiz,-2.679,42.85,363
 103,Treviño,-2.748,42.734,86
 253,El Rocío,-6.481,37.134,86
 60,Colmenar del Arroyo,-4.197,40.418,60
 72,Campo de San Pedro,-3.545,41.43,50
 72,Rascafría,-3.879,40.904,72
+147,Eibar,-2.47,43.184,103
 72,San Torcuato,-2.888,42.482,50
 123,Helechal,-5.362,38.674,60
 123,Torre de la Higuera O Matalascañas,-6.556,37.005,123
 123,Santa Olalla,-4.43,40.023,86
 103,Helechosa de los Montes,-4.907,39.311,103
-103,Gerena,-6.155,37.531,72
+103,Gerena,-6.155,37.531,60
 60,Labastida/Bastida,-2.798,42.589,50
 176,Langa de Duero,-3.399,41.61,147
 147,Huerta de Arriba,-3.081,42.117,50
@@ -1829,7 +1970,7 @@ rs,name,lon,lat,r1
 60,Maqueda,-4.369,40.066,50
 86,Alcubilla de Avellaneda,-3.303,41.726,50
 86,Moralzarzal,-3.968,40.679,50
-123,Arrasate/Mondragón,-2.49,43.065,103
+363,Arrasate/Mondragón,-2.49,43.065,86
 60,Aldea del Fresno,-4.198,40.321,50
 72,Deba,-2.353,43.294,50
 86,Rabanera del Pinar,-3.195,41.894,50
@@ -1841,11 +1982,12 @@ rs,name,lon,lat,r1
 86,Peñacerrada/Urizaharra,-2.712,42.643,60
 72,Osintxu,-2.405,43.156,50
 72,El Carpio de Tajo,-4.454,39.887,60
-123,Galapagar,-4.001,40.576,50
+103,Galapagar,-4.001,40.576,50
 60,San Vicente de la Sonsierra,-2.757,42.562,50
 176,Castilblanco de los Arroyos,-5.987,37.675,72
 60,Valles de Ortega,-14.011,28.388,50
 60,Aznalcázar,-6.249,37.304,50
+751,Morro Jable,-14.352,28.054,435
 147,Alanís,-5.713,38.038,60
 86,Bergara,-2.413,43.116,50
 435,Siruela,-5.048,38.978,103
@@ -1858,7 +2000,8 @@ rs,name,lon,lat,r1
 86,Tuineje,-14.047,28.326,50
 60,Hontoria del Pinar,-3.163,41.848,60
 72,Alesanco,-2.816,42.413,50
-751,Puerto del Rosario,-13.861,28.499,303
+626,Puerto del Rosario,-13.861,28.499,303
+72,Manzanares el Real,-3.86,40.732,60
 60,San Asensio,-2.749,42.499,60
 103,Ozaeta,-2.494,42.917,60
 60,Vilviestre del Pinar,-3.078,41.95,50
@@ -1873,12 +2016,11 @@ rs,name,lon,lat,r1
 86,Badarán,-2.808,42.367,50
 103,Villamanta,-4.111,40.298,60
 72,Novés,-4.273,40.046,50
-626,Riaza,-3.477,41.278,253
+901,Riaza,-3.477,41.278,253
 123,El Matorral,-13.871,28.438,50
 60,Alegría/Dulantzi,-2.512,42.842,60
-72,Villanueva de la Cañada,-4.002,40.449,72
 253,Ayllón,-3.379,41.419,103
-123,Miraflores de la Sierra,-3.764,40.811,50
+72,Miraflores de la Sierra,-3.764,40.811,50
 86,Burguillos,-5.965,37.583,50
 72,Casa del Puerto,-6.226,37.223,50
 103,Garlitos,-5.046,38.879,50
@@ -1890,16 +2032,15 @@ rs,name,lon,lat,r1
 60,Tamurejo,-4.946,38.991,50
 86,San Nicolás del Puerto,-5.645,37.991,50
 72,Alcalá del Río,-5.983,37.516,50
-522,Soto del Real,-3.772,40.749,72
-60,Las Matas-Pinar-Monte Rozas,-3.894,40.558,50
+60,Las Matas-Pinar-Monte Rozas,-3.894,40.558,60
 253,Nájera,-2.728,42.419,147
-176,Casas del Saladillo,-13.938,28.324,60
+303,Casas del Saladillo,-13.938,28.324,60
 72,Riofrío de Riaza,-3.449,41.247,50
 176,Argallón,-5.483,38.202,50
-60,Los Endrinales,-3.74,40.787,50
 60,Matute,-2.795,42.299,50
-123,Azpeitia,-2.266,43.181,72
+176,Azpeitia,-2.266,43.181,72
 60,La Algaba,-6.011,37.462,50
+72,Zumarraga,-2.314,43.087,60
 123,Fuensalida,-4.209,40.051,50
 86,Baños de Río Tobía,-2.76,42.333,60
 72,Narbaiza,-2.414,42.908,50
@@ -1907,17 +2048,18 @@ rs,name,lon,lat,r1
 86,Fuente Obejuna,-5.419,38.267,86
 60,Burujón,-4.298,39.902,50
 303,San Leonardo de Yagüe,-3.062,41.829,211
-435,Gran Tarajal,-14.021,28.214,176
+147,Gran Tarajal,-14.021,28.214,147
 303,Navahermosa,-4.471,39.634,176
 60,Calypo Fado,-4.064,40.248,50
 123,Lozoyuela,-3.622,40.929,50
 60,Mairena del Aljarafe,-6.062,37.345,60
 103,Montejo de la Sierra,-3.528,41.06,72
+211,Guadalix de la Sierra,-3.704,40.782,72
 60,Cenicero,-2.643,42.481,50
 60,Elciego,-2.618,42.516,50
 176,San José de la Rinconada,-5.943,37.485,72
-901,Horcajo de los Montes,-4.649,39.328,211
-147,Belalcázar,-5.166,38.575,60
+522,Horcajo de los Montes,-4.649,39.328,211
+176,Belalcázar,-5.166,38.575,60
 211,Anguiano,-2.763,42.262,60
 211,Laguardia/Biasteri,-2.583,42.554,50
 147,Agudo,-4.869,38.982,103
@@ -1925,45 +2067,55 @@ rs,name,lon,lat,r1
 72,Casarejos,-3.031,41.797,50
 60,Camarena,-4.117,40.093,50
 86,Salvatierra/Agurain,-2.39,42.849,86
-72,La Cabrera,-3.613,40.866,72
+72,La Cabrera,-3.613,40.866,50
 72,Brenes,-5.87,37.549,60
 72,Pedroso,-2.717,42.3,50
 176,Cantillana,-5.823,37.611,50
 72,Coria del Río,-6.053,37.288,50
 60,Rielves,-4.194,39.961,50
-303,Maeztu/Maestu,-2.446,42.739,60
+253,Maeztu/Maestu,-2.446,42.739,60
+211,Isla Mayor,-6.163,37.133,103
 103,Aia,-2.147,43.236,50
 60,Poblado de Alfonso Xiii,-6.133,37.167,50
-5572,Sevilla,-5.972,37.388,2240
+3225,Sevilla,-5.972,37.388,2240
+522,Constantina,-5.619,37.872,176
+103,Majadahonda,-3.856,40.454,103
 60,Arcicóllar,-4.115,40.055,50
 123,Bernedo,-2.497,42.627,50
 60,Kripan,-2.515,42.592,50
-60,Venturada,-3.624,40.801,50
-147,El Álamo,-3.991,40.23,86
-86,Villaviciosa de Odón,-3.907,40.358,50
+147,El Álamo,-3.991,40.23,50
+103,Villaviciosa de Odón,-3.907,40.358,50
+72,Chipiona,-6.43,36.732,60
 72,Cervera de Buitrago,-3.529,40.921,50
-86,Fuenmayor,-2.561,42.467,50
+363,Hinojosa del Duque,-5.144,38.498,147
+72,Fuenmayor,-2.561,42.467,50
 103,Villamiel de Toledo,-4.126,39.984,60
 147,Covaleda,-2.882,41.935,123
 86,Valdemanco del Esteras,-4.828,38.939,50
 72,Ojuelos Altos,-5.356,38.181,50
+176,Peñarroya-Pueblonuevo,-5.268,38.302,176
 147,Tres Cantos,-3.712,40.606,50
 103,Guadalmez,-4.968,38.726,72
 72,Chozas de Canales,-4.042,40.099,50
+60,Castañeras,-3.918,40.281,50
+123,Beasain,-2.201,43.046,123
 103,La Algaida,-6.318,36.831,50
 86,El Hoyo,-5.292,38.246,50
 60,Costa Ballena,-6.414,36.691,50
-72,Igeldo,-2.035,43.309,50
+253,Sanlúcar de Barrameda,-6.35,36.776,123
+60,Igeldo,-2.035,43.309,50
 60,Villanueva del Río y Minas,-5.71,37.648,50
-86,Navarrete,-2.557,42.426,50
+72,Navarrete,-2.557,42.426,50
 60,Antoñana,-2.395,42.693,50
 86,La Rasa,-3.1,41.537,50
+60,Tocina,-5.733,37.609,60
 147,Ortigosa de Cameros,-2.704,42.176,50
 60,Quinto,-5.93,37.335,50
 147,La Cardenchosa,-5.348,38.146,72
 363,Burgo de Osma,-3.065,41.587,303
 60,El Vellón,-3.58,40.767,50
 147,Montejo de Tiermes,-3.198,41.368,86
+72,Legorreta,-2.147,43.085,50
 60,San Rafael,-5.874,37.385,50
 86,San Agustín del Guadalix,-3.616,40.681,72
 60,Alda,-2.33,42.753,50
@@ -1975,18 +2127,22 @@ rs,name,lon,lat,r1
 123,Menasalbas,-4.283,39.64,50
 253,Cantalojas,-3.245,41.235,123
 253,Dos Hermanas,-5.926,37.281,86
-60,Anoeta,-2.07,43.162,50
+60,Arroyo Meaques,-3.777,40.397,50
 60,Entrena,-2.528,42.387,50
+60,Villabona,-2.052,43.186,50
 86,Belmez,-5.207,38.271,50
+751,Donostia/San Sebastián,-1.974,43.313,435
 123,Polán,-4.167,39.788,72
 103,Hacienda de Bujalmoro,-5.948,37.23,50
 176,San Pablo de los Montes,-4.331,39.54,72
+147,Tolosa,-2.073,43.137,60
 72,Santa Cruz de Campezo/Santikurutze Kanpezu,-2.348,42.67,72
-176,Recas,-3.989,40.053,50
+176,Recas,-3.989,40.053,72
 86,Andoain,-2.021,43.218,50
 253,Villoslada de Cameros,-2.673,42.113,103
-123,Arkaka,-2.135,43.001,50
+103,Arkaka,-2.135,43.001,50
 60,Pinzón,-6.015,37.11,50
+626,Almadén,-4.831,38.775,253
 103,Cortijo de la Atalaya,-6.313,36.705,50
 60,Yunclillos,-3.99,40.022,50
 60,Cortijo Viejo de Monteagudo,-6.22,36.829,50
@@ -1995,17 +2151,19 @@ rs,name,lon,lat,r1
 253,Rota,-6.367,36.627,86
 176,Puebla de Don Rodrigo,-4.615,39.083,176
 86,Alcalá de Guadaíra,-5.84,37.341,60
+1556,Logroño,-2.45,42.461,363
 86,Caraquiz,-3.485,40.791,50
 60,Talamanca de Jarama,-3.511,40.746,50
 72,Fontanarejo,-4.516,39.219,50
 123,Cabrejas del Pinar,-2.849,41.796,86
 86,Los Jinetes,-5.718,37.5,50
-176,Alcobendas,-3.638,40.542,103
+176,Alcobendas,-3.638,40.542,86
 86,Viguera,-2.534,42.308,50
-60,Lardero,-2.461,42.427,50
+72,Lardero,-2.461,42.427,50
+72,Fuenlabrada,-3.801,40.288,50
 86,Trebujena,-6.174,36.869,72
 86,Amezketa,-2.087,43.049,50
-72,Leganés,-3.768,40.332,50
+72,Leganés,-3.768,40.332,60
 123,Alcoba,-4.477,39.26,103
 123,Bargas,-4.019,39.94,60
 86,Vinuesa,-2.763,41.91,72
@@ -2016,6 +2174,7 @@ rs,name,lon,lat,r1
 123,Valverde de los Arroyos,-3.232,41.129,86
 176,Albelda de Iregua,-2.473,42.357,50
 72,Campisábalos,-3.144,41.267,60
+100000,Madrid,-3.676,40.427,100000
 103,Pulgar,-4.152,39.693,72
 86,Viana,-2.363,42.519,60
 60,Galbarra,-2.248,42.71,50
@@ -2026,19 +2185,22 @@ rs,name,lon,lat,r1
 86,Espronceda,-2.304,42.597,50
 176,Illescas,-3.849,40.127,72
 72,Yuncos,-3.873,40.09,50
+72,Mesas de Asta,-6.173,36.79,50
 86,Blacos,-2.858,41.681,50
-176,Lebrija,-6.076,36.919,176
-103,El Viso,-4.954,38.484,103
+147,Lebrija,-6.076,36.919,147
+86,Yuncler,-3.901,40.043,50
+86,El Viso,-4.954,38.484,86
 72,Los Frutales del Alcor,-5.705,37.425,50
 123,Argés,-4.055,39.805,50
 60,Villanueva del Rey,-5.151,38.198,60
 72,Fuente el Saz de Jarama,-3.513,40.633,50
-72,Berastegi,-1.978,43.123,50
+86,Berastegi,-1.978,43.123,50
 72,Bargota,-2.31,42.561,50
 176,Lora del Río,-5.527,37.657,123
 363,Parla,-3.764,40.233,50
 72,Laguna de Cameros,-2.541,42.175,72
 60,Layos,-4.062,39.777,50
+60,Oiartzun,-1.861,43.299,50
 123,Carmona,-5.646,37.47,123
 176,Tamajón,-3.248,41,86
 72,Mendaza,-2.235,42.641,50
@@ -2059,14 +2221,17 @@ rs,name,lon,lat,r1
 72,Pinto,-3.697,40.247,50
 60,El Priorato,-5.44,37.69,60
 176,El Royo,-2.644,41.908,72
+147,El Puerto de Santa María,-6.228,36.6,60
 72,Lakuntza,-2.023,42.923,72
 72,Paracuellos de Jarama,-3.517,40.502,60
-103,Dos Torres,-4.895,38.445,50
+147,Dos Torres,-4.895,38.445,50
 72,Sacramento,-5.904,37.031,50
-147,Las Cabezas de San Juan,-5.937,36.983,103
-103,Cortijo de Torrelengua,-5.698,37.294,72
+103,Coslada,-3.566,40.424,72
+211,Las Cabezas de San Juan,-5.937,36.983,103
+303,Cádiz,-6.28,36.518,123
+123,Cortijo de Torrelengua,-5.698,37.294,72
 60,Tajueco,-2.848,41.537,60
-147,Leitza,-1.914,43.082,86
+253,Leitza,-1.914,43.082,86
 72,Añora,-4.897,38.411,50
 176,Retortillo de Soria,-2.98,41.312,103
 72,Murieta,-2.154,42.656,60
@@ -2080,34 +2245,38 @@ rs,name,lon,lat,r1
 147,Berlanga de Duero,-2.861,41.466,123
 72,Pueblonuevo del Bullaque,-4.258,39.304,50
 86,Cidones,-2.639,41.815,72
+72,Galápagos,-3.341,40.694,50
 253,Espiel,-5.019,38.189,86
 72,Malaguilla,-3.257,40.822,60
 60,Robledillo de Mohernando,-3.234,40.853,50
 60,Pueblo Calonge,-5.375,37.672,50
 211,La Póveda de Soria,-2.503,42.013,50
-123,La Partija-Santa Monica,-3.537,40.362,50
+176,La Partija-Santa Monica,-3.537,40.362,50
 103,Nuevajarilla,-6.031,36.759,60
 72,Poblado de Arriba,-3.59,40.277,50
 86,El Guijo,-4.782,38.496,60
 86,El Palmar de Troya,-5.804,37.06,72
 103,Hornachuelos,-5.245,37.835,86
-435,Sonseca,-3.977,39.677,147
+1556,Sonseca,-3.977,39.677,147
 72,El Torno,-4.256,39.256,50
 60,Irañeta,-1.943,42.922,50
 147,Lekunberri,-1.895,43.005,60
 72,Fuentepinilla,-2.762,41.567,60
 176,El Robledo,-4.28,39.219,72
+211,La Campana,-5.428,37.568,86
 60,Prádena de Atienza,-3.006,41.172,60
 60,Gascueña de Bornova,-3.02,41.142,50
 72,Los Molares,-5.719,37.157,50
 86,Mendavia,-2.201,42.443,72
+60,Usanos,-3.269,40.714,50
 72,Vaciamadrid,-3.514,40.332,50
-60,Valdecelada,-3.456,40.414,50
+147,San Fernando,-6.2,36.465,50
+60,Valdecelada,-3.456,40.414,60
 211,Lezáun,-1.993,42.777,50
 86,Ciempozuelos,-3.621,40.158,50
 60,Robres del Castillo,-2.291,42.275,50
 72,Abárzuza,-2.02,42.727,50
-103,Gibalbín,-5.924,36.828,72
+86,Gibalbín,-5.924,36.828,72
 60,Mesas del Guadalora,-5.238,37.773,50
 123,Rebollar,-2.504,41.914,50
 86,San Martín de la Vega,-3.577,40.211,50
@@ -2115,7 +2284,7 @@ rs,name,lon,lat,r1
 72,Arróniz,-2.091,42.589,60
 211,San Benito,-4.675,38.565,72
 303,Villaviciosa de Córdoba,-5.015,38.075,176
-123,Bera/Vera de Bidasoa,-1.681,43.281,60
+147,Bera/Vera de Bidasoa,-1.681,43.281,60
 60,Cuartillos,-6.02,36.676,50
 303,Palma del Río,-5.278,37.699,147
 176,Hiendelaencina,-3.003,41.084,103
@@ -2131,11 +2300,11 @@ rs,name,lon,lat,r1
 72,La Rambla,-4.737,37.607,50
 103,Villaharta,-4.903,38.14,72
 176,Irurtzun,-1.829,42.918,103
-303,Arganda del Rey,-3.44,40.299,60
+147,Arganda del Rey,-3.44,40.299,60
 103,Sesma,-2.084,42.478,50
 211,Estella/Lizarra,-2.031,42.672,211
 103,Etxaleku,-1.791,42.969,50
-103,El Mojo,-6.016,36.579,60
+123,El Mojo,-6.016,36.579,60
 123,Cogolludo,-3.088,40.947,50
 86,Beratón,-1.811,41.717,50
 60,Allo,-2.02,42.567,50
@@ -2148,22 +2317,27 @@ rs,name,lon,lat,r1
 86,Pálmaces de Jadraque,-2.91,41.056,50
 60,Igantzi,-1.701,43.225,50
 60,Saldías,-1.78,43.088,50
-72,Casas de Villanueva,-6.134,36.505,50
+147,Arcos de la Frontera,-5.816,36.754,147
+60,Casas de Villanueva,-6.134,36.505,50
 123,Almonacid de Toledo,-3.853,39.753,50
 60,La Ramira,-5.535,37.122,50
 147,Humanes,-3.155,40.827,60
 176,Piedrabuena,-4.175,39.034,147
 72,Meco,-3.329,40.551,50
 86,Las Matas,-5.422,37.197,60
-147,Tielmes,-3.313,40.246,50
+176,Tielmes,-3.313,40.246,50
+211,Villamartín,-5.643,36.86,123
 60,Las Jaras,-4.842,37.97,50
 72,Villaminaya,-3.871,39.713,50
 72,El Palomar,-5.505,37.35,50
+303,Alcalá de Henares,-3.365,40.487,211
+60,Las Abiertas,-5.701,36.745,50
 147,Larraga,-1.849,42.558,86
 147,San José del Valle,-5.799,36.605,60
 147,Conquista,-4.5,38.409,86
 103,Andosilla,-1.944,42.376,50
 60,Viana de Jadraque,-2.769,41.025,50
+60,Cortijo de la Veguilla,-4.901,37.822,60
 147,Cerro Muriano,-4.768,38.004,72
 72,Zubieta,-1.741,43.124,50
 123,Brazatortas,-4.293,38.659,123
@@ -2172,6 +2346,7 @@ rs,name,lon,lat,r1
 86,Munilla,-2.295,42.188,50
 72,Coripe,-5.44,36.974,72
 72,Algar,-5.655,36.657,72
+123,Prado del Rey,-5.556,36.787,72
 147,Romancos,-2.883,40.688,60
 86,Valdegeña,-2.173,41.817,50
 60,Robledo de Corpes,-2.949,41.118,50
@@ -2182,7 +2357,7 @@ rs,name,lon,lat,r1
 72,La Cartaga,-5.316,36.992,50
 123,Caltojar,-2.763,41.402,60
 253,Tardelcuende,-2.643,41.594,103
-147,Arahal,-5.544,37.261,86
+253,Arahal,-5.544,37.261,123
 72,Zahara,-5.391,36.841,50
 86,Quintana Redonda,-2.614,41.639,50
 103,Olite/Erriberri,-1.652,42.482,50
@@ -2191,7 +2366,7 @@ rs,name,lon,lat,r1
 60,Urroz-Villa,-1.457,42.778,50
 253,Yunquera de Henares,-3.166,40.753,60
 72,El Trincheto,-4.171,39.216,50
-72,Torrecampo,-4.677,38.474,60
+147,Torrecampo,-4.677,38.474,60
 60,Villasequilla,-3.731,39.874,60
 72,Aizarotz,-1.782,43.011,60
 72,La Barrosa,-6.184,36.376,50
@@ -2199,18 +2374,19 @@ rs,name,lon,lat,r1
 86,Orgaz,-3.874,39.65,60
 72,Casas del Membrillar,-5.117,37.838,50
 147,Ágreda,-1.922,41.854,50
+123,Chiclana de la Frontera,-6.15,36.417,50
 72,Barcones,-2.815,41.291,50
 147,Estepa,-4.878,37.292,86
 123,Setenil de las Bodegas,-5.182,36.863,60
 60,La Montaña,-3.598,40.06,50
 123,Illana,-2.907,40.184,50
 303,Atienza,-2.87,41.198,123
-751,Tarancón,-3.01,40.011,253
+435,Tarancón,-3.01,40.011,253
 86,Ausejo,-2.167,42.342,60
 72,Valenzuela de Calatrava,-3.772,38.852,50
 123,Aizpún,-1.874,42.833,50
 123,Pedrera,-4.894,37.225,50
-211,Espera,-5.805,36.872,50
+147,Espera,-5.805,36.872,50
 72,Marchamalo,-3.202,40.668,50
 86,Cueva de Ágreda,-1.887,41.763,60
 123,Villafranca de los Caballeros,-3.357,39.427,50
@@ -2225,7 +2401,7 @@ rs,name,lon,lat,r1
 60,Cortijo de Sambana,-5.381,36.399,50
 72,Torres de la Alameda,-3.36,40.404,72
 60,Las Aldehuelas,-2.364,41.995,50
-435,Aranjuez,-3.601,40.031,147
+522,Aranjuez,-3.601,40.031,147
 147,Enciso,-2.268,42.149,86
 72,Alcázar del Rey,-2.807,40.063,50
 86,Majada de Madrid,-5.26,36.485,50
@@ -2236,19 +2412,23 @@ rs,name,lon,lat,r1
 103,Villamuelas,-3.733,39.819,50
 86,Navascués,-1.114,42.718,60
 176,Cortijos de Arriba,-4.064,39.317,123
+72,San Roque,-5.383,36.211,50
 60,Taragudo,-3.079,40.824,50
-86,San Luis de Sabinillas,-5.229,36.366,60
+147,Posadas,-5.107,37.802,123
+103,San Luis de Sabinillas,-5.229,36.366,60
 123,Fuentes de Andalucía,-5.346,37.464,103
 147,Ardales,-4.845,36.879,86
 253,Manzanares,-3.371,38.998,176
 363,Abenójar,-4.354,38.879,123
 147,Moros,-1.827,41.398,50
+86,La Línea de la Concepción,-5.348,36.167,72
+522,Estepona,-5.15,36.427,176
 103,Rello,-2.752,41.334,50
 60,Godojos,-1.863,41.269,50
 176,La Vega,-3.483,40.18,50
 72,Ochavillo del Río,-5.131,37.756,50
 103,La Barca de la Florida,-5.934,36.647,86
-60,Matamala de Almazán,-2.64,41.505,60
+72,Matamala de Almazán,-2.64,41.505,72
 103,Tolox,-4.906,36.686,50
 86,Barriada de Fátima,-5.735,36.913,50
 86,Istán,-4.948,36.582,60
@@ -2257,6 +2437,8 @@ rs,name,lon,lat,r1
 72,Valle de Abdalajís,-4.681,36.932,72
 211,Viso del Marqués,-3.562,38.522,86
 103,Torrejoncillo del Rey,-2.571,40.009,50
+176,Los Yébenes,-3.869,39.581,72
+522,Valdepeñas,-3.385,38.765,303
 123,Pedro Muñoz,-2.947,39.402,103
 1556,Soria,-2.472,41.764,522
 147,La Solana,-3.234,38.942,72
@@ -2266,7 +2448,7 @@ rs,name,lon,lat,r1
 435,Porzuna,-4.152,39.148,86
 60,Morata de Tajuña,-3.436,40.23,60
 123,Oteiza,-1.952,42.619,50
-60,Los Santos de la Humosa,-3.251,40.504,50
+123,Marchena,-5.416,37.329,86
 86,Legasa,-1.645,43.13,50
 72,Ontígola,-3.573,40.001,50
 72,Ciruelos,-3.614,39.938,50
@@ -2284,12 +2466,13 @@ rs,name,lon,lat,r1
 60,Villaconejos,-3.484,40.103,50
 86,Riofrío del Llano,-2.823,41.137,50
 72,Casas de las Peralosas del Sur,-4.15,39.097,50
+60,Monte de los Santos,-3.21,40.523,50
 103,Barca,-2.621,41.455,50
 86,Sartaguda,-2.056,42.383,50
-60,Santorcaz,-3.232,40.472,50
-103,Bornos,-5.743,36.816,50
+103,Bornos,-5.743,36.816,60
 103,Fuente Palmera,-5.1,37.704,72
 72,Obejo,-4.798,38.132,60
+86,Almodóvar del Río,-5.02,37.811,60
 72,Valdenoches,-3.089,40.684,50
 86,Erice,-1.708,42.939,50
 86,Pradejón,-2.067,42.334,60
@@ -2303,32 +2486,38 @@ rs,name,lon,lat,r1
 60,Torija,-3.03,40.745,60
 103,San Pedro Manrique,-2.229,42.028,103
 103,Almajano,-2.337,41.851,72
+86,Pozo de Guadalajara,-3.18,40.495,72
+176,Villanueva de Córdoba,-4.629,38.322,123
 86,Cristo del Espíritu Santo,-4.032,39.195,72
 147,Arnedo,-2.102,42.226,86
-211,Montellano,-5.573,36.995,103
+147,Montellano,-5.573,36.995,103
 60,La Caballera,-4.901,37.93,50
+103,Eurovillas-Las Villas,-3.262,40.358,50
 86,Muduex,-2.958,40.83,50
 72,Valdilecha,-3.3,40.295,50
 60,Marcaláin,-1.695,42.898,50
 60,Valdeluz,-3.108,40.591,50
-522,Conil de la Frontera,-6.086,36.279,86
+253,Conil de la Frontera,-6.086,36.279,86
 123,Baraona,-2.655,41.295,123
 103,Puente la Reina/Gares,-1.813,42.673,103
 72,Centenera,-3.054,40.652,50
 60,Alconaba,-2.383,41.723,50
 86,Villanueva de Bogas,-3.655,39.723,72
+522,Almazán,-2.527,41.486,211
 103,Villasayas,-2.609,41.353,50
 435,Morón de la Frontera,-5.452,37.122,211
 176,Ocaña,-3.496,39.958,72
 86,Mendigorría,-1.832,42.628,50
+86,Medina-Sidonia,-5.928,36.462,86
 103,Berriosuso,-1.686,42.86,50
+86,Colmenar de Oreja,-3.387,40.109,72
 435,Elizondo,-1.519,43.145,176
 60,Valdelcubo,-2.674,41.226,50
 123,Bosque del Henares,-3.158,40.454,50
 86,Muro de Aguas,-2.111,42.134,60
 72,Matillas,-2.84,40.951,50
 72,Olague,-1.617,42.963,50
-211,Paterna de Rivera,-5.864,36.523,147
+211,Paterna de Rivera,-5.864,36.523,50
 60,Uterga,-1.76,42.708,50
 86,Finca de la Merced,-5.732,36.696,50
 72,Alcolea de Calatrava,-4.114,38.987,50
@@ -2346,28 +2535,30 @@ rs,name,lon,lat,r1
 211,Arancón,-2.28,41.8,50
 86,Puerto Serrano,-5.541,36.922,60
 60,Erratzu,-1.455,43.181,50
-176,La Lantejuela,-5.223,37.354,86
+363,La Lantejuela,-5.223,37.354,86
 435,Calahorra,-1.968,42.307,253
 72,Berbinzana,-1.834,42.527,50
+86,La Puebla de Cazalla,-5.313,37.222,86
 103,Dosbarrios,-3.48,39.883,60
+626,Écija,-5.081,37.541,253
 60,Santa Lucía,-5.562,36.874,50
 147,Ledanca,-2.842,40.868,50
 211,Fuentes de Magaña,-2.178,41.935,60
-60,Aranzueque,-3.077,40.493,50
 72,Ambite,-3.181,40.328,50
+522,Pamplona/Iruña,-1.649,42.816,522
 86,Suellacabras,-2.223,41.853,50
 60,Cornago,-2.094,42.066,50
 60,Olave,-1.602,42.885,50
 72,Aldealafuente,-2.324,41.672,50
 60,Candilichera,-2.3,41.704,50
 86,Miranda de Arga,-1.827,42.483,60
-72,Artajona,-1.763,42.588,50
+72,Artajona,-1.763,42.588,60
 147,Mandayona,-2.749,40.956,72
 60,Romanones,-2.99,40.571,50
 86,Brihuega,-2.869,40.762,86
 60,Villarrubia de Santiago,-3.368,39.984,50
 72,Magaña,-2.161,41.9,50
-72,Las Fuentes,-3.12,40.363,50
+60,Las Fuentes,-3.12,40.363,50
 72,Cortijo de la Huerta Perdida,-5.884,36.37,50
 60,San Ambrosio,-5.998,36.215,50
 72,Valverde,-4.039,38.964,50
@@ -2376,6 +2567,8 @@ rs,name,lon,lat,r1
 147,La Carlota,-4.934,37.671,103
 103,Vejer de la Frontera,-5.966,36.251,50
 60,Las Casas,-3.986,39.033,50
+1081,Córdoba,-4.778,37.882,901
+123,Noáin/Noain,-1.632,42.759,50
 72,Cerro Perea,-4.983,37.59,60
 86,Eugi,-1.503,42.977,50
 60,Larrasoaña,-1.541,42.902,50
@@ -2388,7 +2581,7 @@ rs,name,lon,lat,r1
 86,Grávalos,-1.998,42.108,50
 211,Corral de Calatrava,-4.08,38.857,72
 72,Valdemadera,-2.073,41.984,50
-72,Mondéjar,-3.108,40.324,72
+253,Mondéjar,-3.108,40.324,86
 147,Nolay,-2.35,41.527,86
 86,Fernán Caballero,-3.897,39.119,50
 211,Zubiri,-1.503,42.934,103
@@ -2409,13 +2602,16 @@ rs,name,lon,lat,r1
 103,Alaminos,-2.725,40.863,72
 72,Miño de Medinaceli,-2.518,41.19,60
 72,Escopete,-3.007,40.415,50
+103,Alcolea,-4.672,37.933,72
 60,La Torrecilla,-4.004,38.9,50
 60,Tejado,-2.266,41.589,50
 86,Unzué,-1.625,42.653,50
 123,Benalup-Casas Viejas,-5.813,36.346,103
 72,El Bosque,-5.505,36.758,50
+176,Alcalá de los Gazules,-5.723,36.461,86
 86,Fuente el Fresno,-3.774,39.229,60
 86,Almenar de Soria,-2.2,41.683,50
+435,Barbate,-5.921,36.19,211
 147,Barásoain,-1.645,42.604,60
 123,Peralta/Azkoien,-1.8,42.339,103
 86,Brea de Tajo,-3.108,40.23,50
@@ -2424,6 +2620,8 @@ rs,name,lon,lat,r1
 60,Consuegra,-3.608,39.462,50
 1297,Ciudad Real,-3.928,38.983,751
 103,Algodonales,-5.403,36.881,86
+72,Elorz/Elortz,-1.56,42.733,50
+363,Tafalla,-1.676,42.527,211
 147,Rincón de Soto,-1.85,42.235,60
 72,San Felices,-2.025,41.938,50
 60,El Romeral,-3.433,39.707,50
@@ -2434,7 +2632,9 @@ rs,name,lon,lat,r1
 147,Fuentidueña de Tajo,-3.16,40.118,60
 147,Fuencaliente,-4.304,38.406,103
 123,La Parrilla,-4.526,38.085,50
+522,Puertollano,-4.106,38.69,211
 60,La Montiela,-4.918,37.524,50
+72,Argamasilla de Calatrava,-4.078,38.729,50
 86,Masegoso de Tajuña,-2.698,40.825,50
 72,Estremera,-3.106,40.184,50
 86,Pozalmuro,-2.101,41.774,60
@@ -2446,26 +2646,28 @@ rs,name,lon,lat,r1
 123,Aurizberri/Espinal,-1.368,42.979,86
 147,Luzaide/Valcarlos,-1.301,43.092,86
 103,Yebra,-2.965,40.357,50
+253,Madridejos,-3.536,39.472,176
 72,Saúca,-2.528,41.031,50
 147,Santaella,-4.843,37.562,72
 147,El Rubio,-4.986,37.356,60
 60,Mazuecos,-3.009,40.262,50
 147,Monreal,-1.505,42.705,72
 72,Santa Cruz de la Zarza,-3.187,39.981,72
-176,Almoguera,-2.98,40.296,72
+103,Almoguera,-2.98,40.296,72
 60,Ballesteros de Calatrava,-3.944,38.835,60
 72,Villafranca de Córdoba,-4.545,37.963,72
-176,Cardeña,-4.325,38.273,176
+253,Cardeña,-4.325,38.273,176
 86,Carrión de Calatrava,-3.815,39.017,72
 103,Henche,-2.707,40.715,60
 60,Villafranca,-1.745,42.279,50
 123,Estacion,-2.422,41.165,103
 176,Budia,-2.756,40.628,72
 86,El Gastor,-5.322,36.855,50
-211,Olvera,-5.258,36.934,176
+363,Olvera,-5.258,36.934,176
 60,Cañamaque,-2.237,41.444,50
-253,Ubrique,-5.445,36.675,176
-60,Zahara de los Atunes,-5.843,36.135,60
+253,Ubrique,-5.445,36.675,211
+211,Fernán-Núñez,-4.727,37.672,86
+60,Zahara de los Atunes,-5.843,36.135,50
 103,Serón de Nágima,-2.2,41.496,103
 86,Isla Redonda-La Aceñuela,-4.881,37.449,60
 60,Beire,-1.62,42.455,50
@@ -2490,9 +2692,10 @@ rs,name,lon,lat,r1
 303,Alfaro,-1.749,42.178,103
 60,El Carpio,-4.495,37.941,50
 86,Montecorto,-5.297,36.815,50
+60,Montemayor,-4.698,37.648,50
 72,El Jautor,-5.634,36.353,72
 123,Cintruénigo,-1.803,42.079,72
-103,Algámitas,-5.148,37.016,50
+123,Algámitas,-5.148,37.016,50
 253,Ólvega,-1.983,41.779,176
 103,Santa Cruz,-4.633,37.734,50
 86,Garralda,-1.286,42.948,50
@@ -2500,9 +2703,9 @@ rs,name,lon,lat,r1
 253,Villarrubia de los Ojos,-3.607,39.22,123
 103,Sayatón,-2.851,40.376,50
 211,Villacañas,-3.339,39.62,147
-103,El Saucejo,-5.096,37.071,86
+86,El Saucejo,-5.096,37.071,72
 86,Belinchón,-3.058,40.048,50
-103,Aoiz/Agoitz,-1.369,42.786,103
+147,Aoiz/Agoitz,-1.369,42.786,147
 60,Aos,-1.385,42.757,50
 147,Almaluez,-2.268,41.289,50
 103,Fuentelmonge,-2.186,41.42,50
@@ -2513,14 +2716,15 @@ rs,name,lon,lat,r1
 103,Madroñal,-4.364,38.08,50
 60,Cadreita,-1.69,42.218,50
 253,Luzaga,-2.444,40.973,50
-103,Almonacid de Zorita,-2.849,40.329,72
+211,Almonacid de Zorita,-2.849,40.329,72
 103,Mantiel,-2.662,40.619,50
 147,Abánades,-2.484,40.892,50
 72,Herrera,-4.847,37.363,50
 435,Solana del Pino,-4.072,38.466,86
+303,Montoro,-4.381,38.019,211
 303,Arcos de Jalón,-2.275,41.215,253
 123,Eslava,-1.458,42.565,50
-303,Sacedón,-2.733,40.482,176
+176,Sacedón,-2.733,40.482,176
 86,Las Labores,-3.518,39.275,50
 60,Gilena,-4.914,37.252,50
 176,Trillo,-2.591,40.7,72
@@ -2533,11 +2737,13 @@ rs,name,lon,lat,r1
 211,Facinas,-5.698,36.143,103
 60,Rada,-1.572,42.32,50
 60,Canredondo,-2.492,40.813,50
+363,Corral de Almaguer,-3.166,39.761,123
 147,Cortes de la Frontera,-5.34,36.618,60
 123,Pareja,-2.648,40.557,60
 435,Montilla,-4.638,37.585,147
 86,Aldea del Rey,-3.839,38.738,50
 72,Iniéstola,-2.37,40.994,50
+147,Los Corrales,-4.983,37.099,72
 103,Valtierra,-1.633,42.196,72
 86,Betis,-5.719,36.093,50
 211,Daimiel,-3.611,39.069,147
@@ -2547,6 +2753,7 @@ rs,name,lon,lat,r1
 72,Benaoján,-5.248,36.722,60
 86,Villanueva de San Carlos,-3.908,38.622,86
 176,Puente Genil,-4.766,37.388,176
+123,Jimena de la Frontera,-5.452,36.433,123
 72,Espejo,-4.553,37.679,50
 86,Ciria,-1.965,41.618,50
 60,Cabezamesada,-3.1,39.816,50
@@ -2560,16 +2767,20 @@ rs,name,lon,lat,r1
 176,Fuente de Pedro Naharro,-3.009,39.924,60
 123,Sacecorbo,-2.416,40.833,86
 72,Granátula de Calatrava,-3.743,38.797,72
-176,Deza,-2.021,41.464,103
+435,Deza,-2.021,41.464,103
 176,Lumbier,-1.306,42.653,60
 123,Borobia,-1.895,41.665,103
 123,Bolaños de Calatrava,-3.663,38.906,123
 103,Arriate,-5.138,36.797,50
+123,Herencia,-3.353,39.367,86
 60,Cañete la Real,-5.023,36.953,50
 103,Villa del Río,-4.288,37.981,50
 211,Quero,-3.247,39.511,86
 86,Luzón,-2.276,41.026,50
 86,Cáseda,-1.366,42.524,60
+147,Castro del Río,-4.484,37.692,86
+435,Ronda,-5.16,36.746,211
+123,Casariche,-4.759,37.293,72
 103,La Peña,-5.659,36.057,50
 363,Carcastillo,-1.442,42.378,123
 303,Tarazona,-1.724,41.904,103
@@ -2583,7 +2794,7 @@ rs,name,lon,lat,r1
 60,Cuevas del Becerro,-5.044,36.875,60
 123,Horcajo de Santiago,-2.998,39.843,123
 60,Millana,-2.57,40.507,50
-176,Cañaveruelas,-2.636,40.4,50
+103,Cañaveruelas,-2.636,40.4,50
 86,Liédena,-1.276,42.618,50
 123,Ocentejo,-2.397,40.772,50
 147,Bijuesca,-1.92,41.541,72
@@ -2604,12 +2815,14 @@ rs,name,lon,lat,r1
 72,Pomer,-1.84,41.638,50
 60,Gabarderal,-1.299,42.543,50
 147,El Hoyo,-3.92,38.41,72
+86,Marmolejo,-4.171,38.045,72
 86,Villalba del Rey,-2.639,40.345,86
-123,Teba,-4.918,36.983,50
+103,Teba,-4.918,36.983,50
 72,Genalguacil,-5.234,36.545,50
-86,Castellar de la Frontera,-5.418,36.287,60
+103,Castellar de la Frontera,-5.418,36.287,60
+211,Campillos,-4.862,37.047,176
 72,Uclés,-2.861,39.98,50
-60,Badolatosa,-4.675,37.303,50
+72,Badolatosa,-4.675,37.303,50
 86,Los Barrios,-5.489,36.183,50
 60,Embid de Ariza,-1.972,41.379,50
 86,Salmerón,-2.492,40.545,50
@@ -2617,7 +2830,7 @@ rs,name,lon,lat,r1
 176,Tarifa,-5.606,36.016,123
 86,Nueva Carteya,-4.466,37.586,86
 60,Añón de Moncayo,-1.723,41.779,50
-103,Lopera,-4.213,37.946,50
+147,Lopera,-4.213,37.946,50
 60,Cortijo Grande de Guadarranque,-5.443,36.23,50
 123,Arbeteta,-2.402,40.669,50
 72,Vera de Moncayo,-1.687,41.824,72
@@ -2630,6 +2843,7 @@ rs,name,lon,lat,r1
 86,Corral del Bosque,-1.605,41.933,50
 86,Huertahernando,-2.286,40.823,60
 86,Igualeja,-5.12,36.631,86
+176,Moral de Calatrava,-3.577,38.829,72
 72,Villanueva de Alcardete,-3.014,39.672,60
 60,Rozalén del Monte,-2.804,39.991,50
 60,Clarés de Ribota,-1.837,41.529,50
@@ -2651,6 +2865,7 @@ rs,name,lon,lat,r1
 103,Talamantes,-1.677,41.731,50
 147,Carrascosa del Campo,-2.736,40.037,86
 363,Alameda,-4.656,37.208,123
+147,Porcuna,-4.183,37.871,103
 147,Ribaforada,-1.512,41.998,60
 176,Sos del Rey Católico,-1.215,42.494,72
 72,Saelices,-2.804,39.92,72
@@ -2660,15 +2875,16 @@ rs,name,lon,lat,r1
 86,Arjonilla,-4.104,37.973,50
 103,Sisamón,-2.003,41.171,50
 86,Castiliscar,-1.273,42.376,60
+363,Andújar,-4.049,38.04,253
 72,Ambel,-1.615,41.795,50
-751,Lucena,-4.486,37.409,435
+626,Lucena,-4.486,37.409,435
 103,El Recuenco,-2.339,40.615,60
-147,Valenzuela,-4.219,37.775,72
+176,Valenzuela,-4.219,37.775,72
 123,Cabra,-4.429,37.473,50
 253,Baena,-4.323,37.617,103
 86,La Sierra,-4.258,37.706,50
 60,La Chullera,-5.251,36.319,50
-176,Gascueña,-2.518,40.299,50
+147,Gascueña,-2.518,40.299,50
 86,Bobadilla-Estacion,-4.726,37.037,60
 123,Doña Mencía,-4.356,37.554,50
 123,La Peraleja,-2.554,40.236,50
@@ -2709,14 +2925,14 @@ rs,name,lon,lat,r1
 72,Sigüés,-1.011,42.63,50
 72,Cañaveras,-2.395,40.358,50
 147,Cortes,-1.421,41.922,72
-123,Escañuela,-4.033,37.879,50
+147,Escañuela,-4.033,37.879,50
 123,Aniñón,-1.705,41.445,72
 86,Tierga,-1.605,41.607,50
 86,Torremocha del Pinar,-2.044,40.889,50
 72,Petilla de Aragón,-1.091,42.461,72
 123,Tabuenca,-1.542,41.695,50
 72,Carenas,-1.797,41.278,50
-751,Priego,-2.313,40.449,211
+901,Priego,-2.313,40.449,211
 211,Ibdes,-1.832,41.217,72
 103,Bisimbre,-1.443,41.856,50
 86,Pineda de Gigüela,-2.542,40.085,60
@@ -2749,9 +2965,11 @@ rs,name,lon,lat,r1
 123,Bardenas,-1.199,42.178,50
 72,Benzú,-5.372,35.916,50
 123,Villanueva de Algaidas,-4.449,37.183,72
+303,Álora,-4.704,36.826,86
 123,Osa de la Vega,-2.759,39.66,50
+626,Antequera,-4.562,37.02,253
 60,Carrascosa,-2.162,40.591,50
-103,Las Huertas,-4.786,36.702,50
+123,Las Huertas,-4.786,36.702,50
 60,Santa Engracia,-1.324,41.941,50
 86,Monda,-4.831,36.63,50
 72,Cañamares,-2.238,40.451,50
@@ -2766,6 +2984,7 @@ rs,name,lon,lat,r1
 60,Letux,-0.801,41.255,50
 103,Santa Cilia,-0.714,42.56,103
 60,Morés,-1.564,41.473,50
+147,Bailén,-3.777,38.095,86
 72,Mesones de Isuela,-1.54,41.553,50
 103,Monterde,-1.734,41.174,50
 176,Sabiñán,-1.566,41.443,72
@@ -2782,8 +3001,9 @@ rs,name,lon,lat,r1
 86,Pizarra,-4.707,36.764,50
 147,Sancho Abarca,-1.27,41.985,50
 60,Castilnuevo,-1.857,40.815,50
-435,Marbella,-4.886,36.513,176
+211,Marbella,-4.886,36.513,176
 103,Bailo,-0.811,42.51,60
+123,Mijas,-4.64,36.594,50
 72,Lumpiaque,-1.301,41.631,50
 60,Peñalén,-2.069,40.666,50
 253,Sotos,-2.162,40.195,103
@@ -2794,6 +3014,7 @@ rs,name,lon,lat,r1
 86,Zafra de Záncara,-2.557,39.891,50
 303,Colmenar,-4.337,36.905,103
 86,Arquillos,-3.426,38.181,50
+60,Arroyo de la Miel-Benalmadena Costa,-4.524,36.596,50
 103,San Carlos del Valle,-3.24,38.844,72
 60,Begíjar,-3.53,37.984,50
 72,Luesia,-1.022,42.369,72
@@ -2801,6 +3022,9 @@ rs,name,lon,lat,r1
 253,Torralba,-2.284,40.303,50
 60,Las Cuerlas,-1.549,40.96,50
 72,Pegalajar,-3.645,37.741,50
+522,Ceuta,-5.321,35.89,211
+303,Priego de Córdoba,-4.198,37.438,147
+86,Coín,-4.755,36.66,50
 86,Gallur,-1.315,41.867,50
 363,La Carolina,-3.616,38.274,123
 123,Fuente-Tójar,-4.145,37.51,50
@@ -2824,7 +3048,7 @@ rs,name,lon,lat,r1
 103,Muel,-1.084,41.466,60
 176,Donadío,-3.364,37.928,60
 103,Blancas,-1.481,40.814,60
-86,Torreperogil,-3.289,38.035,50
+103,Torreperogil,-3.289,38.035,60
 86,Benalúa de las Villas,-3.682,37.428,50
 60,Botorrita,-1.029,41.507,50
 72,Arbuniel,-3.537,37.628,50
@@ -2856,14 +3080,15 @@ rs,name,lon,lat,r1
 86,Beteta,-2.075,40.572,72
 123,Poveda de la Sierra,-2.028,40.643,50
 72,Rueda de la Sierra,-1.854,40.919,50
-86,Casa de Petón,-2.937,38.14,50
+72,Casa de Petón,-2.937,38.14,50
 123,Loscos,-1.043,41.081,60
-147,Gabaldón,-1.942,39.626,60
+147,Gabaldón,-1.942,39.626,50
 176,Broto,-0.121,42.604,103
 147,Nerja,-3.872,36.754,147
 72,Pozo de la Serna,-3.232,38.776,60
 86,Sangarrén,-0.432,42.019,72
-103,La Zubia,-3.584,37.118,50
+147,La Zubia,-3.584,37.118,50
+363,Motilla del Palancar,-1.912,39.562,176
 123,Maluenda,-1.616,41.289,50
 147,Archidona,-4.39,37.095,123
 253,Hecho,-0.749,42.739,147
@@ -2889,13 +3114,15 @@ rs,name,lon,lat,r1
 72,Fuentes Calientes,-0.977,40.701,50
 123,Biel,-0.935,42.387,50
 103,Castielfabib,-1.303,40.13,50
+86,Alhaurín el Grande,-4.686,36.642,86
 435,Guadix,-3.136,37.299,253
 72,Capileira,-3.358,36.961,50
 60,Cuevas Labradas,-1.049,40.453,50
-147,Estacion,-4.609,36.737,72
+147,Estacion,-4.609,36.737,60
 176,Almogía,-4.54,36.827,60
 60,La Rábita,-4.056,37.505,60
 72,El Frasno,-1.495,41.414,50
+626,Linares,-3.632,38.095,253
 103,Las Mesas,-2.764,39.388,60
 72,Sileras,-4.065,37.462,50
 103,Santa María del Val,-2.04,40.504,60
@@ -2914,7 +3141,7 @@ rs,name,lon,lat,r1
 123,Socuéllamos,-2.792,39.284,123
 86,Pedrola,-1.216,41.789,60
 211,Aldeaquemada,-3.371,38.411,86
-147,Villanueva del Trabuco,-4.334,37.027,60
+176,Villanueva del Trabuco,-4.334,37.027,60
 72,Embid,-1.711,40.972,50
 103,Cubel,-1.632,41.099,50
 72,Aragüés del Puerto,-0.67,42.706,50
@@ -2925,8 +3152,9 @@ rs,name,lon,lat,r1
 176,Las Pedroñeras,-2.673,39.449,123
 86,Alcubillas,-3.132,38.753,72
 147,Castellar de Santiago,-3.276,38.539,103
-147,Sitio de Calahonda,-4.711,36.491,60
-72,Estación Linares-Baeza,-3.589,38.071,50
+72,Sitio de Calahonda,-4.711,36.491,60
+60,Estación Linares-Baeza,-3.589,38.071,50
+901,Jaén,-3.792,37.775,522
 86,Verdiales,-4.484,36.792,50
 123,Altarejos,-2.356,39.912,50
 60,Salillas de Jalón,-1.322,41.567,50
@@ -2938,41 +3166,48 @@ rs,name,lon,lat,r1
 86,Castillo de Locubín,-3.941,37.528,60
 123,Cervera del Llano,-2.418,39.782,50
 103,Miedes de Aragón,-1.49,41.257,72
-147,Los Villares,-3.817,37.689,72
+147,Los Villares,-3.817,37.689,60
 72,Megina,-1.869,40.639,50
 60,Urrea de Jalón,-1.235,41.667,50
+303,Fuengirola,-4.626,36.541,147
 60,Alpartir,-1.379,41.422,50
 72,Luna,-0.931,42.167,72
 123,San Lorenzo de la Parrilla,-2.36,39.851,123
 147,Galapagar,-3.692,37.853,50
 86,La Yunta,-1.683,40.915,60
+60,Carvajal,-4.587,36.574,50
 72,Erla,-0.949,42.118,50
 72,Aisa,-0.62,42.679,50
 60,Mariana,-2.145,40.167,50
 60,La Viñuela,-4.026,37.35,50
 86,El Porrosillo,-3.415,38.223,50
+363,Loja,-4.149,37.166,211
 176,Tobed,-1.398,41.339,50
-303,Carrizosa,-2.992,38.84,72
+211,Carrizosa,-2.992,38.84,86
 60,Traíd,-1.808,40.668,50
-60,Charilla,-3.907,37.495,50
+72,Charilla,-3.907,37.495,50
 60,Belmontejo,-2.344,39.822,50
+147,Alcalá la Real,-3.922,37.46,147
 176,Used,-1.559,41.054,103
 86,La Pedriza,-3.954,37.412,50
 86,Castejón de Valdejasa,-0.994,41.982,60
-253,Ruidera,-2.882,38.976,86
+363,Ruidera,-2.882,38.976,86
 147,Alagón,-1.119,41.771,72
 72,Santa Cruz de la Serós,-0.673,42.523,50
 123,Las Majadas,-2.02,40.296,86
 103,Montefrío,-4.006,37.322,72
 176,Valdepeñas de Jaén,-3.817,37.59,72
 1867,Málaga,-4.43,36.724,901
+147,Torremolinos,-4.496,36.629,72
 72,Villar de Olalla,-2.193,40.015,50
 123,Vega del Codorno,-1.928,40.433,72
 72,Solano,-4.317,36.872,50
+60,Guadalmar-San Julián,-4.46,36.667,50
 60,Almonacid de la Sierra,-1.323,41.397,50
-147,Cózar,-3.071,38.66,60
+147,Cózar,-3.071,38.66,50
 86,Canfranc-Estación,-0.515,42.748,86
 86,Manchones,-1.466,41.15,50
+253,Villanueva de los Infantes,-3.012,38.736,176
 72,Orcajo,-1.489,41.11,50
 147,Murillo de Gállego,-0.751,42.336,50
 60,Codos,-1.373,41.293,50
@@ -2980,12 +3215,13 @@ rs,name,lon,lat,r1
 60,Puente del Obispo,-3.54,37.952,50
 103,La Alberca de Záncara,-2.492,39.515,103
 147,La Almarcha,-2.379,39.687,72
-1556,Cuenca,-2.136,40.066,522
+1297,Cuenca,-2.136,40.066,522
 123,Pinarejo,-2.425,39.616,50
 72,Pinseque,-1.1,41.737,50
 86,El Provencio,-2.574,39.377,72
 211,Sierra de Luna,-0.908,42.047,60
-123,Huétor Tájar,-4.046,37.198,72
+103,Rus,-3.461,38.047,50
+147,Huétor Tájar,-4.046,37.198,72
 60,Castillo de Garcimuñoz,-2.38,39.66,50
 147,Villanúa,-0.529,42.679,50
 522,Checa,-1.788,40.588,86
@@ -2994,23 +3230,24 @@ rs,name,lon,lat,r1
 72,Cosuenda,-1.298,41.365,50
 86,Salar,-4.065,37.149,50
 60,Alcoroches,-1.746,40.627,50
-123,Baeza,-3.469,37.994,60
+103,Baeza,-3.469,37.994,60
 123,Piqueras,-1.721,40.663,50
 72,Santa María del Campo Rus,-2.422,39.559,50
 86,El Pobo de Dueñas,-1.648,40.777,72
 103,Alfamén,-1.242,41.438,72
-253,Mancha Real,-3.608,37.785,123
+211,Mancha Real,-3.608,37.785,123
 72,Valdeganga de Cuenca,-2.185,39.92,50
 86,Torre de Juan Abad,-3.06,38.584,50
 123,Olías,-4.319,36.772,50
 103,Gallocanta,-1.506,40.997,50
 103,Granja,-1.105,41.654,60
+303,Villarrobledo,-2.602,39.268,253
 86,Odón,-1.567,40.884,50
 103,Uña,-1.976,40.223,60
 86,Biscarrués,-0.75,42.228,50
 103,Periana,-4.19,36.929,103
 211,Navas de San Juan,-3.314,38.184,123
-751,Jaca,-0.546,42.573,363
+901,Jaca,-0.546,42.573,363
 60,Tocón,-3.965,37.238,60
 435,Daroca,-1.411,41.114,176
 86,Piedratajada,-0.805,42.12,50
@@ -3028,10 +3265,13 @@ rs,name,lon,lat,r1
 211,Bello,-1.497,40.923,103
 435,Tragacete,-1.85,40.349,147
 103,Ossa de Montiel,-2.745,38.964,103
+123,Illora,-3.879,37.287,123
 72,Marracos,-0.776,42.09,50
+253,Úbeda,-3.372,38.013,147
 303,Cariñena,-1.224,41.338,123
 147,Utebo,-0.998,41.71,60
 60,San Martín del Río,-1.386,41.066,50
+72,Rincón de la Victoria,-4.275,36.717,72
 60,Jimena,-3.479,37.842,50
 60,Garcíez,-3.456,37.874,50
 103,Villamanrique,-2.996,38.546,103
@@ -3059,6 +3299,7 @@ rs,name,lon,lat,r1
 147,Huélamo,-1.808,40.276,60
 72,Griegos,-1.711,40.426,50
 123,Romanos,-1.274,41.126,50
+147,Alhama de Granada,-3.988,37.005,147
 123,Canillas de Aceituno,-4.081,36.873,60
 60,Bedmar,-3.411,37.822,50
 86,Valderrubio,-3.819,37.235,50
@@ -3084,7 +3325,7 @@ rs,name,lon,lat,r1
 176,Jódar,-3.353,37.84,147
 60,Vara de Rey,-2.293,39.425,60
 176,Biescas,-0.318,42.629,86
-2240,Zaragoza,-0.894,41.65,1556
+2240,Zaragoza,-0.894,41.65,1867
 123,Cuarte de Huerva,-0.929,41.59,50
 147,Lupiñén,-0.581,42.174,72
 103,Bronchales,-1.587,40.509,50
@@ -3092,10 +3333,12 @@ rs,name,lon,lat,r1
 86,Casas de Fernando Alonso,-2.325,39.349,60
 60,Piqueras del Castillo,-2.082,39.721,50
 211,Sabiñánigo,-0.367,42.521,103
-86,San Juan de Mozarrifar,-0.84,41.717,50
-176,Chimeneas,-3.821,37.131,60
+103,San Juan de Mozarrifar,-0.84,41.717,50
+103,Chimeneas,-3.821,37.131,60
 60,Sorihuela del Guadalimar,-3.053,38.242,60
 60,Arenas,-4.043,36.816,50
+72,Torre del Mar,-4.094,36.743,50
+363,Huelma,-3.456,37.648,123
 72,San Mateo de Gállego,-0.765,41.832,50
 103,Cucalón,-1.215,41.087,50
 103,Jaulín,-0.992,41.452,50
@@ -3106,7 +3349,8 @@ rs,name,lon,lat,r1
 253,Cañada del Hoyo,-1.899,39.969,72
 147,Villanueva de Huerva,-1.035,41.353,72
 72,Luesma,-1.145,41.166,50
-901,Calamocha,-1.298,40.916,363
+1297,Calamocha,-1.298,40.916,363
+60,Montañana,-0.826,41.685,50
 363,Munera,-2.479,39.041,211
 176,El Bonillo,-2.539,38.95,72
 60,Parque del Cubillas,-3.667,37.285,50
@@ -3123,20 +3367,20 @@ rs,name,lon,lat,r1
 72,Nisano,-0.48,42.229,50
 60,Yésero,-0.249,42.619,50
 86,Agrón,-3.829,37.03,60
-72,Santa Fe,-3.716,37.189,60
 72,Herrera de los Navarros,-1.081,41.21,72
 72,Valdemoro-Sierra,-1.766,40.102,50
 147,Almudévar,-0.58,42.042,123
 103,Nueno,-0.438,42.267,50
 147,Sisante,-2.201,39.407,103
 123,Deifontes,-3.593,37.326,50
-103,Villamayor,-0.771,41.686,72
 60,Reíllo,-1.871,39.904,50
+86,Villanueva del Arzobispo,-3.005,38.169,60
 72,Torres de Albarracín,-1.53,40.427,50
 147,Arroyo del Ojanco,-2.895,38.321,60
 103,Alarcón,-2.086,39.547,50
 211,Bea,-1.146,41.036,50
 86,Yebra de Basa,-0.281,42.487,50
+303,Iznalloz,-3.523,37.392,147
 176,Villafranca del Campo,-1.345,40.694,72
 103,La Malahá,-3.721,37.099,72
 147,Huerta del Marquesado,-1.687,40.145,86
@@ -3144,24 +3388,30 @@ rs,name,lon,lat,r1
 123,Viveros,-2.574,38.773,86
 72,Chimillas,-0.451,42.17,50
 211,Valmadrid,-0.883,41.444,50
-147,Jayena,-3.823,36.949,103
+211,Jayena,-3.823,36.949,103
 103,Orús,-0.492,42.097,60
-103,Maracena,-3.634,37.206,50
+60,Maracena,-3.634,37.206,50
 72,Mogón,-3.034,38.074,50
 86,Cabra del Santo Cristo,-3.286,37.704,86
+86,Torrox,-3.953,36.749,50
 86,Villar de los Navarros,-1.042,41.159,50
 60,Pajarón,-1.781,39.957,50
+60,Corral de Dorado,-0.704,41.7,60
 60,Royuela,-1.51,40.376,50
 123,Tardienta,-0.536,41.977,60
+211,Beas de Segura,-2.889,38.252,86
+60,Peal de Becerro,-3.119,37.914,60
 147,Carboneras de Guadazaón,-1.807,39.896,147
 86,Zafrilla,-1.617,40.195,50
-72,Píñar,-3.438,37.443,50
-86,Frigiliana,-3.896,36.792,50
+86,Píñar,-3.438,37.443,50
+72,Frigiliana,-3.896,36.792,50
 60,Cueva del Agua,-3.512,37.333,50
 103,El Picazo,-2.089,39.447,50
+60,Alfacar,-3.566,37.237,50
 103,Almodóvar del Pinar,-1.899,39.725,103
 72,Singra,-1.31,40.656,50
 72,Larva,-3.201,37.76,60
+901,Granada,-3.602,37.181,626
 72,Chilluévar,-3.031,38,50
 86,Leciñena,-0.61,41.798,86
 72,El Vallecillo,-1.566,40.235,50
@@ -3187,6 +3437,7 @@ rs,name,lon,lat,r1
 72,La Puerta de Segura,-2.737,38.351,72
 60,Aguatón,-1.234,40.671,50
 123,Azuara,-0.871,41.258,72
+60,Cenes de la Vega,-3.542,37.163,50
 123,Casasimarro,-2.039,39.392,60
 72,Gobernador,-3.32,37.477,50
 176,La Roda,-2.157,39.206,176
@@ -3199,6 +3450,7 @@ rs,name,lon,lat,r1
 303,Padul,-3.625,37.024,72
 176,Fiscal,-0.121,42.496,86
 60,Saldón,-1.427,40.326,50
+435,Cazorla,-3.002,37.914,176
 72,Moreda,-3.329,37.44,60
 103,Torre los Negros,-1.096,40.853,50
 103,Beas de Granada,-3.48,37.219,50
@@ -3234,6 +3486,7 @@ rs,name,lon,lat,r1
 86,El Jardín,-2.322,38.813,50
 435,Grañén,-0.367,41.941,123
 60,Lentegí,-3.672,36.836,50
+86,Dúrcal,-3.565,36.988,50
 103,Tiriez,-2.264,38.896,50
 60,Huélago,-3.262,37.42,50
 72,Cortijo de los Mimbres,-3.468,37.124,50
@@ -3259,6 +3512,7 @@ rs,name,lon,lat,r1
 60,Cortijada Padules,-3.366,37.204,60
 123,Pancrudo,-1.027,40.762,50
 123,Alobras,-1.388,40.18,50
+147,Almuñécar,-3.687,36.734,103
 86,Masegoso,-2.315,38.718,50
 60,Cotillas,-2.504,38.431,50
 72,Vivel del Río Martín,-0.94,40.871,60
@@ -3278,6 +3532,7 @@ rs,name,lon,lat,r1
 103,Casas de Lázaro,-2.24,38.772,50
 72,Pina de Ebro,-0.527,41.49,60
 303,Riópar,-2.417,38.498,123
+176,Tarazona de la Mancha,-1.912,39.263,72
 103,Pontones,-2.669,38.117,72
 103,Angüés,-0.152,42.111,72
 253,Balazote,-2.152,38.886,176
@@ -3297,7 +3552,7 @@ rs,name,lon,lat,r1
 86,Antillón,-0.163,42.035,50
 72,Henarejos,-1.486,39.865,72
 123,Enguídanos,-1.606,39.674,86
-86,Vélez de Benaudalla,-3.514,36.833,72
+103,Vélez de Benaudalla,-3.514,36.833,72
 123,Perales del Alfambra,-1.001,40.634,72
 176,Iniesta,-1.747,39.445,103
 86,Bierge,-0.079,42.164,50
@@ -3337,6 +3592,7 @@ rs,name,lon,lat,r1
 211,Caravaca de la Cruz,-1.863,38.106,211
 72,Partaloa,-2.225,37.407,50
 303,Santiago de la Espada,-2.551,38.111,147
+363,Ayora,-1.056,39.06,147
 901,Teruel,-1.105,40.342,626
 72,Carchuna,-3.441,36.702,50
 86,Argelita,-0.349,40.054,50
@@ -3361,6 +3617,7 @@ rs,name,lon,lat,r1
 103,Ledaña,-1.717,39.355,72
 60,Capdesaso,-0.181,41.843,50
 72,Villanova,0.462,42.547,50
+303,Andorra,-0.448,40.98,211
 60,Selgua,0.119,41.93,50
 522,Ugíjar,-3.052,36.964,103
 123,Minglanilla,-1.594,39.536,103
@@ -3404,9 +3661,9 @@ rs,name,lon,lat,r1
 176,Chirivel,-2.268,37.597,86
 72,Losa del Obispo,-0.869,39.695,50
 147,Mira,-1.438,39.72,60
-176,Los Pedrones,-1.081,39.335,86
+211,Los Pedrones,-1.081,39.335,86
 176,Bacares,-2.45,37.26,50
-522,Yeste,-2.319,38.367,176
+1081,Yeste,-2.319,38.367,176
 72,Valdealgorfa,-0.033,40.991,60
 123,Lújar,-3.403,36.787,60
 72,Garaballa,-1.375,39.815,60
@@ -3418,6 +3675,7 @@ rs,name,lon,lat,r1
 147,Molinicos,-2.237,38.468,72
 86,Nonaspe,0.247,41.209,50
 60,La Zaida,-0.428,41.327,50
+103,Aguadulce,-2.57,36.816,50
 86,El Herrumblar,-1.622,39.401,50
 103,Peralta de Alcofea,-0.066,41.931,103
 60,Herbés,-0.003,40.72,50
@@ -3447,7 +3705,7 @@ rs,name,lon,lat,r1
 60,Casa Calero,-1.158,38.634,50
 123,Zújar,-2.841,37.541,50
 103,Vilalba dels Arcs,0.409,41.12,50
-123,Térmens,0.761,41.717,50
+60,Térmens,0.761,41.717,50
 147,Llavorsí,1.211,42.496,50
 72,Mahora,-1.724,39.212,50
 72,Rubite,-3.347,36.809,50
@@ -3456,8 +3714,9 @@ rs,name,lon,lat,r1
 103,Torvizcón,-3.298,36.879,72
 253,Onda,-0.263,39.965,103
 147,Riodeva,-1.145,40.118,72
-211,Mula,-1.491,38.04,123
+211,Mula,-1.491,38.04,147
 103,Cenizate,-1.66,39.303,50
+751,Lorca,-1.692,37.678,363
 60,La Esperanza,-1.488,37.959,50
 147,Vilanova de Meià,1.021,41.994,86
 60,Cubells,0.957,41.852,50
@@ -3465,7 +3724,7 @@ rs,name,lon,lat,r1
 72,Graja de Campalbo,-1.27,39.899,50
 176,Salas Altas,0.075,42.114,72
 103,El Salobral,-1.922,38.867,50
-103,Villamalea,-1.597,39.362,72
+123,Villamalea,-1.597,39.362,72
 72,Aldeire,-3.071,37.16,50
 60,La Puebla de Híjar,-0.444,41.213,50
 147,Talayuelas,-1.284,39.85,50
@@ -3503,6 +3762,7 @@ rs,name,lon,lat,r1
 103,Castelflorite,-0.021,41.803,72
 72,Escatrón,-0.323,41.287,50
 253,Alcadozo,-1.979,38.649,60
+751,Huéscar,-2.541,37.809,211
 253,Barbastro,0.125,42.036,103
 253,Puebla de Don Fadrique,-2.435,37.956,103
 86,Fuenterrobles,-1.363,39.585,50
@@ -3553,7 +3813,7 @@ rs,name,lon,lat,r1
 103,Gúdar,-0.72,40.442,50
 123,El Sabinar,-2.154,38.207,103
 253,Cúllar,-2.572,37.584,123
-123,Orce,-2.477,37.721,86
+123,Orce,-2.477,37.721,72
 103,Casas de Juan Núñez,-1.557,39.101,72
 176,Graus,0.338,42.19,147
 60,Turón,-3.056,36.864,50
@@ -3598,7 +3858,7 @@ rs,name,lon,lat,r1
 123,Cañadas de Cañepla,-2.283,37.796,50
 60,Aubèrt e Betlan,0.777,42.731,50
 123,Belver de Cinca,0.179,41.693,72
-253,Topares,-2.228,37.861,123
+303,Topares,-2.228,37.861,123
 176,Chelva,-0.996,39.748,103
 60,Ocaña,-2.726,37.131,50
 60,Abejuela,-0.892,39.91,50
@@ -3609,7 +3869,7 @@ rs,name,lon,lat,r1
 60,Osso de Cinca,0.191,41.666,50
 72,Tazona,-1.908,38.305,50
 103,Casablanca,-2.108,38.002,72
-1081,Vielha,0.797,42.702,363
+1867,Vielha,0.797,42.702,363
 72,Esplús,0.276,41.799,50
 60,Castellote,-0.318,40.799,50
 176,Calanda,-0.23,40.941,86
@@ -3625,7 +3885,8 @@ rs,name,lon,lat,r1
 60,Bonansa,0.667,42.427,50
 103,Higueruela,-1.442,38.963,103
 60,Nogueruelas,-0.635,40.237,50
-1081,Alcañiz,-0.131,41.05,363
+626,Requena,-1.098,39.488,303
+626,Alcañiz,-0.131,41.05,363
 72,Linares de Mora,-0.573,40.323,72
 147,Rubielos de Mora,-0.653,40.191,60
 72,Dalías,-2.87,36.822,50
@@ -3640,7 +3901,7 @@ rs,name,lon,lat,r1
 123,Bordón,-0.321,40.686,72
 86,Nacimiento,-2.647,37.106,60
 147,Las Anorias,-1.539,38.755,60
-1081,Hellín,-1.698,38.511,253
+626,Hellín,-1.698,38.511,253
 147,El Toro,-0.748,39.981,60
 72,Arties e Garòs,0.872,42.699,50
 211,Cantavieja,-0.404,40.525,86
@@ -3665,11 +3926,11 @@ rs,name,lon,lat,r1
 60,Tolva,0.565,42.116,50
 60,Barranda,-1.964,38.047,50
 363,Tíjola,-2.436,37.345,86
-522,El Pont de Suert,0.741,42.406,147
+363,El Pont de Suert,0.741,42.406,147
 60,Instinción,-2.659,36.993,50
 303,El Ejido,-2.81,36.772,123
 72,María,-2.164,37.711,50
-60,El Rebollar,-1.01,39.469,60
+60,El Rebollar,-1.01,39.469,50
 72,Chulilla,-0.891,39.656,50
 103,Altorricón,0.413,41.802,50
 123,Mosqueruela,-0.447,40.362,123
@@ -3697,7 +3958,7 @@ rs,name,lon,lat,r1
 86,Puertomingalvo,-0.46,40.265,50
 60,Villores,-0.2,40.676,50
 103,La Iglesuela del Cid,-0.318,40.482,50
-123,Huécija,-2.608,36.968,50
+147,Huécija,-2.608,36.968,50
 60,Zorita del Maestrazgo,-0.165,40.729,60
 147,Ontur,-1.497,38.615,60
 123,Gimenells,0.39,41.651,60
@@ -3707,7 +3968,7 @@ rs,name,lon,lat,r1
 86,Forcall,-0.2,40.646,60
 253,Fuente-Álamo,-1.431,38.692,176
 103,Vélez-Blanco,-2.094,37.693,50
-86,Felix,-2.657,36.869,50
+147,Felix,-2.657,36.869,50
 86,Portell de Morella,-0.263,40.532,50
 72,Gatuna,-2.602,36.931,50
 303,Fraga,0.342,41.522,176
@@ -3717,10 +3978,12 @@ rs,name,lon,lat,r1
 86,Cinctorres,-0.215,40.583,50
 72,Casas de Monreal,0.379,41.575,50
 176,Alpera,-1.23,38.958,86
+103,Olula del Río,-2.296,37.354,103
 72,Jalance,-1.077,39.191,50
 253,Montanejos,-0.523,40.068,103
 147,Velefique,-2.402,37.194,60
-123,Laroya,-2.33,37.296,50
+103,Laroya,-2.33,37.296,50
+211,Calasparra,-1.7,38.23,123
 60,Valjunquera,0.025,40.953,50
 60,Campillo y Suertes,-1.795,38.076,50
 103,Montealegre del Castillo,-1.326,38.788,72
@@ -3736,7 +3999,6 @@ rs,name,lon,lat,r1
 103,Villahermosa del Río,-0.417,40.203,86
 86,Mazaleón,0.102,41.05,50
 72,Alfarràs,0.568,41.831,50
-103,La Envía,-2.616,36.834,50
 303,Mequinenza,0.302,41.372,103
 176,Jarafuel,-1.072,39.14,50
 60,Los Simones,-2.188,37.44,50
@@ -3752,10 +4014,10 @@ rs,name,lon,lat,r1
 211,Coy,-1.811,37.948,72
 72,Teresa de Cofrentes,-1.05,39.105,50
 211,Morella,-0.101,40.619,147
-253,Zarcilla de Ramos,-1.874,37.844,147
+363,Zarcilla de Ramos,-1.874,37.844,147
 103,Pedralba,-0.726,39.605,72
+103,Roquetas de Mar,-2.611,36.762,103
 60,Seròs,0.41,41.463,50
-103,Las Marinas,-2.627,36.733,50
 103,Vistabella del Maestrazgo,-0.292,40.293,72
 103,Tahal,-2.284,37.228,50
 123,Pavías,-0.481,39.974,60
@@ -3764,17 +4026,18 @@ rs,name,lon,lat,r1
 60,La Torre de Cabdella,0.982,42.422,60
 103,Alguaire,0.588,41.737,50
 303,Tabernas,-2.387,37.053,103
+103,Alpicat,0.557,41.664,50
 123,Aitona,0.458,41.496,50
 103,Espot,1.088,42.576,50
 60,Chodos/Xodos,-0.287,40.245,50
 211,Albox,-2.141,37.385,123
-147,Benahadux,-2.457,36.924,50
+86,Benahadux,-2.457,36.924,50
 303,Àger,0.762,42,103
 103,La Pobleta de Bellveí,0.961,42.344,72
 303,Esterri d'Àneu,1.123,42.626,176
 176,Calaceite,0.189,41.016,72
 72,La Copa,-1.664,38.08,50
-253,Buñol,-0.789,39.421,147
+147,Buñol,-0.789,39.421,147
 72,Ludiente,-0.37,40.087,50
 123,Parroquia de la Fuensanta,-1.894,37.728,86
 176,Peñarroya de Tastavins,0.041,40.757,86
@@ -3783,22 +4046,24 @@ rs,name,lon,lat,r1
 176,Albánchez,-2.179,37.287,72
 176,Bullas,-1.667,38.047,103
 176,Venta del Olivo,-1.48,38.318,50
-60,Torrefarrera,0.608,41.672,50
-1081,Tremp,0.895,42.166,303
-60,Huércal de Almería,-2.441,36.884,50
+626,Tremp,0.895,42.166,303
+86,Huércal de Almería,-2.441,36.884,50
 60,Masía del Mollón,-0.293,40.165,50
 211,Segorbe,-0.487,39.849,147
 60,Salàs de Pallars,0.93,42.213,50
 60,Limaria,-2.086,37.392,50
+86,Chiva,-0.715,39.472,50
 86,Les Avellanes,0.763,41.908,60
 522,Almansa,-1.095,38.868,211
+8023,Almería,-2.45,36.844,751
 123,Benasal,-0.141,40.379,60
 147,La Pobla de Segur,0.968,42.249,60
+147,Llíria,-0.599,39.627,60
 72,Castelló de Farfanya,0.728,41.819,50
 60,La Pobla de Massaluca,0.353,41.181,50
 86,Marines,-0.561,39.675,50
 103,Cretas,0.212,40.929,50
-103,Batea,0.312,41.094,72
+123,Batea,0.312,41.094,72
 211,Jumilla,-1.324,38.476,147
 72,Dos Aguas,-0.799,39.289,50
 60,Molino del Tejar,-1.086,38.839,50
@@ -3808,10 +4073,12 @@ rs,name,lon,lat,r1
 60,Arens de Lledó,0.272,40.992,50
 72,Venta del Cruce,-1.572,38.065,50
 72,Almedíjar,-0.41,39.871,50
+86,Turís,-0.711,39.39,50
 176,Sunyer,0.591,41.523,50
 86,Beceite,0.182,40.831,50
 123,Vallibona,0.047,40.603,72
-86,Fuente Ascoy,-1.422,38.275,50
+123,Corbins,0.693,41.689,50
+72,Fuente Ascoy,-1.422,38.275,50
 86,Sarroca de Lleida,0.562,41.458,60
 60,Gerri de la Sal,1.064,42.323,60
 147,Maials,0.507,41.364,86
@@ -3822,9 +4089,10 @@ rs,name,lon,lat,r1
 176,Sort,1.13,42.412,123
 60,Montardit de Baix,1.116,42.382,50
 86,Millares,-0.773,39.238,86
+626,Cieza,-1.419,38.239,176
 147,Ribera de Cardós,1.227,42.563,50
 103,Ribesalbes,-0.276,40.019,50
-60,El Pouet,-0.527,39.616,50
+72,El Pouet,-0.527,39.616,50
 60,Esterri de Cardós,1.262,42.592,50
 103,El Tranco,-2.051,37.262,50
 72,Los Menas,-1.99,37.352,50
@@ -3837,6 +4105,8 @@ rs,name,lon,lat,r1
 60,Useras/Les Useres,-0.165,40.157,50
 211,L'Alcora,-0.213,40.075,86
 72,Lubrín,-2.066,37.216,72
+211,L'Eliana,-0.527,39.561,86
+72,Abarán,-1.398,38.205,50
 60,Costur,-0.173,40.12,50
 72,La Pobla de Benifassà,0.156,40.656,50
 147,Camarasa,0.877,41.874,60
@@ -3849,29 +4119,32 @@ rs,name,lon,lat,r1
 211,Puerto Lumbreras,-1.806,37.565,86
 60,La Fatarella,0.474,41.161,50
 86,Bot,0.385,41.009,50
+363,Yecla,-1.109,38.61,176
 72,La Colonia,-1.768,37.607,50
 147,Isona,1.047,42.118,86
 103,Pliego,-1.505,37.989,50
 72,Calicanto,-0.565,39.435,60
-72,Hoya del Campo,-1.335,38.237,50
+86,Hoya del Campo,-1.335,38.237,50
 72,Yéchar,-1.44,38.072,50
 176,Gandesa,0.439,41.054,123
-303,Flix,0.55,41.231,123
+147,Montserrat,-0.601,39.358,60
+626,Flix,0.55,41.231,123
 211,Albocàsser,0.024,40.357,103
 72,La Cañada,-0.483,39.532,50
 60,Alòs de Balaguer,0.958,41.915,50
 72,Bellvís,0.818,41.673,50
-103,Ricote,-1.365,38.154,50
+86,Ricote,-1.365,38.154,50
 72,Sierra Engarcerán,-0.018,40.269,50
 103,Tírig,0.079,40.424,50
 60,La Encina,-0.952,38.766,50
 60,El Soleràs,0.682,41.414,50
-60,Estivella,-0.347,39.713,50
+86,Estivella,-0.347,39.713,50
 176,Caudete,-0.985,38.705,72
 86,Paüls,0.399,40.922,50
 60,Chert/Xert,0.159,40.518,50
 60,Rossell,0.221,40.617,50
 72,Aledo,-1.572,37.794,50
+86,Betxí,-0.198,39.928,50
 123,Bédar,-1.98,37.191,50
 147,La Granadella,0.666,41.355,86
 86,Bellcaire d'Urgell,0.904,41.759,50
@@ -3881,111 +4154,133 @@ rs,name,lon,lat,r1
 60,Torregrossa,0.826,41.58,50
 72,Vilafamés,-0.049,40.117,50
 303,La Vall d'Uixó,-0.228,39.824,123
-72,Torrent,-0.47,39.433,50
-147,Pinar de Campoverde,-0.845,37.905,50
+147,Catadau,-0.57,39.275,50
+103,Torrent,-0.47,39.433,72
+103,Pinar de Campoverde,-0.845,37.905,50
 211,Artesa de Segre,1.048,41.894,86
 60,Vall d'Alba,-0.034,40.176,50
 86,Cabó,1.248,42.238,50
-123,Almendricos,-1.776,37.473,60
-72,Los Belones,-0.777,37.624,50
+123,Almendricos,-1.776,37.473,50
+86,Los Belones,-0.777,37.624,50
 147,Alhama de Murcia,-1.424,37.85,60
-86,Garcia,0.65,41.136,50
-86,Cañarejo,-1.664,37.633,50
+103,Garcia,0.65,41.136,50
+103,Cañarejo,-1.664,37.633,50
 72,Anna,-0.645,39.02,50
+253,Móra d'Ebre,0.635,41.086,176
 60,La Ñorica,-1.464,37.746,50
 72,Castelldans,0.766,41.498,50
 60,Casa de la Atalaya,-0.885,38.606,50
 103,El Berro,-1.489,37.89,50
-123,Cabo de Gata,-2.241,36.782,50
-86,El Pla de Sant Tirs,1.383,42.313,50
+176,Cabo de Gata,-2.241,36.782,50
+72,El Pla de Sant Tirs,1.383,42.313,50
 303,Fortuna,-1.126,38.181,86
+303,Campohermoso,-2.13,36.938,123
 72,Ponts,1.187,41.916,72
 86,La Galera,0.463,40.682,72
 211,Navarrés,-0.694,39.101,86
 103,Algueña,-1.001,38.338,50
 123,Las Lomas,-1.412,37.716,50
 60,Antas,-1.917,37.245,50
+86,Algemesí,-0.433,39.191,50
 60,Belianes,1.016,41.561,50
 103,El Barranquete,-2.195,36.837,50
 103,La Font de la Figuera,-0.879,38.806,72
-86,Gilet,-0.326,39.676,50
-123,Tivissa,0.734,41.041,50
+103,Gilet,-0.326,39.676,50
+103,Tivissa,0.734,41.041,60
+303,Xàtiva,-0.521,38.988,123
+103,Cuevas del Almanzora,-1.877,37.296,50
 176,Linyola,0.903,41.71,72
 123,Falset,0.821,41.145,123
+303,Ontinyent,-0.605,38.822,103
 86,Atochares,-2.159,36.881,50
-103,La Hoya,-1.596,37.708,72
+103,La Hoya,-1.596,37.708,60
 72,Monóvar/Monòver,-0.837,38.437,50
 60,L'Aldea,0.614,40.743,50
-86,Bocairent,-0.612,38.764,50
+123,Bocairent,-0.612,38.764,50
 103,Peníscola/Peñíscola,0.394,40.363,50
 72,Montgai,0.962,41.8,50
 60,Sector I,0.552,40.581,50
-5572,Melilla,-2.947,35.283,1081
+60,Benisuera,-0.477,38.913,50
+3225,Melilla,-2.947,35.283,1297
+103,Moncada,-0.395,39.546,60
 253,Mazarrón,-1.314,37.599,147
 147,Alforja,0.977,41.212,72
 147,La Palma d'Ebre,0.666,41.283,60
 72,Sant Climenç,1.419,41.952,50
+123,Orihuela,-0.946,38.082,123
 60,La Alcanara y los Butanos,-1.682,37.558,50
 86,Venta del Pobre,-2.067,36.993,50
 72,Juneda,0.824,41.548,50
 103,Alfaix,-1.964,37.14,50
-303,La Sénia,0.283,40.635,103
+253,La Sénia,0.283,40.635,103
 123,Sant Mateu,0.18,40.463,123
 60,Benlloch,0.027,40.21,50
 60,L'Aleixar,1.046,41.201,50
 86,Torà,1.404,41.811,72
-60,El Pinell de Brai,0.515,41.016,50
+86,El Pinell de Brai,0.515,41.016,50
+522,Alcoy/Alcoi,-0.476,38.698,211
 60,La Perulaca,-1.923,37.19,50
 72,Venta las Quebradas,-1.07,38.468,60
-86,Campos del Río,-1.351,38.04,50
+86,Campos del Río,-1.351,38.04,60
 86,Castellfollit de Riubregós,1.437,41.775,50
+147,Archena,-1.3,38.116,60
 103,Bellver de Cerdanya,1.777,42.369,103
 103,Borriol,-0.07,40.041,50
 72,La Torre de l'Espanyol,0.626,41.192,50
-72,Almoradí,-0.791,38.11,72
+123,Almoradí,-0.791,38.11,103
 176,Elche/Elx,-0.689,38.264,147
 60,Canet lo Roig,0.244,40.551,50
-147,Urbanización Castillitos,-1.115,37.539,86
+123,Urbanización Castillitos,-1.115,37.539,86
 123,Salou,1.127,41.082,60
-60,Santa Ana,-1.006,37.666,50
+103,Santa Ana,-1.006,37.666,50
 176,Mollerussa,0.892,41.627,147
-72,Pozo de la Higuera,-1.737,37.44,50
+60,Pozo de la Higuera,-1.737,37.44,50
 86,La Salzadella,0.175,40.419,50
 86,Bolbaite,-0.672,39.06,50
 363,Vera,-1.866,37.247,123
+2240,Alacant/Alicante,-0.49,38.358,901
 123,Relleu,-0.311,38.587,72
+435,Torrevieja,-0.676,37.985,211
 103,Mas de Barberans,0.373,40.734,50
 72,La Vall,1.65,41.759,50
 86,Benifallet,0.518,40.974,50
+147,Almenara,-0.224,39.753,60
+123,Pulpí,-1.744,37.412,103
 60,Vila-Sana,0.929,41.663,50
-253,Totana,-1.499,37.77,147
-86,Puçol,-0.301,39.617,50
+253,Totana,-1.499,37.77,123
+60,Massamagrell,-0.332,39.57,50
+103,Puçol,-0.301,39.617,50
 86,Guazamara,-1.779,37.347,50
-123,Xerta,0.491,40.908,72
+123,Xerta,0.491,40.908,86
 103,Montclar d'Urgell,1.044,41.848,50
 72,Las Casicas,-1.142,38.296,50
 86,Queralbs,2.162,42.349,50
-86,Meliana,-0.347,39.528,50
-176,Barqueros,-1.37,37.94,72
+303,Benidorm,-0.119,38.541,253
+211,Barqueros,-1.37,37.94,72
 60,Juncosa,0.776,41.37,60
 86,Tous,-0.587,39.14,50
 147,Cabanes,0.048,40.153,60
+147,Enguera,-0.687,38.979,60
 211,Les Borges Blanques,0.87,41.518,86
 103,Mogente/Moixent,-0.751,38.875,72
+3225,Valencia,-0.37,39.47,1867
 72,Moraira,0.133,38.689,50
-123,Carlet,-0.521,39.227,50
+86,Carlet,-0.521,39.227,50
+901,Castellón de la Plana/Castelló de la Plana,-0.044,39.983,363
 211,Camprodon,2.366,42.313,60
 72,Catarroja,-0.403,39.404,50
 103,Traiguera,0.288,40.524,50
 147,El Pinós/Pinoso,-1.04,38.401,123
 72,San Rafael del Río,0.346,40.606,50
 86,Cabacés,0.734,41.247,50
+211,Silla,-0.41,39.363,50
 103,Borriana/Burriana,-0.083,39.887,72
 86,Palomares,-1.795,37.247,50
-363,El Puerto,-0.22,39.661,123
-72,Benissanet,0.634,41.058,50
+363,El Puerto,-0.22,39.661,147
+60,Alginet,-0.469,39.264,50
+60,Benissanet,0.634,41.058,50
 60,Playa de Nules,-0.112,39.825,50
-176,Villena,-0.863,38.636,123
+253,Villena,-0.863,38.636,123
 60,El Molar,0.705,41.163,50
 86,San José,-2.108,36.764,86
 147,Garrucha,-1.822,37.18,60
@@ -3993,55 +4288,66 @@ rs,name,lon,lat,r1
 86,Barbens,1.017,41.677,50
 60,Masalavés,-0.522,39.143,50
 60,Rodalquilar,-2.04,36.847,50
-303,Organyà,1.329,42.212,103
+253,Organyà,1.329,42.212,103
 86,Mas dels Frares,0.047,40.037,60
 86,Salinas,-0.912,38.519,60
 72,Coll de Nargó,1.316,42.174,50
-147,Las Negras,-2.006,36.88,72
+103,Las Negras,-2.006,36.88,72
 123,La Guàrdia,1.057,41.722,50
+626,Tortosa,0.521,40.812,363
 103,Vista de los Angeles-Rumina,-1.833,37.132,50
+147,Almussafes,-0.412,39.293,50
+147,Agramunt,1.096,41.785,103
 60,Alberic,-0.521,39.117,50
-147,Molina de Segura,-1.206,38.057,60
+176,Molina de Segura,-1.206,38.057,60
 86,Bellpuig,1.011,41.626,72
 86,Ben-Afeli,0,39.938,50
-86,Alcalà de Xivert,0.224,40.304,72
+86,Alcalà de Xivert,0.224,40.304,60
 176,Barinas,-1.057,38.272,50
 60,Gañuelas,-1.351,37.819,50
 72,Los Olivos,-1.167,38.095,50
 86,San Juan de Terreros,-1.657,37.36,50
 60,El Saler,-0.332,39.384,50
 60,El Masroig,0.733,41.126,60
-86,Beneixama,-0.765,38.701,60
+103,Beneixama,-0.765,38.701,60
 60,Oliola,1.174,41.876,50
-86,Carboneras,-1.895,36.998,86
-72,El Puntarrón,-1.263,37.929,50
+147,Carboneras,-1.895,36.998,147
+60,El Puntarrón,-1.263,37.929,50
+363,Torreblanca,0.197,40.219,123
 60,Casa Medina,-0.696,38.792,60
+626,La Seu d'Urgell,1.458,42.357,253
 103,Venta de San Antonio-Estación,0.159,40.155,50
+86,Villanueva de Castellón,-0.512,39.077,50
+60,Canals,-0.583,38.962,50
 60,Godall,0.469,40.655,50
 103,Càlig,0.355,40.462,50
 103,Tiurana,1.256,41.976,50
 60,La Llosa de Ranes,-0.532,39.019,50
 72,Ulldemolins,0.878,41.321,50
 211,L'Albi,0.939,41.424,86
-86,Oropesa del Mar/Oropesa,0.14,40.091,60
+147,Oropesa del Mar/Oropesa,0.14,40.091,60
 176,Oliana,1.314,42.068,123
 626,Águilas,-1.582,37.409,211
 103,La Pobla de Cérvoles,0.914,41.366,50
+303,Alzira,-0.432,39.151,176
 60,Manuel,-0.492,39.051,50
 60,Carcaixent,-0.447,39.121,50
 60,Bassella,1.295,42.006,50
 60,Biar,-0.761,38.627,50
+123,Sax,-0.82,38.536,50
 123,Mas del Cantet,0.667,40.928,50
 72,La Majada,-1.413,37.63,60
 72,L'Espluga Calba,1.006,41.494,50
 72,El Palmar,-0.317,39.31,50
 60,Cabanabona,1.216,41.852,50
+60,Espinardo,-1.155,38.011,50
 72,Vilanova de l'Aguda,1.252,41.91,50
 60,Aielo de Malferit,-0.588,38.879,50
 86,Capçanes,0.782,41.101,50
 123,Cambrils,1.387,42.134,50
 103,Los Chalés,-1.285,37.799,72
 60,Las Fuentes,0.286,40.255,50
+147,L'Olleria,-0.55,38.914,50
 103,La Romana,-0.896,38.367,50
 86,Porrera,0.856,41.188,50
 123,Cornudella de Montsant,0.906,41.265,50
@@ -4049,24 +4355,33 @@ rs,name,lon,lat,r1
 86,Fulleda,1.025,41.462,50
 123,Alcanar,0.48,40.543,60
 86,San Bartolome,-1.195,37.894,50
+72,Banyeres de Mariola,-0.656,38.717,72
+86,El Palmar O Lugar de Don Juan,-1.163,37.937,50
 522,Tàrrega,1.14,41.648,176
+751,Murcia,-1.124,37.987,303
 60,Casa de Plaza,-1.046,38.101,50
+363,Elda,-0.793,38.477,176
 123,El Saladillo,-1.329,37.662,50
-72,Casa Fenasosa,-0.657,38.68,50
-103,El Perelló,-0.276,39.275,86
+751,Benicarló,0.429,40.421,303
+86,Casa Fenasosa,-0.657,38.68,50
+103,El Perelló,-0.276,39.275,60
 72,Verdú,1.142,41.61,50
 86,Mas Calzones,0.583,40.664,50
 60,El Perelló,0.712,40.874,50
+103,Vinaròs,0.473,40.474,50
 86,Santomera,-1.048,38.062,60
+123,Sueca,-0.31,39.202,72
+72,Onil,-0.672,38.629,50
 123,Sanaüja,1.31,41.875,60
-60,Barxeta,-0.417,39.022,50
+103,Barxeta,-0.417,39.022,50
 60,Arsèguel,1.583,42.35,60
 72,Prades,0.99,41.31,60
 60,Mareny de Barraquetes,-0.264,39.246,50
 60,Senan,1.088,41.47,50
-211,Sant Carles de la Ràpita,0.587,40.616,72
+72,Albaida,-0.518,38.839,50
+363,Sant Carles de la Ràpita,0.587,40.616,72
 86,Castalla,-0.671,38.596,60
-86,L'Ampolla,0.707,40.812,60
+123,L'Ampolla,0.707,40.812,60
 72,Los Ligeros,-0.903,38.229,50
 253,Guissona,1.29,41.784,86
 123,Corvera,-1.156,37.831,86
@@ -4077,10 +4392,13 @@ rs,name,lon,lat,r1
 72,Agres,-0.514,38.781,50
 60,Favara,-0.29,39.128,50
 60,Casa de la Torrica,-1.15,37.801,50
+147,Novelda,-0.766,38.384,72
 72,Biosca,1.357,41.841,50
 60,L'Espluga de Francolí,1.101,41.397,50
-103,Zeneta,-1,38.008,50
+211,L'Ametlla de Mar,0.801,40.885,86
+123,Zeneta,-1,38.008,50
 86,Riu-club,0.975,41.173,50
+103,Cullera,-0.25,39.162,50
 72,Els Campellos,-0.628,38.565,50
 123,Cervera,1.273,41.672,86
 60,Lles de Cerdanya,1.688,42.391,50
@@ -4090,123 +4408,150 @@ rs,name,lon,lat,r1
 86,Fuente Álamo de Murcia,-1.17,37.723,86
 147,Ibi,-0.574,38.623,72
 123,Deltebre,0.727,40.718,86
-72,Arneva,-0.94,38.055,50
+60,Arneva,-0.94,38.055,50
 86,Puerto de Mazarrón,-1.266,37.564,50
 103,Lladurs,1.507,42.045,50
 60,Pinet,-0.337,38.983,50
 86,Crevillent,-0.808,38.249,72
 86,La Coma,1.591,42.176,50
 60,Martinet,1.696,42.36,50
-123,Llutxent,-0.355,38.942,86
+147,Llutxent,-0.355,38.942,86
 86,Las Palas,-1.188,37.662,50
 211,Tavernes de la Valldigna,-0.264,39.073,72
 103,Barx,-0.3,39.014,50
 60,Las Casas,-0.976,37.968,50
+303,L'Hospitalet de L'infant,0.918,40.992,86
 72,L'Hostalnou,1.463,41.922,50
-86,Muro de Alcoy,-0.437,38.781,50
+123,Muro de Alcoy,-0.437,38.781,60
 123,Sant Llorenç de Morunys,1.591,42.136,103
-522,Montblanc,1.16,41.374,72
+435,Montblanc,1.16,41.374,72
 86,Sant Ramon,1.365,41.726,50
 303,Solsona,1.519,41.994,211
-72,Orito,-0.687,38.375,50
 211,Gósol,1.66,42.238,72
 86,Els Muntells,0.749,40.672,50
-123,Agost,-0.638,38.438,86
+123,Agost,-0.638,38.438,72
 103,Meranges,1.787,42.446,60
+60,Benejúzar,-0.837,38.077,50
 123,Sarral,1.247,41.444,60
+60,Xeraco,-0.215,39.032,50
 72,La Riba,1.178,41.317,50
 60,Jimenado,-1.036,37.761,50
 72,Bonavista,-0.679,38.301,50
 123,Talavera,1.338,41.582,50
 60,Feners,1.699,42.211,50
+123,Roldán,-1.007,37.797,50
 86,Riumar,0.838,40.726,60
 60,Rocafort de Queralt,1.282,41.478,50
 103,Sucina,-0.94,37.891,60
-86,Rótova,-0.257,38.932,50
+60,Cambrils,1.053,41.073,50
+72,Rótova,-0.257,38.932,50
 123,La Selva del Camp,1.139,41.213,50
 72,L'Lorcha/Orxa,-0.31,38.844,72
 211,Jijona/Xixona,-0.506,38.538,72
-103,La Meca,-0.598,38.394,50
-147,Reus,1.108,41.152,72
-86,La Corona,-1.098,37.624,50
-60,Benilloba,-0.388,38.7,50
+72,La Meca,-0.598,38.394,50
+1081,Reus,1.108,41.152,435
+72,La Corona,-1.098,37.624,50
+60,Benilloba,-0.388,38.7,60
 86,Avileses,-0.942,37.849,50
 147,Sant Guim de Freixenet,1.42,41.654,60
 103,La Foia,-0.683,38.213,50
 60,Hortichuela,-0.972,37.773,50
 60,Riu de Cerdanya,1.827,42.345,50
-60,Grau I Platja,-0.169,39.008,50
+72,Grau I Platja,-0.169,39.008,50
+86,Balones,-0.342,38.736,50
 72,La Torremanzanas/Torre de les Maçanes,-0.419,38.609,60
 147,Pinós,1.542,41.827,50
+1081,Gandia,-0.183,38.969,363
+60,Pozo Estrecho,-0.992,37.71,50
 86,Santa Coloma de Queralt,1.384,41.533,86
 60,Alpatró,-0.261,38.821,50
 103,El Pla de Santa Maria,1.291,41.364,60
 123,Valls,1.249,41.288,103
-123,Torre-Pacheco,-0.954,37.744,86
+253,Torre-Pacheco,-0.954,37.744,103
 147,Calaf,1.514,41.732,123
 72,Villalonga,-0.208,38.887,50
-86,Torrellano,-0.587,38.293,50
+86,San Vicente del Raspeig/Sant Vicent del Raspeig,-0.522,38.396,50
+86,Torrellano,-0.587,38.293,72
 72,Bergús,1.611,41.892,50
 72,Argençola,1.443,41.598,50
-60,Alcoleja,-0.331,38.675,50
-211,Puigcerdà,1.929,42.433,211
-86,Tollos,-0.274,38.757,50
+60,El Morell,1.207,41.192,50
+103,Alcoleja,-0.331,38.675,50
+103,Marina-Oasis,-0.681,38.132,50
+253,Puigcerdà,1.929,42.433,211
+60,Tollos,-0.274,38.757,50
 60,Els Torrents,1.303,41.337,50
+72,Constantí,1.216,41.152,50
 86,Capolat,1.753,42.078,50
+751,Cartagena,-0.99,37.618,253
 60,Els Prats de Rei,1.543,41.705,50
 60,Alió,1.306,41.294,50
 60,La Pineda,1.182,41.08,50
-60,La Puebla,-0.919,37.718,50
 303,Bagà,1.863,42.253,123
-147,Bonalba,-0.435,38.446,50
+176,Bonalba,-0.435,38.446,60
 103,Montmajor,1.736,42.018,72
 176,Cardona,1.68,41.913,72
 176,Querol,1.398,41.423,60
+123,Oliva,-0.116,38.92,50
+103,Guardamar del Segura,-0.653,38.086,72
+86,San Javier,-0.833,37.803,86
+211,Pilar de la Horadada,-0.786,37.863,50
+147,Tarragona,1.249,41.117,86
 72,La Molina,1.956,42.345,72
+60,Los Alcázares,-0.851,37.746,50
+103,Los Arenales del Sol,-0.519,38.251,50
 86,Vilabella,1.331,41.249,50
 176,Santa Pola,-0.552,38.195,86
 60,La Vall d'Ebo,-0.158,38.805,50
 103,Sant Jordi,1.857,42.152,50
 72,Jorba,1.547,41.601,50
-103,Castell de Castells,-0.193,38.725,60
-751,Berga,1.846,42.101,253
+86,Castell de Castells,-0.193,38.725,60
+253,Pego,-0.117,38.84,60
+1081,Berga,1.846,42.101,253
 72,Benimantell,-0.209,38.676,50
 72,Serrateix,1.776,41.946,60
-103,El Algar,-0.865,37.647,86
 60,Orxeta,-0.262,38.563,50
-60,Barriada Virgen de la Caridad,-0.831,37.679,50
+86,La Unión,-0.877,37.62,72
+123,Barriada Virgen de la Caridad,-0.831,37.679,50
 60,Colonia Rosal,1.87,42.074,50
 60,Toses,2.015,42.321,50
 123,La Pobla de Lillet,1.975,42.245,72
+211,Súria,1.753,41.833,50
 103,Deveses,-0.028,38.877,50
+253,Igualada,1.615,41.583,147
 72,Castellar de n'Hug,2.017,42.282,50
-72,Portman,-0.852,37.591,50
+60,Portman,-0.852,37.591,50
 123,Gironella,1.882,42.034,50
-60,Plans-Gasparot,-0.246,38.504,60
-103,Fals,1.735,41.756,50
+72,Plans-Gasparot,-0.246,38.504,72
+103,Fals,1.735,41.756,60
 72,Castellfollit del Boix,1.683,41.666,60
 60,Los Nietos,-0.786,37.65,50
 72,Bonastre,1.441,41.219,60
 123,Torredembarra,1.401,41.147,86
-147,Puig-reig,1.881,41.971,60
-72,Callosa d'en Sarrià,-0.121,38.651,72
+176,Puig-reig,1.881,41.971,60
+72,Callosa d'en Sarrià,-0.121,38.651,50
 86,Borredà,1.994,42.135,72
 103,Torrelles de Foix,1.571,41.388,72
 86,Ondara,0.021,38.825,50
-72,Xaló,-0.01,38.74,50
+147,Navàs,1.877,41.901,86
+176,Xaló,-0.01,38.74,50
 72,Balsareny,1.875,41.863,50
 103,Santpedor,1.837,41.783,50
 123,El Vendrell,1.532,41.218,123
+363,Manresa,1.831,41.73,147
 103,Ribes de Freser,2.17,42.307,72
+103,Altea,-0.051,38.599,50
+303,Dénia,0.103,38.84,176
 72,La Múnia,1.618,41.326,50
+147,Piera,1.75,41.523,72
 103,Prats de Lluçanès,2.03,42.009,86
-123,Benissa,0.053,38.716,60
+72,Benissa,0.053,38.716,60
 60,Les Llosses,2.115,42.151,50
 103,Alpens,2.101,42.119,60
 60,Campdevànol,2.167,42.225,50
-72,Avinyó,1.971,41.864,50
-147,Sant Vicenç de Castellet,1.863,41.668,50
+86,Avinyó,1.971,41.864,50
+123,Sant Vicenç de Castellet,1.863,41.668,50
 103,Sant Feliu Sasserra,2.021,41.945,50
+176,Calpe/Calp,0.046,38.646,72
 123,Monistrol de Montserrat,1.849,41.609,50
 176,Vilafranca del Penedès,1.7,41.345,103
 60,La Granada,1.719,41.376,50
@@ -4214,130 +4559,170 @@ rs,name,lon,lat,r1
 147,Setcases,2.301,42.375,50
 123,Jávea/Xàbia,0.164,38.789,50
 60,Sora,2.161,42.112,50
+60,Masquefa,1.813,41.501,50
 60,Santa Maria d'Oló,2.035,41.875,50
 86,Calders,1.992,41.79,60
 86,Sant Sadurní d'Anoia,1.785,41.427,60
 72,Ogassa,2.277,42.266,50
 86,Sant Joan de les Abadesses,2.287,42.234,60
 123,Sant Quirze de Besora,2.22,42.101,50
+303,Vilanova i la Geltrú,1.722,41.222,211
+86,Abrera,1.903,41.52,50
 147,Moià,2.096,41.81,72
 72,Sant Pere de Ribes,1.775,41.26,50
-60,Can Sord,1.447,38.961,50
-72,Olivella-Urbanitzacio,1.811,41.31,50
+72,Can Sord,1.447,38.961,50
+72,Begur,3.207,41.954,50
+86,Olivella-Urbanitzacio,1.811,41.31,50
 72,Molló,2.404,42.348,50
 86,Sant Esteve d'en Bas,2.456,42.118,50
-147,Martorell,1.918,41.477,72
+86,Martorell,1.918,41.477,72
 72,El Lledoner,1.881,41.386,60
 176,Besalú,2.696,42.2,72
 103,Torelló,2.264,42.049,50
+86,Premià de Mar,2.359,41.493,50
 72,Sant Llorenç Savall,2.058,41.679,50
-72,Melianta,2.773,42.148,50
-60,Matadepera,2.028,41.596,50
+147,Sant Celoni,2.491,41.688,86
+60,Melianta,2.773,42.148,50
 60,Gurb,2.234,41.955,50
 72,Castellterçol,2.121,41.751,50
-103,Terrassa,2.017,41.565,60
+363,Terrassa,2.017,41.565,147
 147,Manlleu,2.283,42.002,60
 363,Vic,2.255,41.929,253
+303,Palafrugell,3.164,41.917,211
 60,Riudaura,2.409,42.188,50
 147,Tona,2.226,41.849,60
-103,Can Vinyals,2.118,41.622,50
+147,Rubí,2.036,41.49,50
 103,Centelles,2.221,41.797,50
 86,El Roquet,2.314,41.957,50
 72,Santa Maria de Corcó,2.369,42.033,50
+60,Sabadell,2.1,41.549,50
+72,Taradell,2.285,41.872,50
 60,Seva,2.281,41.837,50
 60,Aiguafreda,2.251,41.771,50
+435,Olot,2.485,42.181,176
+103,Castelldefels,1.98,41.285,50
 60,Sant Joan les Fonts,2.511,42.212,50
-123,Tavertet,2.418,41.996,50
-86,Les Planes,2.096,41.43,50
+103,Sant Boi de Llobregat,2.036,41.344,86
+103,Tavertet,2.418,41.996,50
+60,Les Planes,2.096,41.43,50
+86,Cerdanyola del Vallès,2.139,41.491,50
 72,Figaró,2.273,41.721,50
-72,Cornellà de Llobregat,2.071,41.353,50
-147,La Garriga,2.283,41.686,60
-72,Viladrau,2.389,41.848,60
+147,La Garriga,2.283,41.686,50
+103,Mollet del Vallès,2.213,41.541,50
+103,Viladrau,2.389,41.848,60
 60,Sant Martí,2.58,42.154,50
-86,Les Planes D'hostoles,2.547,42.054,50
-176,Can Cervera,2.39,41.77,50
-72,Montornès del Vallès,2.269,41.541,50
+5572,Barcelona,2.163,41.404,3870
+147,Granollers,2.288,41.608,86
+103,Les Planes D'hostoles,2.547,42.054,50
+86,Can Cervera,2.39,41.77,50
 211,Albanyà,2.721,42.305,72
+60,Cardedeu,2.36,41.641,50
 72,Mieres,2.639,42.124,60
-72,Sant Hilari Sacalm,2.513,41.877,50
-123,Osor,2.554,41.946,50
-211,Amer,2.602,42.01,103
+60,Alella,2.295,41.494,50
+72,Sant Hilari Sacalm,2.513,41.877,72
+103,Osor,2.554,41.946,50
+60,Can Vila,2.415,41.68,50
+103,Amer,2.602,42.01,50
 86,Campins,2.464,41.724,50
+123,Arbúcies,2.516,41.815,50
 211,La Jonquera,2.873,42.418,123
+176,Anglès,2.638,41.957,86
 60,Terrades,2.838,42.31,50
-86,Llorà,2.704,42.023,60
-72,Crespià,2.798,42.188,50
+86,Llorà,2.704,42.023,50
+86,Crespià,2.798,42.188,50
 253,Mataró,2.438,41.544,176
+253,Banyoles,2.77,42.117,123
 103,Capmany,2.92,42.374,50
 176,Santa Coloma de Farners,2.667,41.861,103
 72,Llers,2.911,42.296,50
-103,Hostalric,2.63,41.744,60
+72,Can Fornaca,2.64,41.808,50
+86,Hostalric,2.63,41.744,50
 72,Espolla,3,42.391,50
-60,Canet de Mar,2.582,41.592,60
+147,Canet de Mar,2.582,41.592,86
 522,Figueres,2.961,42.265,211
 123,Bàscara,2.91,42.158,86
+1081,Girona,2.819,41.978,303
 86,Peralada,3.011,42.309,50
 72,Maçanet de la Selva,2.733,41.778,60
+86,Celrà,2.879,42.027,50
+60,Tordera,2.717,41.696,50
 86,Riumors,3.043,42.227,50
 147,Portbou,3.16,42.427,50
 176,Llançà,3.151,42.36,72
 60,Aiguaviva Parc,2.82,41.755,50
-103,Blanes,2.785,41.676,72
-147,Sant Pere Pescador,3.082,42.19,60
+522,Blanes,2.785,41.676,211
+123,Sant Pere Pescador,3.082,42.19,72
+72,Mas Gros,3.07,42.139,50
+103,Llagostera,2.896,41.826,72
 60,Lloret de Mar,2.84,41.701,50
 72,Verges,3.046,42.062,50
-103,La Bisbal D'empordà,3.038,41.961,72
+176,Roses,3.185,42.253,123
+72,La Bisbal D'empordà,3.038,41.961,72
+176,Sant Antoni de Portmany,1.302,38.982,72
 303,L'Escala,3.142,42.108,103
-123,Can Rafel,1.27,38.891,60
+123,Can Rafel,1.27,38.891,72
 123,Torroella de Montgrí,3.128,42.042,50
 103,Cadaqués,3.278,42.291,60
 253,Sant Feliu de Guíxols,3.03,41.784,103
 60,Els Masos de Pals,3.171,41.982,50
-86,Can Salvador,1.461,39.032,50
-435,Cala de Portinatx,1.517,39.108,60
+123,Palamós,3.128,41.85,50
+363,Cala de Portinatx,1.517,39.108,72
 60,Sant Joan de Labritja,1.513,39.077,50
+1081,Eivissa,1.431,38.909,751
+72,Can Toni,1.507,39.021,50
+72,Santa Eulalia del Río,1.537,38.987,72
 103,La Savina,1.418,38.731,50
 435,Platja de Migjorn,1.467,38.685,176
 123,Can Domingo,1.643,39.037,72
 72,Calvià,2.505,39.564,50
 72,Selva,2.901,39.755,50
+103,S' Arenal,2.754,39.499,50
+211,Llucmajor,2.891,39.49,147
 72,Santa Margalida,3.103,39.701,50
 211,Andratx,2.419,39.573,60
 60,Galatzó,2.471,39.607,50
 123,Santa Ponça,2.473,39.503,123
 176,Esporles,2.579,39.666,72
 86,Deyá,2.647,39.748,50
+176,Sóller,2.715,39.769,123
 60,Montcaire,2.754,39.803,50
 103,Bunyola,2.7,39.696,50
-72,Son Perot,2.741,39.732,50
+60,Son Perot,2.741,39.732,50
+1867,Mallorca,2.654,39.58,1556
 147,Escorca,2.848,39.827,60
 60,Es Coll De'n Rabassa,2.696,39.552,50
-123,Santa María del Camí,2.775,39.649,72
-123,Inca,2.911,39.719,123
-86,Pollença,3.017,39.877,72
-103,Sa Torre,2.8,39.438,60
+60,Alaró,2.791,39.705,50
+123,Santa María del Camí,2.775,39.649,50
+60,Binissalem,2.844,39.688,50
+253,Inca,2.911,39.719,176
+522,Pollença,3.017,39.877,86
+86,Sa Torre,2.8,39.438,50
 60,Puerto de Pollença,3.081,39.908,50
 72,Son Bordils,2.951,39.685,50
 103,Algaida,2.893,39.557,50
-363,Sa Pobla,3.023,39.769,72
+147,Sa Pobla,3.023,39.769,72
+86,Alcúdia,3.121,39.853,60
+72,Muro,3.054,39.735,50
 103,Sineu,3.009,39.643,60
-72,Platja de Muro,3.118,39.803,50
+86,Platja de Muro,3.118,39.803,50
 72,Cala Pi,2.857,39.365,50
 72,Montuïri,2.979,39.566,50
 86,Sa Talaia,2.908,39.419,60
 72,Maria de la Salut,3.075,39.665,50
-103,Can Picafort,3.147,39.767,60
+103,Can Picafort,3.147,39.767,72
+103,Porreres,3.024,39.514,72
 123,Sa Rapita,2.943,39.366,50
 103,Petra,3.114,39.614,60
 123,Campos,3.017,39.432,72
 60,Colonia de Sant Jordi,2.992,39.319,60
-147,Cala Ratjada,3.46,39.712,72
+147,Artà,3.35,39.693,72
+253,Cala Ratjada,3.46,39.712,123
 60,Son Valls,3.114,39.516,50
 103,Cala Morell,3.886,40.053,50
 72,Colonia de Sant Pere,3.28,39.738,50
 901,Caseriu de Cabrera,2.938,39.146,147
 211,Felanitx,3.148,39.47,72
-253,Manacor,3.208,39.57,176
+435,Manacor,3.208,39.57,176
 60,Es Llodrà Vell,3.197,39.54,50
 86,Ses Planes,3.287,39.649,50
 60,Can Negre,3.214,39.504,50
@@ -4348,6 +4733,7 @@ rs,name,lon,lat,r1
 123,Portocolom,3.252,39.418,60
 86,Cala d'Or,3.232,39.375,50
 123,Porto Cristo,3.341,39.545,86
+147,Cala Millor,3.383,39.606,50
 103,Canyamel Platja,3.439,39.657,50
 303,Ciutadella,3.843,40.003,253
 60,Cala Blanca,3.841,39.975,50
@@ -4356,345 +4742,7 @@ rs,name,lon,lat,r1
 123,Ferreries,4.013,39.983,72
 211,Fornells,4.131,40.057,72
 72,Son Parc,4.166,40.026,50
+123,Alaior,4.143,39.933,72
 72,Cala'n Porter,4.135,39.873,50
 72,Sant Simó,4.22,39.938,50
-751,Maó,4.263,39.887,626
-100000,Madrid,-3.7,40.406,100000
-5572,Barcelona,2.149,41.395,3870
-1556,Valencia,-0.4,39.476,1556
-4644,Bilbao,-2.97,43.294,2240
-4644,Alicante/Alacant,-0.47,38.374,901
-901,Granada,-3.611,37.163,626
-1867,Palma de Mallorca,2.649,39.578,1556
-253,Sabadell,2.123,41.523,103
-19960,Las Palmas,-15.442,28.104,8023
-1297,Pamplona/Iruña,-1.647,42.814,751
-1556,Valladolid,-4.733,41.641,1081
-1297,Santa Cruz de Tenerife,-16.294,28.46,522
-1081,Córdoba,-4.78,37.886,751
-3870,A Coruña,-8.395,43.346,1867
-751,Murcia,-1.133,37.994,435
-2240,Vigo,-8.72,42.227,901
-901,San Sebastián/Donostia,-1.955,43.313,435
-303,Oviedo,-5.847,43.366,123
-363,Alcalá de Henares,-3.368,40.488,211
-2688,Almería,-2.446,36.851,751
-626,Santander,-3.825,43.46,435
-1081,Burgos,-3.691,42.347,626
-86,Fuenlabrada,-3.798,40.286,50
-2688,León,-5.577,42.604,626
-751,Logroño,-2.444,42.461,363
-901,Castellón de la Plana/Castelló de la Plana,-0.046,39.985,363
-626,Salamanca,-5.665,40.962,626
-1297,Cartagena,-0.992,37.624,303
-1081,Huelva,-6.941,37.266,522
-176,Majadahonda,-3.883,40.499,103
-86,Sant Cugat del Vallès/Rubí,2.058,41.479,50
-3225,Badajoz,-6.974,38.878,1297
-147,Coslada,-3.546,40.424,103
-303,Cádiz,-6.283,36.519,123
-751,Tarragona,1.234,41.121,435
-211,Torremolinos,-4.524,36.606,86
-1081,Girona,2.811,41.977,303
-901,Jaén,-3.794,37.776,522
-86,Fuengirola,-4.624,36.552,72
-1081,Ourense,-7.867,42.336,522
-72,Viladecans,2.009,41.313,72
-103,Roquetas de Mar,-2.624,36.786,103
-147,San Fernando,-6.201,36.46,60
-176,Ferrol,-8.212,43.49,123
-147,Granollers,2.289,41.613,86
-147,Avilés,-5.916,43.551,147
-211,Telde,-15.399,28.004,86
-363,Elda,-0.787,38.477,176
-751,Manresa,1.822,41.731,147
-522,Ceuta,-5.323,35.887,211
-522,Talavera de la Reina,-4.828,39.962,522
-72,Pozuelo de Alarcón,-3.795,40.448,50
-435,Torrevieja,-0.672,37.996,211
-751,Palencia,-4.528,42.009,253
-1081,Gandia,-0.173,38.978,435
-253,Benidorm,-0.144,38.535,211
-363,Pontevedra,-8.645,42.435,147
-303,Vilanova i la Geltrú,1.729,41.224,176
-147,Puerto de la Cruz,-16.561,28.395,147
-522,Santa Lucía de Tirajana,-15.446,27.849,103
-86,"Línea de la Concepción, La",-5.349,36.168,72
-626,Lorca,-1.694,37.676,363
-147,"Puerto de Santa María, El",-6.23,36.603,60
-103,Chiclana de la Frontera,-6.145,36.417,50
-253,Sanlúcar de Barrameda,-6.348,36.778,123
-253,Igualada,1.619,41.581,147
-522,Alcoi/Alcoy,-0.476,38.697,211
-626,Ponferrada,-6.603,42.552,522
-626,Linares,-3.633,38.098,253
-147,Collado Villalba,-3.999,40.633,123
-1081,Eivissa,1.427,38.906,751
-1556,Arrecife,-13.553,28.971,1556
-176,Torrelavega,-4.051,43.344,147
-253,Estepona,-5.15,36.425,176
-522,Puertollano,-4.105,38.689,211
-72,Premià de Dalt-Can Soberano,2.358,41.505,50
-103,La Alberca de las Torres,-1.148,37.941,50
-211,Alzira-El Respirall,-0.431,39.153,176
-253,Pineda de Mar-Poblenou,2.678,41.621,147
-303,Eibar-Ipurua,-2.482,43.185,253
-626,Écija,-5.081,37.542,253
-103,Camargo,-3.838,43.41,50
-626,Antequera,-4.561,37.02,253
-211,Andújar,-4.048,38.041,211
-303,Ontinyent,-0.606,38.823,103
-147,Massamagrell-La Magdalena,-0.335,39.574,72
-253,Miranda de Ebro,-2.941,42.687,176
-103,Abadiño,-2.623,43.169,86
-86,Playa del Inglés,-15.589,27.766,86
-522,Cieza,-1.42,38.236,176
-147,Orihuela-San Antón,-0.943,38.087,123
-253,Úbeda,-3.37,38.012,147
-522,Yecla,-1.113,38.611,176
-435,Ronda,-5.162,36.746,211
-363,Dénia-La Pedrera,0.102,38.839,147
-435,Valdepeñas,-3.383,38.764,303
-522,Tortosa-els Dolors,0.517,40.815,363
-435,Olot,2.485,42.181,176
-363,Xàtiva,-0.521,38.989,123
-86,Rincón de la Victoria,-4.292,36.716,86
-72,Algemesí,-0.437,39.189,50
-72,Torre del Mar,-4.084,36.744,50
-86,Alhaurín de la Torre,-4.553,36.661,50
-522,Playa de las Américas,-16.716,28.054,211
-303,Villarrobledo,-2.602,39.268,253
-522,Vilagarcía de Arousa,-8.767,42.593,147
-147,Novelda,-0.764,38.384,72
-303,Lepe,-7.203,37.255,176
-751,Benicarló,0.427,40.417,303
-103,Vinaròs,0.473,40.47,50
-72,Marín-San Tomé de Piñeiro,-8.695,42.391,50
-211,Picassent-Omet,-0.453,39.365,50
-303,San Pedro del Pinatar-Lo Pagán,-0.785,37.825,123
-103,Oliva,-0.118,38.921,50
-147,Arcos de la Frontera,-5.808,36.753,147
-303,Palafrugell-Xalet Sant Jordi,3.162,41.915,211
-60,Cambrils,1.059,41.071,50
-303,Ordizia,-2.188,43.05,147
-147,Sant Josep de sa Talaia,1.291,38.972,86
-211,Santa María de Guía de Gran Canaria-San Juan,-15.642,28.141,123
-86,Isla Cristina,-7.323,37.198,86
-123,Ten Bel,-16.652,28.011,50
-303,Banyoles,2.77,42.114,103
-211,Barbate,-5.921,36.191,211
-86,Cullera,-0.247,39.164,86
-123,Ingenio-El Carrión,-15.438,27.914,50
-123,Palamós,3.119,41.847,50
-303,Priego de Córdoba,-4.2,37.439,176
-303,Marchena,-5.418,37.329,147
-176,Almussafes,-0.416,39.29,60
-147,Almuñécar,-3.688,36.734,103
-86,l'Eliana-El Carme,-0.527,39.562,86
-901,Benavente,-5.677,42.003,363
-176,Sant Celoni,2.488,41.686,103
-103,Cangas,-8.781,42.264,50
-363,Llíria,-0.595,39.628,60
-147,Bailén,-3.777,38.097,86
-901,Pozoblanco,-4.846,38.377,435
-147,Leaburu,-2.07,43.131,86
-147,Alcalá la Real,-3.925,37.461,147
-176,Calp,0.057,38.644,147
-103,Moguer,-6.84,37.277,60
-253,Montijo,-6.619,38.902,176
-72,San Eugenio Alto,-16.726,28.089,50
-60,Ayamonte,-7.4,37.214,50
-626,Requena,-1.104,39.489,363
-103,Rojales-Ciudad Quesada,-0.718,38.075,50
-103,Gran Alacant,-0.528,38.251,50
-147,Archena,-1.294,38.115,60
-147,Guernica,-2.678,43.312,72
-72,Chipiona,-6.432,36.734,60
-176,Roses,3.177,42.265,123
-253,Coín,-4.756,36.655,103
-72,Zumarraga,-2.313,43.085,72
-363,Loja,-4.148,37.169,211
-60,"Alcázares, Los",-0.848,37.751,50
-211,Valga,-8.658,42.722,86
-86,Pilar de la Horadada,-0.79,37.863,50
-2688,Santa Cruz de la Palma-Roque de Abajo,-17.767,28.683,751
-147,Candelaria,-16.366,28.361,72
-60,Fañabé,-16.731,28.119,50
-86,Santa Eulalia del Río,1.533,38.982,72
-176,Pola de Siero,-5.663,43.391,72
-103,Buenavista del Norte-El Palmar,-16.807,28.369,103
-123,Vandellòs i l'Hospitalet de l'Infant,0.93,41.006,86
-211,Ponteareas,-8.506,42.174,123
-103,Villamartín,-5.643,36.859,103
-303,"Seu d'Urgell, La",1.461,42.358,253
-626,Béjar,-5.76,40.387,253
-147,s'Arenal,2.756,39.509,60
-103,Llucmajor,2.892,39.491,86
-72,Abarán,-1.397,38.205,50
-72,San Roque,-5.385,36.211,50
-147,"Barco de Valdeorras, O",-6.979,42.415,147
-147,Alcúdia,3.127,39.842,72
-86,"Puebla de Cazalla, La",-5.314,37.222,86
-176,Peñarroya-Pueblonuevo,-5.267,38.304,176
-363,Tafalla,-1.673,42.531,211
-253,Madridejos,-3.531,39.47,176
-103,Capellades,1.685,41.534,50
-60,Aljaraque,-7.022,37.268,50
-103,Sopelana,-2.983,43.38,72
-626,Viveiro,-7.598,43.668,363
-60,El Rosario-Radazul,-16.325,28.403,50
-123,Noáin (Valle de Elorz),-1.635,42.746,60
-60,Olivares,-6.156,37.421,50
-435,Miajadas,-5.909,39.15,147
-211,Fernán-Núñez,-4.725,37.67,72
-211,A Guarda,-8.857,41.911,211
-176,Baiona-Sabarís,-8.833,42.115,86
-176,Calasparra,-1.698,38.231,123
-253,Pego,-0.115,38.841,60
-123,"Estrada, A",-8.493,42.689,86
-60,"Casar, El",-3.439,40.704,60
-147,Guillena,-6.053,37.545,50
-176,"Grove, O",-8.86,42.492,72
-176,Zalla,-3.119,43.21,86
-72,Cogollos de la Vega-Alfacar,-3.566,37.252,50
-363,Montoro,-4.381,38.022,211
-23952,Zakynthos,20.898,37.782,11552
-176,Villanueva de Córdoba,-4.627,38.321,123
-123,Herencia,-3.355,39.368,86
-123,Sax,-0.82,38.537,50
-303,Níjar,-2.135,36.938,123
-86,Rianxo,-8.806,42.664,60
-435,Trujillo,-5.877,39.466,253
-435,Pájara,-14.348,28.051,435
-147,Sóller,2.715,39.769,123
-86,Cocentaina,-0.441,38.742,50
-303,Álora,-4.702,36.826,86
-60,Cenes de la Vega,-3.544,37.161,50
-435,Noia,-8.883,42.782,103
-211,Campillos,-4.863,37.049,176
-211,Playa Blanca,-13.829,28.869,86
-123,Cheste,-0.684,39.495,72
-60,El Cuervo de Sevilla,-6.04,36.851,60
-86,Villanueva del Arzobispo,-3.005,38.171,60
-147,Sanxenxo,-8.812,42.4,72
-363,Móra d'Ebre,0.642,41.096,176
-72,La Ceñuela,-0.725,37.957,50
-123,"Puebla de Montalbán, La",-4.359,39.865,86
-123,Bembibre,-6.417,42.617,123
-103,Santa Brígida,-15.486,28.041,50
-147,"Olleria, l'",-0.549,38.912,60
-303,Andorra,-0.446,40.979,211
-103,Cuevas del Almanzora,-1.877,37.295,50
-60,Blimea,-5.596,43.275,50
-72,Santa María de Cayón,-3.861,43.32,72
-435,Cazorla,-3.001,37.914,176
-60,Catral,-0.801,38.162,50
-363,Xinzo de Limia,-7.724,42.063,147
-147,Quintela,-8.609,42.284,72
-86,Dúrcal,-3.569,36.987,50
-60,Villaluenga de la Sagra-El Pinar de la Sagra,-3.902,40.037,50
-147,Castro del Río,-4.479,37.692,86
-176,Bueu,-8.779,42.326,50
-86,Villanueva de Castellón,-0.514,39.079,50
-103,Nuevo Baztán,-3.258,40.355,60
-72,Albaida,-0.515,38.843,60
-72,Onil,-0.671,38.63,50
-86,San Fulgencio,-0.684,38.135,50
-1867,Huéscar,-2.537,37.813,253
-211,Cangas del Narcea,-6.547,43.178,211
-123,Alaior,4.14,39.933,72
-72,Sant Salvador,1.244,41.159,50
-147,"Aldea de San Nicolás, La",-15.786,27.983,123
-363,Hinojosa del Duque,-5.144,38.5,147
-86,Banyeres de Mariola,-0.657,38.718,72
-147,Posadas,-5.111,37.802,123
-123,Catadau,-0.571,39.278,50
-60,Tocina,-5.73,37.602,60
-86,Marmolejo,-4.172,38.044,72
-147,Porcuna,-4.184,37.871,103
-147,Villaviciosa,-5.434,43.481,123
-176,Peñaranda de Bracamonte,-5.202,40.902,176
-253,Artà,3.347,39.692,103
-751,Guardo,-4.848,42.789,435
-363,Vilalba,-7.679,43.297,147
-211,Tariego de Cerrato,-4.487,41.915,86
-103,Llagostera,2.895,41.824,86
-363,Valdés,-6.525,43.54,253
-176,Íscar,-4.529,41.361,147
-72,Muro,3.054,39.735,50
-176,Tarazona de la Mancha,-1.912,39.265,60
-1081,Cee,-9.187,42.952,176
-86,Almodóvar del Río,-5.021,37.812,60
-147,Los Corrales,-4.971,37.105,60
-211,Talayuela,-5.606,39.984,86
-901,Castuera,-5.544,38.725,211
-72,Arbúcies-Can Bruix,2.516,41.815,72
-86,Tomiño,-8.758,41.971,72
-522,Constantina,-5.617,37.872,176
-176,"Yébenes, Los",-3.87,39.579,72
-303,Navàs,1.878,41.901,86
-103,Olula del Río,-2.3,37.356,103
-86,La Aljorra,-1.07,37.689,60
-363,Motilla del Palancar,-1.907,39.559,176
-363,Aguilar de Campoo,-4.265,42.79,147
-147,Súria,1.752,41.835,50
-435,Corral de Almaguer,-3.165,39.76,123
-86,Turís,-0.712,39.389,50
-72,Bonares,-6.681,37.323,72
-626,Almadén,-4.831,38.775,253
-363,Huelma,-3.459,37.649,123
-123,Salceda de Caselas,-8.551,42.1,50
-123,Pulpí,-1.748,37.402,103
-363,Cedeira,-8.051,43.657,123
-901,Villablino,-6.321,42.94,211
-103,Prado del Rey,-5.558,36.786,72
-60,Roldán,-1.007,37.797,50
-123,Guía de Isora,-16.824,28.204,86
-176,Foz,-7.26,43.575,86
-147,Faura,-0.267,39.726,60
-176,Nerva,-6.548,37.694,147
-522,Llanes,-4.746,43.418,363
-103,Alpicat,0.546,41.665,50
-86,Betxí,-0.197,39.926,50
-176,Sant Llorenç des Cardassar-sa Coma,3.385,39.604,50
-522,Almazán,-2.529,41.488,211
-103,Pravia,-6.114,43.49,86
-103,Montserrat,-0.606,39.361,60
-60,Gozón,-5.793,43.613,50
-103,Alcolea,-4.668,37.937,72
-72,Talavera la Real,-6.767,38.877,72
-72,Aceuchal,-6.486,38.65,60
-86,Colmenar de Oreja,-3.39,40.112,72
-211,Oliva de la Frontera,-6.918,38.279,103
-303,Alburquerque,-6.999,39.223,303
-123,"Ametlla de Mar, L'",0.803,40.885,86
-147,"Campana, La",-5.426,37.567,86
-176,Melide,-8.016,42.914,176
-86,Suances,-4.043,43.426,60
-211,Beas de Segura,-2.886,38.252,86
-211,Isla Mayor,-6.164,37.131,103
-86,Taradell,2.29,41.876,50
-60,Peal de Becerro,-3.116,37.912,60
-60,Soutomaior,-8.607,42.343,50
-363,Ayora,-1.055,39.061,147
-103,Rus,-3.473,38.047,50
-147,Agramunt,1.097,41.784,103
-176,Moral de Calatrava,-3.577,38.828,72
-72,Argamasilla de Calatrava,-4.075,38.726,50
-103,Añover de Tajo,-3.767,39.989,72
-211,Villanueva de los Infantes,-3.016,38.738,176
-211,Chantada,-7.764,42.609,123
-123,"Espinar, El",-4.24,40.718,86
-103,Porreres,3.023,39.515,72
-123,Jimena de la Frontera,-5.444,36.427,123
-147,Enguera,-0.687,38.979,86
-123,Ampuero,-3.417,43.354,50
-176,Alhama de Granada,-3.991,37.002,147
-147,Valencia de Alcántara,-7.241,39.412,60
-176,Alcalá de los Gazules,-5.724,36.463,86
-147,Mijas,-4.643,36.593,50
-211,Navia,-6.72,43.541,103
-363,Torreblanca,0.198,40.217,123
-303,Iznalloz,-3.521,37.393,103
-123,Casariche,-4.758,37.293,72
-123,Íllora,-3.88,37.286,103
+1297,Maó,4.263,39.887,626

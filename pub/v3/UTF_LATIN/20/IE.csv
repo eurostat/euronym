@@ -57,7 +57,7 @@ rs,name,lon,lat,r1
 134,Headford,-9.091,53.474,94
 46,Milltown,-9.717,52.145,39
 134,Knock,-8.916,53.795,55
-112,Barna,-9.158,53.25,39
+112,Barna,-9.158,53.25,66
 112,Ballindine,-8.957,53.669,46
 276,Ennistimon,-9.293,52.94,134
 192,Dunglow,-8.365,54.953,79
@@ -83,7 +83,7 @@ rs,name,lon,lat,r1
 24,Drumcliff,-8.504,54.299,20
 46,Dunkineely,-8.355,54.632,39
 39,Annaghdown,-8.911,53.411,33
-94,Claregalway,-8.943,53.34,39
+94,Claregalway,-8.943,53.34,55
 28,Gort An Choirce,-8.137,55.117,20
 397,Tuam,-8.854,53.519,160
 94,Duagh,-9.385,52.413,39
@@ -93,7 +93,7 @@ rs,name,lon,lat,r1
 1183,Sligo,-8.483,54.269,476
 39,Lackaghbeg,-8.888,53.37,33
 160,Corrofin,-8.849,53.437,66
-79,Oranmore,-8.924,53.269,33
+79,Oranmore,-8.924,53.269,55
 476,Killarney,-9.506,52.058,192
 134,Corrofin,-9.061,52.944,94
 79,Kilmaley,-9.116,52.827,46
@@ -163,7 +163,7 @@ rs,name,lon,lat,r1
 46,Carrigkerry,-9.149,52.494,39
 160,Bweeng,-8.725,52.046,39
 33,Newtown,-8.297,52.879,24
-571,Mallow,-8.647,52.134,192
+571,Mallow,-8.647,52.134,230
 192,Clonakilty,-8.889,51.624,94
 476,Ennis,-8.977,52.826,192
 276,Ballyshannon,-8.192,54.502,112
@@ -247,8 +247,9 @@ rs,name,lon,lat,r1
 66,Mountshannon,-8.432,52.932,46
 94,Fedamore,-8.597,52.545,33
 192,Charleville-Rathluirc,-8.687,52.355,160
+66,Annacotty,-8.525,52.669,46
 24,Ballindrait,-7.526,54.844,20
-94,Castleconnell,-8.495,52.712,39
+94,Castleconnell,-8.495,52.712,28
 134,Knockcroghery,-8.089,53.574,46
 33,Glen-Ballyneety,-8.548,52.593,33
 28,Whitegate,-8.374,52.948,28
@@ -264,7 +265,7 @@ rs,name,lon,lat,r1
 94,Portroe,-8.346,52.884,55
 94,Malin,-7.262,55.296,39
 55,Kilmallock,-8.569,52.399,55
-160,Caherconlish,-8.471,52.596,55
+160,Caherconlish,-8.471,52.596,66
 39,Newport,-8.405,52.711,39
 46,Termonbarry,-7.92,53.743,46
 55,Crookstown,-8.827,51.843,46
@@ -276,7 +277,7 @@ rs,name,lon,lat,r1
 94,Puckaun,-8.238,52.931,39
 192,Muff,-7.268,55.07,79
 55,Culdaff,-7.163,55.286,55
-94,Farran,-8.73,51.872,39
+66,Farran,-8.73,51.872,39
 66,Shanagolden,-9.101,52.574,28
 94,Hospital,-8.428,52.473,55
 94,Shannonbridge,-8.039,53.279,55
@@ -292,9 +293,9 @@ rs,name,lon,lat,r1
 397,Longford,-7.786,53.73,192
 134,Borrisokane,-8.126,52.994,94
 39,Timoleague,-8.766,51.644,28
-46,Ovens,-8.645,51.877,24
+79,Ovens,-8.645,51.877,33
 66,Ballyconnell,-7.579,54.116,55
-24,Tower,-8.609,51.925,20
+160,Tower,-8.609,51.925,66
 230,Banagher,-7.984,53.19,79
 46,Castletownroche,-8.464,52.172,28
 46,Doon,-8.248,52.605,39
@@ -322,7 +323,7 @@ rs,name,lon,lat,r1
 94,Shinrone,-7.925,52.983,55
 134,Moate,-7.719,53.396,55
 331,Tipperary,-8.151,52.477,192
-94,Crusheen,-8.896,52.938,66
+94,Crusheen,-8.896,52.938,79
 112,Moneygall,-7.954,52.88,66
 46,Ballygarvan,-8.462,51.823,33
 276,Gort,-8.816,53.065,134
@@ -378,13 +379,14 @@ rs,name,lon,lat,r1
 55,Killashee,-7.878,53.681,55
 79,Newtownforbes,-7.834,53.765,33
 331,Nenagh,-8.204,52.858,230
-230,Bandon,-8.739,51.744,94
+230,Bandon,-8.739,51.744,160
 134,Keenagh,-7.813,53.621,55
 46,Emly,-8.352,52.465,33
 66,Carrigallen,-7.644,53.977,46
 79,Glassan,-7.865,53.474,55
 94,Kildorrery,-8.426,52.246,55
 66,Crossbarry,-8.645,51.802,28
+39,Blarney,-8.565,51.933,24
 134,Oola,-8.259,52.529,39
 397,Moville,-7.036,55.191,94
 79,Cloghan,-7.879,53.224,39
@@ -421,7 +423,7 @@ rs,name,lon,lat,r1
 134,Carrigaline,-8.382,51.814,46
 160,Kilcormac,-7.724,53.177,79
 94,Passage West,-8.344,51.875,24
-134,Ballynacargy,-7.533,53.583,66
+134,Ballynacargy,-7.533,53.583,79
 160,Athboy,-6.919,53.623,66
 94,Bansha,-8.063,52.446,33
 134,Carrickmacross,-6.72,53.977,134
@@ -540,7 +542,7 @@ rs,name,lon,lat,r1
 66,Kilmead,-6.901,53.035,46
 192,Clones,-7.232,54.18,94
 39,Prosperous,-6.751,53.29,33
-331,Newbridge,-6.797,53.18,230
+331,Newbridge,-6.797,53.18,276
 79,Kilmeaden,-7.24,52.232,46
 94,Leighlinbridge,-6.983,52.735,33
 571,Dundalk,-6.401,54.008,230
@@ -550,7 +552,7 @@ rs,name,lon,lat,r1
 79,Collon,-6.481,53.779,39
 55,Goresbridge,-6.994,52.63,33
 192,Bagenalstown,-6.96,52.696,112
-192,Clane,-6.684,53.294,55
+134,Clane,-6.684,53.294,55
 112,Kilcullen,-6.747,53.129,46
 94,Tinriland,-6.9,52.793,39
 66,Castledermot,-6.838,52.91,55
@@ -639,7 +641,7 @@ rs,name,lon,lat,r1
 134,Borris,-6.925,52.601,39
 112,Adamstown,-6.718,52.394,46
 46,Slieveroe,-7.067,52.283,24
-79,Swords,-6.22,53.449,79
+230,Swords,-6.22,53.449,79
 100000,Dublin,-6.265,53.337,100000
 24,Kinsaley,-6.174,53.424,20
 79,Portmarnock,-6.134,53.423,20
@@ -648,13 +650,13 @@ rs,name,lon,lat,r1
 94,Duleek,-6.411,53.658,39
 46,Kilmore Quay,-6.549,52.204,20
 46,Kill,-6.592,53.248,33
-94,Celbridge,-6.544,53.349,79
+160,Celbridge,-6.544,53.349,94
 112,Greystones-Delgany,-6.077,53.14,46
 39,Rathoath,-6.46,53.509,28
 192,Baltinglass,-6.699,52.937,94
-822,Drogheda,-6.346,53.713,230
+822,Drogheda,-6.346,53.713,331
 33,Leixlip,-6.495,53.368,24
-66,Dunboyne,-6.463,53.417,28
+112,Dunboyne,-6.463,53.417,33
 160,Carlingford,-6.181,54.039,112
 134,Tullow,-6.738,52.803,79
 112,Rathvilly,-6.7,52.885,39
@@ -692,7 +694,7 @@ rs,name,lon,lat,r1
 66,Camolin,-6.425,52.616,39
 55,Fennagh,-6.845,52.714,39
 55,Ballinaclash,-6.258,52.904,20
-331,Bray,-6.101,53.196,112
+331,Bray,-6.101,53.196,134
 397,Wexford,-6.474,52.328,331
 94,Castlebridge-Blackwater,-6.446,52.38,39
 39,Oulart,-6.386,52.503,20
@@ -725,7 +727,7 @@ rs,name,lon,lat,r1
 55,Donabate,-6.145,53.489,24
 46,Malahide,-6.151,53.443,33
 46,Loughshinny,-6.098,53.546,20
-192,Rush,-6.106,53.521,46
+112,Rush,-6.106,53.521,46
 79,Glencullen,-6.218,53.222,28
 160,Ferns,-6.498,52.591,55
 39,Enniskerry,-6.169,53.192,33
@@ -742,14 +744,3 @@ rs,name,lon,lat,r1
 112,Castlebridge-Blackwater,-6.349,52.445,33
 134,Kilmuckridge,-6.284,52.513,94
 55,Rosslare Harbour,-6.339,52.251,24
-24,Dublin,-6.271,53.324,20
-46,Cork,-8.456,51.89,20
-160,Blanchardstown,-6.396,53.393,55
-33,Galway,-9.083,53.268,24
-79,Ballincollig,-8.597,51.886,55
-28,Murrough,-9.004,53.281,20
-39,Ennis,-8.983,52.844,20
-28,Mullingar,-7.36,53.523,20
-112,Glanmire,-8.393,51.926,39
-160,Blarney,-8.582,51.932,33
-46,Ballysimon,-8.554,52.659,33

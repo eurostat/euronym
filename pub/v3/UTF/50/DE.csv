@@ -12,7 +12,7 @@ rs,name,lon,lat,r1
 86,Ichtershausen,10.97,50.876,50
 103,Stotternheim,11.043,51.055,60
 751,Ulm,9.99,48.398,435
-72,Eberhardzell,9.824,48.001,60
+176,Eberhardzell,9.824,48.001,60
 72,Molmerswende,11.26,51.625,50
 176,Bad Rodach,10.779,50.341,72
 363,Wittenberge,11.751,52.994,303
@@ -33,6 +33,7 @@ rs,name,lon,lat,r1
 147,Wippra,11.273,51.573,72
 72,Großrudestedt,11.099,51.093,50
 176,Schwaan,12.107,53.94,60
+60,Schnaitheim,10.163,48.707,50
 147,Berge,11.873,53.239,60
 86,Seehausen (Altmark),11.753,52.89,86
 60,Gauerstadt,10.805,50.308,50
@@ -129,6 +130,7 @@ rs,name,lon,lat,r1
 86,Weilermerkingen,10.337,48.797,50
 176,Illertissen,10.103,48.223,86
 60,Suckow,12.212,53.82,50
+60,Tornau,11.79,52.584,50
 60,Steinfeld,12.312,54.108,50
 522,Magdeburg,11.633,52.126,522
 72,Rot an der Rot,10.027,48.013,50
@@ -147,7 +149,7 @@ rs,name,lon,lat,r1
 103,Allstedt,11.386,51.405,60
 60,Ahrenshoop,12.419,54.38,50
 72,Uehlfeld,10.722,49.671,50
-103,Markt Erlbach,10.652,49.494,50
+123,Markt Erlbach,10.652,49.494,50
 72,Isseroda,11.221,50.959,50
 363,Ansbach,10.577,49.304,211
 86,Angern,11.734,52.358,50
@@ -200,7 +202,7 @@ rs,name,lon,lat,r1
 86,Zapfendorf,10.932,50.018,50
 72,Triglitz,12.102,53.211,50
 60,Sommersbach,9.996,47.719,50
-103,Dietenhofen,10.691,49.4,50
+123,Dietenhofen,10.691,49.4,50
 103,Aitrach,10.09,47.939,50
 626,Bamberg,10.887,49.893,253
 86,Güsten,11.605,51.795,50
@@ -247,6 +249,7 @@ rs,name,lon,lat,r1
 60,Neustadt b.Coburg,11.122,50.327,50
 72,Zens,11.725,51.94,50
 72,Amerdingen,10.486,48.725,60
+72,Bad Blankenburg,11.262,50.685,50
 60,Wieck a.Darß,12.572,54.41,50
 60,Schweez,12.404,53.892,50
 60,Rungatshofen,10.095,47.778,50
@@ -285,20 +288,21 @@ rs,name,lon,lat,r1
 72,Umpferstedt,11.412,50.977,50
 60,Pöthen,11.827,52.102,50
 176,Scheßlitz,11.032,49.975,50
-123,Heilsbronn,10.787,49.339,50
+147,Heilsbronn,10.787,49.339,50
 103,Gommern,11.826,52.073,50
 60,Dettmannsdorf,12.529,54.112,50
 60,Dersentin,12.397,53.712,50
 103,Burgsdorf,11.651,51.578,50
 72,Witzendorf,11.293,50.613,50
 72,Westheim,10.663,49.004,50
+123,Calbe (Saale),11.775,51.903,86
 147,Hirschaid,10.989,49.817,60
 211,Bernburg (Saale),11.737,51.794,211
 60,Schelldorf,11.98,52.472,50
 60,Hedersleben,11.648,51.549,50
-147,Rudolstadt,11.344,50.722,60
+72,Rudolstadt,11.344,50.722,60
 72,Judenbach,11.22,50.396,50
-123,Cadolzburg,10.853,49.457,72
+72,Cadolzburg,10.853,49.457,60
 72,Möttingen,10.591,48.809,50
 103,Dillingen a.d.Donau,10.497,48.577,103
 147,Krumbach (Schwaben),10.361,48.242,103
@@ -331,8 +335,9 @@ rs,name,lon,lat,r1
 60,Aletshausen,10.39,48.2,50
 86,Burtenbach,10.448,48.34,50
 60,Hohen Wangelin,12.426,53.611,60
+60,Heroldsbach,10.998,49.693,50
 60,Röblingen am See,11.671,51.46,60
-123,Roßtal,10.886,49.399,50
+60,Roßtal,10.886,49.399,50
 72,Höchstädt a.d.Donau,10.567,48.612,50
 72,Rohrbach,10.624,48.747,50
 147,Apolda,11.518,51.025,72
@@ -355,7 +360,6 @@ rs,name,lon,lat,r1
 72,Freyenstein,12.353,53.287,60
 123,Pabsdorf,11.974,52.194,50
 60,Hellengerst,10.203,47.661,50
-60,Hausen,11.036,49.691,50
 123,Gumtow,12.25,52.978,72
 60,Weischwitz,11.392,50.607,50
 60,Kloschwitz,11.757,51.585,50
@@ -364,7 +368,10 @@ rs,name,lon,lat,r1
 72,Breddin,12.222,52.885,50
 176,Malchow,12.423,53.475,123
 303,Erlangen,11.003,49.595,103
+86,Thannhausen,10.47,48.283,60
 86,Dittenheim,10.789,49.057,50
+86,Baiersdorf,11.029,49.656,50
+60,Klein Rosenburg,11.887,51.929,50
 72,Niemerlang,12.349,53.248,50
 72,Nienhagen,12.509,53.721,50
 60,Stockheim,11.284,50.305,50
@@ -374,19 +381,21 @@ rs,name,lon,lat,r1
 60,Huisheim,10.704,48.823,50
 86,Probstzella,11.38,50.532,50
 86,Pressig,11.31,50.346,50
-72,Uhlstädt,11.467,50.742,60
+86,Uhlstädt,11.467,50.742,60
 86,Dößel,11.791,51.615,50
 86,Leitzkau,11.952,52.057,60
+72,Oberasbach,10.958,49.422,50
 72,Garz,12.2,52.752,50
 60,Löbnitz,12.719,54.295,50
 60,Bad Sülze,12.659,54.11,50
 103,Thürkow,12.567,53.824,50
+103,Burgkunstadt,11.25,50.142,50
 72,Fürth,10.99,49.477,50
 103,Stadelhofen,11.198,50.003,50
 86,Ludwigsstadt,11.39,50.485,86
 103,Küps,11.278,50.191,50
 123,Weismain,11.239,50.085,50
-147,Altenmünster,10.59,48.465,50
+176,Altenmünster,10.59,48.465,50
 86,Gehrden,11.958,52.009,50
 86,Parchen,12.082,52.353,50
 103,Dornstedt,11.744,51.411,50
@@ -398,6 +407,7 @@ rs,name,lon,lat,r1
 72,Vehlow,12.323,53.012,50
 72,Absberg,10.881,49.145,50
 72,Krüssau,12.067,52.273,50
+60,Pinzberg,11.101,49.691,50
 60,Altenberga,11.541,50.831,50
 60,Orlamünde,11.52,50.774,50
 72,Walow,12.466,53.423,50
@@ -437,7 +447,7 @@ rs,name,lon,lat,r1
 60,Effelter,11.418,50.356,50
 86,Neunkirchen a.Brand,11.13,49.613,50
 60,Durach,10.344,47.697,50
-147,Kahla,11.589,50.802,60
+147,Kahla,11.589,50.802,72
 123,Galm,12.211,52.507,50
 123,Laugna,10.695,48.53,50
 86,Loburg,12.073,52.116,60
@@ -459,6 +469,7 @@ rs,name,lon,lat,r1
 72,Zabakuck,12.214,52.456,50
 72,Sietow,12.557,53.446,50
 103,Fischen i.Allgäu,10.271,47.459,50
+60,Pommer,11.174,49.653,50
 60,Camburg,11.711,51.054,50
 211,Hollfeld,11.291,49.937,123
 103,Köthen (Anhalt),11.973,51.751,103
@@ -477,8 +488,10 @@ rs,name,lon,lat,r1
 72,Tucheim,12.185,52.29,50
 147,Christdorf,12.462,53.083,60
 211,Oberstdorf,10.276,47.408,86
+60,Mainleus,11.375,50.1,50
 86,Schwand,10.26,47.369,50
 60,Altkalen,12.739,53.899,50
+60,Oberdornlach,11.395,50.145,50
 86,Lietzo,12.109,52.063,50
 123,Pleinfeld,10.986,49.105,60
 72,Peesten,11.366,50.063,50
@@ -505,7 +518,7 @@ rs,name,lon,lat,r1
 60,Plankenfels,11.335,49.886,50
 211,Röbel/Müritz,12.606,53.376,86
 60,Mögelin,12.326,52.562,50
-176,Thurnau,11.393,50.026,72
+176,Thurnau,11.393,50.026,60
 60,Rugendorf,11.461,50.2,50
 60,Schorrentin,12.769,53.854,50
 72,Daiting,10.904,48.792,50
@@ -521,10 +534,10 @@ rs,name,lon,lat,r1
 86,Wulkow,12.486,52.99,50
 60,Sechzehneichen,12.48,52.963,50
 60,Schwand bei Nürnberg,11.122,49.301,50
-60,Kreuzanger,10.697,48.258,50
+147,Braunsbedra,11.884,51.284,60
 72,Wendelstein,11.145,49.355,50
 147,Bad Wörishofen,10.593,48.003,103
-72,Stadtroda,11.728,50.858,60
+60,Stadtroda,11.728,50.858,50
 86,Bürgel,11.759,50.942,50
 72,Gremersdorf,12.871,54.109,50
 147,Premnitz,12.337,52.531,60
@@ -553,6 +566,7 @@ rs,name,lon,lat,r1
 72,Werben,12.038,51.619,50
 103,Dreetz,12.46,52.803,50
 72,Mertendorf,11.857,51.119,50
+176,Meitingen,10.854,48.547,103
 60,Görisried,10.507,47.707,50
 123,Stadtsteinach,11.504,50.163,50
 86,Tagmersheim,10.974,48.824,50
@@ -574,7 +588,6 @@ rs,name,lon,lat,r1
 86,Heideck,11.126,49.132,50
 147,Lauf a.d.Pegnitz,11.278,49.512,86
 123,Prohn,13.024,54.374,50
-72,Warchau,12.345,52.361,50
 60,Neusäß,10.832,48.395,50
 60,Faulenrost,12.787,53.638,50
 72,Sewekow,12.656,53.25,72
@@ -612,13 +625,14 @@ rs,name,lon,lat,r1
 72,Seelensdorf,12.48,52.533,50
 103,Velburg,11.67,49.231,60
 60,Herrsching a.Ammersee,11.177,47.999,60
+522,Augsburg,10.898,48.368,363
 72,Obergermaringen,10.668,47.922,50
 103,Hilpoltstein,11.189,49.191,50
 60,Nennslingen,11.132,49.047,50
 1081,Dessau,12.246,51.835,303
 86,Boek,12.792,53.393,50
 60,Stöttwang,10.715,47.891,50
-147,Gersthofen,10.879,48.425,60
+60,Gersthofen,10.879,48.425,50
 72,St. Gangloff,11.894,50.855,50
 60,Berg,11.356,47.967,50
 72,Burgthann,11.315,49.351,50
@@ -645,13 +659,12 @@ rs,name,lon,lat,r1
 72,Wallitz,12.772,53.118,50
 435,Demmin,13.038,53.906,176
 103,Biessenhofen,10.64,47.833,50
-72,Friedberg,10.985,48.354,50
+60,Friedberg,10.985,48.354,50
 86,Wolfen,12.274,51.666,50
 123,Marktoberdorf,10.618,47.779,86
 86,Wiedemar,12.207,51.466,50
 60,Lössau,11.885,50.588,50
-103,Lützen,12.141,51.255,50
-60,Kissing,10.987,48.296,50
+123,Lützen,12.141,51.255,50
 123,Poggendorf,13.119,54.056,50
 103,Neuburg a.d.Donau,11.178,48.737,103
 60,Mering,10.988,48.267,50
@@ -665,7 +678,7 @@ rs,name,lon,lat,r1
 72,Walting,11.3,48.912,50
 86,Briest,12.427,52.442,50
 60,Lindau,11.914,51.02,50
-147,Aichach,11.134,48.461,86
+211,Aichach,11.134,48.461,86
 72,Verchen,12.908,53.85,50
 86,Coswig (Anhalt),12.458,51.886,86
 86,Wolde,13.078,53.678,50
@@ -691,6 +704,7 @@ rs,name,lon,lat,r1
 103,Blankenstein,11.696,50.403,50
 86,Ebereschenhof,12.878,52.684,60
 103,Meuselwitz,12.299,51.042,72
+103,Spies,11.403,49.635,50
 72,Starkenberg,12.309,50.983,50
 60,Neukamp,13.465,54.322,50
 147,Rehau,12.036,50.248,60
@@ -734,7 +748,7 @@ rs,name,lon,lat,r1
 103,Dachau,11.437,48.263,50
 60,Koldenhof,13.341,53.331,50
 60,Marktleugast,11.633,50.172,50
-176,Hemau,11.781,49.053,86
+176,Hemau,11.781,49.053,103
 60,Eschenlohe,11.186,47.598,50
 72,Leutstetten,11.37,48.029,50
 176,Görzke,12.374,52.172,50
@@ -756,19 +770,22 @@ rs,name,lon,lat,r1
 103,Stavenhagen,12.907,53.697,72
 60,Abens,11.676,48.533,50
 123,Wolfratshausen,11.421,47.913,50
+86,Hohenschäftlarn,11.458,47.99,60
+123,Haunstetten-Siebenbrunn,10.902,48.308,50
 86,Trebsen/Mulde,12.755,51.289,50
 103,Naila,11.707,50.33,72
 123,Penzberg,11.376,47.752,86
-123,Mahlenzien,12.44,52.326,72
+123,Mahlenzien,12.44,52.326,50
 60,Stangenhagen,13.099,52.21,50
 86,Wittenhagen,13.07,54.184,50
 176,Jessen (Elster),12.955,51.79,147
 103,Mittenwald,11.263,47.441,103
 60,Kupferhammer,12.309,51.953,50
 123,Waldsassen,12.305,50.003,103
-176,Königsbrunn,10.89,48.267,72
+86,Königsbrunn,10.89,48.267,50
 103,Alt Lutterow,12.731,53.155,60
 72,Unterwangenbach,11.802,48.677,50
+60,Stützengrün,12.527,50.534,50
 60,Elsnig,12.928,51.611,50
 86,Reetz,12.37,52.11,50
 211,Schleiz,11.807,50.577,86
@@ -801,12 +818,12 @@ rs,name,lon,lat,r1
 60,Sindersdorf,11.273,49.163,50
 72,Briesen,12.595,52.705,50
 60,Waase,13.182,54.465,50
+147,Stollberg/Erzgeb.,12.78,50.708,60
 60,Plech,11.469,49.652,50
 60,Rakow,13.049,54.048,50
 103,Poing,11.818,48.171,86
 72,Luko,12.324,51.925,50
 103,Titting,11.212,48.998,50
-72,Geroda,11.905,50.768,50
 60,Petersdorf,11.018,48.508,50
 60,Schladebach,12.111,51.319,50
 72,Garlitz,12.559,52.566,50
@@ -819,6 +836,7 @@ rs,name,lon,lat,r1
 60,Benk,11.624,50.013,50
 86,Münchenbernsdorf,11.932,50.82,60
 123,Pollenfeld,11.206,48.948,50
+60,Hersbruck,11.43,49.508,60
 86,Kaufering,10.856,48.093,50
 86,Helmbrechts,11.716,50.237,50
 60,Bergen,11.143,48.783,50
@@ -833,9 +851,10 @@ rs,name,lon,lat,r1
 103,Unterdießen,10.829,47.98,50
 72,Freystadt,11.328,49.199,72
 72,Werder,12.708,52.918,50
+72,Siedlung Eigene Scholle,12.526,52.375,50
 72,Bad Berneck i.Fichtelgebirge,11.667,50.044,50
 72,Pahren,11.897,50.645,50
-176,Pöttmes,11.089,48.585,86
+147,Pöttmes,11.089,48.585,86
 72,Schutzendorf,11.282,49.055,50
 86,Möllenhagen,12.925,53.523,86
 72,Schnabelwaid,11.584,49.812,50
@@ -867,7 +886,7 @@ rs,name,lon,lat,r1
 86,Gefell,11.859,50.438,50
 72,Bernbeuren,10.778,47.738,50
 86,Neuhaus a.d.Pegnitz,11.549,49.629,50
-60,Dasing,11.048,48.385,50
+103,Dasing,11.048,48.385,50
 72,Möthlow,12.652,52.608,50
 60,Theißen,12.107,51.087,50
 86,Schkeuditz,12.222,51.396,72
@@ -885,7 +904,6 @@ rs,name,lon,lat,r1
 303,Bitterfeld-Wolfen,12.325,51.625,176
 60,Ranzenthal,11.62,49.747,50
 60,Muldenstein,12.346,51.672,50
-60,Rohrbach,11.059,48.324,50
 60,Zechlinerhütte,12.875,53.156,50
 72,Markranstädt,12.22,51.301,72
 123,Paulinenaue,12.71,52.676,72
@@ -903,6 +921,7 @@ rs,name,lon,lat,r1
 901,Gera,12.08,50.876,253
 123,Auerbach i.d.OPf.,11.629,49.692,50
 86,Kornbach,11.948,50.516,50
+60,Eurasburg,11.086,48.335,50
 72,Samtens,13.293,54.356,50
 60,Sassen,13.187,54.024,50
 72,Lobeofsund,12.749,52.72,50
@@ -910,6 +929,7 @@ rs,name,lon,lat,r1
 72,Kletzin,13.157,53.924,50
 103,Reinberg,13.251,54.214,86
 72,Triebes,12.02,50.684,50
+72,Saaringen,12.661,52.444,50
 176,Delitzsch,12.334,51.523,86
 103,Golzow,12.606,52.278,72
 103,Weida,12.061,50.773,86
@@ -943,7 +963,7 @@ rs,name,lon,lat,r1
 72,Laue,12.386,51.557,50
 60,Cobbelsdorf,12.532,51.962,50
 72,Dehles,11.975,50.446,50
-103,Roskow,12.715,52.472,60
+60,Roskow,12.715,52.472,50
 103,Karlshuld,11.287,48.682,60
 72,Döllwang,11.496,49.194,50
 60,Hohenmocker,13.178,53.821,50
@@ -964,6 +984,7 @@ rs,name,lon,lat,r1
 86,Gaimersheim,11.368,48.805,50
 103,Deining,11.539,49.227,50
 72,Gültz,13.185,53.75,50
+123,Groitzsch,12.281,51.154,50
 103,Weißenstadt,11.885,50.101,60
 60,Heinersgrün,11.997,50.388,50
 60,Schwanebeck,12.792,52.573,50
@@ -973,7 +994,7 @@ rs,name,lon,lat,r1
 103,Görmin,13.271,53.991,50
 60,Altfriesack,12.889,52.848,50
 72,Büna,12.078,50.594,50
-176,Brunnen,11.308,48.63,50
+211,Brunnen,11.308,48.63,50
 86,Lauterhofen,11.606,49.369,72
 60,Schwarzenbach a.d.Saale,11.938,50.221,50
 86,Dersekow,13.292,54.046,50
@@ -1018,16 +1039,15 @@ rs,name,lon,lat,r1
 60,Gaschwitz,12.38,51.25,50
 211,Berkau,12.641,51.968,86
 103,Schköna,12.538,51.681,50
-522,Ingolstadt,11.423,48.765,363
+522,Ingolstadt,11.423,48.765,303
 72,Herzberg (Mark),12.97,52.903,50
 60,Aich,11.187,48.179,50
 60,Grafrath,11.164,48.124,50
-147,Lucka,12.331,51.098,50
+123,Lucka,12.331,51.098,50
 103,Dießen am Ammersee,11.095,47.949,50
 123,Niemegk,12.688,52.077,50
 72,Dagow,13.062,53.152,50
 303,Nauen,12.876,52.607,103
-60,Görschnitz,12.149,50.595,50
 253,Burow,13.273,53.773,60
 901,Greifswald,13.38,54.096,435
 147,Altentreptow,13.25,53.693,103
@@ -1096,7 +1116,6 @@ rs,name,lon,lat,r1
 86,Sehlis,12.537,51.377,50
 72,Markt Indersdorf,11.373,48.361,72
 72,Malsbach,11.768,49.33,50
-86,Limbach,12.251,50.582,50
 86,Schwabhausen,11.356,48.303,50
 60,Thann,11.624,48.955,50
 176,Oberammergau,11.066,47.597,72
@@ -1112,10 +1131,12 @@ rs,name,lon,lat,r1
 60,Scheyern,11.453,48.5,50
 211,Sassnitz,13.634,54.513,86
 60,Hessenreuth,11.976,49.811,50
+60,Buchwald,12.275,50.584,50
 103,Schlalach,12.844,52.146,50
 72,Groß Kiesow,13.477,54.012,50
 86,Perletzhofen,11.663,49.004,50
 147,Huglfing,11.156,47.769,60
+60,Brieselang,12.998,52.582,50
 86,Laußig,12.632,51.546,50
 72,Binz,13.605,54.402,72
 72,Freihung,11.91,49.623,60
@@ -1131,7 +1152,7 @@ rs,name,lon,lat,r1
 60,Zootzen,13.214,53.154,50
 60,Iven,13.429,53.797,50
 72,Crimmitschau,12.387,50.812,60
-86,Pausin,13.044,52.639,60
+86,Pausin,13.044,52.639,50
 103,Krien,13.446,53.83,50
 86,Neuenkirchen,13.37,53.598,50
 123,Altmannstein,11.65,48.896,72
@@ -1212,6 +1233,7 @@ rs,name,lon,lat,r1
 72,Bergsdorf,13.262,52.931,50
 60,Mildenberg,13.289,53.01,50
 103,Weiherhammer,12.059,49.632,50
+72,Groß Glienicke,13.108,52.469,60
 147,Rieden,11.943,49.323,86
 86,Schmidmühlen,11.921,49.267,50
 60,Liebenberg,13.256,52.895,50
@@ -1258,6 +1280,7 @@ rs,name,lon,lat,r1
 751,Weiden i.d.OPf.,12.16,49.676,303
 60,Gösselsdorf,12.08,49.471,50
 103,Lichtenberg,13.498,53.38,50
+72,Kirchberg,12.526,50.623,72
 211,Kelheim,11.87,48.919,123
 60,Schönbeck,13.572,53.58,50
 103,Tannenbergsthal,12.463,50.436,50
@@ -1268,17 +1291,18 @@ rs,name,lon,lat,r1
 72,Urfeld,11.344,47.617,50
 72,Stretense,13.65,53.784,60
 60,Silberstraße,12.555,50.66,50
-86,Hohen Neuendorf,13.28,52.671,72
-60,Kochel a.See,11.368,47.659,50
+123,Hohen Neuendorf,13.28,52.671,72
+60,Kochel a.See,11.368,47.659,60
 60,Appersdorf,11.799,48.704,50
 123,Brohm,13.597,53.608,50
 86,Wolfersdorf,11.709,48.479,60
 60,Au i.d.Hallertau,11.743,48.558,60
-103,Bärenwalde,12.528,50.565,60
+60,Bärenwalde,12.528,50.565,50
 253,Mainburg,11.78,48.641,147
-9627,München,11.576,48.138,2688
+9627,München,11.576,48.138,3870
 60,Callenberg,12.638,50.845,50
 72,Nauenhain,12.731,51.09,50
+60,Pelsin,13.677,53.811,50
 103,Rudelzhausen,11.768,48.59,50
 60,Hammelspring,13.432,53.071,50
 522,Anklam,13.693,53.855,176
@@ -1288,8 +1312,9 @@ rs,name,lon,lat,r1
 86,Siegenburg,11.849,48.754,50
 435,Geretsried,11.482,47.856,211
 176,Wernberg-Köblitz,12.162,49.54,72
+86,Nittendorf,11.961,49.024,72
 211,Wolgast,13.775,54.053,176
-103,Lichtenstein/Sa.,12.631,50.756,50
+86,Lichtenstein/Sa.,12.631,50.756,50
 176,Woldegk,13.583,53.459,72
 72,Zemitz,13.755,53.979,50
 211,Jüterbog,13.082,51.992,86
@@ -1302,7 +1327,6 @@ rs,name,lon,lat,r1
 103,Wiefelsdorf,12.078,49.278,50
 72,Kloster Zinna,13.105,52.024,50
 123,Metzelthin,13.506,53.179,50
-60,Heinrichsort,12.64,50.727,50
 60,Achering,11.709,48.343,50
 72,Melpitz,12.936,51.527,50
 60,Kappe,13.439,52.967,50
@@ -1310,7 +1334,7 @@ rs,name,lon,lat,r1
 60,Moosham,11.538,47.908,50
 522,Templin,13.499,53.121,176
 123,Schwarzenfeld,12.139,49.389,50
-211,Oberhaching,11.59,48.026,60
+86,Oberhaching,11.59,48.026,60
 86,Pfreimd,12.182,49.494,50
 72,Münchshofen,12.083,49.241,50
 253,Freising,11.748,48.404,147
@@ -1340,7 +1364,7 @@ rs,name,lon,lat,r1
 72,Thyrow,13.238,52.253,50
 147,Vorderriß,11.437,47.559,86
 86,Ludwigsfelde,13.262,52.3,72
-72,Hartenstein,12.671,50.662,60
+72,Hartenstein,12.671,50.662,50
 60,Carlsfeld,12.59,50.435,50
 253,Torgau,13.004,51.559,211
 123,Boitzenburg,13.607,53.264,60
@@ -1362,11 +1386,13 @@ rs,name,lon,lat,r1
 147,Burgstädt,12.806,50.92,50
 86,Wermsdorf,12.939,51.284,60
 211,Bad Tölz,11.564,47.759,72
-103,Sauerlach,11.654,47.972,50
+86,Sauerlach,11.654,47.972,50
+72,Lütow,13.879,54.013,50
+60,Hartmannsdorf,12.799,50.887,50
 103,Pankow,13.403,52.569,50
 72,Klosterfelde,13.48,52.791,50
 86,Zinnowitz,13.909,54.077,60
-211,Aue,12.701,50.585,103
+253,Aue,12.701,50.585,103
 86,Groß Schönebeck,13.531,52.907,72
 123,Werbig,13.194,51.93,60
 901,Regensburg,12.102,49.015,522
@@ -1380,14 +1406,14 @@ rs,name,lon,lat,r1
 72,Oberhummel,11.873,48.428,50
 72,Strasburg (Uckermark),13.744,53.506,72
 86,Malkwitz,12.991,51.332,50
-72,Saalhaupt,12.062,48.888,50
+60,Saalhaupt,12.062,48.888,50
 60,Bebersee,13.588,53.022,60
 72,Höhenkirchen-Siegertsbrunn,11.712,48.019,60
 60,Naundorf,12.884,51.021,50
 60,Karnin,13.863,53.846,50
 147,Bärnau,12.43,49.809,50
-103,Lenggries,11.577,47.683,60
-86,Warthe,13.911,53.984,50
+147,Lenggries,11.577,47.683,60
+60,Warthe,13.911,53.984,50
 60,Fall,11.532,47.568,60
 72,Altendorf,12.28,49.405,50
 60,Langquaid,12.052,48.824,50
@@ -1416,7 +1442,7 @@ rs,name,lon,lat,r1
 60,Lanke,13.565,52.761,50
 60,Jagow,13.786,53.416,50
 72,Obertraubling,12.166,48.966,50
-123,Zwönitz,12.811,50.63,50
+123,Zwönitz,12.811,50.63,60
 86,Belgern,13.124,51.483,50
 123,Lübbenow,13.805,53.451,50
 103,Bruckberg,11.993,48.523,50
@@ -1427,6 +1453,7 @@ rs,name,lon,lat,r1
 86,Warngau,11.722,47.832,50
 72,Ebersberg,11.969,48.078,50
 211,Erding,11.907,48.306,86
+60,Glösa-Draisdorf,12.934,50.885,50
 123,Furth,12.023,48.589,50
 176,Herzberg (Elster),13.235,51.692,123
 123,Oderberg,14.045,52.867,60
@@ -1434,7 +1461,8 @@ rs,name,lon,lat,r1
 103,Gorden,13.624,51.535,50
 72,Egglkofen,12.451,48.395,50
 176,Neunburg vorm Wald,12.382,49.349,123
-123,Prien a.Chiemsee,12.348,47.856,72
+72,Thalmassing,12.156,48.912,50
+123,Prien a.Chiemsee,12.348,47.856,123
 86,Schönefeld,13.507,52.388,50
 103,Nittenau,12.269,49.197,72
 86,Fermerswalde,13.19,51.647,50
@@ -1445,6 +1473,7 @@ rs,name,lon,lat,r1
 60,Martinskirchen,13.206,51.476,50
 72,Wurmannsquick,12.786,48.353,50
 435,Prenzlau,13.862,53.316,211
+103,Zwiesel,13.233,49.015,60
 123,Mügeln,13.046,51.237,50
 123,Bad Gottleuba,13.943,50.852,86
 60,Dargen,14.065,53.887,50
@@ -1453,6 +1482,8 @@ rs,name,lon,lat,r1
 176,Ueckermünde,14.046,53.737,86
 103,Glienig,13.443,51.942,50
 86,Ergolding,12.172,48.578,50
+103,Schwanebeck,13.544,52.626,50
+60,Krummensee,13.693,52.596,50
 60,Zinsdorf,13.336,51.547,50
 60,Rötz,12.531,49.342,60
 147,Schierling,12.14,48.835,86
@@ -1540,9 +1571,9 @@ rs,name,lon,lat,r1
 72,Goyatz,14.175,52.02,72
 72,Werbellin,13.703,52.89,50
 86,Friesheim,12.276,49.007,60
-86,Bodenmais,13.104,49.067,72
+103,Bodenmais,13.104,49.067,72
 103,Schwepnitz,13.956,51.331,60
-72,Byhleguhre,14.172,51.879,72
+72,Byhleguhre,14.172,51.879,50
 72,Pfaffenfang,12.319,49.106,50
 60,Bischofsmais,13.082,48.918,50
 60,Glonn,11.867,47.987,50
@@ -1550,13 +1581,12 @@ rs,name,lon,lat,r1
 60,Sophienthal,14.453,52.647,50
 86,Dolgelin,14.406,52.495,50
 60,Langdorf,13.148,49.014,50
-86,Ruhpolding,12.645,47.764,50
+147,Ruhpolding,12.645,47.764,50
 60,Biegen,14.366,52.31,50
 103,Pfarrkirchen,12.938,48.432,86
 123,Joachimsthal,13.745,52.979,103
 72,Bischheim,14.038,51.239,50
 176,Pirna,13.939,50.961,72
-60,Blumberg,13.618,52.603,50
 86,Wald,12.349,49.151,50
 60,Merzdorf,13.414,52,50
 103,Eslarn,12.521,49.583,103
@@ -1564,13 +1594,15 @@ rs,name,lon,lat,r1
 72,Neufahrn i.NB,12.189,48.735,50
 147,Marzahn-Hellersdorf,13.605,52.537,72
 72,Treptow-Köpenick,13.574,52.444,72
-103,Kreuth,11.744,47.642,60
 103,Mühlberg/Elbe,13.22,51.435,72
+123,Rottach-Egern,11.766,47.689,50
+86,Geyer,12.924,50.624,50
 123,Potzlow,13.84,53.217,86
 123,Frankenberg/Sa.,13.031,50.91,60
 60,Kulz,12.463,49.406,50
 72,Walderbach,12.379,49.185,50
 60,Rossau,13.069,50.998,50
+72,Thum,12.951,50.671,50
 363,Döbeln,13.121,51.122,147
 60,Dauer,13.911,53.39,50
 86,Krassig,13.355,51.757,50
@@ -1579,7 +1611,7 @@ rs,name,lon,lat,r1
 72,Piusheim,11.898,47.957,50
 72,Mittenwalde,13.536,52.265,50
 86,Ostrau,13.159,51.203,60
-211,Miesbach,11.834,47.789,60
+211,Miesbach,11.834,47.789,72
 72,Vilsheim,12.106,48.448,50
 176,Ergoldsbach,12.205,48.692,60
 103,Strehla,13.226,51.353,50
@@ -1587,9 +1619,10 @@ rs,name,lon,lat,r1
 103,Neuhaus,13.83,53.077,50
 435,Landshut,12.152,48.537,303
 86,Stegelitz,13.85,53.128,50
+72,Hausham,11.837,47.752,50
 103,Seelübbe,13.903,53.268,50
 103,Schönsee,12.547,49.51,60
-103,Grafing b.München,11.966,48.045,103
+303,Grafing b.München,11.966,48.045,103
 176,Dahme/Mark,13.428,51.869,147
 60,Dahlwitz-Hoppegarten,13.65,52.504,50
 303,Pasewalk,13.99,53.505,147
@@ -1605,6 +1638,7 @@ rs,name,lon,lat,r1
 86,Hainichen,13.124,50.969,50
 72,Essenbach,12.219,48.613,50
 123,Isen,12.057,48.213,50
+86,Drebach,13.019,50.675,60
 86,Nexdorf,13.371,51.637,60
 72,Hohenpolding,12.131,48.384,50
 123,Zirchow,14.141,53.891,50
@@ -1615,10 +1649,11 @@ rs,name,lon,lat,r1
 60,Motzen,13.582,52.205,50
 103,Eggesin,14.082,53.68,50
 86,Werneuchen,13.731,52.631,50
+72,Viereck,14.041,53.55,50
 60,Korswandt,14.163,53.918,50
 147,Taufkirchen (Vils),12.132,48.346,60
 60,Dreesch,13.958,53.294,50
-211,Annaberg-Buchholz,13.003,50.581,86
+522,Annaberg-Buchholz,13.003,50.581,147
 60,Möglenz,13.336,51.489,50
 86,Roßwein,13.184,51.065,50
 303,Königs Wusterhausen,13.624,52.299,123
@@ -1627,9 +1662,8 @@ rs,name,lon,lat,r1
 72,Kolonie Britz,13.823,52.872,50
 86,Sünching,12.354,48.88,50
 60,Laberweinting,12.322,48.797,50
-147,Zschopau,13.072,50.748,72
+103,Zschopau,13.072,50.748,72
 176,Wörth a.d.Donau,12.408,49.001,103
-72,Ernst-Thälmann-Siedlung,14.063,53.57,50
 123,Augustusburg,13.102,50.811,50
 72,Cranzahl,12.994,50.517,50
 72,Altlandsberg,13.728,52.567,50
@@ -1640,11 +1674,10 @@ rs,name,lon,lat,r1
 60,Asbach,12.316,48.739,50
 86,Oberwiesenthal,12.969,50.419,86
 60,Jenkofen,12.235,48.533,50
-86,Stamsried,12.531,49.267,60
 60,Prießen,13.429,51.662,50
 60,Wolletz,13.902,53.026,50
 60,Tulling,12.061,48.084,50
-72,Spitzingsee,11.888,47.662,72
+60,Spitzingsee,11.888,47.662,50
 522,Riesa,13.305,51.303,211
 72,Hohenbucko,13.472,51.764,50
 123,Roding,12.518,49.193,72
@@ -1655,15 +1688,18 @@ rs,name,lon,lat,r1
 103,Trampe,13.836,52.778,50
 147,Tuntenhausen,12.016,47.936,50
 211,Dorfen,12.154,48.272,147
+72,Hundham,11.944,47.757,50
 211,Falkenstein,12.487,49.097,50
 60,Hammerunterwiesenthal,13.012,50.445,50
 72,Pätz,13.656,52.225,50
 60,Meichow,13.987,53.184,50
 103,Geiselhöring,12.394,48.826,86
+60,Zerrenthin,14.093,53.495,50
 72,Görlsdorf,13.948,53.054,50
 60,Schönthal,12.606,49.356,50
 86,Franken,12.374,48.768,50
 72,Bad Aibling,12.01,47.864,60
+86,Fischbachau,11.951,47.719,60
 60,Gottschalling,11.984,47.789,50
 60,Niederaichbach,12.317,48.603,50
 86,Lommatzsch,13.309,51.197,86
@@ -1671,11 +1707,13 @@ rs,name,lon,lat,r1
 103,Drahnsdorf,13.576,51.916,50
 72,Kalsing,12.544,49.145,50
 176,Erkner,13.754,52.42,72
-60,Pfaffing,12.109,48.055,50
+60,Pfaffing,12.109,48.055,60
+103,Marienthal,14.146,53.57,50
 72,Borstendorf,13.178,50.773,50
 72,Lützlow,14.045,53.243,50
 86,Weng,12.37,48.659,50
 103,Rain,12.468,48.905,50
+86,Pemfling,12.612,49.265,50
 86,Wallmow,14.086,53.343,50
 60,Jöhstadt,13.09,50.514,50
 60,Untergrafenried,12.681,49.422,50
@@ -1695,7 +1733,7 @@ rs,name,lon,lat,r1
 60,Kleinvoigtsberg,13.307,50.998,50
 86,Tattendorf,12.313,48.412,50
 60,Frauenhagen,14.039,53.08,50
-86,Bayrischzell,12.014,47.674,60
+123,Bayrischzell,12.014,47.674,50
 123,Mengkofen,12.441,48.72,72
 60,Gruhno,13.519,51.568,50
 103,Altwarp,14.262,53.744,86
@@ -1730,6 +1768,7 @@ rs,name,lon,lat,r1
 60,Reichertsheim,12.287,48.198,60
 103,Satzung,13.195,50.527,50
 103,Brand-Erbisdorf,13.322,50.869,50
+103,Wasserburg a.Inn,12.232,48.061,103
 103,Brannenburg,12.103,47.742,50
 303,Freiberg,13.344,50.915,211
 72,Spreewerder,13.864,52.373,50
@@ -1766,7 +1805,7 @@ rs,name,lon,lat,r1
 60,Aiterhofen,12.62,48.846,50
 123,Kienbaum,13.957,52.455,50
 60,Weigmannsdorf,13.382,50.839,50
-103,Unterreit,12.334,48.119,72
+103,Unterreit,12.334,48.119,50
 60,Altglietzen,14.093,52.835,50
 123,Mitterfels,12.68,48.976,50
 103,Krackow,14.266,53.344,50
@@ -1780,6 +1819,7 @@ rs,name,lon,lat,r1
 72,Sicklasberg,12.728,49.06,50
 103,Olbernhau,13.339,50.659,86
 103,Haibach,12.715,49.023,50
+60,Heinersdorf,14.201,53.086,50
 103,Stützkow,14.173,52.993,50
 103,Ampfing,12.418,48.255,50
 626,Waldkraiburg,12.4,48.208,253
@@ -1810,14 +1850,16 @@ rs,name,lon,lat,r1
 60,Degernbach,12.762,48.915,50
 72,Rauen,14.025,52.328,50
 72,Ladenthin,14.379,53.371,50
-86,Taufkirchen,12.457,48.149,50
+72,Taufkirchen,12.457,48.149,50
 123,Reisbach,12.629,48.57,72
 147,Lübben (Spreewald),13.897,51.942,60
 86,Tantow,14.353,53.271,50
 60,Bliesdorf,14.16,52.693,50
-103,Obing,12.407,48.001,50
+176,Obing,12.407,48.001,50
 901,Schwedt/Oder,14.288,53.055,211
 103,Tettau,13.727,51.432,50
+60,Oeden,12.43,48.047,50
+60,Mößling,12.524,48.269,50
 60,Schachten,12.951,49.334,50
 60,Oberseiffenbach,13.446,50.633,50
 86,Welchenberg,12.774,48.878,50
@@ -1832,18 +1874,18 @@ rs,name,lon,lat,r1
 86,Bad Saarow,14.063,52.293,50
 72,Massing,12.605,48.393,50
 60,Breitbrunn a.Chiemsee,12.4,47.89,50
-72,Kienberg,12.462,48.036,50
 72,Linz,13.732,51.342,50
 176,Deutschneudorf,13.463,50.605,72
 303,Müncheberg,14.14,52.503,123
 211,Viechtach,12.884,49.082,123
+60,Bernau a.Chiemsee,12.374,47.812,50
 60,Hohenwarth,12.935,49.204,50
 103,Rettenbach,12.85,48.975,50
 303,Gartz (Oder),14.389,53.209,123
 176,Ortrand,13.757,51.376,72
 60,Diensdorf,14.063,52.241,50
 176,Neukirchen b.Hl.Blut,12.97,49.259,72
-72,Göllnitz,13.859,51.64,72
+72,Göllnitz,13.859,51.64,50
 72,Pleiskirchen,12.596,48.307,50
 60,Hermersdorf,14.183,52.568,50
 60,Langewahl,14.105,52.327,50
@@ -1864,10 +1906,12 @@ rs,name,lon,lat,r1
 60,Tüßling,12.602,48.212,50
 103,Neuhardenberg,14.237,52.596,60
 72,Kossenblatt,14.075,52.114,50
+103,Garching a.d.Alz,12.574,48.127,86
 211,Calau,13.949,51.747,103
 60,Altenmarkt a.d.Alz,12.534,48.001,50
 103,Tacherting,12.569,48.078,50
 60,Behlendorf,14.218,52.471,50
+147,Grassau,12.451,47.779,60
 103,Falkenberg,12.73,48.463,50
 123,Trostberg,12.557,48.027,50
 147,Dippoldiswalde,13.667,50.897,86
@@ -1875,23 +1919,26 @@ rs,name,lon,lat,r1
 147,Plattling,12.874,48.777,60
 60,Glietz,14.081,52.009,50
 60,Schönfeld,13.644,50.784,50
-253,Unterwössen,12.458,47.738,50
-60,Caminchen,14.069,51.953,50
+86,Unterwössen,12.458,47.738,50
+60,Barzig,13.942,51.598,50
 72,Worin,14.271,52.522,50
 60,Arbing,12.711,48.324,50
 147,Klotzsche,13.78,51.116,50
 72,Indersbach,12.827,48.608,50
+72,Altötting,12.679,48.228,72
 72,Weixdorf,13.8,51.15,50
 211,Arnstorf,12.817,48.561,86
 303,Eggenfelden,12.762,48.404,147
 60,Gahlen,14.019,51.73,50
 86,Buchwäldchen,14.006,51.692,50
-123,Reit im Winkl,12.469,47.677,50
+147,Reit im Winkl,12.469,47.677,50
+72,Neu Zauche,14.091,51.929,60
 86,Wallerfing,12.88,48.684,60
 176,Ottendorf-Okrilla,13.832,51.188,50
 72,Zeisholz,13.9,51.37,50
 72,Zachenberg,12.999,48.968,50
 60,Wilmersdorf,14.268,52.402,50
+123,Kastl,12.696,48.194,50
 86,Groß Rietz,14.207,52.213,50
 60,Kreischa,13.76,50.945,50
 176,Letschin,14.36,52.646,86
@@ -1915,14 +1962,17 @@ rs,name,lon,lat,r1
 60,Werbig,14.382,52.56,50
 60,Greising,13.028,48.872,50
 86,Glashütte,13.781,50.852,60
-103,Butzen,14.168,51.931,50
 72,Kammer,12.652,47.924,50
+72,Mittling,12.784,48.247,50
+60,Emmerting,12.766,48.2,50
 123,Seelow,14.381,52.534,123
-522,Altenberg,13.757,50.767,103
+435,Altenberg,13.757,50.767,103
 363,Traunstein,12.633,47.866,253
 86,Roßbach,12.941,48.599,60
 72,Sedlitz,14.058,51.55,50
-72,Siegsdorf,12.642,47.821,50
+60,Hosena,14.026,51.455,50
+60,Byhlen,14.186,51.908,50
+86,Siegsdorf,12.642,47.821,50
 147,Friedland,14.265,52.103,60
 72,Dohna,13.858,50.954,50
 60,Winklmoos,12.582,47.658,60
@@ -1944,11 +1994,11 @@ rs,name,lon,lat,r1
 60,Auerbach,13.1,48.803,50
 103,Lauta,14.099,51.461,50
 147,Bernsdorf,14.07,51.376,72
-60,Geierswalde,14.122,51.494,50
 72,Pulsnitz,14.015,51.182,50
 123,Lieberose,14.301,51.988,60
 60,Gottgetreu-Müglitz,13.857,50.746,50
 60,Gersdorf,13.908,50.88,50
+103,Haiming,12.888,48.213,50
 103,Trebitz,14.327,52.039,50
 86,Breitenau,13.892,50.807,50
 86,Welzow,14.172,51.581,60
@@ -1984,8 +2034,8 @@ rs,name,lon,lat,r1
 103,Neuzelle,14.649,52.091,50
 176,Lebus,14.54,52.426,72
 103,Sebnitz,14.269,50.973,50
-60,Spiegelhütte,13.307,49.052,50
-72,Marktschellenberg,13.046,47.697,60
+86,Spiegelhütte,13.307,49.052,50
+72,Marktschellenberg,13.046,47.697,50
 86,Döbbrick,14.341,51.818,50
 363,Guben,14.712,51.954,147
 60,Döbra,14.173,51.333,50
@@ -1997,6 +2047,7 @@ rs,name,lon,lat,r1
 1297,Cottbus,14.335,51.759,522
 72,Sachsendorf,14.326,51.727,50
 103,Rietschen,14.786,51.396,86
+901,Frankfurt (Oder),14.551,52.342,522
 72,Pechern,14.861,51.487,60
 103,Vilshofen an der Donau,13.185,48.634,103
 522,Hoyerswerda,14.244,51.439,211
@@ -2034,7 +2085,7 @@ rs,name,lon,lat,r1
 303,Bad Schandau,14.155,50.917,60
 60,Ossendorf,14.569,52.066,50
 72,Jänschwalde,14.499,51.862,50
-176,Neustadt in Sachsen,14.215,51.025,103
+176,Neustadt in Sachsen,14.215,51.025,123
 86,Kleingießhübel,14.16,50.874,50
 60,Schmidham,13.253,48.48,50
 86,Heinersbrück,14.508,51.817,50
@@ -2049,9 +2100,11 @@ rs,name,lon,lat,r1
 123,Fürstenzell,13.316,48.522,60
 60,Neuschönau,13.478,48.884,50
 72,Perlesreut,13.441,48.779,60
+60,Schönau a.Königssee,12.984,47.602,50
 72,Tiefenbach,13.4,48.626,50
 363,Pocking,13.31,48.4,147
 60,Hohenau,13.49,48.851,50
+176,Berchtesgaden,13.003,47.633,72
 60,Ottendorf,14.285,50.944,50
 60,Jethe,14.561,51.696,50
 72,Gnaschwitz,14.369,51.148,50
@@ -2072,14 +2125,15 @@ rs,name,lon,lat,r1
 72,Neuhaus a.Inn,13.42,48.461,50
 72,Neuburg a.Inn,13.442,48.511,50
 72,Inzing,13.401,48.406,50
+123,Kirschau,14.429,51.093,50
 60,Tschernitz,14.615,51.576,50
-60,Sohland a.d.Spree,14.427,51.044,50
+60,Sohland a.d.Spree,14.427,51.044,60
 72,Karlsbach,13.584,48.766,50
 60,Preschen,14.658,51.648,50
 176,Boxberg/O.L.,14.576,51.405,86
 123,Malschwitz,14.52,51.238,50
 86,Thyrnau,13.538,48.615,50
-60,Schönberg,14.496,51.11,50
+60,Kubschütz,14.505,51.17,50
 176,Weißwasser/O.L.,14.643,51.507,147
 86,Grainet,13.654,48.796,50
 86,Jerischke,14.708,51.614,50
@@ -2121,153 +2175,13 @@ rs,name,lon,lat,r1
 123,Ober-Neundorf,15.005,51.219,50
 123,Zentendorf,15.03,51.278,50
 901,Görlitz,14.988,51.155,435
-3870,Ruhrgebiet,7.128,51.503,3225
-86,Hamburg,10.035,53.596,50
-626,Düsseldorf,6.812,51.215,211
-72,Stuttgart,9.2,48.813,50
-1867,Hannover,9.756,52.379,522
-363,Bonn,7.121,50.753,147
-901,Mannheim/Ludwigshafen,8.442,49.496,522
-522,Augsburg,10.89,48.353,363
-72,Duisburg,6.776,51.397,50
-253,Ludwigsburg,9.186,48.895,72
-86,Esslingen am Neckar,9.298,48.733,60
-123,Porz,7.036,50.882,50
-147,Sindelfingen,9.002,48.701,103
-211,Harburg,9.969,53.449,86
-147,Rüsselsheim am Main,8.432,49.991,86
-303,Göppingen,9.685,48.697,211
-103,Lütten Klein,12.061,54.137,50
-901,Frankfurt (Oder),14.543,52.343,435
-176,Herzogenrath,6.081,50.857,72
-147,Kriftel,8.471,50.085,72
-72,Brühl-Kierberg,6.897,50.825,50
-103,Wilhelmsburg,10.005,53.501,50
-72,Langen-Linden,8.664,49.981,50
-72,Altrip-Im Krappen,8.523,49.426,60
-176,Rendsburg-Neuwerk,9.665,54.304,176
-86,Seligenstadt,8.978,50.068,50
-103,Gröpelingen,8.755,53.121,50
-147,Sandhausen,8.668,49.343,50
-86,Karow,13.488,52.62,50
-60,Castrop-Rauxel-Ickern Süd,7.324,51.594,50
-176,Hamm (Sieg)-Auf der Huth,7.653,50.78,176
-60,Schwerin (Neu-Zippendorf),11.45,53.6,50
-103,Neulobeda,11.62,50.882,50
-303,Thalheim,12.895,50.682,123
-72,Brackwede,8.5,51.987,50
-86,Heepen,8.604,52.064,50
-147,Bad Rothenfelde,8.168,52.116,60
-147,Dietzhölztal,8.35,50.807,50
-60,Seckenheim,8.562,49.469,50
-86,Hemsbach,8.648,49.595,50
-176,"Künzelsau, Stadt",9.664,49.285,86
-86,Herdorf,7.992,50.786,60
-60,Kelsterbach,8.517,50.058,50
-123,Bad Wiessee-Sonnenbichl,11.744,47.717,103
-72,Altötting-Feldhütter,12.681,48.231,72
-60,Neheim,7.962,51.453,50
-211,"Mömbris, M",9.203,50.075,86
-211,Schönau am Königssee-Kühroint,12.981,47.626,86
-60,Wahnheide,7.099,50.861,50
-176,"Wasserburg a.Inn, St",12.201,48.058,123
-211,Bad-Ortschaft Süd,10.372,52.045,86
-176,Rheinzabern,8.268,49.105,60
-123,Wilthen,14.422,51.082,86
-72,Göllheim,8.057,49.575,60
-253,Meitingen,10.841,48.544,103
-60,"Hersbruck, St",11.423,49.504,60
-86,Sindorf,6.674,50.908,50
-86,Norf,6.736,51.159,50
-123,Höchst im Odenwald,9.014,49.811,50
-123,Baiersdorf,11.059,49.653,50
-60,Westerburg-Weltersburg-Willmenrod-Langendernbach-I,7.992,50.542,60
-123,Grassau-Reifing,12.472,47.796,86
-72,Bad Ems,7.713,50.333,60
-60,Bockum,8.158,51.381,50
-60,Hausham-Huberbergalm,11.843,47.746,50
-60,Rosellen,6.737,51.13,50
-60,Groß Glienicke,13.122,52.459,50
-147,"Braunsbedra, Stadt",11.847,51.293,72
-60,Zell a. Main,9.871,49.825,50
-60,Bad Bergzabern-Augspurger Mühle,8.006,49.116,60
-72,Rechtsupweg,7.311,53.525,50
-60,Bad Friedrichshall-Kochendorf,9.211,49.231,50
-86,Fedderwardergroden-Samaria,8.098,53.58,50
-86,Ruhla-Thal,10.422,50.918,50
-60,Geisweid,8.002,50.911,50
-86,"Nittendorf, M",11.943,49.027,72
-60,Denkendorf,9.321,48.698,50
-60,Heddesheim,8.608,49.509,50
-60,Röttenbach,10.933,49.675,60
-123,"Zellingen, M",9.822,49.9,50
-60,Ketsch-Seehaus,8.534,49.365,50
-123,Zwiesel,13.235,49.023,60
-86,"Groitzsch, Stadt",12.27,51.159,50
-176,"Kirn, Stadt",7.452,49.797,72
-176,Altenkirchen-Leuzbach,7.641,50.692,72
-60,Aegidienberg,7.327,50.652,50
-123,Hardt,7.928,50.641,86
-147,Haschbach am Remigiusberg,7.414,49.546,123
-147,Schwülper,10.431,52.357,72
-147,Mülheim an der Mosel,7.041,49.919,72
-123,"Calbe (Saale), Stadt",11.778,51.905,86
-123,"Bad Sobernheim, Stadt",7.671,49.782,103
-86,Friolzheim,8.844,48.855,60
-60,Friedrichsfeld,6.655,51.629,50
-60,Altenkunstadt-Woffendorf,11.245,50.132,60
-303,Simmern/Hunsrück,7.521,49.987,147
-86,Neulingen,8.735,48.966,60
-60,Seevetal,10.018,53.421,50
-253,Breklum,8.981,54.607,103
-147,Raubach-Puderbach-Woldert-Niederhofen-Dernbach,7.613,50.578,86
-72,Wulfen,7.035,51.727,50
-72,Swisttal,6.905,50.724,50
-72,Thannhausen,10.461,48.275,50
-72,Grevenbrück,8.019,51.138,50
-60,Mehrhoog,6.495,51.735,50
-86,Rodenbach,7.64,49.476,50
-60,Nortorf-Thienbüttel,9.859,54.165,60
-72,Tutzing,11.273,47.908,50
-72,Steinhude,9.373,52.457,50
-60,Hüsten,7.989,51.427,50
-176,Emmelshausen,7.561,50.151,60
-60,"Bad Blankenburg, Stadt",11.273,50.679,50
-60,Gernrode,11.142,51.728,50
-60,Großwallstadt,9.163,49.874,50
-103,Gebhardshagen,10.35,52.107,50
-60,Deggingen,9.709,48.591,60
-123,Marne,9.008,53.952,60
-72,Schmitten,8.437,50.256,50
-72,Kobern-Gondorf,7.461,50.301,60
-176,Lütjenburg,10.583,54.296,103
-103,Alteglofsheim,12.202,48.934,50
-86,Benediktbeuern,11.412,47.711,50
-103,Kist,9.835,49.753,50
-72,Hänigsen,10.084,52.486,50
-86,Bomlitz,9.642,52.904,50
-60,Gelenau/Erzgeb.,12.979,50.706,50
-86,Itzstedt,10.149,53.807,60
-60,Mehring-Haid,12.774,48.197,50
-72,Schermbeck,6.875,51.693,50
-60,Niederkrüchten,6.148,51.213,50
-176,Wyk auf Föhr,8.553,54.693,123
-86,Nastätten,7.857,50.2,72
-86,Wilster,9.374,53.924,72
-86,Salzhausen,10.155,53.221,72
-72,Habichtswald,9.325,51.331,50
-60,Grieth,6.315,51.787,50
 72,Kranenburg,6.008,51.79,72
 60,Feldhuisen,6.155,51.902,50
 86,Elten,6.159,51.872,50
-103,Geilenkirchen,6.12,50.965,86
-72,Hamb,6.391,51.571,50
-72,Diersfordt,6.546,51.691,50
-72,Floßdorf,6.287,50.957,50
+103,Geilenkirchen,6.12,50.965,72
 60,Hoogstede,6.948,52.581,50
 72,Baltrum,7.37,53.727,50
 60,Haftenkamp,6.936,52.539,50
-72,Fronhoven,6.293,50.86,50
 103,Lintfort,6.551,51.5,50
 60,Rhede,6.696,51.841,50
 103,Monschau,6.239,50.555,50
@@ -2282,105 +2196,100 @@ rs,name,lon,lat,r1
 72,Reede Borkum,6.754,53.565,50
 435,Kleve,6.139,51.788,253
 72,Pfalzdorf,6.163,51.708,50
+60,Schneppenbaum,6.188,51.761,50
 253,Goch,6.159,51.675,86
-60,Baal,6.135,51.612,50
-72,Tüddern,5.902,51.014,50
+103,Baal,6.135,51.612,50
+147,Tüddern,5.902,51.014,103
 86,Emmerich am Rhein,6.243,51.831,50
-72,Wemb,6.177,51.587,50
+72,Hillensberg,5.915,50.981,50
 60,Waldfeucht,5.988,51.066,50
 123,Juist,6.995,53.678,72
-60,Twisteden,6.213,51.554,50
 72,Kalkar,6.288,51.737,60
-86,Gangelt,5.997,50.993,50
 103,Uedem,6.272,51.668,50
 147,Kevelaer,6.247,51.582,50
-60,Karken,6.08,51.103,50
+86,Karken,6.08,51.103,50
 60,Walbeck,6.242,51.497,50
+103,Birgden,6.054,51.009,50
 435,Heinsberg,6.095,51.062,123
-86,Rieth,6.237,51.398,50
-60,Orsbach,5.996,50.799,50
 60,Brüggen,6.185,51.242,50
 147,Straelen,6.267,51.445,60
 211,Rees,6.396,51.76,72
+60,Rosenthal,6.148,51.126,50
 103,Laar,6.74,52.613,60
+86,Horbach,6.045,50.833,50
 253,Norderney,7.145,53.707,86
-72,Wassenberg,6.156,51.1,50
 253,Geldern,6.324,51.518,123
 103,Rysum,7.035,53.379,50
-72,Hombergen,6.262,51.343,50
-123,Vynen,6.409,51.705,50
-60,Dalheim,6.191,51.154,50
+86,Vynen,6.409,51.705,50
 86,Wielen,6.734,52.547,50
 86,Isselburg,6.463,51.834,60
 86,Sonsbeck,6.376,51.608,50
-60,Haldern,6.458,51.774,50
+72,Kapellen,6.362,51.571,50
 123,Lobberich,6.276,51.308,60
+60,Westermarsch I,7.14,53.566,50
 147,Pewsum,7.098,53.434,50
-60,Tetelrath,6.244,51.182,50
 86,Wachtendonk,6.334,51.406,50
 751,Aachen,6.085,50.774,363
+60,Millich,6.2,51.056,50
 60,Echtelerfeld,6.794,52.576,50
-72,Leybuchtpolder,7.146,53.516,60
 86,Waldniel,6.273,51.215,60
-72,Xanten,6.453,51.662,72
-72,Lind,6.309,51.271,50
+123,Xanten,6.453,51.662,72
+72,Nieukerk,6.374,51.457,50
 86,Osterloog,7.206,53.634,50
-72,Würselen,6.13,50.821,50
 253,Norden,7.202,53.595,123
-103,Baesweiler,6.181,50.907,50
+211,Alsdorf,6.162,50.874,50
+72,Issum,6.426,51.535,50
+72,Baesweiler,6.181,50.907,50
 123,Wegberg,6.277,51.14,50
 123,Emlichheim,6.853,52.607,86
 72,Emlichheimer Wösten,6.867,52.64,50
 72,Sevelen,6.431,51.493,50
-72,Brachelen,6.241,51.004,60
-86,Hemden,6.591,51.88,50
-60,Oedt,6.38,51.326,50
 60,Süchteln,6.369,51.286,50
 86,Wilsum,6.856,52.536,50
 86,Wirdum,7.207,53.479,50
-60,Hoengen,6.209,50.866,50
-60,Baal,6.279,51.033,50
+86,Rurich,6.271,51.013,50
 72,Hinte,7.194,53.415,50
 103,Kempen,6.419,51.364,72
-60,Süderneuland II,7.251,53.56,50
 72,Zwillbrock,6.691,52.054,72
 72,Alpen,6.511,51.575,50
 123,Erkelenz,6.314,51.079,86
-60,Rheurdt,6.47,51.467,50
-751,Bocholt,6.616,51.838,176
-86,Menzelen,6.531,51.616,50
+1867,Bocholt,6.616,51.838,176
 123,Viersen,6.389,51.257,50
-5572,Emden,7.206,53.371,435
-147,Hamminkeln,6.589,51.731,60
-60,Rheindahlen,6.361,51.15,50
+123,Osteel,7.263,53.533,50
+4644,Emden,7.206,53.371,435
+123,Hamminkeln,6.589,51.731,60
 147,Walheim,6.182,50.707,50
 60,Uelsen,6.885,52.496,50
 86,Dingden,6.614,51.771,50
-60,Barlo,6.661,51.886,50
+103,Barlo,6.661,51.886,50
 103,Stolberg (Rhld.),6.224,50.777,72
+60,Wickrathhahn,6.387,51.123,50
 103,Roetgen,6.196,50.649,50
 86,Eschweiler,6.267,50.817,50
 86,Wennewick,6.777,52.102,50
-176,Mönchengladbach,6.432,51.194,176
-86,Großheide,7.344,53.592,50
+72,Rayen,6.531,51.466,50
+86,Belthoek,6.918,52.453,50
+147,Mönchengladbach,6.432,51.194,147
+86,Großheide,7.344,53.592,72
 363,Wesel,6.617,51.657,86
 72,Hüls,6.508,51.373,50
-60,Bettrath-Hoven,6.455,51.223,50
+60,Berumerfehn,7.341,53.56,50
 72,Vicht,6.263,50.745,50
+60,Wanlo,6.413,51.095,50
 147,Neuenhaus,6.966,52.498,50
 86,Rheinberg,6.603,51.545,50
 147,Jülich,6.358,50.923,86
-60,Lage,6.961,52.468,50
-86,Niep,6.558,51.407,50
-72,Landschaftspolder,7.251,53.227,50
 72,Victorbur,7.358,53.491,60
 72,Kalterherberg,6.22,50.521,50
 147,Vreden,6.824,52.036,86
+60,Spiel,6.41,50.978,50
 147,Dornum,7.429,53.648,50
 211,Titz,6.427,51.006,60
 211,Bült,7.062,52.636,103
-211,Krefeld,6.561,51.333,103
+253,Krefeld,6.561,51.333,103
 60,Burlo,6.786,51.904,50
+60,Giesenkirchen,6.492,51.155,50
+72,Bunde,7.269,53.184,50
 86,Erika,7.144,52.831,50
 211,Langeoog,7.479,53.747,86
 60,Verberg,6.587,51.362,50
@@ -2389,193 +2298,180 @@ rs,name,lon,lat,r1
 123,Moers,6.628,51.454,72
 72,Voerde (Niederrhein),6.685,51.596,50
 72,Neurhede,7.23,53.026,50
-60,Provinzialmoor,7.121,52.708,60
 363,Simmerath,6.301,50.606,103
 72,Brook,6.917,52.165,50
 103,Georgsdorf,7.071,52.571,50
 60,Jüchen,6.504,51.101,50
-60,Fischeln,6.587,51.306,50
-86,Rorichum,7.355,53.321,50
-72,Merode,6.389,50.798,50
+72,Westerholt,7.458,53.59,50
 103,Alstätte,6.916,52.127,50
-60,Bookholt,7.045,52.467,50
 60,Germeter,6.353,50.689,50
-60,Hörsteloe,6.907,52.086,50
-60,Rhede (Ems),7.273,53.059,60
-86,Merken,6.42,50.845,50
-72,Utarp,7.483,53.611,50
 72,Weseke,6.858,51.908,50
 60,Hammer,6.327,50.564,50
 86,Niederzier,6.462,50.886,50
-60,Grütlohn,6.832,51.816,50
-72,Glehn,6.578,51.166,50
 123,Dinslaken,6.735,51.562,72
+123,Hünxe,6.766,51.642,50
 176,Nordhorn,7.071,52.436,123
 72,Jemgum,7.383,53.265,50
 86,Ihlowerfehn,7.434,53.407,50
 86,Weener,7.35,53.166,50
-72,Kaarst,6.614,51.232,50
-60,Wersten,6.821,51.184,50
 176,Borken,6.858,51.843,123
 72,Langenfeld (Rhld.),6.949,51.107,60
-60,Herbrumerkämpe,7.343,53.03,50
 103,Stadtlohn,6.918,51.993,50
-60,Dalum,7.731,52.553,50
 60,Klausheide,7.155,52.462,50
 72,Altenahr,6.992,50.517,50
+60,Nordvelen,6.96,51.922,50
 72,Kluse,7.342,52.933,50
-72,Thier,7.369,51.079,50
-60,Buschhausen,6.934,51.806,50
-72,Großenbaum,6.78,51.365,50
 72,Aldenrade,6.743,51.527,50
+60,Wrisse,7.59,53.428,50
 147,Raesfeld,6.841,51.769,60
 86,Gemünd,6.501,50.571,50
 103,Neubörger,7.45,52.955,50
-60,Bühl,6.8,51.656,50
 72,Teglingen,7.343,52.658,50
-86,Werdum,7.716,53.659,50
-60,Büsdorf,6.711,50.992,50
 253,Aurich,7.482,53.47,147
 86,Wietmarschen,7.132,52.52,72
 86,Apeldorn,7.4,52.745,60
 72,Landegge,7.247,52.823,50
-176,Ratingen,6.85,51.297,72
+147,Ratingen,6.85,51.297,60
 176,Gronau (Westf.),7.019,52.212,176
-60,Glessen,6.751,50.966,50
 123,Grevenbroich,6.583,51.091,86
 60,Schmidt,6.41,50.659,50
-72,Tollhausen,6.526,50.947,50
 103,Dahlem,6.547,50.386,50
 103,Pulheim,6.801,50.998,72
 211,Haren (Ems),7.242,52.79,86
 103,Wittmund,7.78,53.576,86
-60,Ehingen,6.696,51.364,50
 60,Lorbach,6.634,50.56,50
 147,Mechernich,6.654,50.589,72
 60,Hinrichsfehn,7.73,53.382,50
 72,Detern,7.674,53.21,50
 86,Frechen,6.811,50.91,50
 72,Heidbrücken,7.621,52.961,50
-60,Frimmersdorf,6.576,51.046,50
-60,Sabstätte,6.97,52.047,50
-60,Ayenwolde,7.456,53.346,50
+72,Ayenwolde,7.456,53.346,50
 60,Irrel,6.456,49.845,50
 303,Düren,6.483,50.802,211
 72,Bensersiel,7.577,53.674,50
 60,Laer,7.357,52.054,50
-86,Bardel,7.06,52.267,50
 211,Dörpen,7.322,52.966,86
-1081,Köln,6.957,50.938,435
+5572,Köln,6.957,50.938,2240
+60,Linden,7.161,51.426,50
 86,Morsum,8.432,54.87,60
-72,Kapellen,6.623,51.128,50
 103,Üxheim,6.759,50.341,50
+60,Ludendorf,6.894,50.666,50
 147,Paltenkämpen,7.594,52.448,50
 72,Lehe,7.343,53.003,50
 86,Brandlecht,7.118,52.397,50
 60,Settrup,7.626,52.486,50
 123,Newel,6.583,49.813,50
 86,Bedburg,6.575,50.995,50
+60,Stiepel,7.246,51.429,50
 103,Holthausen,7.25,52.739,50
-60,Veltrup,7.561,52.207,50
-60,Burg,7.155,51.138,50
-147,Blomberg,7.558,53.576,50
-72,Waldkönigen,6.795,50.23,50
+72,Neurath,6.597,51.038,50
 72,Epe,7.044,52.181,50
 435,Ahaus,7.005,52.076,103
-1867,Trier,6.638,49.758,435
+2240,Trier,6.638,49.758,435
 60,Müllenbach,6.913,50.32,50
 211,Recke,7.719,52.371,50
+103,Dangast,8.118,53.447,50
 147,Kelberg,6.918,50.286,60
 103,Dörenthe,7.681,52.221,50
 86,Plaggenburg,7.545,53.51,50
 72,Gevelsberg,7.337,51.324,72
-72,Molbergen,7.922,52.859,60
 60,Eggermühlen,7.816,52.569,50
+60,Tarforst,6.7,49.742,50
 123,Kreuzau,6.489,50.746,50
 176,Ibbenbüren,7.715,52.275,147
-253,Duisburg,6.765,51.433,123
+176,Duisburg,6.765,51.433,123
 72,Herbergen,7.905,52.752,50
 103,Hanswarft,8.551,54.566,60
-123,Kettelswarf,8.594,54.638,50
+103,Kettelswarf,8.594,54.638,50
 626,Papenburg,7.393,53.078,253
 147,Lathen,7.314,52.862,60
+72,Schermbeck,6.87,51.693,50
+60,Büderich,6.695,51.247,50
 103,Bleialf,6.287,50.239,72
-60,Sankt Augustin,7.185,50.773,50
+86,Sankt Augustin,7.185,50.773,50
 72,Ankum,7.871,52.541,50
 123,Salmrohr,6.848,49.927,50
 303,Leer (Ostfriesland),7.451,53.229,123
 103,Ladbergen,7.737,52.137,60
 435,Wittlich,6.889,49.986,176
 103,Ramersbach,7.095,50.489,50
-72,Staatsforsten,8.036,52.894,50
-176,Königswinter,7.192,50.677,60
+86,Staatsforsten,8.036,52.894,50
+123,Königswinter,7.192,50.677,50
 176,Warsingsfehn,7.486,53.314,72
-60,Altrich,6.911,49.956,50
 60,Vilkerath,7.319,50.962,50
 211,Rastede,8.198,53.247,86
+147,Lindlar,7.376,51.02,72
+60,Heiden,6.932,51.826,50
 60,Wolbeck,7.728,51.917,50
 72,Nideggen,6.484,50.692,50
 60,Gröde,8.717,54.632,60
 103,Hollnich,6.275,50.18,50
 253,Esens,7.612,53.643,86
-72,Kreyenbrück,8.208,53.108,50
-103,Neuss,6.691,51.199,60
-60,Kaiserswerth,6.739,51.301,60
+86,Neuss,6.691,51.199,50
+103,Buchholz,6.765,51.384,50
+60,Ahle,7.047,52.107,50
 123,Wallenhorst,8.015,52.351,50
 60,Langwege,8.12,52.62,50
+60,Lindholm,8.876,54.762,50
 103,Thalfang,6.996,49.755,72
 60,Bullay,7.131,50.057,50
 86,Holdorf,8.123,52.588,60
 86,Hofe,8.506,53.641,50
-86,Dickenberg,7.62,51.259,50
+60,Wiesens,7.556,53.453,50
 176,Auw bei Prüm,6.339,50.3,50
 123,Ihrhove,7.454,53.167,50
+60,Sümmern,7.708,51.418,50
+60,Büren,7.018,52.001,50
 86,Altena,7.675,51.299,50
 303,Dorum,8.568,53.689,72
+72,Ostbüren,7.771,51.516,50
 72,Primstal,6.976,49.536,50
-103,Glandorf,8.002,52.082,60
+60,Glandorf,8.002,52.082,50
 60,Heimbach,6.481,50.633,50
 86,Gescher,7.005,51.956,50
+60,Rhade,6.929,51.752,50
 103,Velen,6.987,51.894,50
 363,Meppen,7.292,52.691,147
 86,Hellenthal,6.434,50.49,50
-60,Ogenbargen,7.609,53.545,50
-72,Buir,6.586,50.858,50
+72,Ogenbargen,7.609,53.545,50
 147,Arzfeld,6.274,50.088,60
 176,Geeste,7.267,52.601,60
 103,Spiekeroog,7.696,53.771,60
+60,Beikelort,7.055,52.033,50
 60,Flachsmeer,7.462,53.118,50
 72,Wachendorf,7.255,52.556,50
 147,Bad Bentheim,7.16,52.303,72
 176,Bergheim,6.64,50.955,72
+103,Dunum,7.644,53.597,50
 103,Rescheid,6.434,50.434,50
 72,Oberhausen,6.852,51.47,50
 123,Schleiden,6.476,50.53,86
-86,Akelsbarg,7.597,53.446,50
+86,Norf,6.73,51.158,50
 103,Heek,7.112,52.116,50
 86,Rommerskirchen,6.689,51.034,50
-60,Ekel,6.926,51.632,50
-86,Neuharlingersiel,7.704,53.699,50
+72,Neuharlingersiel,7.704,53.699,50
 72,Frauenkron,6.43,50.371,60
 147,Ostgroßefehn,7.604,53.401,60
-86,Hegerort,7.089,52.002,50
-626,Helgoland,7.887,54.182,303
+626,Düsseldorf,6.78,51.224,253
+60,Hegerort,7.089,52.002,50
+626,Helgoland,7.887,54.182,363
+72,Kettenheim,6.596,50.746,50
 72,Lintorf,6.831,51.333,50
 147,Neuerburg,6.295,50.012,123
-72,Lembeck,6.999,51.76,50
-86,Vettweiß,6.597,50.739,50
+103,Lembeck,6.999,51.76,50
 103,Dorsten,6.965,51.661,72
 72,Rath,6.811,51.262,50
 60,Gemen,7.136,52.09,50
-86,Holtland,7.579,53.278,50
+60,Schatteburg,7.543,53.179,50
 72,Ochtrup,7.189,52.209,72
 147,Reken,7.047,51.832,72
 72,Börgermoor,7.491,53.009,60
-60,Burhafe,7.706,53.602,50
 103,Nörvenich,6.645,50.807,50
 147,Bottrop,6.93,51.524,50
 522,Lingen (Ems),7.317,52.522,211
 86,Frettholt,7.145,52.06,50
+86,Wulfen,7.015,51.721,50
+72,Buttforde,7.726,53.621,50
 435,Prüm,6.424,50.207,123
 211,Kerpen,6.695,50.87,103
 60,Wallendorf,6.288,49.877,50
@@ -2584,17 +2480,10 @@ rs,name,lon,lat,r1
 72,Lohe,7.417,52.713,50
 60,Brögbern,7.363,52.56,50
 123,Mettendorf,6.33,49.948,50
-60,Altendorf,7.012,51.636,50
-60,Bernte,7.317,52.423,50
-147,Metelen,7.212,52.144,50
-60,Knittkuhl,6.873,51.268,50
 72,Eicks,6.618,50.623,50
 103,Zülpich,6.648,50.691,72
-60,Hösel,6.91,51.33,50
 72,Ahlde,7.309,52.359,50
-60,Altburlage,7.577,53.08,50
 72,Werpeloh,7.507,52.876,50
-60,Funnix,7.786,53.631,50
 103,Bawinkel,7.411,52.6,60
 72,Schönfeld,6.516,50.309,50
 253,Coesfeld,7.167,51.945,103
@@ -2602,137 +2491,124 @@ rs,name,lon,lat,r1
 72,Börger,7.534,52.912,60
 123,Bramsche,7.366,52.456,50
 123,Dormagen,6.842,51.093,72
-60,Linzenich,6.67,50.663,50
+60,Ammersum,7.661,53.239,50
 103,Schönecken,6.465,50.158,50
-72,Bilk,7.294,52.243,50
 147,Osterwick,7.21,52.017,60
-72,Horst,7.025,51.536,50
+60,Schuir,6.969,51.393,50
 123,Sögel,7.521,52.839,72
 60,Hülsen,7.478,52.713,50
+72,Fleringen,6.499,50.209,50
 60,Wiesmoor,7.74,53.417,60
 103,Buer,7.052,51.579,60
-60,Erkrath,6.913,51.219,50
+72,Erkrath,6.913,51.219,50
 123,Bollendorf,6.358,49.852,103
-103,Essen,7.013,51.456,60
+435,Essen,7.013,51.456,176
 86,Nettersheim,6.628,50.492,50
 86,Salzbergen,7.348,52.323,50
 60,Brüggen,6.775,50.848,50
 103,Lette,7.19,51.898,50
+60,Worringen,6.864,51.064,50
 60,Eggelingen,7.823,53.603,50
 147,Haselünne,7.487,52.674,103
-72,Lochtrup,7.148,51.779,50
 103,Marl,7.102,51.658,50
-72,Marl-Hamm,7.119,51.692,50
-72,Wettringen,7.319,52.209,50
 253,Wangerooge,7.9,53.792,103
 86,Jünkerath,6.583,50.343,50
-72,Wallersheim,6.527,50.205,50
 72,Eisten,7.544,52.804,50
+60,Weiden,6.833,50.938,50
 103,Ehlenz,6.471,50.041,50
-103,Hilden,6.934,51.168,50
+123,Hilden,6.934,51.168,50
 103,Esterwegen,7.633,52.993,86
-60,Heitel,7.413,52.396,50
 626,Westerland,8.309,54.908,363
 123,Remels,7.75,53.305,72
 253,Blankenheim,6.648,50.438,86
 176,Ramsloh,7.679,53.103,50
 60,Pesch,6.688,50.532,50
 60,Rantum (Sylt),8.293,54.847,50
-103,Mettmann,6.979,51.252,50
+60,Osthellen,7.257,51.97,50
+60,Mettmann,6.979,51.252,50
 60,Resse,7.109,51.579,50
 86,Horstmar,7.305,52.081,50
 123,Liblar,6.812,50.812,50
 72,Neuenkirchen,7.373,52.245,50
 103,Kampen (Sylt),8.342,54.956,50
+60,Gelsenkirchen,7.096,51.511,50
 176,Haltern am See,7.187,51.744,72
-176,Lähden,7.567,52.744,60
+176,Lähden,7.567,52.744,50
 147,Hörnum (Sylt),8.287,54.756,72
 123,Velbert,7.042,51.34,72
-86,Friedeburg,7.838,53.456,50
 72,Lorup,7.645,52.924,60
-60,Bliesheim,6.821,50.782,50
+72,Longerich,6.907,50.997,50
 303,Hohenkirchen,7.916,53.663,72
-60,Bismark,7.121,51.531,50
 103,Wolsfeld,6.467,49.906,50
 60,Sinsen-Lenkerbeck,7.179,51.666,50
 147,Hürth,6.865,50.869,50
+60,Sythen,7.221,51.772,50
 123,Barßel,7.745,53.169,50
-60,Lahn,7.616,52.816,50
 72,Neuwall,7.709,53.067,50
 103,Neidenbach,6.552,50.092,50
-211,Euskirchen,6.786,50.661,147
+176,Euskirchen,6.786,50.661,147
 86,Hüngersdorf,6.679,50.395,50
-72,Langstraße,7.873,53.501,50
-72,Jever,7.9,53.576,50
 60,Kupferdreh,7.086,51.391,50
 86,Lengerich,7.532,52.554,50
+103,Marx,7.857,53.434,60
 60,Wiescheid,6.99,51.136,50
-60,Wüschheim,6.812,50.69,50
 60,Buir,6.73,50.487,50
 123,Spelle,7.469,52.367,60
+72,Abickhafe,7.884,53.491,50
 253,Bitburg,6.525,49.976,176
 435,Rheine,7.439,52.279,253
 72,Bad Münstereifel,6.765,50.557,60
 86,Minsen,7.968,53.706,50
-60,Dohren,7.584,52.645,50
-60,Klauhörn,7.807,53.249,50
 303,Dülmen,7.279,51.829,147
-60,Mühlenbrok,7.269,51.799,50
 211,Recklinghausen,7.198,51.615,60
 72,Densborn,6.602,50.126,50
 86,Borghorst,7.395,52.125,72
+72,Herzlake,7.607,52.685,60
 211,Hillesheim,6.672,50.291,60
+60,Reekenfeld,7.764,53.109,50
 60,Stotzheim,6.812,50.63,50
 103,Apen,7.806,53.218,50
 211,List auf Sylt,8.436,55.02,86
-176,Palzem,6.376,49.566,50
-60,Neviges,7.089,51.311,50
+176,Palzem,6.376,49.566,72
 211,Leverkusen,6.98,51.032,72
+60,Badorf,6.892,50.809,50
 211,Werlte,7.678,52.851,103
 60,Freren,7.544,52.487,60
+86,Wieste,7.666,52.811,50
 60,Achterhörn,7.741,53.004,50
 103,Gerolstein,6.66,50.222,86
-60,Norddorf auf Amrum,8.333,54.68,50
-60,Zollstock,6.941,50.911,50
 123,Kyllburg,6.592,50.042,50
 72,Besch,6.369,49.505,50
-86,Gräfrath,7.07,51.21,50
 103,Schortens,7.948,53.54,72
-72,Dreierwalde,7.506,52.335,50
 123,Nottuln,7.353,51.928,60
-60,Walberberg,6.912,50.796,50
 103,Nittel,6.444,49.654,50
-60,Wincheringen,6.426,49.609,50
-60,Rondorf,6.954,50.874,50
+60,Rehlingen,6.432,49.623,50
 72,Gehlenberg,7.762,52.976,50
 176,Nebel,8.354,54.651,103
-72,Herne,7.223,51.54,50
-86,Harkebrügge,7.818,53.121,50
+60,Herne,7.223,51.54,50
 60,Mesum,7.487,52.226,50
 60,Badem,6.608,50.004,50
 253,Perl,6.386,49.473,123
-60,Horsten,7.942,53.452,50
-147,Solingen,7.086,51.172,72
-72,Langsur,6.498,49.724,50
-103,Wachtum,7.713,52.789,50
+176,Solingen,7.086,51.172,72
+103,Heimerzheim,6.911,50.718,50
 103,Hattingen,7.184,51.399,72
-60,Heine,7.517,52.253,50
+176,Bochum,7.217,51.483,103
 72,Buldern,7.37,51.865,50
 103,Havixbeck,7.414,51.976,50
 60,Ahsen,7.308,51.698,50
 60,Sinz,6.432,49.532,50
-86,Weitmar,7.21,51.443,50
-60,Grumme,7.233,51.5,50
 72,Welschbillig,6.568,49.853,50
 86,Wershofen,6.813,50.444,60
-72,Ehren,7.693,52.699,50
-86,Kampe,7.84,53.082,50
-72,Ocholt,7.887,53.204,50
+103,Astederfeld,7.936,53.358,50
+103,Kampe,7.84,53.082,50
 72,Vrees,7.775,52.888,50
+60,Herscheid,7.101,51.122,50
 86,Altenberge,7.466,52.046,60
 86,Nordwalde,7.481,52.084,50
 123,Zetel,7.974,53.418,72
+60,Fusenich,6.551,49.749,50
 60,Effelsberg,6.869,50.517,50
+60,Wallenborn,6.721,50.155,50
 147,Westerstede,7.923,53.257,60
 86,Hopsten,7.603,52.383,60
 86,Speicher,6.637,49.936,60
@@ -2740,123 +2616,111 @@ rs,name,lon,lat,r1
 86,Sande,8.016,53.5,50
 103,Emsdetten,7.528,52.172,72
 60,Appelhülsen,7.424,51.898,50
-60,Tilbeck,7.44,51.94,50
-72,Oldsum,8.448,54.732,50
+72,Lindern (Oldenburg),7.78,52.845,50
+60,Burscheid,7.114,51.086,50
 86,Voslapper Groden,8.069,53.625,50
 86,Hörstel,7.587,52.3,60
 72,Odesheim,6.878,50.488,50
-86,Bornheim,6.99,50.763,72
-103,Morenhoven,6.955,50.666,50
-211,Barmen,7.196,51.271,147
+72,Bornheim,6.99,50.763,60
+72,Datteln,7.343,51.653,72
+253,Barmen,7.196,51.271,147
 253,Friesoythe,7.859,53.021,123
+103,Hahnenmoor,7.732,52.671,50
 176,Fürstenau,7.675,52.517,123
-60,Osterlindern,7.798,52.847,50
 123,Löningen,7.757,52.735,103
 103,Markhausen,7.835,52.943,50
+123,Spangdahlem,6.68,49.984,50
 86,Rheinbach,6.947,50.626,86
-86,Grabstede,7.995,53.368,50
+103,Zündorf,7.046,50.867,50
 72,Olfen,7.38,51.709,50
 86,Brück,6.81,50.275,50
 86,Odenthal,7.117,51.033,50
-60,Niedersprockhövel,7.252,51.371,50
 60,Borler,6.828,50.313,50
-72,Trassem,6.524,49.576,50
 123,Konz,6.577,49.695,50
-72,Reckenfeld,7.55,52.129,50
 60,Niederkassel,7.038,50.812,50
 60,Rath-Heumar,7.082,50.922,50
 103,Saarburg,6.549,49.608,72
-176,Berge,7.743,52.621,72
-60,Steinrieden,7.796,52.764,50
-72,Remscheid,7.194,51.18,60
-72,Elvert,7.445,51.812,50
+176,Berge,7.743,52.621,60
+86,Fedderwardergroden,8.092,53.575,50
 72,Langendreer,7.314,51.472,50
-72,Freudenburg,6.534,49.542,50
+103,Freudenburg,6.534,49.542,50
 60,Bippen,7.74,52.583,50
 86,Bergisch Gladbach,7.131,50.992,72
-72,Petersgroden,8.062,53.455,50
-72,Wiltingen,6.589,49.66,50
 60,Hilberath,6.966,50.565,50
-60,Vordersten Thüle,7.898,52.983,50
 123,Lüdinghausen,7.444,51.77,60
-86,Üdersdorf,6.804,50.153,50
+60,Edewechterdamm,7.936,53.084,50
 72,Zemmer,6.697,49.892,50
-123,Senden,7.485,51.858,72
-72,Süddorf,7.947,53.09,50
+176,Senden,7.485,51.858,72
+103,Grönheim,7.869,52.88,50
 751,Daun,6.831,50.197,176
-72,Duisdorf,7.046,50.715,50
-72,Roxel,7.533,51.954,50
 211,Wilhelmshaven,8.111,53.52,211
-86,Wermelskirchen,7.217,51.14,50
+86,Wermelskirchen,7.217,51.14,72
 72,Wellingen,6.524,49.447,50
 60,Birgte,7.645,52.248,50
-60,Dickenberg,7.672,52.314,50
-147,Witten,7.337,51.439,72
-60,Albachten,7.527,51.925,50
+103,Witten,7.337,51.439,60
+72,Albachten,7.527,51.925,50
+72,Arenrath,6.742,49.953,50
 60,Ehrang,6.684,49.81,50
-60,Ersdorf,7.006,50.595,50
-72,Elmendorf,8.013,53.222,50
+72,Ersdorf,7.006,50.595,50
+86,Tettscheid,6.825,50.137,50
 147,Edewecht,7.984,53.128,50
 176,Manderscheid,6.808,50.093,86
-86,Menslage,7.819,52.675,50
 123,Lastrup,7.865,52.795,50
 147,Adenau,6.93,50.382,123
-72,Schwelm,7.292,51.284,50
 86,Bad Zwischenahn,8.008,53.181,86
-72,Landscheid,6.773,49.988,50
 253,Greven,7.613,52.093,103
+60,Bremersand,7.96,53.023,50
 72,Ahrbrück,6.985,50.484,50
 60,Voltlage,7.745,52.43,50
-86,Großlittgen,6.799,50.025,50
-123,Selm,7.469,51.7,72
+72,Am Schulkamp,7.652,52.182,50
+72,Großlittgen,6.799,50.025,50
+123,Selm,7.469,51.7,60
+60,Merl,7.051,50.632,50
+435,Bonn,7.099,50.734,176
 72,Bork,7.467,51.665,50
+176,Wyk auf Föhr,8.567,54.691,123
 72,Kinderhaus,7.602,51.995,50
 72,Ottmarsbocholt,7.537,51.822,50
 103,Mettlach,6.6,49.494,50
 211,Rösrath,7.182,50.895,72
-60,Filsch,6.709,49.736,50
 72,Föhren,6.764,49.858,50
 363,Varel,8.135,53.395,103
 123,Schweich,6.753,49.822,60
 72,Nordkirchen,7.525,51.738,50
-123,Troisdorf,7.162,50.813,50
-86,Nortrup,7.859,52.614,50
-123,Kürten,7.264,51.052,72
+86,Troisdorf,7.162,50.813,60
+103,Nortrup,7.859,52.614,50
+86,Kürten,7.264,51.052,60
 72,Herschbach,7.02,50.43,50
-60,Altenvoerde,7.368,51.297,50
-103,Lampaden,6.7,49.649,50
+60,Lampaden,6.7,49.649,50
 626,Münster,7.627,51.962,363
 103,Gittrup,7.657,52.04,50
+86,Eving,7.475,51.555,50
 303,Zerf,6.689,49.601,72
 86,Merzen,7.83,52.477,50
-60,Falkenberg,7.995,52.923,50
-176,Dortmund,7.464,51.514,176
-103,Kartzfehn,8.034,53.018,50
-60,Petersfehn II,8.084,53.15,50
-60,Ringen,7.097,50.572,50
-60,Ente,7.302,51.079,50
+522,Dortmund,7.464,51.514,363
 86,Mettingen,7.779,52.316,50
-86,Herdecke,7.43,51.399,50
+60,Südkirchen,7.549,51.71,50
+72,Schmedehausen,7.702,52.103,50
 60,Cappenberg,7.533,51.659,50
 147,Radevormwald,7.355,51.203,72
 147,Garrel,8.024,52.955,86
 60,Holzlar,7.177,50.743,50
 435,Merzig,6.643,49.444,103
+72,Schöndorf,6.742,49.68,50
 86,Essen (Oldenburg),7.939,52.72,50
-72,Nethen,8.145,53.279,50
-60,Lünen,7.524,51.614,60
-123,Hiltrup,7.638,51.903,50
-86,Kirchderne,7.505,51.556,50
+147,Lünen,7.524,51.614,86
+103,Berkum,7.135,50.626,50
+72,Hiltrup,7.638,51.903,50
 60,Hemmelte,7.969,52.78,50
 86,Harbern,8.076,53.068,50
-60,Hemmersdorf,6.616,49.355,50
 72,Neuenkirchen,7.838,52.419,60
 72,Boos,7.016,50.313,50
 60,Stapelfeld,7.99,52.817,50
 72,Emmelsbüll,8.693,54.811,50
 147,Ulmen,6.98,50.209,72
 363,Bad Neuenahr-Ahrweiler,7.12,50.545,86
-86,Leidingen,6.611,49.309,50
+72,Oberbauer,7.42,51.291,50
+86,Leidingen,6.611,49.309,60
 123,Jaderberg,8.188,53.331,50
 72,Overath,7.282,50.933,50
 60,Mehring,6.824,49.797,50
@@ -2866,25 +2730,20 @@ rs,name,lon,lat,r1
 60,Vinte,7.854,52.391,50
 60,Thomm,6.806,49.743,50
 86,Neukirchen,8.734,54.869,72
-303,Hagen,7.467,51.36,123
-60,Kaldauen,7.258,50.803,50
+211,Hagen,7.467,51.36,123
+60,Bachem,6.706,49.479,50
 435,Cloppenburg,8.043,52.848,253
 72,Dagebüll,8.706,54.73,60
-72,Egen,7.407,51.169,50
-60,Talge,7.95,52.588,50
 60,Brackel,7.547,51.524,50
-60,Virneburg,7.078,50.342,50
-60,Tecklenburg,7.814,52.219,50
+86,Lanstrop,7.568,51.576,50
 123,Bersenbrück,7.948,52.555,60
 103,Losheim am See,6.743,49.51,60
 176,Wipperfürth,7.399,51.117,72
 103,Beckingen,6.697,49.394,50
-86,Badbergen,7.981,52.633,50
 103,Lutzerath,7.005,50.128,60
 72,Thiene,7.93,52.486,50
 103,Neumagen-Dhron,6.896,49.856,50
-60,Niederseeste,7.883,52.352,50
-86,Breckerfeld,7.465,51.261,50
+60,Wehbergen,7.949,52.527,50
 60,Aplerbeck,7.561,51.495,50
 60,Westerkappeln,7.878,52.315,50
 72,Bad Honnef,7.229,50.644,50
@@ -2894,112 +2753,107 @@ rs,name,lon,lat,r1
 86,Ofenerdiek,8.205,53.19,50
 72,Trittenheim,6.9,49.824,50
 72,Kell am See,6.822,49.634,72
-103,Iffens,8.331,53.533,50
+86,Iffens,8.331,53.533,50
 103,Weibern,7.144,50.406,60
-72,Unterbrochhagen,7.405,51.046,50
-60,Kaiserau,7.61,51.569,50
 72,Osann,6.953,49.922,50
 103,Ostersiel,8.686,54.519,86
 103,Lengerich,7.853,52.19,72
 60,Oberpleis,7.278,50.71,50
 60,Albersloh,7.733,51.868,50
+72,Bausendorf,6.997,50.014,60
 147,Schwerte,7.569,51.441,60
-72,Burhave,8.363,53.575,72
+123,Burhave,8.363,53.575,72
 86,Weiler,7.12,50.31,50
-103,Neunkirchen,7.334,50.841,72
+123,Neunkirchen,7.334,50.841,72
 60,Aventoft,8.822,54.901,50
-86,Reimsbach,6.768,49.451,50
+60,Reimsbach,6.768,49.451,50
 211,Oldenburg (Oldb),8.213,53.14,211
-72,Dillingen/Saar,6.727,49.352,50
-123,Bergkamen,7.643,51.616,60
+103,Bergkamen,7.643,51.616,60
 123,Telgte,7.784,51.983,72
 60,Remagen,7.234,50.578,50
 60,Ringel,7.842,52.133,50
-72,Glörfeld,7.493,51.226,50
 60,Hesepe,7.965,52.442,50
 123,Dahl,7.532,51.304,50
 60,Bokel,8.097,52.795,50
-60,Engelskirchen,7.409,50.988,60
+60,Engelskirchen,7.409,50.988,50
 60,Büchel,7.083,50.173,50
 147,Wardenburg,8.198,53.06,60
-86,Vorbleck,7.844,52.095,50
+60,Vorbleck,7.844,52.095,50
 147,Überherrn,6.698,49.242,60
 103,Sankt Peter-Ording,8.64,54.302,103
+86,Loose,7.897,52.229,50
 103,Lotte,7.915,52.275,60
 72,Halver,7.498,51.187,50
-86,Kinderbeuern,7.025,50.01,50
-86,Elsey,7.568,51.359,50
 60,Bissel,8.172,52.953,50
 72,Drensteinfurt,7.742,51.797,72
+60,Schalksmühle,7.529,51.241,50
+60,Brock (II),7.848,52.068,50
 103,Ostbevern,7.839,52.036,50
 211,Bramsche,7.979,52.407,103
 176,Saarlouis,6.751,49.315,60
-72,Holsen,7.715,51.696,50
-147,Much,7.407,50.905,50
+176,Much,7.407,50.905,50
 253,Niebüll,8.829,54.788,253
 60,Ipwegermoor,8.287,53.218,50
 176,Kaisersesch,7.141,50.231,72
-72,Piesbach,6.804,49.389,50
+60,Nalbach,6.788,49.379,50
+60,Emstek,8.155,52.834,60
+60,Nunkirchen,6.84,49.486,50
+60,Letmathe,7.61,51.366,50
 72,Ameke,7.765,51.752,50
 60,Landkern,7.153,50.193,50
-72,Risum,8.851,54.752,50
 147,Unna,7.69,51.535,86
 72,Oberhörne,8.333,53.251,50
 72,Wadern,6.89,49.54,72
 72,Everswinkel,7.848,51.926,50
-86,Dinklage,8.124,52.661,60
 60,Neuenkirchen,8.069,52.51,60
 60,Lauterbach,6.745,49.184,50
 363,Mayen,7.222,50.329,123
 123,Burgbrohl,7.275,50.457,50
-72,Heeren-Werve,7.72,51.581,50
 86,Bad Breisig,7.298,50.51,60
 103,Hermeskeil,6.948,49.655,50
 176,Süderlügum,8.908,54.872,72
+60,Nellinghof,8.087,52.543,50
 60,Marienheide,7.531,51.084,50
 176,Sendenhorst,7.827,51.845,50
 60,Nachrodt,7.636,51.336,50
-60,Bous,6.802,49.277,50
 303,Cochem,7.164,50.145,123
+60,Altendorf,8.369,53.281,50
 103,Ahlhorn,8.231,52.899,50
-72,Allenz,7.23,50.296,50
+72,Reil,7.116,50.022,50
+147,Bernkastel-Kues,7.075,49.915,86
 60,Märschendorf,8.162,52.695,50
 72,Thiergarten,6.983,49.688,50
-72,Gellen,8.344,53.186,50
 103,Großenkneten,8.256,52.945,86
-86,Kraheck,7.412,50.73,50
-86,Buchholz (Westerwald),7.395,50.688,50
-60,Monzelfeld,7.075,49.891,50
-60,Arensch,8.584,53.836,50
+72,Bönen,7.757,51.598,50
 72,Bakum,8.195,52.742,50
 86,Mendig,7.28,50.373,50
 60,Kierspe,7.586,51.136,50
 103,Nonnweiler,6.971,49.606,50
 60,Beverstrang,7.936,52.026,50
-72,Rankenhohn,7.463,50.805,50
-60,Traben-Trarbach,7.117,49.951,50
-176,Eitorf,7.45,50.77,60
+72,Traben-Trarbach,7.117,49.951,50
+123,Eitorf,7.45,50.77,60
+60,Gruthügel,8.05,52.324,50
 60,Ruppichteroth,7.484,50.844,50
-363,Lüdenscheid,7.634,51.216,123
-60,Kastel,6.967,49.571,50
+522,Lüdenscheid,7.634,51.216,123
 147,Rodenkirchen,8.453,53.402,60
 522,Osnabrück,8.042,52.277,253
 123,Nordenham,8.484,53.485,50
-211,Iserlohn,7.699,51.375,123
-435,Hamm,7.817,51.678,176
+303,Iserlohn,7.699,51.375,123
+303,Hamm,7.817,51.678,176
 363,Gummersbach,7.568,51.028,147
-72,Natarp,7.903,51.89,50
+123,Asbach,7.424,50.665,86
 176,Lebach,6.912,49.411,86
-176,Wiehl,7.547,50.95,60
+147,Wiehl,7.547,50.95,60
+60,Büttjebüll,8.906,54.653,50
 123,Georgsmarienhütte,8.034,52.206,60
 86,Völklingen,6.854,49.25,72
 86,Heidhusen,8.353,53.06,50
-176,Zell (Mosel),7.182,50.027,60
+86,Alt Barenaue,8.117,52.417,50
+147,Zell (Mosel),7.182,50.027,60
 103,Langförden,8.254,52.785,50
-60,Krankel,7.437,50.653,50
 86,Großrosseln,6.84,49.206,50
 60,Harscheid,7.527,50.874,50
-60,Neustadt (Wied),7.427,50.623,50
+86,Neustadt (Wied),7.427,50.623,50
 60,Nümbrecht,7.541,50.902,50
 176,Wasserkoog,8.829,54.396,50
 103,Gaikebüll,8.86,54.485,72
@@ -3007,52 +2861,51 @@ rs,name,lon,lat,r1
 86,Kirchhatten,8.35,53.018,60
 60,Marienhagen,7.578,50.981,50
 72,Püttlingen,6.885,49.288,50
-147,Ost-Langenhorn,8.934,54.682,60
+123,Ost-Langenhorn,8.934,54.682,50
 60,Berge,7.842,51.649,50
 60,Mühlen,8.21,52.618,50
 176,Ahlen,7.89,51.763,72
-60,Steinloge,8.315,52.899,50
 72,Tetenbüll,8.828,54.352,50
-60,Bordelum,8.925,54.636,50
 86,Polch,7.314,50.3,50
 86,Midlum,8.616,53.734,50
 123,Meinerzhagen,7.638,51.107,60
-72,Hemmerde,7.812,51.548,50
-123,Campemoor,8.155,52.454,50
-103,Leck,8.975,54.772,72
+72,Campemoor,8.155,52.454,50
+60,Leck,8.975,54.772,60
 86,Bad Iburg,8.045,52.156,50
+123,Marne,9.009,53.954,60
 103,Loxstedt,8.649,53.47,60
 86,Elsfleth,8.457,53.237,72
 751,Bremerhaven,8.578,53.543,303
 211,Morbach,7.12,49.811,103
-72,Im Haßberg,7.733,51.336,50
 72,Drentwede,8.573,52.743,50
+60,Bergeickel,7.943,51.79,50
 211,Brake (Unterweser),8.478,53.326,86
+72,Lieberhausen,7.666,51.062,50
 60,Lohne (Oldenburg),8.238,52.666,50
-72,Marmecke,8.141,51.073,50
+72,Deilinghofen,7.805,51.379,50
 123,Lorch,7.804,50.046,60
 60,Holte,8.574,53.433,50
 72,Breddorf,9.082,53.292,50
+72,Bad Laer,8.087,52.101,50
 86,Werdohl,7.767,51.26,50
-147,Waldbröl,7.617,50.877,60
-86,Aschwarden,8.534,53.285,50
-123,Trippstadt,7.771,49.357,50
+253,Waldbröl,7.617,50.877,60
+123,Trippstadt,7.771,49.357,60
 123,Heusweiler,6.929,49.339,50
 60,Westerdeichstrich,8.864,54.162,50
 176,Werl,7.915,51.553,86
 123,Horn,8.945,51.873,50
-60,Bergedorf,8.471,53.026,60
 60,Freckenhorst,7.966,51.92,50
 72,Langendammsmoor,8.612,53.4,50
 60,Hunteburg,8.275,52.437,50
-60,Bohmstedt,9.044,54.581,50
+72,Lehmen,7.45,50.284,50
 86,Sohren,7.308,49.932,50
 103,Goldenstedt,8.431,52.788,72
+72,Flintrup,7.961,51.894,50
 103,Visbek,8.313,52.837,60
 176,Damme,8.196,52.521,86
 60,Werries,7.883,51.69,50
 522,Diepholz,8.371,52.606,60
-60,Cecilienkoog,8.926,54.58,50
+123,Altenaffeln,7.877,51.272,50
 86,Altenwalde,8.667,53.823,50
 60,Sievern,8.605,53.646,50
 123,Langen,8.594,53.608,50
@@ -3060,184 +2913,180 @@ rs,name,lon,lat,r1
 253,Warendorf,7.988,51.951,147
 147,Lemförde,8.377,52.468,72
 123,Schafflund,9.185,54.759,50
-60,Breitenthal,7.335,49.801,50
+103,Wederath,7.164,49.866,50
 103,Menden (Sauerland),7.795,51.439,50
-86,Adelheide,8.608,53.011,50
 751,Koblenz,7.598,50.36,303
 72,Rehden,8.483,52.61,50
-72,Rantrum,9.13,54.441,50
 72,Ladelund,9.025,54.841,50
 253,Vechta,8.285,52.728,123
-86,Dörnholthausen,7.992,51.285,50
-60,Vorhelm,7.942,51.809,50
+60,Dörnholthausen,7.992,51.285,50
 86,Weddingstedt,9.089,54.239,50
-103,Dünsen,8.638,52.924,50
-72,Strom,8.706,53.083,50
 626,Cuxhaven,8.697,53.864,253
-86,Bürstel,8.682,52.972,50
+103,Bürstel,8.682,52.972,50
 72,Ransbach-Baumbach,7.731,50.468,50
-86,Neufeld,9.019,53.907,50
+72,Weiler,7.631,50.193,50
 60,Großjörl,9.272,54.613,50
+60,Lehe,8.597,53.572,50
 123,Treis-Karden,7.303,50.174,60
-72,Plaidt,7.391,50.391,50
 123,Wadersloh,8.246,51.737,50
 86,Hennstedt,9.168,54.284,50
-72,Ostenfeld (Husum),9.231,54.463,50
+103,Ostenfeld (Husum),9.231,54.463,72
 72,Horst,9.186,54.32,50
 60,Blieskastel,7.253,49.237,60
-60,Belm,8.141,52.302,50
-72,Kupfermühle,9.414,54.838,50
-60,Merxheim,7.562,49.794,60
-72,Hinzerath,7.178,49.848,50
+253,Bredstedt,8.961,54.62,123
+60,Dahle,7.756,51.301,50
+72,Vehrte,8.156,52.338,60
+86,Alsen,7.548,50.759,50
+60,Allagen,8.253,51.479,50
 176,Brunsbüttel,9.137,53.897,176
 253,Tarp,9.403,54.664,86
-103,Oberwesel,7.723,50.106,50
-60,Avenwedde,8.445,51.938,50
-147,Balje,9.131,53.832,50
+86,Oberwesel,7.723,50.106,50
+60,Balje,9.131,53.832,50
 60,Süderhastedt,9.209,54.05,50
 60,Dötlingen,8.382,52.936,50
+86,Bad Marienberg (Westerwald),7.951,50.651,86
+72,Mürwik,9.472,54.816,50
 123,Erwitte,8.336,51.611,50
-60,Altwindeck,7.574,50.812,50
 60,Bollingstedt,9.412,54.593,50
-72,Ahlbach,7.512,50.655,50
+60,Ahlbach,7.512,50.655,50
 72,Sotterbach,7.632,50.953,50
-86,Kirchweyhe,8.874,52.993,50
+60,Hemelingen,8.892,53.049,50
 123,Ochtendung,7.391,50.349,50
 60,Guissen,7.937,51.732,50
 103,Berne,8.478,53.185,50
 60,Sieverstedt,9.475,54.643,50
-103,Holzappel,7.896,50.351,50
+103,Holzappel,7.896,50.351,60
 72,Neerstedt,8.402,52.973,50
 103,Tholey,7.038,49.484,72
-86,Oberrengse,7.686,51.07,50
+72,Milchenbach,8.214,51.115,50
+86,Nastätten,7.857,50.2,72
+86,Diepenau,8.733,52.422,50
 72,Sassenberg,8.041,51.988,50
 103,Hude (Oldb),8.458,53.113,86
-72,Bad Fredeburg,8.311,51.191,50
+72,Wulsdorf,8.599,53.505,50
+103,Bad Fredeburg,8.311,51.191,50
 103,Münstermaifeld,7.361,50.247,50
-103,Tarmstedt,9.079,53.227,50
+60,Hüingsen,7.822,51.406,50
 60,Rölefeld,7.632,50.919,50
-60,Diez,8.009,50.373,50
 60,Mielberg,9.519,54.441,50
-60,Sepp,8.683,52.077,50
 72,Elm,9.206,53.519,50
 60,Wanhöden,8.691,53.75,50
-60,Kuchhausen,7.567,50.748,50
-86,Oerlinghausen,8.661,51.952,50
+72,Oerlinghausen,8.661,51.952,50
 363,Limburg a.d.Lahn,8.064,50.387,211
 72,Bingen am Rhein,7.895,49.967,72
 147,Laufenselden,7.996,50.213,86
+72,Allenbach,7.168,49.756,50
 103,Selsingen,9.214,53.372,60
 72,Hamdorf,9.519,54.226,50
-72,Rärin,7.76,51.214,50
-86,Herscheid,7.746,51.177,60
 147,Drochtersen,9.385,53.71,86
+60,Wiedenest,7.69,51.03,50
 60,Silbach,8.484,51.23,50
 72,Girkhausen,8.454,51.116,50
-363,Brilon,8.568,51.395,147
+626,Brilon,8.568,51.395,147
+60,Vielstedt,8.468,53.083,50
 123,Herborn,8.303,50.683,50
 72,Wöllstein,7.959,49.814,50
 103,Neuenwalde,8.681,53.676,50
+86,Greifenstein,8.291,50.623,50
+60,Lonnig,7.407,50.31,50
 176,Petershagen,8.97,52.378,72
 60,Sinn,8.331,50.653,50
-60,Niewald,8.851,51.966,50
+147,Rosbach,7.608,50.801,60
+72,Reblin,7.75,51.159,50
 147,Neuwied,7.46,50.429,72
+72,Marpingen,7.057,49.452,50
 60,Stadum,9.05,54.736,50
-60,Borgstedt,9.71,54.333,50
+60,Bruch,8.549,53.285,50
 86,Stolzenau,9.078,52.511,72
-60,Blankenrath,7.303,50.038,60
 103,Haaren,8.729,51.566,50
 147,Verden (Aller),9.231,52.923,103
 60,Weinbach,8.293,50.438,50
 60,Flonheim,8.037,49.786,50
 176,Hohenhausen,8.948,52.107,50
 103,Dahn,7.778,49.151,72
-60,Eschenhahn,8.24,50.19,50
-211,Biedenkopf,8.531,50.91,103
-60,Barkelsby,9.84,54.502,50
-72,Horst,8.229,52.384,50
+72,Oberirsen,7.583,50.723,50
+60,Bissendorf,8.169,52.235,60
+72,Langenteilen,8.288,52.557,50
+211,Biedenkopf,8.531,50.91,123
 72,Straßenhaus,7.515,50.54,50
 86,Eckenhagen,7.694,50.988,60
 103,Weilmünster,8.377,50.432,60
-60,Albig,8.122,49.774,50
+72,Göllheim,8.051,49.595,60
 72,Ennigerloh,8.024,51.835,60
 363,Rotenburg (Wümme),9.404,53.11,147
-72,Müschen,8.118,52.082,50
+60,Kettig,7.461,50.398,50
 176,Nieder-Olm,8.203,49.91,50
 72,Rod an der Weil,8.38,50.342,60
 211,Elmshorn,9.655,53.755,176
-103,Neukirchen,8.439,50.482,50
 176,Büsum,8.86,54.13,103
-86,Klein Sehlingen,9.385,52.972,50
 72,Mörsdorf,7.344,50.103,50
 147,Rehburg,9.226,52.47,103
 86,Oberbieber,7.501,50.474,50
 72,Illingen,7.051,49.378,72
 176,Wildeshausen,8.432,52.895,123
-60,Urexweiler,7.075,49.431,50
+72,Laven,8.677,53.577,50
 60,Hinnebeck,8.564,53.256,50
 123,Birkenfeld,7.168,49.65,50
-60,Neubeckum,8.026,51.8,50
-60,Jägersfreude,7.007,49.264,50
-751,Saarbrücken,6.996,49.237,626
+901,Saarbrücken,6.996,49.237,626
 123,Welver,7.958,51.619,50
 123,Nohfelden,7.143,49.587,86
+72,Löffelscheid,7.319,50.009,60
 86,Kleinenkneten,8.422,52.851,50
-72,Leisel,7.202,49.719,50
+60,Leisel,7.202,49.719,50
 176,Tönning,8.942,54.317,103
 60,Altenbruch,8.773,53.824,50
-86,Wulften,8.226,52.303,50
-72,Högel,9.057,54.644,50
+60,Högel,9.057,54.644,50
 103,Hattstedt,9.025,54.528,50
 103,Balve,7.864,51.331,60
-60,Ossenbeck,8.36,52.638,50
 60,Witzwort,8.984,54.399,50
 86,Wesselburen,8.921,54.212,72
 72,Quierschied,7.053,49.325,50
-60,Blintrop,7.854,51.291,50
-60,Mülheim-Kärlich,7.497,50.387,50
-86,Kirschweiler,7.243,49.754,50
 123,Beckum,8.043,51.756,72
-60,Katzenbach,7.694,50.848,50
 176,Versmold,8.155,52.04,60
 72,Allendorf,8.21,52.183,50
 103,Schwanewede,8.594,53.225,50
-86,Ebberg,7.809,51.134,50
+72,Beelen,8.118,51.93,50
 60,Hagen im Bremischen,8.644,53.356,60
-72,Marschkamp,8.727,53.576,60
-86,Steimel,7.628,50.618,50
-72,Oester,8.142,51.932,50
+72,Bremen,7.96,51.504,50
+60,Mawicke,7.979,51.552,50
+60,Greffen,8.144,51.977,50
+60,Vellern,8.073,51.786,50
+86,Altenkirchen (Westerwald),7.645,50.688,72
+123,Dissen am Teutoburger Wald,8.201,52.115,60
+147,Steimel,7.628,50.618,50
+72,Tiefenstein,7.274,49.748,50
+72,Neuenhof,7.843,51.157,50
 123,Friedrichskoog,8.897,54.014,50
 123,Lembruch,8.366,52.527,50
 60,Lahr,8.452,52.759,50
-435,Husum,9.057,54.477,253
+626,Husum,9.057,54.477,253
 60,Hüde,8.357,52.495,50
 103,Medelby,9.173,54.812,50
-60,Dankelmert,7.86,51.18,50
 103,Bohmte,8.313,52.368,50
 123,Plettenberg,7.874,51.212,86
 211,Osterwanna,8.811,53.741,50
+60,Raubach,7.624,50.575,50
 176,Kleinblittersdorf,7.039,49.157,60
 435,St. Wendel,7.173,49.468,103
-60,Schierbrok,8.584,53.088,50
-86,Racksen,7.693,50.736,50
+211,Racksen,7.693,50.736,50
+86,Jacobidrebber,8.426,52.65,50
 60,Lunden,9.024,54.331,50
 123,Rhaunen,7.346,49.864,60
-103,Vegesack,8.622,53.171,86
+147,Vegesack,8.622,53.171,86
+86,Bendorf,7.576,50.424,50
 60,Oppenhausen,7.487,50.202,50
 86,Westerhausen,8.288,52.24,50
 72,Birken-Honigsessen,7.74,50.818,50
 60,Heimbach,7.25,49.615,50
 103,Sondern,7.841,51.073,50
 123,Ottweiler,7.162,49.402,50
-147,Kastellaun,7.442,50.071,60
-60,St. Ingbert,7.115,49.279,50
-72,Röllingsen,8.028,51.539,50
-72,Beltheim,7.462,50.106,50
+176,Kastellaun,7.442,50.071,72
+86,St. Ingbert,7.115,49.279,50
 60,Rehm,9.036,54.304,50
 86,Rilchingen-Hanweiler,7.051,49.115,50
-60,Caan,7.613,50.473,50
+86,Wissen,7.736,50.78,60
 176,Oelde,8.146,51.827,60
-60,Heinzenbach,7.416,49.975,50
+72,Hüsten,7.994,51.428,50
 86,Kirchberg (Hunsrück),7.405,49.942,60
 72,Großmaischeid,7.634,50.505,50
 522,Idar-Oberstein,7.312,49.713,253
@@ -3245,30 +3094,26 @@ rs,name,lon,lat,r1
 72,Hachen,7.982,51.376,50
 72,Freisen,7.249,49.552,50
 72,Steeg,7.789,50.881,50
+72,Nauort,7.624,50.466,50
 60,Haldem,8.387,52.439,50
 176,Bad Essen,8.344,52.32,103
-60,Dierdorf,7.659,50.548,50
-86,Keitlinghausen,8.146,51.785,50
+176,Dierdorf,7.659,50.548,72
+72,Heerde,8.208,51.931,50
 123,Friedrichstadt,9.088,54.373,72
 211,Neunkirchen,7.178,49.345,103
-86,Alterkülz,7.466,50.031,50
 176,Barnstorf,8.505,52.71,60
 123,Harsewinkel,8.228,51.963,72
-72,Attendorn,7.905,51.125,72
+103,Attendorn,7.905,51.125,72
 86,Delmenhorst,8.63,53.05,86
+72,Sünninghausen,8.155,51.768,50
 123,Otterndorf,8.9,53.808,103
-60,Oberkirchen,7.263,49.525,50
-60,Neuenkirchen,8.894,53.777,50
 123,Bad Bederkesa,8.841,53.625,123
+72,Harpstedt,8.587,52.909,72
 123,Wehdel,8.803,53.508,60
 60,Dörrenbach,7.235,49.434,50
 72,Lohe,8.797,53.473,50
 176,Melle,8.336,52.202,147
-60,Klein Köhren,8.592,52.894,50
-72,Lühringsen,8.112,51.607,50
-60,Bruschied,7.407,49.835,50
 103,Sundern (Sauerland),8.006,51.33,50
-60,Borgholzhausen,8.301,52.102,50
 72,Beckeln,8.582,52.861,50
 86,Viöl,9.181,54.569,72
 72,Ormesheim,7.143,49.197,60
@@ -3277,247 +3122,238 @@ rs,name,lon,lat,r1
 123,Lahnstein,7.607,50.3,50
 123,Lauentheil,8.887,53.683,50
 123,Hovestadt,8.144,51.656,60
-72,Sondermühlen,8.337,52.165,50
-60,Bubach,7.271,49.467,50
+72,Mündersbach,7.733,50.605,50
+147,Emmelshausen,7.552,50.156,60
 103,Baumholder,7.337,49.616,50
 253,Boppard,7.591,50.232,60
 60,Ihlienworth,8.916,53.741,50
 86,Wiehekrug,9.249,54.706,50
 72,Eesch,9.03,54.057,50
-72,Finnentrop,7.973,51.172,50
+86,Finnentrop,7.973,51.172,50
 72,Wisch,9.154,54.409,50
 60,Köbbinghausen,8.603,52.834,50
-103,Wester-Ohrstedt,9.19,54.507,50
+86,Wester-Ohrstedt,9.19,54.507,50
 176,Beverstedt,8.819,53.434,86
-522,Arnsberg,8.065,51.396,176
+253,Arnsberg,8.065,51.396,176
 103,Hemmingstedt,9.072,54.148,50
 60,Brunshausen,8.812,53.4,50
 901,Heide,9.091,54.194,211
 60,Wehdem,8.466,52.438,50
 86,Freudenberg,7.877,50.897,60
-72,Breitsesterhof,7.345,49.583,50
-60,Oberveischede,7.952,51.077,50
+72,Barkhausen,8.417,52.287,50
 103,Gemünden,7.481,49.896,50
 103,Levern,8.453,52.376,60
+60,Müllingsen,8.139,51.543,50
 72,Köhlen,8.876,53.541,50
 60,Klausing,8.553,52.641,50
-60,Fleckertshöhe,7.603,50.184,50
-60,Holterdorf,8.365,52.134,50
+303,Simmern/Hunsrück,7.522,49.985,147
 176,Meldorf,9.069,54.091,86
-72,Kirnsulzbach,7.433,49.764,50
 86,Breitenbruch,8.102,51.435,50
+86,Ritterhude,8.757,53.183,50
 147,Körbecke,8.132,51.498,60
-211,Osterholz-Scharmbeck,8.783,53.23,86
+60,Websweiler,7.279,49.379,50
+60,Wetter,8.407,52.214,50
+147,Kirn,7.457,49.789,72
+123,Osterholz-Scharmbeck,8.783,53.23,86
 86,Weuspert,8.037,51.222,50
 86,Halle (Westf.),8.362,52.061,72
+86,Gröpelingen,8.755,53.125,50
 103,Twistringen,8.639,52.8,50
 60,Handewitt,9.325,54.765,50
-60,Steinebach an der Wied,7.804,50.611,50
-60,Hachenburg,7.824,50.661,50
-60,Betzdorf,7.874,50.786,60
 123,Hambergen,8.826,53.31,60
 60,Meckelstedt,8.928,53.597,50
 103,Rheda,8.293,51.855,50
-72,Hentrup,8.237,51.694,50
+72,Riemsloh,8.416,52.18,50
 86,Eitelborn,7.722,50.377,50
 123,Holste,8.858,53.374,50
 72,Sandhausen,8.821,53.267,50
 86,Littfeld,7.977,51.004,50
-60,Harlinghausen,8.483,52.315,50
-60,Schallern,8.215,51.599,50
+72,Bad Ems,7.712,50.335,60
+103,Ohmbach,7.35,49.449,60
+72,Schallern,8.215,51.599,50
 60,Stuhr,8.75,53.028,50
-86,Waldmohr,7.333,49.387,50
 103,Kisselbach,7.611,50.051,50
-60,Fesenfeld,8.721,52.93,50
+147,Kusel,7.401,49.538,86
 60,Hollbüllhuus,9.238,54.403,50
+60,Benzweiler,7.605,50.022,50
+72,Simmertal,7.521,49.814,50
+60,Neuhaus (Oste),9.037,53.802,50
 103,Rödinghausen,8.479,52.253,50
-60,Großenhain,8.956,53.567,50
 147,Wagenfeld,8.59,52.546,86
 176,Kreuztal,7.988,50.962,72
 103,Tielge,8.575,52.495,50
-103,Seesbach,7.546,49.846,50
-60,Langenberg,8.32,51.776,50
+60,Seesbach,7.546,49.846,50
+72,Langenberg,8.32,51.776,50
 86,Homburg,7.34,49.324,86
-60,Wietinghausen,8.669,52.702,50
 211,Gütersloh,8.376,51.907,86
-60,Silberg,8.039,51.032,50
 147,Bassum,8.726,52.848,50
+72,Steinhagen,8.415,52.006,50
 901,Bremen,8.809,53.076,626
 86,Cadenberge,9.057,53.772,60
 86,Sien,7.502,49.693,50
 253,Altenhundem,8.074,51.103,123
+123,Varste,8.052,51.044,50
 72,Ehrenburg,8.704,52.748,50
-60,Rote Erde,8.435,52.017,50
+60,Altenglan,7.464,49.553,50
 103,Eddelak,9.137,53.946,50
 147,Montabaur,7.827,50.436,123
-72,Sankt Goar,7.713,50.151,72
+86,Sankt Goar,7.713,50.151,72
 72,Eiserfeld,7.988,50.835,50
-72,Oedingen,8.122,51.174,50
+147,Oedingen,8.122,51.174,50
 86,Eggebek,9.372,54.62,50
 60,Bad Waldliesborn,8.334,51.71,50
-72,Varrel,9.054,53.678,50
-86,Obervieland,8.826,53.034,50
 60,Ahle,8.519,52.194,50
+60,Apelstedt,8.747,52.808,50
+72,Wallen,8.194,51.33,50
 103,Riesweiler,7.308,49.139,50
 901,Flensburg,9.438,54.783,363
-123,Rahden,8.613,52.433,50
-103,Daaden,7.968,50.739,50
-60,Rheinböllen,7.673,50.007,60
-86,Eslohe (Sauerland),8.17,51.254,72
-60,Nassau,7.799,50.314,50
-1297,Siegen,8.025,50.875,435
+86,Rahden,8.613,52.433,50
+253,Daaden,7.968,50.739,50
+147,Eslohe (Sauerland),8.17,51.254,72
+1081,Siegen,8.025,50.875,435
 147,Zweibrücken,7.363,49.249,60
+60,Neunkirchen,7.993,50.788,60
 60,Hornholz,9.438,54.746,50
 60,Bergenhusen,9.316,54.376,50
 60,Bünge,9.336,54.435,50
 72,Dobrock,9.093,53.725,50
-60,Calle,8.214,51.335,50
 253,Lippstadt,8.346,51.674,176
 103,Basdahl,8.997,53.443,50
+103,Ummeln,8.461,51.968,50
 60,Barrien,8.722,52.666,50
-72,Jöllenbeck,8.514,52.098,50
-363,Syke,8.816,52.915,86
+60,Jöllenbeck,8.514,52.098,50
+123,Lahausen,8.84,52.981,50
+363,Syke,8.816,52.915,50
 60,Meudt,7.897,50.493,50
-72,Rimschweiler,7.373,49.218,50
-147,Jübek,9.394,54.557,50
+147,Jübek,9.394,54.557,86
 86,Tellingstedt,9.282,54.22,60
 60,Butzendorf,8.693,52.554,50
-211,Erfde,9.317,54.309,72
+72,Lilienthal,8.908,53.141,50
+147,Erfde,9.317,54.309,72
 147,Espelkamp,8.633,52.377,60
-60,Hornbach,7.37,49.186,50
+123,Hornbach,7.37,49.186,50
 103,Anröchte,8.327,51.561,50
 72,Nordsode,8.98,53.326,50
 86,Ebersdorf,9.052,53.526,50
 103,Gnarrenburg,9.003,53.382,86
 86,Hilchenbach,8.113,50.996,60
-103,Uelde,8.315,51.515,50
-86,Rietberg,8.427,51.808,72
 86,Varrel,8.731,52.621,50
 123,Lamstedt,9.096,53.636,50
 211,Lübbecke,8.617,52.303,86
-103,Enger,8.559,52.139,50
-123,Singhofen,7.836,50.274,50
+103,Neuenkirchen,8.445,51.831,50
+86,Singhofen,7.836,50.274,50
 176,Bünde,8.584,52.198,72
+86,Oberneuland,8.914,53.094,50
 72,Heudorf,8.986,53.293,50
 103,Albersdorf,9.284,54.147,86
+147,Wiesbach,7.453,49.334,60
 86,Niedernetphen,8.098,50.915,50
-60,Reichenbach,7.527,49.505,50
 72,Oerel,9.056,53.482,50
 72,Heinsberg,8.15,51.039,50
 123,Börm,9.378,54.403,50
 123,Lauterecken,7.592,49.649,50
+72,Höhn,7.986,50.619,50
 60,Miehlen,7.83,50.227,50
 751,Bielefeld,8.532,52.021,522
 103,Hollen,9.103,53.589,50
-86,Martinshöhe,7.479,49.364,50
-60,Bökenförde,8.392,51.639,50
-86,Oechelhausen,8.127,50.954,50
-72,Hof,8.014,50.667,50
+176,Westerburg,7.97,50.563,50
+123,Bad Sobernheim,7.654,49.784,103
+72,Belecke,8.333,51.482,50
+103,Bockenau,7.681,49.838,50
+60,Barl,8.7,52.452,50
 147,Meschede,8.285,51.347,103
-60,Neubruchhausen,8.845,52.839,50
-86,Wiebeler,8.441,51.75,50
-60,Steinwenden,7.528,49.456,50
 72,Feuersbach,8.106,50.878,50
 147,Warstade,9.153,53.692,103
-147,Burg (Dithmarschen),9.262,53.997,60
+147,Burg (Dithmarschen),9.262,53.997,86
 123,Schwaförden,8.819,52.738,50
 147,Schafstedt,9.294,54.08,50
 72,Heiligenfelde,8.872,52.879,50
-103,Glücksburg (Ostsee),9.551,54.837,50
+60,Glücksburg (Ostsee),9.551,54.837,50
 86,Sudwalde,8.843,52.797,50
 253,Sulingen,8.801,52.682,147
-103,Grasberg,8.984,53.181,72
-86,Verl,8.508,51.882,60
+60,Nentershausen,7.935,50.42,60
+103,Grasberg,8.984,53.181,50
+86,Verl,8.508,51.882,72
 72,Lippe,8.058,50.71,50
-60,Osterholz,8.949,53.063,60
 123,Wilnsdorf,8.104,50.815,50
-86,Burbach,8.08,50.746,50
 147,Warstein,8.354,51.443,72
 60,Osterrade,9.353,54.19,50
 72,Hüllhorst,8.672,52.272,50
+60,Buschkamp,8.559,51.965,50
 176,Meisenheim,7.671,49.706,60
-60,Rehborn,7.686,49.735,50
-72,Stromberg,7.774,49.944,50
-60,Schuby,9.48,54.515,50
+86,Brake,8.602,52.07,50
+72,Stromberg,7.774,49.944,60
 60,Osterloh,8.761,52.468,50
-72,Menzel,8.408,51.526,50
-72,Österwiehe,8.529,51.843,50
-72,Holnis,9.604,54.872,50
+176,Holnis,9.604,54.872,50
 123,Landstuhl,7.569,49.41,103
 86,Wollmerschied,7.86,50.116,60
-60,Nortorf,9.291,53.927,50
-60,Bramkamp,8.759,52.43,50
-86,Husby,9.577,54.765,60
-72,Seck,8.048,50.577,50
 123,Frickhofen,8.024,50.504,50
-72,Rennerod,8.067,50.61,50
+86,Rennerod,8.067,50.61,50
+60,Husen,8.721,52.31,50
 253,Bremervörde,9.146,53.485,147
-86,Mühlbach,7.512,49.244,50
-123,Schmallenberg,8.285,51.154,103
-60,Schweicheln-Bermbeck,8.669,52.158,50
-72,Mandel,7.769,49.857,50
-86,Verlar,8.497,51.687,50
+72,Schmallenberg,8.285,51.154,72
 123,Kirchdorf,8.836,52.595,72
 86,Hille,8.744,52.337,50
 72,Bottenbach,7.496,49.182,50
 60,Gribbohm,9.348,54.027,50
-60,Obernbeck,8.697,52.208,50
+72,Wasenbach,7.967,50.318,50
 72,Blüggelscheidt,8.36,51.312,50
-72,Altendorf,9.247,53.726,50
 72,Hepstedt,9.083,53.259,50
 60,Emtinghausen,8.966,52.932,50
 72,Eringerfeld,8.467,51.587,50
 103,Rüthen,8.431,51.491,50
+60,Steinhorst,8.557,51.817,50
+72,Oyten,9.018,53.06,50
 72,Freiburg (Elbe),9.288,53.824,50
 211,Herford,8.674,52.116,72
 86,Rhade,9.115,53.328,50
-72,Ubbedissen,8.627,51.987,50
 60,Hechthausen,9.238,53.641,50
 72,Erndtebrück,8.256,50.989,72
 72,Geseke,8.508,51.64,50
 123,Hadamar,8.046,50.449,50
-72,Langballig,9.637,54.799,50
+86,Langballig,9.637,54.799,50
 211,Kropp,9.509,54.411,86
 72,Hanerau-Hademarschen,9.413,54.127,60
 176,Satrup,9.604,54.692,72
-86,Bevern,9.176,53.444,50
+123,Katzenelnbogen,7.976,50.268,50
 123,Delbrück,8.563,51.765,103
-60,Elz,8.036,50.414,50
 72,Niederkirchen,7.696,49.578,60
 72,Wilstedt,9.093,53.195,50
 86,Tetenhusen,9.494,54.349,50
-72,Steinbach,8.186,50.779,50
+72,Gehrden,9.277,53.712,50
 72,Brokdorf,9.329,53.862,50
 60,Sundern,8.749,52.243,50
 147,Böklund,9.584,54.603,72
-86,Achim,9.033,53.013,50
+176,Achim,9.033,53.013,72
 103,Aue,8.298,51.05,50
-86,Latrop,8.326,51.112,50
+60,Latrop,8.326,51.112,50
 72,Thedinghausen,9.021,52.962,50
-60,Elsoff (Westerwald),8.117,50.574,50
 60,Osterwald,8.372,51.221,50
-435,Schleswig,9.567,54.515,176
+72,Queidersbach,7.629,49.373,50
+211,Schleswig,9.567,54.515,176
+123,Plönjeshausen,9.194,53.427,50
 60,Wischhafen,9.32,53.775,50
-86,Warmsen,8.849,52.456,50
-86,Offdilln,8.23,50.826,50
+72,Warmsen,8.849,52.456,50
+72,Feil,7.807,49.775,50
 147,Hohn,9.503,54.299,72
 211,Vilsen,8.987,52.822,86
-60,Oberselk,9.567,54.473,50
-60,Sapelloh,8.845,52.42,50
+86,Siedenburg,8.941,52.693,60
+72,Sapelloh,8.845,52.42,50
 72,Haiger,8.205,50.743,50
 123,Stukenbrock,8.656,51.912,72
-60,Ebernburg,7.834,49.81,50
-72,Kleve,9.404,53.966,50
-72,Päpsen,8.96,52.707,50
-60,Niederneisen,8.055,50.336,50
-60,Lavenstedt,9.192,53.342,50
+72,Ebernburg,7.834,49.81,50
+60,Breitscheid,8.189,50.685,50
+86,Thüle,8.587,51.709,50
+60,Eisighofen,8.018,50.24,50
 60,Hartum,8.82,52.313,50
 176,Bad Kreuznach,7.862,49.845,176
 60,Lahr,8.131,50.51,50
 176,Eppenbrunn,7.56,49.116,50
+86,Mengerskirchen,8.154,50.565,72
 86,Alsenz,7.815,49.724,72
-103,Driedorf,8.185,50.635,60
-72,Deinstedt,9.226,53.409,50
+60,Driedorf,8.185,50.635,50
+60,Staffhorst,8.98,52.722,50
+60,Heidberg,8.513,51.468,50
 72,Bad Salzuflen,8.747,52.084,50
 60,Dietersheim,7.909,49.938,50
 86,Asendorf,9.005,52.771,50
@@ -3526,187 +3362,164 @@ rs,name,lon,lat,r1
 147,Uchte,8.907,52.499,60
 303,Pirmasens,7.608,49.197,147
 103,Langenlonsheim,7.899,49.897,50
-60,Borstel,8.972,52.669,50
 103,Hövelhof,8.659,51.82,50
+72,Exter,8.778,52.137,50
+60,Rixen,8.505,51.413,50
 253,Büren,8.56,51.555,72
 176,Bad Oeynhausen,8.806,52.205,72
 103,Salzkotten,8.605,51.672,72
 147,Waldfischbach-Burgalben,7.653,49.283,50
 86,Rodalben,7.639,49.239,50
 86,Olsberg,8.49,51.355,50
-72,Schaalby,9.64,54.549,50
-147,Ottersberg,9.143,53.108,72
-72,Schopp,7.688,49.351,50
+60,Geltorf,9.613,54.463,50
+147,Ottersberg,9.143,53.108,60
 72,Badenermoor,9.116,53.033,50
 86,Stukenbrock-Senne,8.69,51.87,50
-86,Holzhausen,8.758,52.036,50
 103,Martfeld,9.068,52.876,50
 60,Dehme,8.834,52.235,50
 86,Schenefeld,9.481,54.046,72
 72,Owschlag,9.599,54.391,50
-60,Mulsum,9.3,53.512,50
-86,Dansenberg,7.726,49.406,50
 72,Brunskappel,8.478,51.278,60
+72,Kaaks,9.469,53.99,50
 60,Neukirchen,9.744,54.801,50
 176,Bad Berleburg,8.393,51.05,86
-86,Heinbockel,9.327,53.574,50
 103,Rockenhausen,7.824,49.629,103
 86,Otterberg,7.772,49.502,50
-72,Kettenbach,8.077,50.246,50
 60,Schüllar,8.411,51.08,50
-72,Heimbach,8.046,50.154,50
 72,Fürfeld,7.894,49.777,50
-60,Barig,8.196,50.518,50
+72,Barig,8.196,50.518,50
 123,Haale,9.549,54.174,50
-176,Dillenburg,8.287,50.739,123
-72,Frohnhausen,8.301,50.773,50
+303,Dillenburg,8.287,50.739,123
 303,Kaiserslautern,7.769,49.445,303
-72,Mandeln,8.338,50.852,50
 60,Heltersberg,7.714,49.312,50
 123,Glückstadt,9.424,53.788,60
 86,Kutenhausen,8.904,52.334,50
+60,Ohrel,9.29,53.401,50
 60,Lemberg,7.657,49.171,50
 86,Kutenholz,9.323,53.481,50
 72,Gerbach,7.871,49.674,50
 123,Steinbergkirche,9.76,54.754,72
 103,Pennigsehl,9.027,52.642,50
 86,Raddestorf,8.962,52.455,50
+147,Eibelshausen,8.337,50.814,60
 72,Blender,9.134,52.927,50
-60,Lage,8.793,51.991,50
-60,Sennelager,8.714,51.775,50
+103,Lage,8.793,51.991,50
 86,Vlotho,8.86,52.165,50
 60,Nendorf,8.985,52.5,50
-60,Wewelsburg,8.656,51.606,50
-103,Alt Duvenstedt,9.645,54.36,50
-147,Zeven,9.279,53.296,123
+86,Wewelsburg,8.656,51.606,50
+86,Alt Duvenstedt,9.645,54.36,50
+363,Zeven,9.279,53.296,123
 60,Holte,9.06,52.686,50
 522,Minden,8.915,52.288,211
-123,Winnweiler,7.854,49.568,50
-86,Hohenaspe,9.528,53.989,50
+253,Winnweiler,7.854,49.568,50
 72,Fleckeby,9.696,54.482,60
-72,Barkhausen,8.91,52.254,50
 103,Kriegsfeld,7.916,49.709,50
 147,Steyerberg,9.026,52.567,50
-86,Niederntudorf,8.678,51.634,50
 72,Kirberg,8.161,50.309,50
 147,Wietzen,9.082,52.713,50
 303,Itzehoe,9.512,53.927,147
 60,Esgrus,9.782,54.723,50
 60,Bad Laasphe,8.412,50.927,60
-60,Missunde,9.719,54.521,50
+60,Merzalben,7.732,49.245,50
 103,Langwedel,9.185,52.977,50
+86,Achenbach,8.392,50.862,50
 103,Krempe,9.49,53.837,50
 123,Niederalme,8.625,51.459,50
 60,Warpe,9.105,52.741,50
+60,Ulsnis,9.747,54.569,50
 86,Hoya,9.136,52.806,50
 211,Winterberg,8.533,51.194,123
+253,Rendsburg,9.663,54.306,176
 72,Süderbrarup,9.775,54.636,72
-72,Schlangenbad,8.103,50.095,50
 123,Klein Fredenbeck,9.399,53.522,60
 86,Ingelheim am Rhein,8.056,49.974,86
-86,Ulm,8.301,50.583,50
 60,Wiesenbach,8.426,50.9,50
-211,Weilburg,8.264,50.484,72
+72,Borchen,8.723,51.668,50
+103,Kiedrich,8.085,50.041,50
+211,Weilburg,8.264,50.484,103
+60,Matorf,8.881,52.076,50
 72,Hildfeld,8.565,51.243,50
-60,Limbach,8.174,50.245,50
+86,Dägeling,9.531,53.879,50
+60,Brest,9.383,53.451,50
 72,Hassendorf,9.268,53.112,50
-60,Trophagen,8.861,51.995,50
 626,Paderborn,8.757,51.72,253
-60,Bentorf,8.915,52.136,50
-72,Rauenthal,8.11,50.061,50
-176,Gyhum,9.311,53.22,60
+147,Gyhum,9.311,53.22,60
 60,Kollmar,9.495,53.733,50
 86,Rieda,9.197,52.885,50
 147,Jevenstedt,9.669,54.235,60
 72,Liebenau,9.096,52.604,50
-60,Wolfsheim,8.041,49.873,50
 123,Bad Wünnenberg,8.698,51.517,72
 123,Hahn,8.159,50.143,50
-60,Berenbusch,8.99,52.29,50
+60,Bicken,8.379,50.692,50
+60,Elsoff,8.51,51.024,50
 103,Willingen (Upland),8.614,51.293,60
-60,Osterby,9.754,54.453,50
 86,Züschen,8.563,51.155,50
 103,Bützfleth,9.482,53.652,50
 60,Radlinghausen,8.671,51.432,50
 176,Lemgo,8.901,52.028,72
-86,Lägerdorf,9.57,53.889,50
-60,Schling,8.857,51.9,50
+86,Neubücken,9.609,53.993,50
 86,Enkenbach-Alsenborn,7.907,49.491,72
 435,Stade,9.476,53.601,123
 103,Bad Lippspringe,8.819,51.782,50
 211,Detmold,8.879,51.935,176
-60,Quetzen,9.033,52.351,50
-72,Bontkirchen,8.659,51.355,50
 147,Hohenwestedt,9.652,54.091,103
 60,Hochspeyer,7.896,49.444,50
 86,Langhecke,8.281,50.388,50
 147,Rieseby,9.813,54.542,60
-86,Groß Wittensee,9.77,54.405,60
+123,Leun,8.357,50.55,50
 147,Dörverden,9.228,52.847,60
-123,Schönau (Pfalz),7.748,49.06,50
-60,Hohenfiert,9.637,54.007,50
-86,Ehringshausen,8.382,50.596,50
-60,Freyersen,9.394,53.295,50
+123,Schönau (Pfalz),7.748,49.06,72
 103,Ahausen,9.313,53.063,50
 147,Bad Camberg,8.266,50.298,60
 72,Eystrup,9.213,52.779,50
 123,Kirchheimbolanden,8.011,49.664,60
-60,Morschheim,8.026,49.697,50
 60,Hofstätten,7.86,49.279,60
 86,Kohlstädt,8.872,51.827,50
-60,Elsheim,8.124,49.916,50
 72,Hatzte,9.392,53.247,50
-72,Hartenrod,8.462,50.758,50
 103,Ahlerstedt,9.452,53.405,50
 60,Bottenhorn,8.48,50.793,50
 60,Bischoffen,8.448,50.706,50
 60,Langenhörn,9.38,53.18,50
-60,Ahnebergen,9.274,52.883,50
-86,Bruchweiler-Bärenbach,7.804,49.113,50
 60,Henstorf,8.98,52.076,50
 60,Atteln,8.801,51.596,50
 103,Bückeburg,9.05,52.26,60
-123,Holtdorf,9.73,54.174,50
 86,Wiembeck,8.953,51.99,50
 123,Hallenberg,8.621,51.112,72
 147,Eckernförde,9.837,54.473,123
 253,Idstein,8.271,50.221,60
 60,Haßbergen,9.23,52.731,50
 123,Wörrstadt,8.117,49.838,60
-86,Hauenstein,7.853,49.192,50
 60,Dahl,8.852,51.696,50
 60,Horst (Holstein),9.618,53.811,50
-60,Burgsolms,8.406,50.539,50
-60,Marnheim,8.041,49.634,50
+60,Schönemark,8.937,51.909,50
 60,Ensheim,8.116,49.807,50
-123,Harsefeld,9.501,53.452,103
+103,Bechlingen,8.447,50.628,50
+176,Harsefeld,9.501,53.452,103
 363,Nienburg (Weser),9.212,52.641,123
-72,Sehestedt,9.818,54.366,50
 72,Saulheim,8.149,49.876,50
-103,Eifa,8.583,50.964,50
 103,Dautphe,8.542,50.858,50
-72,Seester,9.598,53.718,50
 60,Loccum,9.147,52.453,50
 60,Schäferhof-Kattriede,9.206,52.612,50
 103,Elmstein,7.935,49.352,72
-147,Wiesbaden,8.239,50.082,147
+303,Wiesbaden,8.239,50.082,253
+86,Hespe,9.109,52.328,50
 303,Kappeln,9.931,54.659,147
+60,Dexbach,8.589,50.938,50
+60,Esch,8.317,50.251,50
 253,Alzey,8.112,49.745,123
 123,Heemsen,9.263,52.704,50
 86,Biebrich,8.241,50.04,50
+72,Aßlar,8.465,50.589,50
 103,Medebach,8.705,51.198,86
 123,Rinteln,9.08,52.187,86
-60,Niedernwöhren,9.148,52.352,50
-60,Brüntrup,8.996,51.942,50
-60,Heeßen,9.106,52.232,50
+86,Kellinghusen,9.714,53.95,86
 86,Hasselberg,9.977,54.715,50
 86,Kirchwalsede,9.394,53.021,50
 103,Vierden,9.506,53.329,50
 60,Niedernhausen,8.318,50.161,50
-147,Erda,8.526,50.675,60
-60,Hettenleidelheim,8.07,49.535,50
+147,Erda,8.526,50.675,50
 86,Wulfsmoor,9.724,53.912,50
-72,Hörnerkirchen,9.705,53.855,50
+123,Hörnerkirchen,9.705,53.855,50
 60,Horneburg,9.584,53.507,50
 211,Lichtenau,8.896,51.617,86
 123,Sittensen,9.505,53.279,86
@@ -3714,15 +3527,14 @@ rs,name,lon,lat,r1
 60,Innien,9.787,54.084,60
 123,Husum,9.252,52.565,50
 176,Adorf,8.804,51.36,72
+72,Buke,8.95,51.742,50
 72,Friedrichshöhe,9.1,52.139,50
-363,Mainz,8.272,50.002,60
+176,Mainz,8.272,50.002,60
+123,Schwalbach,8.471,50.496,50
 103,Gladenbach,8.582,50.77,103
 86,Rodewald,9.483,52.663,72
 60,Altleiningen,8.074,49.508,50
-60,Nienstädt,9.166,52.293,50
-60,Gau-Odernheim,8.193,49.784,50
-60,Reelkirchen,9.03,51.914,50
-60,Eschelbach,8.785,49.25,50
+72,Gau-Odernheim,8.193,49.784,50
 103,Ottenheim,7.758,48.386,60
 86,Uetersen,9.662,53.684,60
 86,Grävenwiesbach,8.458,50.389,50
@@ -3730,167 +3542,149 @@ rs,name,lon,lat,r1
 123,Scheeßel,9.483,53.169,50
 86,Ramberg,8.009,49.261,50
 60,Oos,8.194,48.788,50
-72,Nordenstadt,8.346,50.064,50
+60,Nordenstadt,8.346,50.064,50
 211,Marsberg,8.855,51.46,147
+60,Reichenbach,8.692,49.712,50
+60,Bergheim,9.05,51.834,50
 72,Bothel,9.504,53.074,50
-72,Sachsenhagen,9.265,52.396,50
-86,Hetendorf,10.024,52.869,50
 103,Barntrup,9.116,51.99,50
 176,Alsfeld,9.271,50.751,123
-60,Mauloff,8.397,50.284,50
-60,Schuby,9.982,54.606,50
+60,Timmaspe,9.891,54.141,50
+60,Mühlhausen,8.727,49.248,50
 60,Undenheim,8.218,49.84,50
-176,Bretten,8.708,49.037,72
+211,Bretten,8.708,49.037,72
 176,Wedel,9.705,53.577,72
 60,Gnutz,9.824,54.135,50
-60,Eisenbach (Hochschwarzwald),8.271,47.962,50
-211,Aschaffenburg,9.148,49.974,123
-72,Rettmer,10.368,53.213,50
-72,Rhena,8.793,51.289,50
-72,Maulbronn,8.815,49,50
+303,Aschaffenburg,9.148,49.974,123
+72,Oberderdingen,8.802,49.063,50
+60,Maulbronn,8.815,49,50
+60,Steimbke,9.39,52.655,50
 103,Kühlsen,9.032,51.669,50
-72,Wümme,9.621,53.248,50
 72,Asseln,8.935,51.653,50
 86,Kelkheim (Taunus),8.452,50.134,50
 72,Heidenau,9.653,53.314,50
+123,Rüsselsheim am Main,8.411,49.995,72
 60,Rosebruch,9.573,53.044,50
 123,Surendorf,10.073,54.472,50
 86,Scherfede,9.032,51.531,50
-60,Goldscheuer,7.82,48.51,50
-60,Lollar,8.705,50.65,50
-60,Rodenberg,9.352,52.312,50
+86,Oberrotweil,7.63,48.089,50
+86,Goldscheuer,7.82,48.51,50
+86,Lollar,8.705,50.65,50
 72,Wiesental,8.614,50.38,50
-363,Tostedt,9.712,53.281,86
+211,Tostedt,9.712,53.281,86
 435,Neumünster,9.988,54.07,211
 123,Damp,9.984,54.578,72
+72,Okriftel,8.5,50.053,50
 60,Rosenthal,8.868,50.975,50
-86,Hechtsheim,8.28,49.961,50
+72,Hechtsheim,8.28,49.961,50
 103,Großflintbek,10.064,54.24,50
 60,Borntosten,8.846,51.392,50
+60,Quickborn,9.898,53.729,50
 103,Watzenborn-Steinberg,8.716,50.534,50
-626,Walsrode,9.596,52.862,176
-86,Daerstorf,9.805,53.437,50
+522,Walsrode,9.596,52.862,176
 60,Medenbach,8.342,50.104,50
 86,Kippenheim,7.825,48.295,50
 60,Wangershausen,8.733,51.089,50
 60,Friedrichsdorf,8.642,50.257,50
 72,Welda,9.112,51.453,50
-60,Stockstadt am Rhein,8.466,49.808,50
-72,Scheibenhardt,8.14,48.981,60
 363,Warburg,9.146,51.489,176
-72,Hofweier,7.908,48.424,50
 86,Baarsen,9.321,51.945,50
-72,Haina (Kloster),8.972,51.027,50
-60,Herxheim bei Landau/Pfalz,8.217,49.147,50
-60,Mechtildshausen,8.322,50.037,50
+103,Herxheim bei Landau/Pfalz,8.217,49.147,60
+60,Flughafen,8.597,50.056,50
+60,Nortorf,9.856,54.167,60
 123,Stadthagen,9.206,52.324,103
+60,Friedrichsgabe,9.996,53.734,50
 60,Griesheim,8.553,49.859,50
 303,Harksheide,9.997,53.706,86
-86,Holm,9.672,53.622,50
-60,Osterwald Unterende,9.563,52.459,50
 72,Staufen im Breisgau,7.73,47.881,50
+86,Bruchhausen,9.288,51.705,50
 60,Westensee,9.897,54.275,50
-103,Ottbergen,9.305,51.708,50
 103,Kleinwaabs,9.986,54.533,50
-60,Almhorst,9.57,52.38,50
 103,Garbsen,9.6,52.426,72
 86,Rethem (Aller),9.382,52.785,72
-103,Glashütten,8.403,50.216,50
-60,Probsteierhagen,10.288,54.363,50
+60,Karben,8.773,50.23,50
 60,Steinbach,8.159,48.728,50
-60,Waldmatt,8.151,48.67,50
+60,Dobersdorf,10.282,54.318,50
+72,Apensen,9.614,53.433,50
 86,Bösingfeld,9.123,52.069,72
 60,Bornhöved,10.225,54.069,50
-72,Westheim,8.907,51.494,50
-147,Beverungen,9.373,51.663,86
+86,Beverungen,9.373,51.663,86
 60,Brandoberndorf,8.495,50.434,50
-86,Beckdorf,9.611,53.413,50
-147,Seevetal,10.035,53.378,60
-60,Brühl,8.534,49.395,50
+60,Waldkirch,7.961,48.094,60
+253,Seevetal,10.035,53.378,86
+72,Wendthagen,9.211,52.291,50
+86,Ehlen,9.311,51.326,50
 86,Salzhemmendorf,9.59,52.066,86
-60,Jenfeld,10.135,53.575,50
-72,Haddamar,9.266,51.159,50
 522,Karlsruhe,8.405,49.01,363
-147,Waghäusel,8.514,49.251,50
-72,Helmarshausen,9.46,51.631,50
+123,Waghäusel,8.514,49.251,50
 72,Krumbach,8.599,50.668,50
-147,Brokstedt,9.821,53.99,60
+86,Brokstedt,9.821,53.99,50
 60,Stornfels,9.036,50.487,50
 147,Nidda,9.007,50.414,103
-72,Holdersbach,8.175,48.386,50
-60,Dilschhausen,8.658,50.817,50
-86,Calden,9.401,51.41,50
-86,Suroide,9.972,52.964,50
-103,Weinheim,8.671,49.551,103
-103,Weimar,9.394,51.366,50
+176,Calden,9.401,51.41,50
+147,Weinheim,8.671,49.551,103
+86,Weimar,9.394,51.366,50
 103,Blomberg,9.091,51.943,72
 103,Münchhausen,8.716,50.96,50
-103,Lebrade,10.422,54.217,50
 60,Bodenheim,8.307,49.928,50
 60,Toppenstedt,10.11,53.263,50
+72,Lohra,8.631,50.736,50
 72,Goldbeck,9.154,52.104,50
 60,Lauenbrück,9.552,53.201,50
 72,Präg,7.968,47.779,50
 147,Bad Driburg,9.017,51.736,123
 103,Bosau,10.43,54.104,50
-103,Wabern,9.35,51.101,60
 123,Grünstadt,8.162,49.565,86
 176,Schotten,9.124,50.502,72
-103,Felde,9.936,54.302,60
+147,Felde,9.936,54.302,60
+60,Rohrbach,8.687,49.38,50
 123,Gettorf,9.973,54.408,60
 86,Söllingen,8.542,48.986,60
 72,Innerlehen,8.036,47.802,50
 60,Lutzhorn,9.777,53.826,50
-72,Babenhausen,8.952,49.963,50
-176,Groß-Umstadt,8.926,49.868,86
+103,Babenhausen,8.952,49.963,50
+176,Groß-Umstadt,8.926,49.868,123
 60,Hinterzarten,8.106,47.904,50
 253,Uslar,9.635,51.661,123
 60,Besenfeld,8.419,48.595,50
-211,Homberg (Efze),9.407,51.033,123
+211,Homberg (Efze),9.407,51.033,86
 72,Barmstedt,9.769,53.79,50
-86,Lütjensee,10.365,53.649,50
 60,Dörnhagen,9.495,51.228,50
 72,Malente,10.555,54.171,50
+60,Rodheim-Bieber,8.598,50.619,50
 86,Jork,9.681,53.533,50
-60,Heubach,8.963,49.841,50
-60,Wettensen,9.805,52.016,50
 86,Heßloch,8.246,49.741,50
 60,Sprollenhaus,8.499,48.698,50
-60,Radbruch,10.284,53.311,50
-60,Röddensen,9.979,52.416,50
-60,Kälberau,9.094,50.091,50
-86,Faßberg,10.162,52.896,50
+123,Radbruch,10.284,53.311,50
+86,Arpsdorf,9.859,54.039,50
+176,Faßberg,10.162,52.896,50
 147,Görwihl,8.078,47.641,60
-60,Dassendorf,10.373,53.489,50
 72,Kefenrod,9.211,50.345,50
 72,Kleinenberg,8.976,51.584,50
+86,Höchst i.Odw.,8.994,49.8,60
 522,Celle,10.081,52.626,211
-72,Kasseburg,10.415,53.567,50
 60,Schwarzenborn,9.446,50.91,50
 103,Immeneich,8.125,47.696,50
-86,Krumbeck,10.55,53.918,50
 211,Hann.Münden,9.655,51.416,86
 72,Schneeren,9.333,52.533,50
 72,Völzberg,9.299,50.454,50
-72,Eichholz,9.079,51.841,50
-72,Büchenbronn,8.661,48.857,50
-72,Waldkirch,8.17,47.659,50
 253,Pforzheim,8.699,48.891,147
 72,Würzbach,8.633,48.718,50
+103,Wetter (Hessen),8.724,50.903,72
 60,Pfalzgrafenweiler,8.568,48.528,50
 86,Itzum-Marienburg,9.994,52.112,50
 86,Wangels,10.764,54.272,60
 72,Langwedel,9.932,54.212,50
 60,Siedlung Leinetal,9.933,51.899,50
 103,Rehren,9.233,52.234,50
+147,Steinheim,9.097,51.867,60
 72,Melbeck,10.403,53.179,50
 60,Schönwalde am Bungsberg,10.753,54.187,60
 60,Nusse,10.576,53.659,50
 60,Siebenstern,9.037,51.705,50
-60,Rotterterode,9.564,50.872,50
+86,Bad Bergzabern,7.999,49.1,72
 253,Korbach,8.873,51.272,147
 72,Fürstenberg,8.835,51.171,60
-72,Ellerhoop,9.771,53.728,50
 86,Lamspringe,10.009,51.958,60
 72,Stöckheim,9.932,51.748,50
 72,Hesselbach,9.09,49.575,50
@@ -3898,101 +3692,81 @@ rs,name,lon,lat,r1
 303,Calw,8.741,48.713,103
 103,Ober-Wegfurth,9.58,50.746,50
 86,Laufach,9.297,50.014,50
-72,Großalmerode,9.784,51.258,50
-72,Wasbek,9.896,54.071,50
+103,Großalmerode,9.784,51.258,50
 303,Frankenberg (Eder),8.799,51.059,176
 86,Eldingen,10.34,52.686,50
-60,Kohlgrund,8.945,51.435,50
+72,Wenden,9.389,52.628,50
 72,Steinau an der Straße,9.462,50.313,50
-60,Krofdorf-Gleiberg,8.635,50.621,50
-147,Buxtehude,9.699,53.476,103
+86,Udorf,8.941,51.42,50
+60,Hagenburg,9.323,52.433,50
+86,Buxtehude,9.699,53.476,72
 86,Anspach,8.507,50.292,50
 86,Nierstein,8.338,49.873,50
 147,Bad Dürkheim,8.169,49.46,86
 86,Willebadessen,9.029,51.625,72
-72,Sieverdingen,9.505,52.916,50
+123,Sieverdingen,9.505,52.916,50
 60,Niederorke,8.845,51.142,50
-147,Jechtingen,7.607,48.119,60
-72,Rohdental,9.249,52.201,50
+72,Deepen,9.586,53.12,50
 147,Usingen,8.537,50.334,60
-60,Falkenstein,8.48,50.19,50
-60,Bottendorf,8.811,51.027,50
-211,Nieheim,9.11,51.804,50
+123,Nieheim,9.11,51.804,50
 147,Neustadt an der Weinstraße,8.141,49.352,147
 211,Kehl,7.813,48.572,86
 60,Schieder,9.153,51.914,50
+86,Hofheim am Taunus,8.446,50.089,72
 103,Breisach am Rhein,7.583,48.031,103
 103,Hessisch Oldendorf,9.253,52.168,50
-86,Oberrosphe,8.776,50.911,50
-103,Fronhausen,8.695,50.704,50
-60,Mörzheim,8.075,49.168,50
+86,Wyhl am Kaiserstuhl,7.649,48.166,60
 123,Pinneberg,9.793,53.661,72
 176,Bad Bramstedt,9.882,53.919,60
-176,Edenkoben,8.127,49.283,60
+147,Edenkoben,8.127,49.283,60
 60,Grießem,9.207,52.013,50
-60,Großhemdingen,9.837,53.763,50
+72,Hemslingen,9.598,53.088,50
+103,Steinfeld,8.036,49.049,50
 103,Guntersblum,8.346,49.797,60
-103,Deidesheim,8.187,49.409,50
 72,Niederweimar,8.732,50.759,50
-60,Felm,10.061,54.41,50
-103,Rhoden,9.011,51.473,50
-147,Weisweil,7.678,48.197,60
+103,Rhoden,9.011,51.473,72
 60,Trebur,8.405,49.927,50
-72,Honau,7.869,48.64,50
 60,Alsheim,8.341,49.768,50
-72,Achkarren,7.626,48.068,50
 86,Twiste,8.966,51.337,50
 626,Gießen,8.675,50.586,303
-72,Lentföhrden,9.888,53.873,50
 363,Landau in der Pfalz,8.112,49.197,123
-147,Osthofen,8.323,49.704,60
-72,Söhlingen,9.613,53.079,50
+123,Osthofen,8.323,49.704,60
 147,Hagen,9.433,52.576,50
-86,Hollenstedt,9.715,53.367,72
+86,Hollenstedt,9.715,53.367,50
 123,Visselhövede,9.58,52.986,103
-86,Cranz,9.775,53.533,50
-60,Cölbe,8.784,50.85,50
+86,Cölbe,8.784,50.85,50
 86,Altenheim,7.807,48.467,72
 435,Marburg,8.769,50.809,176
-60,Kettenburg,9.573,52.955,50
 147,Rust,7.726,48.269,50
 123,Einfeld,9.988,54.13,50
 60,Bodersweier,7.871,48.6,50
-72,Wittenweier,7.757,48.328,50
 72,Lang-Göns,8.66,50.498,50
+60,Königstädten,8.449,49.968,50
 72,Hollige,9.542,52.824,50
 103,Fintel,9.668,53.172,60
-60,Ichenheim,7.812,48.431,50
+72,Ichenheim,7.812,48.431,50
 72,Aerzen,9.262,52.047,50
-103,Schwalenberg,9.199,51.877,50
-147,Schaidt,8.081,49.059,50
+60,Schwalenberg,9.199,51.877,50
 123,Vöhl,8.944,51.205,50
 60,Tungendorf,9.996,54.099,50
 86,Bad Nenndorf,9.375,52.339,50
 176,Bad Arolsen,9.017,51.38,86
-60,Lachen,8.199,49.323,50
 86,Bordesholm,10.026,54.176,50
 72,Alraft,8.969,51.242,50
 60,Löwen,9.099,51.579,50
+60,Rohrbach,8.128,49.137,50
 72,Großenaspe,9.967,53.976,50
 60,Grißheim,7.59,47.874,50
 72,Zienken,7.578,47.843,50
-86,Essingen,8.174,49.236,50
 72,Lauenau,9.368,52.274,50
 176,Wunstorf,9.424,52.425,60
 253,Bad Pyrmont,9.263,51.986,103
 86,Freistett,7.94,48.664,72
 60,Horst,9.707,53.201,50
 253,Neustadt am Rübenberge,9.458,52.505,72
-60,Dänischenhagen,10.13,54.426,50
 147,Butzbach,8.672,50.434,60
-60,Oberursel (Taunus),8.582,50.201,50
-86,Kleinkems,7.524,47.687,50
-60,Frankenau,8.935,51.09,50
-72,Rheder,9.163,51.68,50
-60,Braunsen,9.039,51.35,50
-60,Lünzen,9.69,53.112,50
-303,Worms,8.362,49.63,103
+60,Maxdorf,8.288,49.482,50
+303,Worms,8.362,49.63,123
 103,Groß-Gerau,8.482,49.922,50
 86,Brakel,9.184,51.717,86
 72,Otter,9.743,53.241,50
@@ -4001,338 +3775,330 @@ rs,name,lon,lat,r1
 60,Herbolzheim,7.777,48.222,50
 72,Wik,10.131,54.355,50
 103,Lurup,9.871,53.593,60
+147,Beber,9.381,52.224,50
 103,Kaltenkirchen,9.959,53.838,50
 60,Menne,9.122,51.521,50
 60,Hasloh,9.912,53.694,50
 211,Hodenhagen,9.584,52.762,72
 72,Kolenfeld,9.453,52.389,50
 123,Boostedt,10.026,54.01,50
-72,Roxheim,8.365,49.578,50
+176,Neugraben-Fischbek,9.842,53.472,72
+86,Geinsheim,8.254,49.306,60
 60,Klein Berkel,9.343,52.076,50
 1556,Kiel,10.137,54.322,626
-72,Trelde,9.794,53.319,50
 363,Hameln,9.356,52.104,211
 86,Ettenheim,7.813,48.255,72
-86,Frankenthal (Pfalz),8.354,49.536,50
-60,Ruchheim,8.328,49.472,50
+60,Finkenwerder,9.871,53.534,50
+103,Frankenthal (Pfalz),8.354,49.536,60
 86,Großen-Buseck,8.788,50.609,60
-60,Schwanheim,8.581,50.086,50
 147,Friedrichsort,10.171,54.397,50
 103,Neuenkirchen,9.704,53.033,60
+72,Kronsburg,10.139,54.288,50
 60,Düshorn,9.634,52.832,50
 363,Müllheim,7.631,47.808,86
-60,Eimbeckhausen,9.419,52.235,50
-60,Bühl,7.932,48.496,50
-72,Friesenheim,7.882,48.373,50
-72,Volkmarsen,9.115,51.413,50
+86,Efringen-Kirchen,7.566,47.65,50
 72,Söllingen,8.058,48.782,50
-123,Rauschenberg,8.915,50.883,50
+72,Zeiskam,8.248,49.233,60
 176,Ulzburg,9.981,53.79,72
 103,Schwarzach,8.046,48.747,50
 253,Lahr/Schwarzwald,7.874,48.339,103
 176,Dreihausen,8.857,50.728,72
-72,Stausebach,8.903,50.842,50
 123,Ober-Rosbach,8.692,50.305,50
-60,Kandel,8.193,49.081,50
+176,Kandel,8.193,49.081,50
 86,Metel,9.549,52.547,50
 147,Bad Krozingen,7.7,47.916,86
+60,Mörfelden,8.568,49.976,60
+60,Walldorf,8.58,50.005,50
 147,Barsinghausen,9.465,52.302,103
-86,Biblis,8.45,49.683,50
-60,Bombach,7.818,48.178,50
-60,Hausbruch,9.887,53.476,50
 751,Offenburg,7.944,48.469,363
+60,Mönkeberg,10.187,54.348,50
 123,Emmern,9.377,52.049,50
 60,Kirchbarkau,10.142,54.212,50
-123,Gemünden (Wohra),8.97,50.971,72
-72,Märkt,7.581,47.626,50
-60,Appenweier,7.978,48.537,50
+123,Gemünden (Wohra),8.97,50.971,86
 147,Waldeck,9.062,51.207,72
+60,Hüddingen,9.019,51.096,50
 253,Bad Nauheim,8.735,50.363,103
-60,Bühle,9.107,51.317,50
 72,Wintermoor,9.795,53.185,50
+60,Frielingen,9.722,52.977,50
 60,Krelingen,9.66,52.803,50
 103,Londorf,8.862,50.675,50
-103,Gernsheim,8.493,49.752,72
-60,Nordgoltern,9.494,52.339,50
+123,Gernsheim,8.493,49.752,72
 147,Schwarmstedt,9.618,52.676,103
-72,Hademstorf,9.631,52.713,50
-60,Moos,8.065,48.718,50
-60,Hugstetten,7.78,48.053,50
-60,Warmeloh,9.601,52.624,50
+72,Münzenberg,8.777,50.456,50
+60,Kirchhain,8.921,50.821,50
+86,Hugstetten,7.78,48.053,50
+60,Elgersweier,7.948,48.441,50
 72,Schülern,9.766,53.084,50
-60,Elmschenhagen,10.185,54.292,50
+86,Bürstadt,8.453,49.64,50
 86,Renchen,8.014,48.588,50
+60,Bad Fallingbostel,9.694,52.866,50
 60,Heidmühlen,10.084,53.972,50
 147,Schneverdingen,9.787,53.118,103
-86,Handeloh,9.833,53.245,50
-86,Hundsdorf,9.039,51.08,50
+86,Hartenholm,10.06,53.9,50
+86,Handeloh,9.833,53.245,60
 72,Reinsehlen,9.808,53.153,50
 60,Birklar,8.813,50.494,50
-72,Schallstadt,7.761,47.957,50
 60,Sulzburg,7.71,47.84,50
 86,Nenndorf,9.895,53.379,50
-72,Schifferstadt,8.375,49.386,60
 176,Borgentreich,9.24,51.572,72
-72,Iffezheim,8.141,48.823,50
+60,Weiterstadt,8.588,49.906,50
 103,Buchholz in der Nordheide,9.881,53.329,72
 86,Lampertheim,8.463,49.596,50
 211,Kandern,7.663,47.715,60
-72,Gartenstadt,8.411,49.46,50
-60,Holm-Seppensen,9.872,53.286,50
-72,Löhndorf,10.17,54.146,50
+72,Breuna,9.185,51.416,60
+60,Daseburg,9.222,51.513,50
+60,Gartenstadt,8.411,49.46,50
+123,Wolferode,8.987,50.893,50
 253,Emmendingen,7.848,48.122,103
-60,Josbach,8.998,50.913,50
-2688,Frankfurt am Main,8.682,50.111,901
-86,Oerbke,9.725,52.853,50
+1867,Frankfurt am Main,8.682,50.111,901
 86,Ippinghausen,9.145,51.281,50
 253,Achern,8.074,48.629,50
 60,Seelbach,7.941,48.31,50
+86,Göxe,9.546,52.34,50
+72,Jockgrim,8.277,49.094,50
 123,Wolfhagen,9.17,51.326,72
-72,Hagenbach,8.247,49.02,50
-123,Langenhorn,10.018,53.649,50
+103,Hagenbach,8.247,49.02,50
+86,Langenhorn,10.018,53.649,50
 72,Wölfersheim,8.813,50.399,50
-60,Erzhausen,8.635,49.953,50
 60,Ottenstein,9.409,51.946,50
 60,Negenborn,9.632,52.553,50
 72,Dalhausen,9.291,51.627,50
 86,Ottoschwanden,7.898,48.187,50
-86,Dorfmark,9.76,52.902,60
+60,Raisdorf,10.238,54.282,50
+103,Dorfmark,9.76,52.902,50
 72,Ostenholz,9.722,52.775,60
 2240,Hamburg,9.997,53.551,1556
-72,Langwaden,8.551,49.718,50
-72,Giflitz,9.121,51.155,50
 72,Brullsen,9.498,52.151,50
-60,Bad Vilbel,8.741,50.181,60
+103,Bad Vilbel,8.741,50.181,60
 1297,Lörrach,7.659,47.612,303
+60,Seelze,9.589,52.397,50
 176,Polle,9.407,51.899,50
 72,Neu-Isenburg,8.695,50.055,50
 211,Rastatt,8.203,48.858,72
+1297,Mannheim,8.466,49.488,522
 123,Bühl,8.136,48.696,60
-72,Gengenbach,8.013,48.406,50
+60,Wilhelmsburg,9.993,53.51,50
+123,Gengenbach,8.013,48.406,50
 72,Rickling,10.165,54.006,50
 72,Schuttertal,7.957,48.269,50
-103,Bockhorn,10.137,53.919,50
 60,Nothfelden,9.211,51.353,50
 123,Bad Wildungen,9.125,51.12,123
+60,Langen (Hessen),8.679,49.989,50
 103,Wankendorf,10.208,54.113,50
 60,Jettebruch,9.797,52.931,50
 60,Niederklein,9,50.795,50
 123,Oberkirch,8.077,48.532,72
-72,Ötigheim,8.232,48.893,50
-60,Hesselbach,8.065,48.5,50
+72,Waldsee,8.441,49.395,50
 103,Sprendlingen,8.695,50.018,72
 176,Stadtallendorf,9.017,50.828,123
-72,Lumda,8.942,50.635,50
 751,Freiburg im Breisgau,7.85,47.995,751
 253,Höxter,9.382,51.776,253
 176,Lindwedel,9.687,52.606,50
-60,Tangstedt,10.087,53.733,50
-123,Denzlingen,7.884,48.067,50
-86,Grenzach,7.659,47.553,50
-86,Germersheim,8.374,49.218,72
+72,Gebirg,8.056,48.466,50
 60,Reichenbach,7.925,48.158,50
-60,Assenheim,8.815,50.298,50
+60,Berstadt,8.866,50.426,50
+86,Depenau,10.235,54.157,50
 60,Heber,9.863,53.081,50
 60,Wennigsen (Deister),9.574,52.274,50
-60,Mechtersheim,8.399,49.266,50
-86,Escheberg,9.249,51.397,50
 103,Rotenbuck,7.793,47.839,50
+86,Braunau,9.128,51.08,50
 211,Springe,9.555,52.209,72
 253,Soltau,9.838,52.987,123
-363,Darmstadt,8.654,49.872,211
+303,Darmstadt,8.654,49.872,211
 86,Homberg (Ohm),8.997,50.728,72
 72,Schweighausen,7.966,48.22,50
 123,Hungen,8.901,50.476,50
-60,Günterstal,7.861,47.962,50
+60,Fleestedt,9.992,53.406,50
 86,Speyer,8.437,49.316,86
-176,Preetz,10.281,54.232,50
+176,Preetz,10.281,54.232,72
 86,Wies,7.77,47.748,50
 123,Eberstadt,8.645,49.818,50
+86,Nahe,10.135,53.795,50
 86,Mörsch,8.293,48.959,60
 123,Trappenkamp,10.221,54.042,86
 211,Grünberg,8.959,50.593,123
 60,Duvenstedt,10.107,53.705,50
-60,Horben,7.859,47.935,50
-60,Fürstenberg,9.399,51.731,50
 60,Esperde,9.513,52.027,50
-60,Drögenheide,9.873,53.017,50
+60,Reichelsheim (Wetterau),8.875,50.358,50
+72,Kayhude,10.134,53.758,50
 103,Coppenbrügge,9.55,52.118,50
-72,Thören,9.755,52.678,50
+60,Oberhaverbeck,9.922,53.146,50
+86,Nieder-Florstadt,8.861,50.319,60
 60,Steinen,7.74,47.644,50
 60,Villingen,8.935,50.504,50
+72,Brandmatt,8.161,48.615,50
 103,Holzminden,9.447,51.829,50
-103,Seeheim-Jugenheim,8.645,49.768,50
-86,Seth,10.175,53.85,50
+72,Asendorf,9.979,53.29,50
+103,Seth,10.175,53.85,50
 60,Mengsberg,9.1,50.901,50
 72,Ottenhöfen im Schwarzwald,8.153,48.568,50
-72,Brasilien,10.375,54.426,50
-72,Wenzigerode,9.176,51.086,50
 86,Zell am Harmersbach,8.062,48.346,50
 123,Bodenwerder,9.516,51.977,72
 522,Baden-Baden,8.24,48.762,211
-86,Ahlem,9.663,52.377,50
+60,Ahlem,9.663,52.377,50
 253,Bensheim,8.622,49.68,103
 86,Schönberg (Holstein),10.372,54.392,86
+60,Liedolsheim,8.416,49.161,60
 86,Mellendorf,9.733,52.546,86
-103,Bad Zwesten,9.175,51.052,60
-60,Steinach,8.057,48.303,50
-123,Messel,8.741,49.939,50
+72,Ronnenberg,9.653,52.319,50
+123,Rheinau,8.53,49.43,50
+147,Messel,8.741,49.939,50
 72,Neureut,8.378,49.052,50
 103,Burg-Gemünden,9.037,50.681,50
-60,Linkenheim-Hochstetten,8.409,49.125,50
-72,Empelde,9.668,52.344,50
+72,Züschen,9.229,51.172,50
+86,Heldenbergen,8.863,50.235,50
+60,Viernheim,8.582,49.537,50
 60,Derental,9.43,51.695,50
 72,Strang,9.152,50.965,50
-86,Sand,9.261,51.244,50
+253,Sand,9.261,51.244,50
 60,Schönwald,8.12,48.426,50
 86,Laubach,8.99,50.543,50
 60,Bevern,9.494,51.857,50
-72,Nieder-Ohmen,9.032,50.646,50
-60,Glasholz,10.317,54.151,50
-72,Bargfeld-Stegen,10.187,53.767,50
+86,Harmelingen,9.925,53.032,50
+72,Riede,9.255,51.208,50
+72,Billstedt,10.11,53.539,50
 60,Kaltenweide,9.734,52.476,50
-86,Windecken,8.876,50.221,72
 211,Hanstedt,10.014,53.258,60
+60,Wachenbuchen,8.855,50.167,50
 86,Deisel,9.409,51.594,50
-147,Fargau,10.379,54.319,50
 86,Heppenheim (Bergstraße),8.644,49.641,50
-60,Sand,8.239,48.658,50
+103,Sand,8.239,48.658,50
 103,Malsch,8.335,48.88,50
 147,Oppenau,8.165,48.475,50
 72,Volksdorf,10.162,53.65,50
 176,Hofgeismar,9.383,51.494,123
-72,Brackel,10.041,53.297,50
-123,Langenhagen,9.734,52.438,50
+103,Langenhagen,9.734,52.438,50
 123,Kirtorf,9.106,50.768,50
+60,Lehmkuhlen,10.361,54.226,50
+72,Mittelrode,9.652,52.205,50
 86,Minseln,7.791,47.599,50
 60,Hümme,9.407,51.543,50
 123,Haslach im Kinzigtal,8.088,48.276,60
-72,Kirchzarten,7.955,47.965,60
-86,Gaggenau,8.318,48.807,50
-86,Rahlstedt,10.157,53.604,60
+103,Rahlstedt,10.157,53.604,72
 123,Meißendorf,9.851,52.73,50
-123,Oberried,7.946,47.933,50
+60,Oberried,7.946,47.933,50
 72,Dersau,10.336,54.118,50
 123,Schopfheim,7.823,47.65,72
 103,Rheinfelden (Baden),7.784,47.561,72
-60,Roßdorf,8.757,49.858,50
 72,Leezen,10.252,53.865,50
-72,Becklingen,9.905,52.867,50
 147,Zell im Wiesental,7.852,47.708,50
 60,Ockensen,9.601,52.031,50
-86,Volkwardingen,9.999,53.132,50
+103,Sülfeld,10.232,53.8,60
 72,Mühlenberg,9.515,51.795,50
-60,Nieder-Modau,8.738,49.798,50
-72,Obertshausen,8.849,50.072,50
+86,Obertshausen,8.849,50.072,50
 86,Eldagsen,9.656,52.171,50
+86,Hemsbach,8.656,49.593,50
 60,Wembach,7.888,47.773,50
 60,Fohlenplacken,9.509,51.764,50
-72,Hockenheim,8.547,49.319,60
-60,Oberweier,8.381,48.914,50
+60,Schwetzingen,8.574,49.385,50
+86,Hockenheim,8.547,49.319,50
+60,Ober-Modau,8.74,49.789,50
+60,Rüppurr,8.405,48.972,50
+2240,Hannover,9.738,52.375,626
 303,Treysa,9.188,50.912,86
 72,Zimmersrode,9.228,51.007,50
-103,Altenstadt,8.945,50.286,50
-123,Elzach,8.069,48.172,103
+72,Fritzlar,9.275,51.131,72
+123,Elzach,8.069,48.172,60
 86,Bispingen,9.996,53.082,72
-86,Sankt Wilhelm,7.95,47.895,50
-103,Neudorf,8.496,49.173,50
-86,Ober-Roden,8.827,49.979,50
+103,Sankt Wilhelm,7.95,47.895,50
 72,Hoof,9.343,51.283,50
 147,Ettlingen,8.406,48.942,60
 176,Bad Segeberg,10.304,53.937,103
-72,Brandau,8.739,49.735,50
-72,Freiolsheim,8.372,48.847,50
-103,Simonswald,8.056,48.1,60
-147,Hundsbach,8.28,48.614,50
+123,Selent,10.426,54.29,72
+60,Simonswald,8.056,48.1,50
+86,Hundsbach,8.28,48.614,50
 103,Blankenloch,8.471,49.064,50
 72,Ehrsberg,7.906,47.743,50
-86,Amelith,9.514,51.694,50
-60,Theresienhof,10.402,54.19,50
+86,Amelith,9.514,51.694,60
 103,Bad Peterstal,8.206,48.429,50
+60,Schluttenbach,8.406,48.899,50
 211,Todtnau,7.948,47.829,103
-60,Egestorf,10.063,53.195,50
+72,Egestorf,10.063,53.195,50
 86,Hanau,8.915,50.136,86
 72,St. Peter,8.034,48.016,50
+72,Buchenbach,8.01,47.961,72
+60,Rommelhausen,8.973,50.261,60
 60,Fuhrberg,9.848,52.565,60
-60,Lammershagen,10.444,54.275,50
 60,Ruhlkirchen,9.185,50.796,50
-147,Wietzendorf,9.976,52.917,60
+103,Wietzendorf,9.976,52.917,60
 147,Bargteheide,10.262,53.73,60
-60,Eichelsdorf,9.055,50.456,50
-72,Buhlbach,8.264,48.526,50
 176,Jügesheim,8.885,50.024,86
 60,Schwartbuck,10.478,54.358,50
-72,Schriesheim,8.664,49.476,50
-60,Mucheln,10.443,54.246,50
+103,Schriesheim,8.664,49.476,50
 103,Altenhain,9.102,50.562,50
 72,Weisenbach,8.355,48.729,50
 86,Beberbeck,9.479,51.535,50
 72,Dieburg,8.84,49.899,50
 147,Plön,10.416,54.158,60
-103,Glinde,10.211,53.54,50
+60,Rathjensdorf,10.428,54.186,50
+60,Stockheim,9.017,50.325,50
 72,Eschershausen,9.634,51.93,50
 103,Winsen (Aller),9.909,52.679,86
-72,Loffenau,8.387,48.774,50
 60,Pattensen,9.761,52.264,50
 147,Stadtoldendorf,9.623,51.882,60
-253,Bergen,9.962,52.81,147
-72,Marköbel,8.986,50.223,50
+176,Bergen,9.962,52.81,147
+72,Pattensen,10.145,53.319,50
 60,Sankt Leon,8.6,49.267,50
-86,Rittenweier,8.702,49.511,50
 123,Laatzen,9.788,52.315,50
+60,Schmalenbeck,10.264,53.653,50
 176,Forbach,8.359,48.68,72
-103,Gudensberg,9.366,51.178,60
+86,Gudensberg,9.366,51.178,50
 103,Großburgwedel,9.856,52.492,60
-147,Bergedorf,10.21,53.488,86
+123,Bergedorf,10.21,53.488,50
 86,Reinheim,8.835,49.826,50
-60,Stemwarde,10.242,53.571,50
-60,Lindenfels,8.78,49.683,50
+72,Langendiebach,8.978,50.171,50
 103,Seedorf,10.409,54.05,50
 123,Ortenberg,9.054,50.356,50
+60,Walke,8.225,48.345,50
 60,Groß-Felda,9.172,50.65,50
+60,Marxzell,8.448,48.863,50
+72,Trutzhain,9.272,50.903,50
 72,Oberwolfach,8.217,48.317,72
+103,Neuschönningstedt,10.246,53.551,50
 72,Elze,9.736,52.122,50
 86,Kirchwerder,10.202,53.42,50
-72,Heinade,9.633,51.839,50
 60,Immenhausen,9.48,51.427,50
 123,Altenbauna,9.416,51.254,50
 86,Duingen,9.699,52.006,50
 103,Gieselwerder,9.55,51.599,50
-60,Lendorf,9.347,51.063,50
+103,Bad Herrenalb,8.438,48.798,50
 103,Garbek,10.418,54.001,50
 72,Romrod,9.221,50.715,50
-60,Misburg,9.854,52.39,50
+60,Löhrbach,8.756,49.548,50
+72,Misburg,9.854,52.39,60
 72,Seefeld,10.37,53.847,50
 72,Kniebis,8.311,48.473,50
 123,Frielendorf,9.328,50.976,50
-176,Heidelberg,8.706,49.411,147
-72,Luhdorf,10.197,53.33,50
+176,Heidelberg,8.706,49.411,123
+60,Wingershausen,9.131,50.468,50
 86,Winsen (Luhe),10.209,53.362,86
 60,Todtmoos,8.001,47.739,60
-60,Langensteinbach,8.506,48.917,50
 86,Nordstemmen,9.783,52.16,60
-176,Bruchsal,8.598,49.126,103
+60,Leimen,8.689,49.349,50
+86,Gütenbach,8.139,48.045,50
+60,Seligenstadt,8.973,50.044,50
+103,Bruchsal,8.598,49.126,103
 72,Schrecksbach,9.285,50.835,50
 60,Reichelsheim (Odenwald),8.84,49.712,60
+103,Salzhausen,10.169,53.226,72
 147,Bad Oldesloe,10.373,53.81,123
-72,Schapbach,8.291,48.378,50
-103,Raven,10.159,53.174,50
+60,Fränkisch-Crumbach,8.858,49.746,50
+103,Schapbach,8.291,48.378,50
+60,Raven,10.159,53.174,50
 211,Munster,10.093,52.987,123
-60,Im Stockmädle,8.509,48.883,50
-86,Brensbach,8.879,49.773,50
+72,Rütte,7.99,47.673,50
+72,Jöhlingen,8.574,49.032,50
 103,Gronau (Leine),9.774,52.084,60
 103,Hornberg,8.23,48.212,72
 72,Ubstadt,8.631,49.16,50
-72,Stubben,10.418,53.894,50
+86,Felsberg,9.422,51.135,60
 72,Pölitz,10.382,53.773,50
-60,Bad Säckingen,7.949,47.553,60
-1297,Kassel,9.495,51.315,626
-60,Rickenbach,7.98,47.62,50
+2240,Kassel,9.495,51.315,626
+60,Dudenrod,9.111,50.322,50
 60,Diesten,10.038,52.782,50
 72,Panker,10.573,54.33,50
-147,Dobel,8.494,48.797,50
 72,Zellhausen,8.994,50.015,50
-103,Wiesloch,8.701,49.293,50
+123,Wiesloch,8.701,49.293,50
 72,Baiersbronn,8.372,48.506,50
 147,Dassel,9.688,51.803,86
 60,Vierhöfen,10.222,53.261,50
@@ -4340,403 +4106,386 @@ rs,name,lon,lat,r1
 176,Sarstedt,9.856,52.234,60
 60,Großropperhausen,9.369,50.94,50
 123,Neukirchen,9.343,50.871,86
-72,Feldrennach,8.531,48.855,50
-147,Wald-Michelbach,8.83,49.571,86
+103,Feldrennach,8.531,48.855,72
 60,Breungeshain,9.206,50.508,50
+60,Mollhagen,10.384,53.708,60
 103,Wilferdingen,8.575,48.946,50
-147,Heselbach,8.404,48.541,50
 86,Pronstorf,10.471,53.958,50
-60,Schlierbach,8.973,49.912,50
 103,Meiches,9.256,50.624,50
-72,Grasellenbach,8.861,49.63,50
+72,Grasellenbach,8.861,49.63,60
 60,Sieversdorf,10.56,54.202,50
-72,Helmsheim,8.641,49.085,50
+86,Lütjenburg,10.592,54.295,86
 103,Hermannsburg,10.09,52.831,60
 72,Glasau,10.517,54.057,50
 123,Veckerhagen,9.603,51.494,60
 60,Enzklösterle,8.475,48.668,50
 72,Glashütte,9.619,51.527,50
+72,Grebenau,9.493,51.193,50
+60,Ellmendingen,8.577,48.901,50
 176,Gedern,9.198,50.424,60
-60,Östringen,8.712,49.219,50
+103,Östringen,8.712,49.219,50
 72,Trauen,10.137,52.928,50
-60,Ilten,9.931,52.346,50
-60,Nußbach,8.258,48.131,50
-123,Amelinghausen,10.212,53.125,72
+123,Amelinghausen,10.212,53.125,86
+123,Alzenau,9.072,50.087,50
 60,Schönau,8.809,49.436,60
-72,Bammental,8.778,49.357,50
+60,Bammental,8.778,49.357,50
 60,Bockum,10.204,53.091,50
 60,Verliehausen,9.67,51.614,50
-72,Wetzen,10.239,53.175,50
+147,Igelsberg,8.441,48.539,50
+72,Lohfelden,9.544,51.277,50
+103,Wetzen,10.239,53.175,50
+60,Hänner,8.034,47.595,50
 147,Freudenstadt,8.411,48.464,147
-60,Groß Hehlen,10.058,52.656,50
 86,Delligsen,9.799,51.943,50
-72,Giesen,9.892,52.195,50
+60,Giesen,9.892,52.195,50
 123,Brauerschwend,9.327,50.697,50
-86,Högsdorf,10.615,54.252,50
-86,Körle,9.514,51.175,50
-123,Somborn,9.113,50.141,50
+72,Eimen,9.778,51.876,50
+72,Unter Schönmattenwag,8.863,49.523,60
 211,Alfeld (Leine),9.826,51.987,123
 72,Otze,10.009,52.485,50
+72,Neibsheim,8.682,49.069,50
 211,Trittau,10.407,53.61,86
+72,Olfen,8.896,49.588,50
 123,St. Blasien,8.126,47.762,86
 72,Bad Wildbad,8.551,48.749,72
 60,Ottrau,9.386,50.804,50
 60,Oerrel,10.187,52.959,50
+72,Gierswalde,9.714,51.661,50
 72,Severloh,10.119,52.768,50
-147,Lehrte,9.977,52.373,103
+147,Lehrte,9.977,52.373,123
+86,Gettenbach,9.167,50.241,50
 86,Münzesheim,8.715,49.123,60
-72,Avendshausen,9.787,51.849,50
 72,Remsfeld,9.469,51.001,50
 176,Burgdorf,10.009,52.447,60
 176,Neustadt,8.208,47.917,147
+86,Urach,8.25,48.005,50
 123,Sehnde,9.967,52.31,50
 123,Simmersfeld,8.517,48.621,50
-123,Zarpen,10.518,53.87,50
-123,Laufenburg (Baden),8.062,47.565,60
-103,Odenheim,8.751,49.177,50
+60,Obermusbach,8.468,48.507,50
+123,Zarpen,10.518,53.87,72
+123,Laufenburg (Baden),8.062,47.565,123
+86,Odenheim,8.751,49.177,50
+60,Hohwacht (Ostsee),10.674,54.321,50
 103,Geesthacht,10.372,53.434,72
-147,Linach,8.266,48.024,50
 72,Sprantal,8.683,49.002,50
-60,Delliehausen,9.743,51.683,50
 363,Eutin,10.615,54.139,176
 103,Lenzkirch,8.2,47.869,50
 103,Ahrensbök,10.573,54.011,72
 176,Schluchsee,8.18,47.819,50
+60,Handorf,10.345,53.345,50
+72,Bruck,8.341,48.177,50
 211,Melsungen,9.544,51.131,86
 103,Lingelbach,9.403,50.761,50
-103,Großostheim,9.074,49.919,50
+60,Schachen,8.098,47.603,50
+86,Großostheim,9.074,49.919,50
 123,Bad König,9.005,49.744,50
 72,Malsfeld,9.538,51.094,50
 103,Loßburg,8.453,48.412,50
-211,Gelnhausen,9.191,50.203,123
-60,Ispringen,8.668,48.918,50
+211,Gelnhausen,9.191,50.203,147
 86,St. Georgen im Schwarzwald,8.332,48.126,72
-60,Linau,10.468,53.644,50
+72,Linau,10.468,53.644,50
+60,Sibbesse,9.903,52.055,50
 60,Höchenschwand,8.166,47.735,50
 86,Aichhalden,8.399,48.269,50
+72,Harsum,9.964,52.21,50
+103,Vöhrenbach,8.304,48.046,60
+72,Garßen,10.13,52.66,50
 147,Schramberg,8.386,48.225,123
 211,Hildesheim,9.948,52.151,176
+60,Voldagsen,9.842,51.86,50
 86,Wettenbostel,10.282,53.076,50
 147,Herbstein,9.349,50.563,60
-86,Sandesneben,10.497,53.688,60
-60,Ersheim,8.904,49.449,50
-60,Asel,9.97,52.194,50
-86,Johannesberg,9.144,50.031,50
+123,Sandesneben,10.497,53.688,50
+72,Großrolübbe,10.688,54.239,50
+103,Johannesberg,9.144,50.031,50
 60,Stroit,9.86,51.889,50
 147,Nienhagen,10.104,52.556,60
-103,Oberkaufungen,9.634,51.283,72
 303,Michelstadt,9.004,49.679,123
-60,Bockholt,10.646,54.107,50
 86,Grebenhain,9.335,50.489,60
-103,Adelebsen,9.754,51.579,60
+103,Adelebsen,9.754,51.579,72
 72,Tespe,10.414,53.396,50
 123,Lauterbach (Hessen),9.398,50.636,103
-60,Wittgenborn,9.262,50.287,50
-60,Beerfelden,8.974,49.567,60
+211,Beerfelden,8.974,49.567,86
 72,Eisenbach,9.387,50.603,50
+72,Hänigsen,10.094,52.483,50
+86,Bauschlott,8.728,48.971,50
 60,Neuweiler,8.597,48.658,50
-72,Flehingen,8.782,49.087,50
+72,Oldenrode,9.816,51.721,50
 86,Wriedel,10.299,53.032,60
-60,Nieste,9.671,51.313,50
+147,Nieste,9.671,51.313,50
 72,Oberscheden,9.727,51.459,50
-60,Dolgen,10.048,52.319,50
 435,Einbeck,9.866,51.817,211
 86,Hardt,8.411,48.184,50
-60,Moorgarten,10.578,53.81,50
 86,Ibra,9.493,50.827,50
+103,Schönbrunn,8.929,49.411,50
 123,Birstein,9.31,50.353,60
 253,Schwarzenbek,10.478,53.503,60
 60,Elsenz,8.836,49.174,50
-72,Dogern,8.172,47.609,50
+86,Hausen,9.567,50.994,50
 86,Dransfeld,9.763,51.502,60
-72,Alvern,10.187,52.656,50
 253,Sinsheim,8.879,49.253,123
 72,Altensteig,8.602,48.584,60
-103,Huckelheim,9.241,50.126,50
-123,Hardegsen,9.83,51.651,50
-626,Lüneburg,10.409,53.249,211
+103,Arpke,10.1,52.386,50
+86,Huckelheim,9.241,50.126,50
+626,Lüneburg,10.409,53.249,253
 103,Dornhan,8.51,48.351,50
-60,Oberwaldach,8.576,48.498,50
+60,Fluorn,8.489,48.3,50
+86,Helsa,9.686,51.257,50
 86,Eimke,10.314,52.967,50
-103,Hainrode,9.576,50.967,50
-60,Oberkollbach,8.684,48.747,50
-72,Waldhof,9.681,51.233,50
-103,Hohenhameln,10.063,52.258,50
+86,Hohenhameln,10.063,52.258,50
 211,Eschede,10.235,52.734,86
 60,Hösbach,9.203,50.004,50
-86,Brietlingen,10.448,53.332,50
 60,Günsterode,9.66,51.17,50
-60,Winzeln,8.493,48.285,50
-103,Bullau,9.047,49.611,50
+72,Bullau,9.047,49.611,50
 103,Waibstadt,8.92,49.3,50
-176,Eberbach,8.99,49.462,86
+363,Eberbach,8.99,49.462,86
 72,Breinum,9.988,52.031,50
 60,Oberode,9.749,51.386,50
-103,Aua,9.571,50.917,60
+147,Aua,9.571,50.917,60
 72,Immensen,9.899,51.782,50
+103,Schöllkrippen,9.246,50.086,60
 86,Adendorf,10.444,53.288,50
 72,Vielbrunn,9.098,49.712,50
 60,Westerberg,9.956,51.929,50
-86,Moringen,9.871,51.697,50
 147,Bad Salzdetfurth,10.008,52.063,72
-72,Hämelerwald,10.115,52.355,60
 86,Süsel,10.718,54.077,50
-72,Elmenhorst,10.538,53.545,50
-72,Elsenfeld,9.161,49.846,50
-72,Knutbühren,9.82,51.539,50
-253,Unterlüß,10.296,52.84,72
+86,Unterbränd,8.357,47.934,50
+72,Spangenberg,9.659,51.117,60
+86,Elsenfeld,9.161,49.846,50
+123,Unterlüß,10.296,52.84,72
 103,Löffingen,8.344,47.884,72
 60,Gailbach,9.208,49.946,50
 60,Reihen,8.914,49.217,50
 72,Freiensteinau,9.403,50.424,50
 72,Haidenhof,8.577,48.406,50
-60,Aichen,8.262,47.676,50
-60,Wahlert,9.365,50.316,50
-60,Erlenbach a.Main,9.161,49.802,60
+60,Esebeck,9.844,51.564,50
+123,Erlenbach a.Main,9.161,49.802,103
 103,Neubulach,8.692,48.661,50
 86,Kirchheim,9.574,50.841,50
+72,Dunningen,8.505,48.213,60
 103,Dalle,10.299,52.78,50
 72,Friedrichsdorf,9.055,49.52,50
 103,Bad Schwartau,10.696,53.92,50
-72,Aglasterhausen,8.989,49.355,50
 147,Lachendorf,10.245,52.622,72
-123,Hessisch Lichtenau,9.721,51.199,72
+123,Hessisch Lichtenau,9.721,51.199,86
 60,Bonndorf im Schwarzwald,8.343,47.82,50
-72,Berkenthin,10.638,53.734,60
+72,Berkenthin,10.638,53.734,50
 626,Lübeck,10.684,53.866,303
-60,Leidersbach,9.218,49.902,50
+147,Leidersbach,9.218,49.902,50
 86,Bad Orb,9.348,50.228,50
 211,Eppingen,8.909,49.138,86
 72,Salmünster,9.372,50.275,72
 522,Tiengen,8.271,47.632,253
 123,Uetze,10.203,52.464,103
 211,Villingen,8.46,48.058,211
-60,Klempau,10.66,53.763,50
 253,Scharbeutz,10.75,54.023,60
-86,Ühlingen,8.318,47.719,72
-60,Neuhausen,8.778,48.793,50
-72,Ulmbach,9.42,50.37,50
-72,Wulfsdorf,10.683,53.809,50
+86,Ühlingen,8.318,47.719,60
+86,Neuhausen,8.778,48.793,50
 123,Ebstorf,10.413,53.029,72
-103,Röllfeld,9.184,49.765,50
+86,Beidendorf,10.678,53.788,60
 72,Richen,8.941,49.171,50
-60,Bälau,10.622,53.616,50
-60,Ratekau,10.735,53.948,50
 123,Hosenfeld,9.479,50.505,72
 103,Oberndorf am Neckar,8.573,48.289,103
-72,Bösingen,8.558,48.239,50
 72,Volkerode,9.858,51.468,50
 86,Niederaula,9.605,50.801,50
-60,Weilersbach,8.501,48.093,50
 86,Schlitz,9.559,50.675,86
-60,Biedebach,9.656,50.921,50
+60,Strümpfelbrunn,9.077,49.463,50
+103,Biedebach,9.656,50.921,50
 253,Lauenburg/Elbe,10.554,53.374,86
 72,Queck,9.579,50.714,50
 103,Gerdau,10.419,52.968,50
+60,Elvese,9.947,51.663,50
 60,Bad Gandersheim,10.024,51.871,60
-72,Wiernsheim,8.852,48.891,50
-86,Lankau,10.666,53.668,50
+86,Wiernsheim,8.852,48.891,50
 176,Sulz am Neckar,8.633,48.366,60
 103,Bovenden,9.921,51.587,50
 72,Marwede,10.342,52.738,50
 60,Kauppen,9.487,50.453,50
 176,Neustadt in Holstein,10.816,54.106,103
 72,Großenlüder,9.541,50.589,72
-103,Neckargerach,9.071,49.401,50
+72,Waldaschaff,9.3,49.974,50
+60,Rosdorf,9.896,51.506,50
+60,Neckargerach,9.071,49.401,50
 72,Kirchardt,8.99,49.205,50
-60,Pötrau,10.607,53.477,50
-72,Barendorf,10.521,53.229,50
 60,Bahnsen,10.414,52.922,50
 211,Bienenbüttel,10.492,53.142,50
-60,Natendorf,10.471,53.08,50
-86,Rheinheim,8.305,47.59,50
 103,Häfnerhaslach,8.919,49.025,50
 303,Oldenburg in Holstein,10.888,54.293,123
-60,Bischofferode,9.757,51.121,50
-72,Wiesen,9.364,50.112,60
-60,Betra,8.664,48.41,50
+60,Wiesen,9.364,50.112,60
 123,Nagold,8.724,48.551,72
 60,Langlingen,10.289,52.555,50
+72,Büchen,10.616,53.481,72
 72,Wollenberg,9.035,49.292,50
-60,Dohrenbach,9.833,51.31,50
+60,Horheim,8.347,47.65,50
 60,Weyhausen,10.385,52.792,50
 253,Horb am Neckar,8.693,48.445,123
-72,Wulfstorf,10.524,53.179,50
 147,Rotenburg a.d.Fulda,9.725,50.996,103
 147,Witzenhausen,9.859,51.341,103
 147,Lensahn,10.883,54.218,60
-60,Handorf,10.213,52.292,50
+60,Röllbach,9.247,49.774,50
 435,Göttingen,9.935,51.533,211
 211,Northeim,10,51.706,86
 253,Peine,10.227,52.322,147
 123,Kalefeld,10.034,51.796,60
 60,Hittbergen,10.591,53.345,50
-86,Gremersdorf,10.928,54.333,50
 522,Mölln,10.691,53.63,147
+72,Reckingen,8.331,47.575,50
 60,Vöhringen,8.661,48.337,50
+72,Vastorf,10.546,53.198,50
 147,Donaueschingen,8.498,47.951,86
-103,Heimsheim,8.863,48.805,50
+60,Bechtersbohl,8.346,47.603,50
 86,Neu Darchau,10.884,53.228,50
 123,Schlagsdorf,11.064,54.496,60
 60,Simmershofen,10.125,49.532,50
 72,Dahme,11.082,54.224,50
-72,Edemissen,10.264,52.387,50
-60,Königsdahlum,10.116,51.982,50
+147,Edemissen,10.264,52.387,50
 86,Immendingen,8.734,47.939,50
 147,Miltenberg,9.257,49.701,86
 103,Behla,8.512,47.897,50
 60,Heckmühle,9.78,50.197,50
 60,Vaihingen an der Enz,8.96,48.933,60
 103,Lüdersdorf,10.811,53.831,50
-60,Groß Ilsede,10.221,52.264,50
+123,Groß Ilsede,10.221,52.264,50
 103,Bockenem,10.129,52.01,60
 86,Krautheim,9.634,49.385,60
-60,Glems,9.31,48.51,50
-72,Rothenbuch,9.398,49.967,50
 103,Reinhausen,9.981,51.469,50
 60,Wallstawe,11.019,52.797,50
-86,Riet,8.97,48.896,50
-123,Wildensee,9.355,49.829,50
+72,Wildensee,9.355,49.829,50
 123,Amorbach,9.218,49.645,50
 60,Heigenbrücken,9.372,50.027,50
 176,Blumberg,8.534,47.84,86
 60,Holle,10.161,52.087,60
 123,Brackenheim,9.065,49.078,86
-60,Waldstadt,10.697,53.597,50
 147,Friedland,9.914,51.42,60
 1081,Uelzen,10.561,52.965,211
 86,Wendorf,11.664,53.67,50
 72,Suderburg,10.453,52.895,60
 60,Lichtenhagen,10.005,51.429,50
+86,Gechingen,8.829,48.695,50
 901,Fulda,9.675,50.553,435
 86,Jeseritz,11.308,52.444,50
+60,Bierlingen,8.812,48.432,50
 103,Wiesentheid,10.344,49.795,60
 123,Groß Oesingen,10.462,52.648,50
 72,Schlutup,10.799,53.888,50
-60,Pulverdingen,9.023,48.906,50
 626,Bad Hersfeld,9.706,50.868,253
 72,Güster,10.681,53.54,50
-86,Sehlde,10.262,52.039,50
+123,Wendeburg,10.386,52.326,50
 253,Hünfeld,9.769,50.673,103
 103,Leonberg,9.017,48.8,60
 147,Greven,10.802,53.479,60
-60,Breitenbrunn,9.445,49.805,50
+60,Wiershausen,10.072,51.827,50
+72,Neunkirchen,9.399,49.707,50
+72,Luttrum,10.183,52.125,50
 103,Schenklengsfeld,9.846,50.819,50
 123,Walldürn,9.369,49.583,50
-60,Steinlah,10.33,52.075,50
 103,Neckarsulm,9.224,49.19,50
-86,Vorderhagen,10.803,53.33,50
-72,Eutingen im Gäu,8.748,48.478,50
+60,Weiler,8.919,48.449,50
+72,Himbergen,10.728,53.093,72
 60,Hankensbüttel,10.604,52.731,60
+103,Calbecht,10.379,52.092,50
 72,Denkershausen,10.046,51.739,50
 86,Dipperz,9.797,50.543,50
-72,Utecht,10.77,53.767,50
-103,Gieboldehausen,10.215,51.611,60
 60,Rhüden,10.123,51.941,50
-72,Kella,10.078,51.229,50
-60,Bruchtorf,10.543,53.108,50
 147,Heiligenhafen,10.975,54.373,60
 176,Gifhorn,10.547,52.484,123
-103,Weil der Stadt,8.87,48.752,72
-60,Massenbachhausen,9.047,49.176,50
+60,Hochhausen,9.105,49.324,50
+60,Fahrenbach,9.15,49.431,50
+86,Weil der Stadt,8.87,48.752,72
 147,Clausthal-Zellerfeld,10.333,51.804,60
+60,Eberstadt,9.321,49.18,50
 103,Mernes,9.479,50.239,50
 72,Nostorf,10.654,53.407,50
-72,Westerweyhe,10.512,52.999,50
 303,Rottweil,8.627,48.168,86
 303,Schlüchtern,9.524,50.347,176
 72,Deißlingen,8.605,48.115,50
 60,Sünna,9.999,50.796,50
 211,Stühlingen,8.446,47.745,60
 147,Herzberg am Harz,10.34,51.657,60
+60,Hof und Lembach,9.313,49.01,50
+60,Aasen,8.551,47.98,50
 72,Hohne,10.372,52.589,50
-60,Stadelhofen,9.708,49.933,50
-72,Friedlos,9.745,50.902,50
+86,Sudershausen,10.022,51.632,50
 86,Beuchen,9.231,49.6,50
 86,Dietingen,8.65,48.207,50
+86,Krausenbach,9.337,49.861,60
 86,Oberbach,9.883,50.349,50
-103,Weibersbrunn,9.365,49.931,72
+86,Weibersbrunn,9.365,49.931,50
 72,Zühr,11.029,53.438,50
 103,Mudau,9.206,49.533,60
-72,Unterhaun,9.722,50.835,50
-60,Schladen,10.54,52.022,60
+72,Schladen,10.54,52.022,72
 72,Tann (Rhön),10.023,50.644,60
-86,Sickenhausen,9.181,48.532,50
-72,Weyhausen,10.716,52.463,50
 176,Oberndorf,9.473,50.191,60
-72,Ehmen,10.697,52.399,50
 60,Faulungen,10.26,51.194,50
+103,Weissach,8.928,48.847,50
 147,Dingelstädt,10.315,51.315,60
-72,Burgdorf,10.219,52.146,50
 86,Upahl,11.214,53.822,50
+123,Erzingen,8.421,47.659,86
 60,Dönges,10.161,50.875,50
-86,Muthof,9.546,49.304,50
 72,Pritzier,11.079,53.379,50
+72,Püttsee,11.025,54.461,60
 435,Reutlingen,9.212,48.492,211
-72,Bettingerode,10.573,51.914,50
+72,Steißlingen,8.924,47.798,50
 103,Bad Harzburg,10.56,51.88,72
-72,Geddelsbach,9.499,49.143,50
 103,Clenze,10.954,52.937,86
 86,Großrinderfeld,9.734,49.665,50
 60,Rimbeck,10.629,51.998,50
 86,Müden (Aller),10.362,52.526,50
 86,Sandberg,10.008,50.348,50
-86,Ratzeburg,10.774,53.699,60
+147,Ratzeburg,10.774,53.699,60
 72,Rotenzimmern,8.685,48.254,50
 103,Burkardroth,9.994,50.268,50
-86,Keutzelbuch,9.564,50.397,50
 103,Jübar,10.908,52.689,50
+72,Nürtingen,9.343,48.626,60
 211,Mosbach,9.147,49.352,123
-60,Gutenstein,9.116,48.078,50
-103,Kupfersuhl,10.255,50.88,50
+60,Kupfersuhl,10.255,50.88,60
 103,Bad Rappenau,9.103,49.24,60
-86,Travemünde,10.868,53.96,60
+86,Travemünde,10.868,53.96,86
 60,Rockenthin,11.009,52.862,50
 123,Bad Sachsa,10.552,51.594,50
 60,Roßdorf,10.215,50.703,50
+60,Liggeringen,9.027,47.775,50
 123,Neubessingen,9.974,50.052,50
 72,Küsten,11.065,52.977,50
 60,Beutow,11.078,53.006,50
+72,Sieglos,9.735,50.817,50
+60,Bebra,9.794,50.97,50
 72,Schierke,10.659,51.765,50
-72,Suterode,10.062,51.671,50
-72,Biesingen,8.582,47.986,50
-72,Sulsdorf,11.043,54.459,72
+72,Oberrieden,9.926,51.309,50
 103,Breitenhees,10.487,52.834,50
 123,Bad Urach,9.4,48.493,60
-86,Tuningen,8.602,48.026,60
 123,Bad Bevensen,10.575,53.08,86
-103,Pampow,11.36,53.569,50
 103,Meinersen,10.362,52.475,72
+86,Holthusen,11.354,53.543,60
 123,Herdwangen,9.168,47.863,50
-60,Redentin,11.486,53.931,50
 60,Riepsdorf,10.97,54.225,50
+60,Ellrich,10.666,51.588,60
 60,Krauchenwies,9.249,48.019,50
 60,Riedböhringen,8.538,47.87,50
 60,Leussow,11.287,53.278,50
 72,Dömitz,11.249,53.142,72
-147,Welzheim,9.635,48.874,60
-86,Freudenberg,9.324,49.742,50
-72,Waldkappel,9.874,51.144,60
+60,Welzheim,9.635,48.874,60
+72,Freudenberg,9.324,49.742,50
+103,Waldkappel,9.874,51.144,60
 86,Buchhorst,11.039,52.487,50
 123,Limbach,9.212,49.461,60
 123,Lohrhaupten,9.48,50.128,50
-60,Fechenbach,9.339,49.772,50
+60,Rosenfeld,8.723,48.286,60
+123,Trossingen,8.633,48.074,72
 1867,Konstanz,9.176,47.663,363
 103,Neuburg,11.586,53.948,60
-72,Muckental,9.202,49.425,50
 60,Sersheim,9.012,48.961,50
 86,Wenze,11.134,52.565,50
-253,Gaildorf,9.77,49,86
+123,Gaildorf,9.77,49,86
 72,Stappenbeck,11.23,52.813,50
 60,Hahnenhorn,10.403,52.552,50
-72,Aidlingen,8.897,48.678,50
-60,Rohrbrunn,9.396,49.893,50
+60,Neukirchen,11.015,54.324,50
+72,Rohrbrunn,9.396,49.893,50
 60,Trebel,11.318,52.995,60
-60,Wiesensteig,9.625,48.562,50
+72,Wiesensteig,9.625,48.562,60
+72,Dallau,9.192,49.385,50
 86,Grömitz,10.961,54.149,72
 72,Mehrstetten,9.566,48.377,50
-60,Üchtelhausen,10.27,50.092,50
-72,Schwanefeld,11.091,52.264,50
 176,Ebeleben,10.739,51.287,50
 60,Fützen,8.531,47.81,50
 211,Herrenberg,8.867,48.596,86
@@ -4747,112 +4496,101 @@ rs,name,lon,lat,r1
 86,Neuhof,9.624,50.45,50
 60,Tiefenhülen,9.61,48.35,50
 60,Niesig,9.676,50.582,50
-60,Stürzenhardt,9.268,49.552,50
 60,Schippach,9.317,49.671,50
 211,Seesen,10.176,51.891,123
 86,Gundelsheim,9.161,49.284,50
+60,Katlenburg,10.099,51.683,50
 123,Sprakensehl,10.494,52.767,50
 86,Thomasburg,10.658,53.232,50
 123,Hohentengen am Hochrhein,8.434,47.571,72
 147,Lenzen (Elbe),11.475,53.091,103
 303,Gotha,10.703,50.949,176
-60,Maulach,9.996,49.141,50
 147,Fleetmark,11.39,52.794,72
 86,Birnfeld,10.429,50.201,50
-72,Tramm,11.643,53.521,50
-147,Gudow,10.772,53.555,50
+147,Gudow,10.772,53.555,60
 86,Bochin,11.513,53.133,50
 60,Boitin-Resdorf,10.858,53.802,50
 60,Dalldorf,10.384,52.445,50
 72,Gärtringen,8.902,48.642,50
-103,Bad Buchau,9.612,48.064,50
+103,Bad Buchau,9.612,48.064,60
 60,Laatzke,11.366,52.563,50
 72,Thielbeer,11.481,52.847,50
-72,Jastorf,10.602,53.046,50
 72,Vorwerk,10.634,53.137,50
 60,Ziepel,11.361,52.495,50
 60,Sülsdorf,10.893,53.885,50
 103,Lengede,10.306,52.205,50
-86,Abterode,9.937,51.211,50
 72,Boizenburg/Elbe,10.723,53.374,72
-60,Sütel,11.05,54.334,50
-60,Wense,10.367,52.36,50
 60,Münchehof,10.18,51.849,50
 60,Gresse,10.746,53.43,50
-72,Salem,10.828,53.656,50
 86,Haigerloch,8.804,48.367,60
 103,Sterley,10.818,53.62,50
 60,Rosenhof,11.032,54.253,50
 123,Wrestedt,10.572,52.902,50
+72,Bönnigheim,9.093,49.042,50
 103,Neuekrug,10.227,51.941,50
-60,Erlaheim,8.785,48.306,50
 60,Dedelstorf,10.505,52.701,50
 176,Allendorf,9.981,51.272,60
-60,Nordheim,9.126,49.109,50
-103,Ronshausen,9.86,50.948,60
-60,Hollenbek,10.82,53.592,50
-86,Ebergötzen,10.102,51.571,60
+103,Ronshausen,9.86,50.948,50
+60,Rückers,9.744,50.645,50
+103,Ebergötzen,10.102,51.571,86
 72,Jossa,9.593,50.238,50
 176,Eiterfeld,9.799,50.763,72
+103,Masendorf,10.631,53.012,50
 123,Eichenzell,9.697,50.494,50
 60,Aura i.Sinngrund,9.575,50.175,50
 176,Bleckede,10.733,53.291,72
 211,Lebenstedt,10.329,52.154,103
-103,Vechelde,10.373,52.261,72
+60,Oetzendorf,10.648,53.043,50
+72,Friedewald,9.856,50.882,50
+86,Vechelde,10.373,52.261,72
 60,Geisingen,8.65,47.923,50
-72,Hirschlanden,9.039,48.837,50
 60,Wöllmarshausen,10.09,51.488,50
 176,Buchen (Odenwald),9.323,49.522,147
 253,Sontra,9.933,51.069,86
 72,Schönberg,10.935,53.847,60
-72,Fehmarnsund,11.121,54.404,50
 60,Billigheim,9.255,49.348,50
-86,Frommenhausen,8.875,48.432,50
+60,Großenbroderfähre,11.119,54.391,50
 86,Gosheim,8.753,48.136,50
-72,Badenhausen,10.207,51.768,50
 123,Kellenhusen (Ostsee),11.06,54.191,50
-72,Ostlutter,10.292,51.985,50
-176,Spaichingen,8.739,48.073,72
+123,Sindelfingen,9.002,48.71,103
+60,Hoheneiche,9.971,51.129,50
+86,Ostlutter,10.292,51.985,50
+60,Spaichingen,8.739,48.073,60
+72,Nentershausen,9.933,51.014,50
 60,Aulfingen,8.66,47.886,50
-60,Mottgers,9.657,50.3,50
+60,Groß Schwülper,10.433,52.353,50
 60,Lehmke,10.643,52.929,50
-60,Bischbrunn,9.492,49.869,60
 103,Uder,10.074,51.363,72
 123,Dahlenburg,10.737,53.188,86
 103,Besigheim,9.141,49,50
-253,Jestetten,8.568,47.65,86
-60,Kettelstorf,10.711,53.11,50
-72,Reichensachsen,9.997,51.151,50
+103,Jestetten,8.568,47.65,86
 60,Göddingen,10.763,53.257,50
-72,Eßlingen,8.719,47.991,50
 363,Wesendorf,10.535,52.593,72
-86,Prieschendorf,10.987,53.889,50
 72,Entringen,8.966,48.554,50
-103,Bietigheim-Bissingen,9.133,48.948,50
+60,Hanstedt II,10.667,52.958,50
+123,Bietigheim-Bissingen,9.133,48.948,50
 86,Döllbach,9.734,50.439,50
-103,Rottenburg am Neckar,8.937,48.479,60
+86,Rottenburg am Neckar,8.937,48.479,60
 123,Balingen,8.851,48.276,103
+60,Oedheim,9.258,49.24,50
 60,Seulingen,10.161,51.544,50
+60,Winkel,10.496,52.458,50
+60,Talheim,9.194,49.083,50
 522,Heilbronn,9.218,49.14,253
-72,Schlempertshof,9.412,49.615,50
 86,Tengen,8.661,47.821,60
-86,Holzgerlingen,9.012,48.637,50
+60,Hemmendorf,8.917,48.419,50
+86,Holzgerlingen,9.012,48.637,60
 147,Zeitlofs,9.673,50.26,60
-72,Herfa,9.919,50.888,50
 86,Boitze,10.749,53.149,50
-60,Süttorf,10.702,53.014,50
-72,Sauingen,10.41,52.191,50
 72,Nack,8.578,47.607,50
 103,Brook,11.045,53.999,60
-86,Flein,9.214,49.101,50
 211,Lohr a.Main,9.576,49.993,176
 176,Osterode am Harz,10.248,51.728,123
 751,Burg auf Fehmarn,11.198,54.439,253
 72,Kästorf,10.539,52.518,50
-72,Rietheim,8.776,48.041,50
 86,Burgsinn,9.649,50.147,72
-60,Frommern,8.871,48.249,50
-60,Neustadt a.Main,9.568,49.93,50
+211,Salzgitter-Bad,10.373,52.047,86
+86,Neustadt a.Main,9.568,49.93,50
 72,Hofaschenbach,9.846,50.637,50
 60,Dietershausen,9.795,50.506,50
 253,Eschwege,10.058,51.186,176
@@ -4861,96 +4599,93 @@ rs,name,lon,lat,r1
 72,Mansbach,9.914,50.783,50
 60,Ulfen,10.015,51.044,50
 60,Bennin,10.888,53.451,50
-72,Rodenbach,9.592,49.96,50
+60,Rodenbach,9.592,49.96,50
 86,Marienleuchte,11.239,54.493,50
 86,Rieneck,9.648,50.093,50
-123,Motten,9.77,50.399,72
-72,Bisingen,8.917,48.31,50
 303,Wertheim,9.517,49.76,176
 211,Bad Bodenteich,10.678,52.834,50
 86,Speicherz,9.754,50.354,50
 103,Günterode,10.167,51.422,50
 72,Obernheim,8.861,48.163,60
 86,Bockswiese,10.331,51.849,50
-60,Beinum,10.415,52.074,50
 86,Mauenheim,8.753,47.901,50
 103,Ilsfeld,9.245,49.055,60
 60,Vaihingen,9.11,48.73,50
-60,Wenden,10.514,52.328,50
-60,Leinde,10.444,52.135,50
-147,Möckmühl,9.36,49.323,86
-123,Rosche,10.752,52.987,50
+72,Hardheim,9.474,49.608,60
+147,Möckmühl,9.36,49.323,72
+60,Rosche,10.752,52.987,50
 72,Schönewörde,10.628,52.633,50
 60,Heißum,10.4,51.997,50
+72,Neuenstadt am Kocher,9.331,49.237,60
 103,Hechingen,8.963,48.351,50
-86,Jerstedt,10.389,51.952,50
-72,Meine,10.545,52.382,60
+103,Meine,10.545,52.382,60
 72,Stintenburger Hütte,10.98,53.618,50
+253,Ludwigsburg,9.194,48.889,86
 103,Kogel,10.943,53.499,50
-60,Kornwestheim,9.186,48.865,50
-103,Külsheim,9.518,49.671,72
-60,Bebenhausen,9.06,48.559,50
+103,Külsheim,9.518,49.671,50
 60,Buntenbock,10.332,51.777,50
 363,Tuttlingen,8.819,47.984,176
 60,Roggendorf,11.017,53.694,50
 60,Buttlar,9.952,50.756,50
 211,Osterburken,9.426,49.428,72
-72,Isenbüttel,10.578,52.435,50
+103,Isenbüttel,10.578,52.435,50
 72,Korb,9.398,49.356,50
 60,Kleinsassen,9.874,50.552,50
 147,Rehna,11.05,53.779,60
-86,Tübingen,9.055,48.521,86
+103,Tübingen,9.055,48.521,86
 147,Heringen (Werra),10.008,50.888,60
 522,Braunschweig,10.521,52.262,363
 60,Detter,9.756,50.236,50
 147,Marktheidenfeld,9.6,49.844,72
 253,Engen,8.772,47.854,72
+60,Dalherda,9.829,50.417,50
 103,Bad Brückenau,9.787,50.309,103
-123,Netra,10.093,51.094,50
+123,Netra,10.093,51.094,72
 103,Geisa,9.95,50.717,72
 60,Dettenhausen,9.101,48.608,50
 147,Suhlendorf,10.768,52.926,72
+60,Groß Flöthe,10.471,52.087,50
 1297,Stuttgart,9.178,48.776,1081
 211,Duderstadt,10.261,51.512,147
-72,Lengfurt,9.603,49.811,50
+123,Ershausen,10.166,51.258,60
 123,Gemünden a.Main,9.701,50.051,60
 60,Westerbeck,10.629,52.51,50
 86,Soltendieck,10.759,52.875,50
-103,Stöckheim,10.523,52.213,50
-60,Rhumspringe,10.296,51.582,50
-103,Geismar,10.167,51.231,60
-60,Wimmental,9.352,49.164,50
+147,Rhumspringe,10.296,51.582,60
+60,Geismar,10.167,51.231,50
 60,Gräfendorf,9.738,50.121,50
-60,Ebringen,8.756,47.751,50
 60,Rosenberg,9.475,49.456,50
 103,Knesebeck,10.703,52.679,50
 72,Oberleichtersbach,9.804,50.273,50
+60,Lampoldshausen,9.399,49.264,50
 123,Gerstungen,10.076,50.968,123
 901,Goslar,10.429,51.907,211
-60,Dorf Gutow,11.137,53.916,50
+103,Dorf Gutow,11.137,53.916,50
+86,Mühlhausen,9.231,48.842,50
 60,Berka/Werra,10.068,50.939,50
+60,Onstmettingen,8.998,48.285,50
+60,Bad Cannstatt,9.218,48.804,50
 147,Vellahn,10.966,53.402,86
 86,Weißes Moor,10.685,52.598,50
 72,Mühlheim an der Donau,8.889,48.023,50
-86,Neuhaus,10.929,53.286,86
+123,Neuhaus,10.929,53.286,103
 72,Lonau,10.359,51.69,50
 86,Altefeld,10.119,51.053,50
 72,Emmingen,8.854,47.932,50
 176,Mössingen,9.058,48.406,60
 72,Meßstetten,8.963,48.181,50
-72,Gailingen am Hochrhein,8.755,47.697,50
 123,Wolfenbüttel,10.536,52.163,86
-211,Klütz,11.167,53.966,86
-86,Krembz,11.061,53.651,50
+103,Klütz,11.167,53.966,86
+72,Krembz,11.061,53.651,50
 211,Wittingen,10.74,52.729,176
+60,Olnhausen,9.444,49.313,50
 103,Wartmannsroth,9.787,50.166,50
-103,Brehmen,9.555,49.569,50
+60,Gomaringen,9.097,48.452,50
 103,Affaltrach,9.384,49.135,60
-72,Tailfingen,9.018,48.255,50
+60,Tailfingen,9.018,48.255,50
 103,Grußendorf,10.701,52.548,50
 60,Eubigheim,9.54,49.502,50
 147,Zernien,10.886,53.068,72
-60,Wehnde,10.313,51.481,50
 211,Gersfeld (Rhön),9.921,50.45,103
 72,Wietzetze,10.93,53.185,50
 60,Merchingen,9.508,49.402,50
@@ -4958,18 +4693,14 @@ rs,name,lon,lat,r1
 72,Martinroda,10.07,50.806,50
 86,Ohrum,10.564,52.119,50
 103,Dorndorf,10.085,50.838,50
-60,Hausen an der Aach,8.841,47.791,50
-60,Duttenbrunn,9.719,49.902,50
 123,Bernhausen,9.22,48.679,50
 435,Ebingen,9.026,48.214,211
-60,Hegnach,9.298,48.858,50
+72,Neuhausen ob Eck,8.926,47.973,50
 211,Singen (Hohentwiel),8.835,47.76,176
 123,Grevesmühlen,11.185,53.864,123
 86,Herleshausen,10.162,51.006,50
 72,Werbach,9.639,49.671,50
-60,Billingshausen,9.72,49.873,50
 60,Sieber,10.423,51.698,50
-72,Gössenheim,9.781,50.019,50
 86,Vaddensen,10.887,52.979,50
 72,Langenheide,11.014,53.339,50
 176,Wittenburg,11.074,53.512,60
@@ -4982,53 +4713,54 @@ rs,name,lon,lat,r1
 60,Eigeltingen,8.898,47.859,50
 253,Leinefelde,10.322,51.388,103
 60,Gudow,11.008,53.293,50
+60,Brehme,10.361,51.493,50
 147,Lehre,10.668,52.329,60
 60,Ringingen,9.1,48.325,50
 60,Treffurt,10.23,51.137,50
-60,Rielasingen-Worblingen,8.846,47.728,50
-72,Waiblingen,9.315,48.83,60
 123,Bieringen,9.527,49.344,72
-60,Gönningen,9.149,48.433,50
-72,Niedersickte,10.634,52.214,50
+103,Niedersickte,10.634,52.214,50
 86,Börßum,10.582,52.069,50
 60,Teschendorf,10.801,52.667,50
 253,Aich,9.236,48.621,50
-60,Wohlenberg,11.242,53.94,50
 72,Cremlingen,10.655,52.248,72
-86,Helmstadt,9.707,49.761,60
+72,Helmstadt,9.707,49.761,60
 103,Wüstensachsen,10.005,50.5,50
 72,Worbis,10.358,51.424,50
 72,Uettingen,9.73,49.795,50
+60,Eußenheim,9.809,49.99,50
 103,Tauberbischofsheim,9.663,49.622,50
 60,Schollhof,9.589,49.43,50
 147,Burladingen,9.115,48.289,60
-86,Zweiflingen,9.518,49.256,50
-72,Jembke,10.761,52.498,50
-72,Vienenburg,10.564,51.951,60
+60,Zweiflingen,9.518,49.256,50
+103,Jembke,10.761,52.498,50
+86,Vienenburg,10.564,51.951,60
+86,Esslingen am Neckar,9.31,48.741,72
 60,Wenkheim,9.702,49.701,50
+60,Warmenau,10.75,52.456,50
 176,Öhringen,9.501,49.2,123
-60,Oberschwandorf,8.982,47.96,50
-72,Pogreß,11.14,53.557,50
+60,Nellingen,9.301,48.712,50
 60,Struth,10.304,51.223,50
 147,Wüstenrot,9.461,49.08,50
-103,Lützow,11.178,53.655,50
 86,Weißenborn-Lüderode,10.422,51.531,60
 147,Creuzburg,10.242,51.052,60
-60,Tiefenort,10.166,50.84,50
 211,Dermbach,10.12,50.717,72
 60,Bad Lauterberg im Harz,10.465,51.627,60
+86,Bohlingen,8.896,47.722,50
 86,Diesdorf,10.876,52.752,72
 123,Hammelburg,9.891,50.115,103
+60,Forchtenberg,9.562,49.287,50
 103,Boxberg,9.641,49.481,72
 60,Kreuzle,9.492,49.115,50
 72,Stetten am kalten Markt,9.078,48.122,50
-123,Backnang,9.424,48.947,103
+103,Backnang,9.424,48.947,103
 103,Bischofsheim i.d.Rhön,10.009,50.401,50
-123,Winnenden,9.396,48.877,50
+123,Winnenden,9.396,48.877,60
 211,Öhningen,8.885,47.662,50
+123,Zellingen,9.817,49.899,50
 86,Weilar,10.155,50.762,50
 103,Dähre,10.908,52.801,50
-211,Lübtheen,11.083,53.301,72
+103,Lübtheen,11.083,53.301,72
+60,Schienen,8.901,47.688,50
 86,Bickenriede,10.348,51.253,50
 72,Winterlingen,9.118,48.179,50
 103,Heyerode,10.32,51.164,72
@@ -5037,123 +4769,134 @@ rs,name,lon,lat,r1
 363,Wolfsburg,10.785,52.422,123
 72,Remlingen,10.674,52.113,50
 86,Mühlen Eichsen,11.252,53.759,50
+86,Beutelsbach,9.386,48.803,50
+72,Hohenkirchen,11.306,53.916,60
 147,Lauda,9.701,49.57,60
+60,Zella,10.372,51.288,50
+60,Waldrems,9.435,48.916,50
 123,Hitzacker (Elbe),11.047,53.152,50
 60,Jessenitz,11.088,53.27,50
 72,Bergen an der Dumme,10.956,52.891,50
-60,Zapel,11.16,53.467,50
+72,Zapel,11.16,53.467,50
 103,Mühlingen,9.017,47.913,50
-60,Metzingen,9.284,48.537,50
+86,Metzingen,9.284,48.537,50
 72,Oberthulba,9.961,50.199,60
 60,Bergfeld,10.846,52.546,50
-60,Madelungen,10.287,51.017,50
+86,Dümmer,11.207,53.579,60
+60,Presek,11.182,53.494,50
 72,Leubach,10.103,50.535,50
 86,Rotenkamp,10.766,52.302,50
 60,Hedeper,10.681,52.066,50
 123,Unterhausen,9.254,48.43,50
 176,Stockach,9.009,47.849,86
-86,Gerchsheim,9.785,49.707,50
 86,Barnstorf,10.803,52.383,50
 60,Tülau,10.877,52.577,50
 123,Kaltennordheim,10.156,50.627,72
 72,Großbodungen,10.479,51.477,50
+72,Gressow,11.328,53.864,50
 253,Bad Salzungen,10.232,50.812,123
 86,Assamstadt,9.687,49.427,50
 60,Mihla,10.334,51.078,50
+60,Stregda,10.311,51.005,50
 60,Tripkau,11.104,53.183,50
 60,Sachserhof,9.932,50.024,50
-435,Hagenow,11.193,53.432,147
+60,Wendschott,10.851,52.458,50
+435,Hagenow,11.193,53.432,176
+72,Eisingen,9.831,49.759,60
 72,Hüpstedt,10.443,51.326,60
-123,Frickenhausen,9.36,48.594,50
+72,Frickenhausen,9.36,48.594,50
 86,Gammertingen,9.216,48.25,50
 253,Dannenberg (Elbe),11.09,53.096,103
 176,Meßkirch,9.111,47.993,72
+86,Veitshöchheim,9.873,49.833,50
 86,Engelswies,9.135,48.043,50
-147,Vielank,11.141,53.235,50
+435,Vielank,11.141,53.235,50
+60,Markelfingen,9.007,47.744,50
 253,Eisenach,10.322,50.977,211
 123,Jameln,11.075,53.04,50
 86,Großengstingen,9.286,48.387,50
-72,Eigenrode,10.444,51.291,50
-72,Viez,11.228,53.468,50
 103,Rühen,10.885,52.486,50
 147,Braunlage,10.611,51.728,86
-60,Obersteinbach,9.613,49.155,50
 147,Osterwieck,10.707,51.973,72
 60,Ludwigshafen,9.058,47.822,50
-60,Baltmannsweiler,9.448,48.743,50
 72,Redefin,11.2,53.349,50
 86,Schöppenstedt,10.775,52.145,72
+60,Neuffen,9.374,48.556,50
 72,Königslutter am Elm,10.816,52.252,72
 176,Brome,10.942,52.601,103
 60,Hettingen,9.235,48.219,50
+60,Ilsenburg (Harz),10.68,51.866,50
 72,Oberdorla,10.42,51.166,50
 60,Uehrde,10.766,52.1,50
-72,Waldenburg,9.642,49.187,50
-147,Almke,10.856,52.344,50
+147,Almke,10.856,52.344,60
+60,Buchhalde,9.37,48.523,50
 86,Arnstein,9.967,49.979,72
 363,Bad Mergentheim,9.773,49.491,253
-86,Oberbalbach,9.794,49.54,50
-60,Kleinbrach,10.074,50.237,50
+147,Künzelsau,9.687,49.278,103
 86,Winnigstedt,10.765,52.065,50
 123,Kirchdorf,11.44,53.997,86
+86,Rudersberg,9.53,48.883,60
+72,Sailach,9.642,49.14,50
 60,Rehungen,10.522,51.382,50
 435,Mühlhausen/Thüringen,10.458,51.21,176
-103,Murrhardt,9.58,48.981,86
+211,Murrhardt,9.58,48.981,86
 60,Sollstedt,10.537,51.414,50
 86,Mellin,10.988,52.65,50
 60,Kirchheim,9.858,49.656,50
+103,Kuhstorf,11.248,53.384,50
 303,Bad Kissingen,10.078,50.201,123
 60,Hochberg,9.24,48.15,50
-123,Kupferzell,9.69,49.228,50
+103,Kupferzell,9.69,49.228,50
 253,Sigmaringen,9.215,48.087,103
-86,Bolleroda,10.396,51.017,50
+60,Bolleroda,10.396,51.017,50
 60,Drispeth,11.385,53.772,50
-103,Kirchheim unter Teck,9.454,48.646,86
+123,Kirchheim unter Teck,9.454,48.646,72
 86,Kaiserwinkel,10.962,52.527,50
 176,Schorndorf,9.528,48.805,86
-60,Rimpar,9.956,49.857,50
 103,Hessen,10.781,52.018,50
-86,Althütte,9.576,48.913,50
-103,Allensbach,9.07,47.716,50
+60,Wachbach,9.792,49.443,50
 86,Helmershausen,10.236,50.562,50
+176,Ruhla,10.366,50.893,72
 626,Würzburg,9.937,49.794,522
 123,Neustädtles,10.214,50.496,50
 103,Inneringen,9.278,48.189,50
 123,Bleicherode,10.575,51.44,103
+86,Windeberg,10.512,51.272,50
 72,Germenau,10.984,52.562,50
 86,Wald,9.172,47.938,50
+72,Uengershausen,9.906,49.705,50
 103,Wasserleben,10.757,51.921,50
-60,Velpke,10.934,52.408,50
 72,Wustrow (Wendland),11.119,52.924,50
 123,Hohegeiß,10.669,51.664,50
+123,Ebni,9.597,48.923,50
 60,Rehbeck,11.151,53.001,50
 60,Breitungen/Werra,10.33,50.757,50
 86,Bütthard,9.88,49.599,50
+103,Flarchheim,10.478,51.126,50
 522,Wismar,11.466,53.892,211
-60,Ebersbach an der Fils,9.523,48.714,60
 60,Bastheim,10.203,50.402,50
 60,Lübstorf,11.414,53.727,50
 123,Ödenwaldstetten,9.373,48.348,50
-60,Kahlenberg,10.419,50.952,50
 60,Ostheim v.d.Rhön,10.23,50.458,50
 60,Sorge,10.698,51.693,50
 60,Hausen,10.027,49.928,50
 211,Lüchow (Wendland),11.162,52.968,86
-72,Medewege,11.404,53.662,50
+103,Bissingen an der Teck,9.491,48.6,50
 72,Oberrot,9.664,49.014,50
-86,Oberlenningen,9.472,48.551,50
+123,Oberlenningen,9.472,48.551,50
 86,Dorf Mecklenburg,11.467,53.843,50
 123,Heuchelhof,9.961,49.739,50
+60,Seebach,10.515,51.164,50
 123,Mulfingen,9.801,49.34,60
-60,Bernsfelden,9.894,49.564,50
+72,Bernsfelden,9.894,49.564,50
 60,Pfronstetten,9.362,48.275,50
+86,Melborn,10.448,50.975,50
 123,Oebisfelde,10.987,52.435,103
 60,Burglauer,10.18,50.277,50
 60,Unterberken,9.571,48.767,50
-72,Estenfeld,10.004,49.831,50
 103,Holzthaleben,10.59,51.341,60
 147,Kuhfelde,11.115,52.785,60
-86,Untermünkheim,9.733,49.153,50
+72,Untermünkheim,9.733,49.153,50
 176,Bad Neustadt a.d.Saale,10.207,50.33,103
 60,Hoort,11.36,53.483,50
 123,Oerlenbach,10.134,50.144,50
@@ -5164,7 +4907,6 @@ rs,name,lon,lat,r1
 60,Giebelstadt,9.947,49.653,60
 103,Wernigerode,10.784,51.834,103
 60,Sülstorf,11.378,53.511,50
-60,Nitzenhausen,9.798,49.283,50
 60,Schwallungen,10.356,50.692,50
 72,Seeburg,9.456,48.446,50
 363,Salzwedel,11.154,52.853,303
@@ -5172,36 +4914,31 @@ rs,name,lon,lat,r1
 86,Siemen,11.226,53.053,50
 363,Schwäbisch Hall,9.735,49.113,211
 176,Bad Kleinen,11.473,53.771,103
-60,Reddeber,10.805,51.866,50
 103,Münnerstadt,10.195,50.249,60
 60,Rothesütte,10.723,51.633,50
-72,Werna,10.706,51.585,50
-60,Weilheim an der Teck,9.537,48.616,50
 72,Westerburg,10.866,52.016,50
-60,Herges-Auwallenburg,10.408,50.786,50
 103,Uttenhofen,9.726,49.067,50
-86,Poppenhausen,10.145,50.1,50
+60,Langendorf,11.254,53.102,50
+72,Laßbach,9.81,49.265,60
+72,Hain,10.148,50.11,50
 123,Werneck,10.1,49.983,72
 103,Bergtheim,10.067,49.899,60
-103,Urbach,10.607,51.295,50
+60,Urbach,10.607,51.295,50
+60,Weikersheim,9.902,49.483,60
 60,Rottendorf,10.026,49.79,50
 60,Wasungen,10.369,50.664,50
-72,Hepsisau,9.536,48.587,50
 123,Pfullendorf,9.256,47.924,123
-60,Winterstein,10.455,50.882,50
+72,Wolsdorf,10.942,52.191,50
 60,Großenbehringen,10.509,51.02,60
-60,Sparwiesen,9.583,48.686,50
 60,Neu Kaliß,11.292,53.172,50
-60,Hochstedt,10.701,51.521,50
 147,Rerik,11.614,54.106,60
-86,Großengottern,10.564,51.146,50
 103,Brotterode,10.445,50.825,50
 72,Böhringen,9.515,48.496,50
 86,Honsbronn,9.908,49.45,50
 86,Mengen,9.329,48.049,60
 103,Söllingen,10.925,52.092,50
 86,Retgendorf,11.504,53.73,50
-60,Ottendorf,9.748,49.031,50
+60,Silstedt,10.847,51.861,50
 103,Mellrichstadt,10.308,50.428,86
 176,Münsingen,9.495,48.411,123
 176,Grasleben,11.014,52.306,60
@@ -5211,49 +4948,51 @@ rs,name,lon,lat,r1
 72,Alt Bukow,11.61,53.998,50
 86,Glaisin,11.367,53.278,50
 123,Niederstetten,9.917,49.402,50
-60,Leezen,11.5,53.662,50
+72,Leezen,11.5,53.662,50
 176,Schöningen,10.968,52.142,72
+72,Benz,11.584,53.911,50
 176,Rastow,11.43,53.452,60
-60,Beuren,9.376,48.08,50
+60,Mueß,11.484,53.6,50
 86,Röttingen,9.97,49.51,50
 103,Lockstedt,11.065,52.385,50
+60,Laase,11.306,53.066,50
 60,Maxdorf,11.208,52.781,50
 253,Helmstedt,11.01,52.228,147
 176,Schmalkalden,10.452,50.723,123
-123,Gschwend,9.744,48.934,50
-72,Cambs,11.527,53.696,50
+103,Gschwend,9.744,48.934,50
 103,Frickingen,9.273,47.815,50
 103,Lorch,9.689,48.797,60
 211,Klötze,11.161,52.626,123
 60,Einödhausen,10.367,50.483,50
 72,Schlotheim,10.659,51.246,72
+303,Göppingen,9.654,48.703,86
 86,Hayingen,9.475,48.274,50
 60,Gundelfingen,9.498,48.323,50
 60,Köckte,11.13,52.525,50
 147,Ilfeld,10.787,51.577,60
 60,Garstadt,10.174,49.975,50
 147,Zwiefalten,9.462,48.234,60
-60,Alfdorf,9.719,48.844,50
 72,Floh,10.48,50.754,50
 60,Tarzow,11.58,53.811,50
 72,Wäschenbeuren,9.687,48.76,50
 60,Apenburg,11.204,52.708,60
 176,Meiningen,10.416,50.574,147
 253,Ochsenfurt,10.061,49.665,60
-147,Plate,11.5,53.552,50
-72,Derenburg,10.908,51.871,60
+123,Plate,11.5,53.552,60
 72,Niendorf,11.436,53.361,50
 60,Junkershausen,10.341,50.357,60
 103,Polz,11.357,53.121,50
 86,Maßbach,10.276,50.185,50
+60,Brahlstorf,11.559,53.699,50
 147,Neubukow,11.673,54.032,60
 86,Untermaßfeld,10.415,50.531,50
 103,Waltershausen,10.559,50.901,72
 363,Schweinfurt,10.23,50.046,211
 72,Straußberg,10.746,51.387,60
-86,Spraitbach,9.762,48.881,50
+147,Spraitbach,9.762,48.881,50
 103,Liepe,11.39,53.177,50
 72,Neuendorf,11.215,52.676,50
+60,Heimburg,10.91,51.824,50
 72,Himmelsberg,10.73,51.335,50
 751,Nordhausen,10.792,51.5,303
 72,Harbke,11.045,52.19,50
@@ -5261,23 +5000,27 @@ rs,name,lon,lat,r1
 60,Banzkow,11.515,53.523,50
 72,Ostrach,9.381,47.954,60
 211,Bad Langensalza,10.65,51.107,103
+72,Meersburg,9.273,47.695,50
+72,Pinnow,11.548,53.603,50
 103,Eldena,11.422,53.231,60
+60,Lanze,11.33,52.959,50
 147,Riedlingen,9.475,48.153,123
 103,Dingelstedt am Huy,10.98,51.976,60
+72,Herbertingen,9.438,48.061,50
 86,Neufrach,9.311,47.76,50
 60,Hödingen,11.105,52.304,50
 123,Dettelbach,10.16,49.802,50
 72,Großwitzeetze,11.322,52.91,72
 103,Ertingen,9.461,48.097,50
-60,Friedrichroda,10.574,50.86,50
+60,Magolsheim,9.592,48.406,50
 123,Schrozberg,9.98,49.345,103
 123,Aub,10.064,49.552,50
-123,Creglingen,10.033,49.47,60
+60,Vellberg,9.881,49.086,50
 72,Kühlungsborn,11.751,54.142,72
-72,Mieterkingen,9.451,48.049,50
 72,Sargstedt,10.986,51.939,50
-60,Ilshofen,9.921,49.17,60
-103,Dörrmenz,9.935,49.2,50
+72,Kühndorf,10.491,50.608,50
+103,Ilshofen,9.921,49.17,86
+60,Dörrmenz,9.935,49.2,50
 60,Rentwertshausen,10.437,50.454,50
 72,Sulzbach,9.845,48.966,50
 60,Gnodstadt,10.119,49.638,50
@@ -5294,62 +5037,57 @@ rs,name,lon,lat,r1
 123,Obersontheim,9.899,49.057,72
 60,Abtsbessingen,10.762,51.26,50
 72,Mundingen,9.581,48.288,50
-123,Schwäbisch Gmünd,9.797,48.802,86
+123,Schwäbisch Gmünd,9.797,48.802,123
 211,Volkach,10.227,49.864,103
+86,Langenstein,10.987,51.853,50
 60,Moor,11.439,53.121,50
-60,Bolstern,9.461,47.984,50
-72,Riedhausen,9.431,47.909,50
+86,Riedhausen,9.431,47.909,50
 86,Breitenfeld,11.253,52.568,50
-72,Viernau,10.553,50.667,50
-60,Steinbach-Hallenberg,10.568,50.7,50
 147,Laichingen,9.686,48.489,60
 60,Friedrichsmoor,11.57,53.457,50
 86,Sontheim,9.669,48.446,50
 72,Tambach-Dietharz/Thür.Wald,10.608,50.792,60
 60,Prezelle,11.401,52.963,50
-176,Wilhelmsdorf,9.425,47.867,50
+176,Wilhelmsdorf,9.425,47.867,72
 147,Sulzfeld,10.405,50.26,50
 60,Wittenhofen,9.39,47.782,50
 86,Wengen,9.873,48.928,50
-72,Hamersleben,11.087,52.062,60
+103,Tottleben,10.753,51.165,50
+60,Dietelhofen,9.566,48.183,50
 103,Bad Saulgau,9.499,48.014,103
 123,Grettstadt,10.312,49.985,50
 72,Waldstetten,9.82,48.766,50
 86,Warin,11.704,53.8,50
 103,Bühlerzell,9.919,49.003,50
 72,Kröpelin,11.796,54.071,50
-60,Hohewisch,11.575,53.41,50
 86,Heringen/Helme,10.876,51.447,50
 60,Golchen,11.677,53.709,50
-60,Gingen an der Fils,9.78,48.657,50
 60,Dimbach,10.257,49.832,50
-60,Ausleben,11.114,52.09,50
+103,Ausleben,11.114,52.09,50
 86,Binde,11.386,52.855,50
-147,Rot am See,10.026,49.249,60
+303,Rot am See,10.026,49.249,60
 60,Wanzlitz,11.526,53.249,50
 522,Halberstadt,11.047,51.896,253
 147,Markdorf,9.389,47.72,60
-86,Rodishain,10.92,51.543,60
+60,Boilstädt,10.687,50.921,50
 60,Briel,9.651,48.32,50
 72,Wefensleben,11.16,52.185,50
+147,Crivitz,11.648,53.578,123
 60,Börnecke,11.031,51.821,50
-60,Klussiedlung,11.048,51.865,50
 123,Gartow,11.461,53.025,50
 103,Neustadt-Glewe,11.585,53.383,50
-86,Donzdorf,9.811,48.687,50
 60,Pennewitt,11.742,53.829,50
 176,Sondershausen,10.872,51.368,103
 103,Brüel,11.714,53.738,50
-72,Uelleben,10.703,50.913,50
+86,Kleinharbach,10.144,49.485,50
 72,Oberspier,10.853,51.312,50
 86,Bad Königshofen i.Grabfeld,10.467,50.299,86
 60,Molitz,11.381,52.765,50
-60,Hasenweiler,9.462,47.834,50
+72,Hasenweiler,9.462,47.834,50
 86,Marisfeld,10.571,50.556,50
 72,Güntersberge,10.981,51.645,50
-60,Stolberg (Harz),10.955,51.573,50
+60,Stolberg (Harz),10.955,51.573,60
 103,Grabow,11.565,53.279,50
-60,Abersfeld,10.388,50.073,60
 86,Milow,11.54,53.191,50
 86,Flechtingen,11.239,52.332,50
 103,Munderkingen,9.648,48.237,50
@@ -5358,47 +5096,44 @@ rs,name,lon,lat,r1
 72,Thale,11.046,51.754,50
 72,Nellingen,9.791,48.542,50
 147,Römhild,10.539,50.397,103
-123,Altshausen,9.538,47.934,50
+60,Altshausen,9.538,47.934,50
 86,Gerolzhofen,10.351,49.9,60
 123,Molschleben,10.78,51.005,50
-123,Geislingen an der Steige,9.836,48.623,86
+123,Geislingen an der Steige,9.836,48.623,103
 176,Calvörde,11.293,52.395,86
-72,Bad Tennstedt,10.839,51.154,50
 86,Friedrichsbrunn,11.038,51.69,50
-86,Schelklingen,9.735,48.373,50
 72,Kalbe (Milde),11.389,52.656,72
-72,Horgenzell,9.498,47.806,60
 103,Zella-Mehlis,10.658,50.663,50
 147,Eilsleben,11.211,52.148,103
 86,Allmendingen,9.724,48.331,50
-86,Wiesenbronn,10.306,49.747,50
 72,Uftrungen,10.978,51.498,50
 72,Erxleben,11.242,52.219,60
 86,Herbsleben,10.839,51.118,86
 123,Raduhn,11.688,53.483,72
-86,Bad Doberan,11.899,54.107,72
+123,Bad Doberan,11.899,54.107,123
 147,Ohrdruf,10.734,50.827,86
 123,Uffenheim,10.234,49.544,103
 147,Crailsheim,10.071,49.136,147
 176,Arendsee (Altmark),11.489,52.882,123
 103,Themar,10.617,50.505,60
+60,Heubach,9.935,48.789,60
 253,Ehingen (Donau),9.725,48.284,147
 72,Rosenberg,10.033,49.02,50
+60,Sailershausen,10.45,50.06,50
 147,Rothenburg ob der Tauber,10.179,49.377,123
 123,Blaubeuren,9.784,48.413,72
 72,Weigenheim,10.261,49.576,50
 60,Donnersdorf,10.418,49.97,50
 103,Seehausen,11.297,52.101,50
-176,Demen,11.766,53.63,72
+103,Demen,11.766,53.63,60
+72,Taldorf,9.511,47.741,60
 60,Oberstadion,9.691,48.187,50
-72,Altmannsdorf,10.435,49.936,50
 86,Flachslanden,10.514,49.399,50
 72,Bodendorf,11.291,52.286,50
-60,Hohenfelde,11.909,54.078,50
 123,Hofheim i.UFr.,10.522,50.137,86
 60,Fremdingen,10.456,48.97,50
 60,Uthmöden,11.355,52.351,50
-72,Wolpertswende,9.613,47.895,60
+72,Wolpertswende,9.613,47.895,50
 60,Bülstringen,11.348,52.32,50
 60,Steinheim,10.161,48.015,50
 72,Klein Gischow,11.864,53.935,50
@@ -5409,18 +5144,18 @@ rs,name,lon,lat,r1
 60,Landensberg,10.523,48.434,50
 103,Wolfsberg,11.097,51.552,72
 60,Röhrensee,10.851,50.853,50
-60,Henschleben,10.968,51.143,50
 72,Dankerode,11.136,51.592,50
+72,Waldtann,10.184,49.131,60
 72,Kiekindemark,11.782,53.395,50
 72,Bornstedt,11.358,52.18,60
 72,Hordorf,11.195,51.995,50
 253,Ellwangen (Jagst),10.132,48.963,103
-86,Dachwig,10.856,51.077,50
 72,Knetzgau,10.547,49.994,50
 60,Selow,11.975,53.9,50
 176,Hildburghausen,10.729,50.426,123
 72,Steinsfeld,10.212,49.421,50
 123,Bismark (Altmark),11.555,52.661,103
+72,Ballhausen,10.887,51.155,50
 86,Schnackenburg,11.567,53.037,50
 86,Erbach,9.893,48.326,50
 60,Nausiß,11.045,51.224,50
@@ -5432,8 +5167,10 @@ rs,name,lon,lat,r1
 303,Bad Windsheim,10.419,49.503,103
 60,Bergatreute,9.748,47.85,50
 211,Suhl,10.687,50.61,123
+86,Oberhof,10.724,50.706,50
 253,Gardelegen,11.394,52.524,211
 123,Tarnow,12.018,53.779,60
+103,Castell,10.349,49.743,50
 86,Nachterstedt,11.333,51.8,60
 72,Amstetten,9.876,48.578,50
 147,Feuchtwangen,10.331,49.168,123
@@ -5443,34 +5180,32 @@ rs,name,lon,lat,r1
 211,Quedlinburg,11.137,51.79,86
 72,Hinzdorf,11.814,52.961,50
 72,Attenweiler,9.699,48.137,50
+72,Wegeleben,11.174,51.885,50
 86,Eisfeld,10.907,50.427,86
-72,Alexandersreut,10.1,49.099,50
+60,Alexandersreut,10.1,49.099,50
 60,Dobbertin,12.07,53.622,50
 176,Oschersleben (Bode),11.227,52.026,103
-60,Böhmenkirch,9.932,48.685,50
+123,Böhmenkirch,9.932,48.685,50
 86,Friedrichsruhe,11.755,53.527,50
 60,Sprötau,11.202,51.125,50
-86,Dornheim,10.328,49.654,50
 60,Mittelbach,10.501,49.271,50
 147,Aschersleben,11.455,51.756,147
 103,Seetz,11.635,53.171,50
 86,Barleben,11.62,52.2,50
 60,Lanz,11.602,53.074,50
 103,Stimpfach,10.091,49.062,60
-60,Quarmbeck,11.135,51.759,50
+72,Quarmbeck,11.135,51.759,50
 103,Sulzdorf a.d.Lederhecke,10.562,50.24,50
 60,Altbrandsleben,11.252,52.073,50
-60,Muchow,11.69,53.313,50
 303,Putlitz,12.043,53.249,86
 72,Kleinau,11.512,52.8,50
-147,Heidhöfe,9.953,48.713,50
-60,Otterswang,9.645,47.977,50
+60,Heidhöfe,9.953,48.713,50
 147,Greußen,10.944,51.228,86
 103,Bernitt,11.891,53.902,50
-86,Bad Schussenried,9.657,48.005,72
 123,Bechhofen,10.553,49.16,60
-211,Sternberg,11.828,53.711,123
+211,Sternberg,11.828,53.711,103
 72,Harpe,11.558,52.918,50
+72,Aulendorf,9.638,47.951,60
 86,Zierzow,11.686,53.284,60
 60,Kuhbier,12.093,53.149,50
 60,Saal,12.495,54.31,60
@@ -5482,13 +5217,13 @@ rs,name,lon,lat,r1
 60,Helfta,11.575,51.503,50
 86,Gröningen,11.219,51.936,72
 103,Tessin,12.464,54.029,50
+60,Gernrode,11.143,51.725,50
 103,Oberstaufen,10.022,47.554,72
 103,Farnstädt,11.569,51.426,50
 60,Alsleben (Saale),11.677,51.7,50
 86,Rödersdorf,10.225,49.334,50
 60,Baumgarten,11.878,53.812,50
 60,Herzogenaurach,10.884,49.569,60
-72,Steinthaleben,11.024,51.394,50
 72,Selpin,12.496,53.991,50
 60,Kelbra (Kyffhäuser),11.041,51.436,50
 103,Altendambach,10.71,50.559,50
@@ -5501,11 +5236,13 @@ rs,name,lon,lat,r1
 72,Grabow,11.962,52.249,50
 72,Klüden,11.401,52.408,50
 60,Rödelwitz,11.43,50.782,50
+60,Neuhausen,10.467,49.919,50
 60,Neuler,10.07,48.929,50
 103,Könnern,11.768,51.67,72
 60,Malchow,11.763,53.444,50
 72,Eggolsheim,11.057,49.77,50
 60,Rohr,10.889,49.339,50
+72,Steinhausen,9.696,48.029,50
 253,Forchheim,11.059,49.72,103
 253,Barth,12.727,54.369,147
 60,Wandersleben,10.85,50.897,50
@@ -5518,16 +5255,14 @@ rs,name,lon,lat,r1
 123,Kirchheim i.Schw.,10.474,48.173,60
 253,Teterow,12.576,53.774,211
 123,Behren-Lübchin,12.665,54.029,50
-86,Meckenbeuren,9.563,47.701,50
-86,Rodersdorf,11.22,51.878,50
 72,Gladau,12.091,52.305,50
-147,Dinkelscherben,10.591,48.348,72
+147,Dinkelscherben,10.591,48.348,103
 72,Wertingen,10.683,48.562,72
 86,Mindelheim,10.491,48.047,60
-60,Muttensweiler,9.714,48.039,50
+103,Neulobeda,11.623,50.882,50
 211,Harzgerode,11.139,51.641,60
 103,Obergünzburg,10.419,47.846,72
-86,Langenorla,11.578,50.74,50
+72,Langenorla,11.578,50.74,50
 176,Roßla,11.077,51.463,86
 72,Markt Wald,10.581,48.137,50
 72,Zölkow,11.823,53.563,50
@@ -5542,12 +5277,13 @@ rs,name,lon,lat,r1
 72,Wichsenstein,11.268,49.738,50
 86,Franzburg,12.878,54.187,50
 303,Ravensburg,9.615,47.784,103
+60,Walschleben,10.936,51.064,50
 60,Rehweiler,10.434,49.765,50
 86,Groß Methling,12.831,53.964,50
 60,Dreileben,11.329,52.129,50
 123,Malchin,12.762,53.739,86
+60,Gehlberg,10.791,50.678,50
 86,Unterjoch,10.428,47.544,50
-72,Ringleben,10.954,51.104,50
 86,Gorschendorf,12.791,53.78,50
 60,Bootz,11.706,53.194,50
 60,Krettenbach,10.418,49.716,50
@@ -5558,9 +5294,10 @@ rs,name,lon,lat,r1
 60,Alikendorf,11.285,51.987,50
 103,Groß Gievitz,12.784,53.579,60
 60,Schaderode,10.925,51.009,50
-86,Königsberg i.Bay.,10.569,50.081,50
+60,Herrlingen,9.898,48.423,50
+60,Königsberg i.Bay.,10.569,50.081,50
 72,Gottstedt,10.911,50.969,60
-72,Oberhofen,9.608,47.736,50
+103,Oberhofen,9.608,47.736,50
 147,Schemmerhofen,9.796,48.174,50
 86,Neuendambach,10.724,50.471,50
 123,Wörnitz,10.244,49.255,72
@@ -5568,26 +5305,29 @@ rs,name,lon,lat,r1
 103,Burgbernheim,10.324,49.45,50
 60,Trüstedt,11.497,52.557,50
 72,Eggingen,9.88,48.361,50
-60,Elxleben,10.948,51.045,50
 60,Streufdorf,10.684,50.354,50
 60,Hornau,10.318,49.415,50
 147,Schleusingen,10.749,50.509,72
 211,Haldensleben,11.411,52.291,123
 60,Buch,10.486,49.821,50
 86,Ebrach,10.497,49.848,50
-303,Aalen,10.092,48.835,211
+60,Jävenitz,11.499,52.524,50
+626,Aalen,10.092,48.835,363
 60,Groß Godems,11.795,53.364,50
-72,Hofen,10.111,48.877,50
 103,Dornstadt,9.943,48.466,50
 60,Schmersau,11.591,52.76,60
 72,Hohen Pritz,11.892,53.629,50
 211,Biberach an der Riß,9.792,48.097,211
 72,Schwabsberg,10.138,48.928,50
 103,Dabel,11.904,53.661,50
+60,Evershagen,12.057,54.117,50
+60,Krum,10.586,50.037,50
 123,Letzlingen,11.486,52.447,60
+60,Gerstetten,10.018,48.623,60
+103,Heteborn,11.292,51.892,50
 86,Bretsch,11.63,52.842,60
 60,Schmiedefeld am Rennsteig,10.813,50.608,60
-72,Warnemünde,12.085,54.173,50
+176,Warnemünde,12.085,54.173,50
 86,Maroldsweisach,10.658,50.198,72
 103,Bad Frankenhausen/Kyffhäuser,11.101,51.357,103
 123,Born,11.471,52.375,60

@@ -36,7 +36,7 @@ rs,name,lon,lat,r1
 331,Skalica,17.225,48.845,134
 46,Radimov,17.199,48.751,20
 55,Lozorno,17.043,48.332,33
-192,Stupava,17.034,48.274,66
+192,Stupava,17.034,48.274,94
 66,Studienka,17.134,48.527,55
 79,Unin,17.213,48.727,39
 66,Mokry Haj,17.246,48.812,20
@@ -75,10 +75,10 @@ rs,name,lon,lat,r1
 28,Stitare,18.159,48.351,20
 94,Modra,17.308,48.336,39
 39,Vieska,17.527,48.002,20
-276,Nove Mesto nad Vahom,17.831,48.757,112
+331,Nove Mesto nad Vahom,17.831,48.757,134
 55,Dubova,17.341,48.367,28
 79,Vrbovce,17.472,48.798,46
-94,Ilava,18.234,48.997,33
+79,Ilava,18.234,48.997,33
 28,Surianky,18.022,48.425,20
 46,Hradiste,18.373,48.682,20
 46,Trstin,17.464,48.527,20
@@ -112,15 +112,16 @@ rs,name,lon,lat,r1
 46,Melcice-Lieskove,17.911,48.84,46
 46,Cierny Brod,17.66,48.15,20
 24,Adamovske Kochanovce,17.926,48.851,20
+24,Banka,17.85,48.582,20
 160,Hlohovec,17.802,48.429,112
 39,Vozokany,17.687,48.105,20
 66,Bojnicky,17.798,48.391,28
 28,Sap,17.616,47.821,20
 46,Horne Otrokovce,17.88,48.49,33
 46,Losonec,17.401,48.481,20
-24,Most pri Bratislave,17.272,48.141,24
+94,Most pri Bratislave,17.272,48.141,28
 39,Kajal,17.79,48.185,28
-94,Pata,17.825,48.278,20
+55,Pata,17.825,48.278,20
 39,Dolany,17.377,48.415,20
 24,Topolnica,17.794,48.172,20
 55,Horne Srnie,18.102,48.991,20
@@ -141,8 +142,9 @@ rs,name,lon,lat,r1
 46,Dolny Chotar,17.868,48.001,33
 230,Smolenice,17.431,48.506,94
 33,Hamuliakovo,17.253,48.038,33
-112,Malinovo,17.299,48.157,20
-33,Preselany,18.101,48.455,20
+33,Malinovo,17.299,48.157,20
+79,Preselany,18.101,48.455,33
+24,Vlcany,17.946,48.031,20
 46,Dolna Poruba,18.299,48.913,24
 94,Udica,18.402,49.166,39
 33,Brvniste,18.426,49.215,20
@@ -150,7 +152,7 @@ rs,name,lon,lat,r1
 24,Badice,18.129,48.397,20
 28,Okolicna na Ostrove,17.923,47.804,28
 39,Solcany,18.203,48.539,20
-79,Zemne,17.994,47.985,33
+66,Zemne,17.994,47.985,28
 55,Hradiste pod Vratnom,17.486,48.629,33
 112,Rybany,18.258,48.669,33
 46,Dolny Lieskov,18.419,49.055,20
@@ -165,7 +167,7 @@ rs,name,lon,lat,r1
 112,Velke Rovne,18.584,49.291,55
 112,Turzovka,18.627,49.405,79
 112,Kamenicna,18.038,47.819,46
-46,Miloslavov,17.299,48.105,24
+55,Miloslavov,17.299,48.105,24
 46,Lipova,18.18,48.109,20
 39,Zlatno,18.315,48.463,28
 94,Dolne Oresany,17.43,48.439,24
@@ -177,6 +179,7 @@ rs,name,lon,lat,r1
 46,Lovce,18.362,48.443,20
 79,Brestovec,17.567,48.793,28
 46,Vistuk,17.394,48.335,20
+24,Martin nad Zitavou,18.354,48.397,20
 55,Dlha,17.428,48.414,20
 66,Budmerice,17.41,48.356,46
 24,Tomasov,17.337,48.143,20
@@ -184,7 +187,7 @@ rs,name,lon,lat,r1
 66,Brezova pod Bradlom,17.541,48.665,66
 66,Borova,17.442,48.387,24
 24,Kosolna,17.465,48.424,20
-230,Samorin,17.314,48.028,79
+230,Samorin,17.314,48.028,112
 24,Polianka,17.579,48.723,20
 33,Vlky,17.368,48.158,20
 55,Dobra Voda,17.539,48.598,39
@@ -214,7 +217,7 @@ rs,name,lon,lat,r1
 39,Dobrohost,17.362,47.981,20
 134,Cifer,17.491,48.317,55
 33,Cataj,17.476,48.27,20
-94,Zlate Klasy,17.42,48.119,46
+55,Zlate Klasy,17.42,48.119,46
 55,Kralova pri Senci,17.45,48.198,28
 33,Hurbanova Ves,17.437,48.152,20
 28,Bohdanovce nad Trnavou,17.545,48.43,28
@@ -256,7 +259,7 @@ rs,name,lon,lat,r1
 94,Moravske Lieskove,17.795,48.821,46
 39,Bodiky,17.457,47.925,20
 39,Michal na Ostrove,17.512,48.024,20
-66,Blahova,17.542,48.086,39
+79,Blahova,17.542,48.086,39
 33,Dolne Srnie,17.819,48.801,20
 94,Cachtice,17.787,48.712,39
 79,Podolie,17.774,48.674,33
@@ -301,7 +304,7 @@ rs,name,lon,lat,r1
 33,Leopoldov,17.765,48.447,20
 39,Beckov,17.895,48.789,33
 28,Brunovce,17.854,48.673,20
-94,Velka Maca,17.693,48.244,33
+66,Velka Maca,17.693,48.244,33
 55,Madunice,17.782,48.479,28
 79,Surovce,17.725,48.325,28
 55,Cierna Voda,17.652,48.128,20
@@ -343,7 +346,7 @@ rs,name,lon,lat,r1
 66,Hrabovka,18.038,48.934,20
 46,Horne Trhoviste,17.868,48.469,20
 79,Selec,17.991,48.786,39
-112,Trencianska Turna,18.018,48.849,33
+112,Trencianska Turna,18.018,48.849,39
 39,Salgovce,17.899,48.524,20
 55,Horne Saliby,17.748,48.124,55
 55,Patas,17.654,47.875,33
@@ -353,7 +356,7 @@ rs,name,lon,lat,r1
 24,Puste Sady,17.829,48.309,20
 28,Padan,17.684,47.928,20
 46,Pastuchov,17.877,48.426,28
-46,Soporna,17.814,48.254,46
+79,Soporna,17.814,48.254,46
 822,Trencin,18.06,48.899,331
 24,Bohelov,17.692,47.917,20
 33,Dolne Trhoviste,17.892,48.442,20
@@ -395,6 +398,7 @@ rs,name,lon,lat,r1
 33,Kralov Brod,17.827,48.061,28
 94,Tesedikovo,17.847,48.105,39
 55,Mikusovce,18.206,49.065,28
+134,Dubnica nad Vahom,18.169,48.961,55
 28,Biskupova,17.984,48.462,20
 39,Aleksince,17.948,48.366,28
 24,Trencianske Mitice,18.119,48.821,20
@@ -412,6 +416,7 @@ rs,name,lon,lat,r1
 24,Blesovce,18.04,48.558,20
 28,Horna Breznica,18.25,49.109,20
 112,Bojna,18.056,48.576,66
+160,Mocenok,17.931,48.232,66
 66,Jarok,17.956,48.278,24
 94,Zlatniky,18.121,48.713,39
 66,Ziharec,17.881,48.073,24
@@ -462,17 +467,18 @@ rs,name,lon,lat,r1
 33,Krasna Ves,18.232,48.835,20
 24,Lipove,17.857,47.839,20
 28,Kamanova,18.101,48.469,20
-55,Vycapy-Opatovce,18.083,48.411,24
+134,Vycapy-Opatovce,18.083,48.411,39
 28,Tovarniky,18.144,48.574,20
 46,Dezerice,18.215,48.763,28
-79,Cabaj-Capor,18.021,48.245,55
+66,Cabaj-Capor,18.021,48.245,46
 28,Ludovitova,18.079,48.398,20
+39,Hrusovany,18.094,48.436,20
 33,Timoradza,18.235,48.811,24
 39,Nimnica,18.355,49.139,20
 134,Belusa,18.328,49.064,46
 66,Ludanice,18.119,48.497,39
 46,Sisov,18.178,48.656,20
-79,Selice,17.97,48.09,55
+79,Selice,17.97,48.09,46
 66,Zemianska Olca,17.864,47.81,55
 55,Norovce,18.178,48.632,20
 66,Bodzianske Luky,17.897,47.887,33
@@ -484,7 +490,8 @@ rs,name,lon,lat,r1
 66,Velka Dolina,18.031,48.185,24
 24,Solcianky,18.197,48.62,20
 28,Visolaje,18.362,49.068,20
-571,Topolcany,18.175,48.559,192
+160,Neded,17.971,48.019,55
+331,Topolcany,18.175,48.559,192
 28,Svatoplukovo,18.054,48.227,20
 33,Oponice,18.145,48.468,24
 571,Nitra,18.085,48.308,476
@@ -518,7 +525,7 @@ rs,name,lon,lat,r1
 79,Korna,18.544,49.414,28
 160,Kolarovo,17.988,47.913,94
 55,Ivanka pri Nitre,18.116,48.241,55
-192,Povazska Bystrica,18.442,49.116,134
+192,Povazska Bystrica,18.442,49.116,160
 39,Zirany,18.172,48.381,20
 55,Bosany,18.247,48.578,39
 79,Klokocov,18.569,49.449,33
@@ -546,7 +553,7 @@ rs,name,lon,lat,r1
 79,Velky Lapas,18.184,48.29,33
 46,Zliechov,18.431,48.95,46
 24,Hostova,18.204,48.337,20
-94,Jelenec,18.226,48.38,46
+66,Jelenec,18.226,48.38,46
 46,Golianovo,18.186,48.269,20
 55,Velky Kyr,18.155,48.183,20
 24,Maly Cetin,18.176,48.237,20
@@ -646,6 +653,7 @@ rs,name,lon,lat,r1
 28,Cerenany,18.485,48.642,20
 112,Vricko,18.706,48.97,46
 46,Hrabicov,18.665,48.535,20
+230,Turcianske Teplice,18.864,48.861,112
 24,Sutovce,18.537,48.801,24
 28,Rudinka,18.748,49.272,20
 33,Branovo,18.306,48.024,24
@@ -669,18 +677,18 @@ rs,name,lon,lat,r1
 24,Melek,18.327,48.202,24
 55,Slovenske Pravno,18.759,48.909,55
 46,Modrany,18.353,47.823,33
-39,Strecno,18.866,49.186,20
+24,Strecno,18.866,49.186,20
 276,Zlate Moravce,18.398,48.383,134
 66,Chrenovec-Brusno,18.727,48.78,46
 66,Plave Vozokany,18.466,48.071,39
 28,Abramova,18.795,48.937,20
 476,Cadca,18.786,49.437,192
-55,Radostka,18.941,49.323,20
+46,Radostka,18.941,49.323,20
 24,Velky Cepcin,18.809,48.894,20
 39,Durcina,18.654,49.063,20
 24,Trebostovo,18.861,49.024,20
-79,Bela,18.943,49.239,39
-24,Horne Hamre,18.672,48.496,20
+94,Bela,18.943,49.239,39
+28,Horne Hamre,18.672,48.496,20
 28,Horna Ves,18.489,48.609,20
 24,Rakovo,18.879,48.989,20
 39,Tajna,18.362,48.267,24
@@ -688,7 +696,7 @@ rs,name,lon,lat,r1
 94,Velke Ludince,18.511,47.963,39
 24,Konska,18.678,49.114,20
 46,Sklene,18.836,48.787,33
-39,Zitavany,18.415,48.401,20
+24,Zitavany,18.415,48.401,20
 39,Kuralany,18.54,47.981,20
 28,Radava,18.301,48.095,20
 39,Rudina,18.743,49.287,20
@@ -698,6 +706,7 @@ rs,name,lon,lat,r1
 94,Rajecke Teplice,18.686,49.125,33
 66,Hostie,18.439,48.453,20
 94,Novaky,18.54,48.719,46
+134,Ziar nad Hronom,18.85,48.592,134
 28,Cerveny Hradok,18.387,48.302,28
 66,Batovce,18.747,48.29,24
 160,Zeliezovce,18.659,48.051,134
@@ -744,11 +753,11 @@ rs,name,lon,lat,r1
 39,Tehla,18.382,48.182,28
 46,Secianky,19.076,48.095,24
 66,Velke Lovce,18.338,48.06,55
-79,Kysucky Lieskovec,18.811,49.338,28
+46,Kysucky Lieskovec,18.811,49.338,33
 28,Sneznica,18.785,49.265,24
-94,Klacno,18.658,48.913,20
-24,Dunajov,18.822,49.361,20
-33,Krasno nad Kysucou,18.833,49.389,20
+192,Klacno,18.658,48.913,20
+46,Dunajov,18.822,49.361,20
+94,Krasno nad Kysucou,18.833,49.389,33
 39,Selany,19.191,48.159,20
 24,Kos,18.6,48.738,20
 55,Svaty Peter,18.265,47.844,39
@@ -756,16 +765,16 @@ rs,name,lon,lat,r1
 28,Velka Calomija,19.202,48.07,28
 46,Liesek,19.675,49.36,33
 24,Pravenec,18.651,48.858,20
-66,Rosina,18.769,49.179,24
+79,Rosina,18.769,49.179,33
 24,Smrecany,19.651,49.12,20
 46,Lehota pod Vtacnikom,18.595,48.696,33
 55,Velky Lom,19.371,48.339,20
-94,Osrblie,19.527,48.758,39
+94,Osrblie,19.527,48.758,33
 24,Hladovka,19.757,49.369,20
 39,Nedozery-Brezany,18.644,48.821,28
-331,Prievidza,18.626,48.773,276
+230,Prievidza,18.626,48.773,230
 28,Bystra,19.604,48.843,20
-28,Teplicka nad Vahom,18.795,49.226,28
+46,Teplicka nad Vahom,18.795,49.226,28
 33,Pozba,18.388,48.115,20
 33,Visnove,18.778,49.163,20
 46,Besa,18.404,48.144,24
@@ -780,7 +789,7 @@ rs,name,lon,lat,r1
 24,Lodno,18.867,49.335,24
 46,Kotrcina Lucka,18.837,49.249,20
 33,Cigel,18.642,48.714,20
-39,Mojs,18.821,49.199,20
+46,Mojs,18.821,49.199,20
 46,Bardonovo,18.421,48.111,20
 66,Patince,18.283,47.743,33
 28,Stranavy,18.819,49.174,20
@@ -789,7 +798,7 @@ rs,name,lon,lat,r1
 134,Lok,18.459,48.182,24
 39,Horny Pial,18.45,48.156,20
 39,Dedinka,18.416,48.067,28
-28,Klubina,18.895,49.354,20
+33,Klubina,18.895,49.354,20
 39,Pila,18.59,48.522,20
 39,Srobarova,18.321,47.807,20
 39,Jasova,18.398,47.989,24
@@ -802,26 +811,28 @@ rs,name,lon,lat,r1
 46,Rudno,18.747,48.885,20
 39,Klak,18.641,48.584,20
 134,Tlmace,18.531,48.289,55
+94,Varin,18.869,49.198,39
 55,Ruban,18.401,47.929,20
 55,Dubnik,18.412,47.957,46
 66,Hronsky Benadik,18.559,48.345,24
 24,Budis,18.758,48.873,20
 24,Velke Kozmalovce,18.538,48.272,20
+33,Krasnany,18.886,49.214,20
 46,Stary Tekov,18.533,48.245,33
-39,Stara Bystrica,18.939,49.347,39
+66,Stara Bystrica,18.939,49.347,55
 66,Klastor pod Znievom,18.805,48.973,24
 55,Kalna nad Hronom,18.519,48.199,46
 24,Rybnik,18.562,48.293,20
 55,Ostry Grun,18.663,48.563,24
 66,Caka,18.47,48.04,24
 66,Strekov,18.418,47.902,39
-55,Zupkov,18.648,48.513,39
+66,Zupkov,18.648,48.513,39
 28,Ondrejovce,18.511,48.135,24
 46,Bajka,18.519,48.151,20
 33,Radvan nad Dunajom,18.366,47.747,24
 46,Tekovska Breznica,18.617,48.385,33
-55,Dubove,18.794,48.856,33
-160,Valca,18.85,49.002,55
+55,Dubove,18.794,48.856,39
+134,Valca,18.85,49.002,55
 66,Lutise,18.956,49.292,24
 94,Batorove Kosihy,18.412,47.827,66
 39,Prochot,18.707,48.612,28
@@ -843,32 +854,33 @@ rs,name,lon,lat,r1
 28,Pribovce,18.883,49.001,20
 39,Podluzany,18.607,48.254,20
 33,Nova Bystrica,19.008,49.344,33
-55,Vrutky,18.925,49.112,24
+94,Vrutky,18.925,49.112,39
 39,Socovce,18.867,48.95,20
 28,Nova Vieska,18.465,47.869,24
 33,Buc,18.443,47.809,20
 39,Kostany nad Turcom,18.904,49.028,20
 79,Tura,18.58,48.156,20
 476,Levice,18.607,48.219,230
-39,Martin,18.921,49.065,20
+276,Martin,18.921,49.065,112
 192,Svodin,18.498,47.915,79
 94,Nova Dedina,18.634,48.275,46
 112,Janova Lehota,18.782,48.659,33
+112,Zarnovica,18.718,48.483,55
 33,Horna Zdana,18.75,48.569,20
 55,Prestavlky,18.757,48.588,24
 28,Bzenica,18.742,48.528,20
 24,Karlova,18.902,48.96,20
 24,Zemliare,18.604,48.148,20
-94,Mosovce,18.888,48.909,33
+94,Mosovce,18.888,48.909,39
 39,Danova,18.914,48.977,20
-33,Raksa,18.879,48.882,20
+46,Raksa,18.879,48.882,20
 39,Lovcica-Trubin,18.783,48.617,39
 55,Nyrovce,18.575,48.025,33
-94,Terchova,19.032,49.258,79
+94,Terchova,19.032,49.258,94
 66,Gbelce,18.51,47.85,55
 79,Kravany nad Dunajom,18.483,47.764,33
 55,Blatnica,18.925,48.937,24
-94,Horna Stubna,18.884,48.824,33
+79,Horna Stubna,18.884,48.824,28
 24,Dolna Trnavka,18.788,48.56,20
 112,Hlinik nad Hronom,18.781,48.54,46
 39,Jur nad Hronom,18.627,48.125,20
@@ -878,12 +890,12 @@ rs,name,lon,lat,r1
 66,Devicany,18.707,48.324,24
 55,Krskany,18.671,48.22,33
 160,Pukanec,18.721,48.353,55
-46,Hodrusa-Hamre,18.761,48.46,28
+39,Hodrusa-Hamre,18.761,48.46,24
 33,Drzenice,18.696,48.286,28
 24,Slaska,18.835,48.657,24
 33,Folkusova,18.949,48.969,20
 33,Lovca,18.806,48.574,20
-55,Kunesov,18.869,48.733,28
+46,Kunesov,18.869,48.733,28
 79,Uhliska,18.752,48.404,39
 39,Necpaly,18.967,48.986,20
 112,Mytne Ludany,18.663,48.164,39
@@ -900,12 +912,13 @@ rs,name,lon,lat,r1
 28,Bohunice,18.752,48.332,20
 24,Lucky,18.895,48.696,20
 33,Vysoka,18.794,48.412,20
-55,Turcek,18.927,48.757,46
+112,Turcek,18.927,48.757,39
 66,Zemberovce,18.743,48.258,55
 28,Repiste,18.845,48.515,20
 94,Hronovce,18.655,48.007,33
 79,Luba,18.596,47.849,33
-55,Horna Ves,18.91,48.676,24
+160,Kremnica,18.918,48.705,94
+66,Horna Ves,18.91,48.676,24
 55,Sutovo,19.084,49.151,20
 28,Ladomerska Vieska,18.874,48.576,20
 46,Brhlovce,18.74,48.215,28
@@ -921,7 +934,7 @@ rs,name,lon,lat,r1
 55,Jablonovce,18.789,48.318,24
 46,Krahule,18.941,48.726,20
 66,Bina,18.642,47.922,28
-134,Krpelany,19.09,49.125,28
+160,Krpelany,19.09,49.125,28
 66,Oravska Lesna,19.183,49.368,55
 112,Muzla,18.601,47.792,55
 79,Zazriva,19.15,49.271,66
@@ -942,7 +955,7 @@ rs,name,lon,lat,r1
 230,Banska Stiavnica,18.893,48.459,112
 46,Hontianske Trstany,18.802,48.211,28
 46,Obid,18.646,47.778,24
-28,Trnava Hora,18.953,48.592,28
+46,Trnava Hora,18.953,48.592,46
 66,Podhorie,18.919,48.499,20
 33,Demandice,18.781,48.127,33
 46,Kordiky,19.022,48.772,24
@@ -962,7 +975,7 @@ rs,name,lon,lat,r1
 66,Hubova,19.189,49.118,20
 55,Bielovce,18.774,47.993,20
 79,Zaskov,19.214,49.177,39
-112,Harmanec,19.075,48.796,33
+94,Harmanec,19.075,48.796,33
 79,Male Kosihy,18.751,47.925,33
 66,Svaty Anton,18.94,48.424,28
 33,Hontianske Moravce,18.852,48.188,20
@@ -1007,7 +1020,7 @@ rs,name,lon,lat,r1
 33,Hrkovce,18.904,48.088,20
 33,Valaska Dubova,19.293,49.141,28
 822,Banska Bystrica,19.147,48.736,397
-134,Badin,19.123,48.665,39
+160,Badin,19.123,48.665,39
 33,Kovacova,19.104,48.602,20
 55,Vysny Kubin,19.316,49.183,20
 160,Hontianske Nemce,18.99,48.286,66
@@ -1054,13 +1067,13 @@ rs,name,lon,lat,r1
 28,Sasa,19.133,48.435,20
 46,Dolna Micina,19.221,48.673,20
 79,Bzovik,19.09,48.319,28
-46,Lieskovec,19.189,48.576,20
+46,Lieskovec,19.189,48.576,33
 28,Turik,19.383,49.107,20
 28,Bzovska Lehotka,19.131,48.414,20
 39,Drienovo,19.064,48.231,28
 66,Dlha nad Oravou,19.444,49.266,28
 24,Zubrohlava,19.512,49.448,20
-397,Liptovska Luzna,19.331,48.935,112
+230,Liptovska Luzna,19.331,48.935,112
 112,Lucky,19.403,49.128,33
 46,Cekovce,19.122,48.351,28
 79,Slovenska Lupca,19.276,48.766,66
@@ -1083,15 +1096,16 @@ rs,name,lon,lat,r1
 39,Lucatin,19.324,48.782,20
 66,Hrusov,19.093,48.154,28
 28,Potok,19.447,49.113,20
-55,Nizna,19.521,49.312,20
+55,Nizna,19.521,49.312,24
 24,Stefanov nad Oravou,19.544,49.361,20
-66,Zvolenska Slatina,19.259,48.562,55
+66,Zvolenska Slatina,19.259,48.562,66
 28,Bukovina,19.471,49.134,20
 24,Medzibrod,19.353,48.792,20
 79,Cerovo,19.157,48.255,39
 134,Ocova,19.285,48.6,33
 33,Malatiny,19.459,49.072,20
 94,Senohrad,19.198,48.358,46
+571,Tvrdosin,19.555,49.337,134
 33,Pohronsky Bukovec,19.377,48.835,24
 79,Litava,19.18,48.299,46
 46,Bobrovnik,19.48,49.116,24
@@ -1107,7 +1121,7 @@ rs,name,lon,lat,r1
 79,Balog nad Iplom,19.136,48.076,33
 79,Kvacany,19.541,49.169,20
 24,Gotovany,19.504,49.061,20
-66,Trstena,19.612,49.361,28
+55,Trstena,19.612,49.361,28
 55,Nemecka,19.416,48.814,20
 46,Dubrava,19.5,49.039,46
 112,Slatinske Lazy,19.304,48.5,28
@@ -1123,15 +1137,15 @@ rs,name,lon,lat,r1
 28,Svaty Kriz,19.536,49.05,20
 33,Jasenie,19.458,48.836,20
 46,Dubravy,19.368,48.587,28
-134,Zuberec,19.613,49.259,55
+160,Zuberec,19.613,49.259,55
 33,Predajna,19.46,48.814,24
 39,Stozok,19.358,48.533,28
 33,Brezovica,19.652,49.341,20
 66,Cebovce,19.23,48.179,24
 46,Stara Huta,19.344,48.474,24
-112,Pavcina Lehota,19.563,49.033,20
+79,Pavcina Lehota,19.563,49.033,20
 39,Pribelce,19.261,48.196,20
-79,Dolna Lehota,19.506,48.836,24
+46,Dolna Lehota,19.506,48.836,20
 79,Bobrovec,19.614,49.122,28
 112,Nenince,19.257,48.147,55
 33,Horny Tisovnik,19.362,48.417,33
@@ -1142,21 +1156,24 @@ rs,name,lon,lat,r1
 24,Chrastince,19.251,48.091,20
 112,Demanovska Dolina,19.58,48.971,46
 33,Batorova,19.273,48.131,20
-28,Dolne Plachtince,19.306,48.201,20
+24,Dolne Plachtince,19.306,48.201,24
 39,Vitanova,19.728,49.355,28
 24,Opatovska Nova Ves,19.276,48.115,24
-55,Modry Kamen,19.334,48.24,24
-55,Krivan,19.445,48.53,20
+66,Podbrezova,19.541,48.81,55
+66,Modry Kamen,19.334,48.24,24
+55,Krivan,19.445,48.53,24
 24,Ziar,19.665,49.131,20
 66,Slovenske Darmoty,19.289,48.092,20
 66,Horne Strhare,19.361,48.271,28
-39,Zavazna Poruba,19.65,49.057,24
+33,Zavazna Poruba,19.65,49.057,24
 28,Podkrivan,19.459,48.515,20
 24,Obeckov,19.333,48.171,20
+331,Velky Krtis,19.349,48.209,160
 39,Korytarky,19.477,48.547,20
 94,Abelova,19.433,48.411,39
-112,Senne,19.397,48.311,33
+160,Senne,19.397,48.311,33
 28,Benadikova,19.682,49.077,20
+24,Hronec,19.581,48.797,24
 160,Sucha Hora,19.79,49.366,55
 24,Brusnik,19.403,48.299,20
 24,Zahorce,19.339,48.113,20
@@ -1171,7 +1188,7 @@ rs,name,lon,lat,r1
 46,Tuhar,19.506,48.428,20
 66,Konska,19.718,49.12,20
 39,Olovary,19.409,48.154,24
-66,Velky Slavkov,20.281,49.096,20
+46,Velky Slavkov,20.281,49.096,20
 66,Rimavske Janovce,20.063,48.341,28
 33,Liptovsky Ondrej,19.713,49.098,28
 79,Zelovce,19.356,48.124,55
@@ -1187,13 +1204,14 @@ rs,name,lon,lat,r1
 66,Pila,19.504,48.483,24
 33,Hradiste,19.723,48.491,20
 46,Pravica,19.457,48.317,20
+79,Liptovsky Hradok,19.721,49.036,66
 39,Pohorela,20.018,48.867,24
 55,Hrnciarske Zaluzany,19.871,48.405,20
 230,Brezno,19.644,48.806,192
 28,Rimavske Zaluzany,19.936,48.5,20
 46,Polichno,19.498,48.405,20
 55,Ozdany,19.894,48.378,55
-28,Liptovsky Peter,19.737,49.055,20
+39,Liptovsky Peter,19.737,49.055,20
 66,Vikartovce,20.152,48.993,28
 46,Sumiac,20.131,48.841,28
 28,Spisska Teplica,20.249,49.048,24
@@ -1203,18 +1221,20 @@ rs,name,lon,lat,r1
 55,Hodejov,19.995,48.303,39
 24,Gortva,20.027,48.299,20
 39,Kiarov,19.406,48.109,20
-55,Vavrisovo,19.76,49.07,20
+33,Vavrisovo,19.76,49.07,20
+55,Velka Lomnica,20.359,49.112,33
 160,Jesenske,20.075,48.305,55
 192,Divin,19.536,48.449,66
 33,Slovenska Ves,20.424,49.227,28
 112,Cierny Balog,19.65,48.747,46
 192,Kezmarok,20.427,49.132,66
+112,Spisska Bela,20.457,49.188,46
 46,Vrbovka,19.408,48.091,33
 24,Rakytnik,20.175,48.392,20
 46,Drzkovce,20.237,48.543,28
 55,Velke Zlievce,19.452,48.202,24
 24,Male Zlievce,19.446,48.181,20
-66,Zavada,19.487,48.29,33
+79,Zavada,19.487,48.29,33
 39,Mytna,19.553,48.467,20
 94,Gemerska Ves,20.273,48.479,39
 24,Gemersky Sad,20.314,48.586,20
@@ -1234,6 +1254,7 @@ rs,name,lon,lat,r1
 33,Zombor,19.449,48.136,24
 28,Hnilcik,20.579,48.856,20
 66,Kotmanova,19.58,48.485,20
+571,Roznava,20.53,48.658,230
 79,Henclova,20.587,48.785,46
 33,Sihla,19.646,48.658,20
 28,Buglovce,20.696,48.986,20
@@ -1244,16 +1265,16 @@ rs,name,lon,lat,r1
 46,Vysna Boca,19.751,48.925,20
 66,Lom nad Rimavicou,19.651,48.641,46
 33,Lehotka,19.544,48.34,20
-28,Kralova Lehota,19.793,49.021,24
+33,Kralova Lehota,19.793,49.021,24
 33,Latky,19.633,48.58,20
 39,Kovacovce,19.456,48.091,24
 33,Lovinobana,19.591,48.438,33
 24,Stara Halic,19.572,48.367,20
 24,Gregorova Vieska,19.579,48.385,20
-55,Busince,19.502,48.173,55
-112,Celare,19.491,48.142,24
+94,Busince,19.502,48.173,79
+66,Celare,19.491,48.142,24
 94,Halic,19.574,48.355,39
-39,Hybe,19.829,49.046,28
+46,Hybe,19.829,49.046,28
 66,Podrecany,19.6,48.406,24
 79,Benus,19.757,48.83,46
 39,Mula,19.526,48.194,20
@@ -1298,7 +1319,7 @@ rs,name,lon,lat,r1
 134,Tisovec,19.942,48.681,79
 33,Nove Hony,19.825,48.363,20
 46,Ratka,19.785,48.245,24
-94,Strba,20.083,49.052,55
+112,Strba,20.083,49.052,66
 55,Hrnciarska Ves,19.861,48.431,39
 46,Sunava,20.082,49.03,20
 66,Selce,19.876,48.457,24
@@ -1307,13 +1328,14 @@ rs,name,lon,lat,r1
 134,Filakovo,19.822,48.271,94
 79,Liptovska Teplicka,20.09,48.968,66
 24,Bulhary,19.847,48.293,20
-55,Stola,20.139,49.094,20
+66,Stola,20.139,49.094,20
+230,Hnusta,19.954,48.58,94
 39,Biskupice,19.836,48.25,20
 112,Osturna,20.231,49.334,33
 112,Radzovce,19.828,48.219,39
 24,Mengusovce,20.141,49.074,20
 94,Rimavska Bana,19.943,48.513,39
-33,Lucivna,20.142,49.052,20
+46,Lucivna,20.142,49.052,20
 46,Siatorska Bukovinka,19.828,48.182,28
 55,Rimavske Brezovo,19.963,48.54,24
 39,Valkovna,20.071,48.835,33
@@ -1323,17 +1345,17 @@ rs,name,lon,lat,r1
 39,Sid,19.879,48.277,28
 24,Kruzno,19.93,48.412,20
 112,Hrachovo,19.951,48.464,24
-24,Batizovce,20.183,49.076,20
+28,Batizovce,20.183,49.076,20
 39,Konradovce,19.904,48.299,20
 33,Camovce,19.887,48.249,20
-94,Zdiar,20.261,49.271,55
+476,Zdiar,20.261,49.271,55
 112,Vysoke Tatry,20.221,49.139,66
 46,Gerlachov,20.207,49.098,20
 46,Velke Teriakovce,19.967,48.433,33
 24,Velka Frankova,20.297,49.337,24
 46,Muranska Dlha Luka,20.08,48.716,20
 46,Ratkovske Bystre,20.057,48.646,24
-24,Svit,20.208,49.059,20
+112,Svit,20.208,49.059,55
 39,Mala Frankova,20.304,49.314,20
 79,Muranska Huta,20.114,48.776,28
 33,Surice,19.914,48.229,20
@@ -1357,7 +1379,7 @@ rs,name,lon,lat,r1
 276,Rimavska Sobota,20.019,48.384,192
 33,Stara Basta,19.946,48.181,20
 331,Tachty,19.942,48.155,33
-33,Stara Lesna,20.306,49.137,20
+39,Stara Lesna,20.306,49.137,20
 66,Slizke,20.088,48.518,39
 28,Mokra Luka,20.149,48.674,20
 94,Lendak,20.352,49.238,66
@@ -1367,7 +1389,7 @@ rs,name,lon,lat,r1
 39,Zacharovce,20.055,48.405,20
 39,Gemersky Jablonec,19.978,48.195,20
 39,Hodejovec,20.015,48.281,20
-276,Relov,20.383,49.297,28
+112,Relov,20.383,49.297,28
 39,Turcok,20.149,48.641,20
 28,Rybnik,20.125,48.549,20
 822,Poprad,20.31,49.055,476
@@ -1381,7 +1403,7 @@ rs,name,lon,lat,r1
 33,Haligovce,20.447,49.371,28
 46,Lubenik,20.192,48.656,24
 24,Ganovce,20.328,49.03,20
-66,Rakusy,20.385,49.188,39
+55,Rakusy,20.385,49.188,39
 39,Velka Lesna,20.437,49.334,28
 24,Mlynceky,20.383,49.169,20
 24,Pavlovce,20.081,48.328,20
@@ -1401,17 +1423,17 @@ rs,name,lon,lat,r1
 112,Jelsava,20.236,48.631,66
 28,Simonovce,20.112,48.273,20
 46,Skeresovo,20.201,48.503,33
-112,Slavosovce,20.281,48.713,66
+134,Slavosovce,20.281,48.713,66
 28,Stratena,20.338,48.871,24
 66,Horka,20.394,49.02,24
 66,Batka,20.166,48.381,28
-94,Vrbov,20.423,49.089,33
+39,Vrbov,20.423,49.089,33
 55,Valice,20.196,48.451,24
 55,Podhorany,20.481,49.239,28
 28,Vysna Slana,20.322,48.787,20
 55,Toporec,20.493,49.263,20
 33,Bottovo,20.15,48.312,20
-55,Vlkova,20.431,49.059,24
+94,Vlkova,20.431,49.059,24
 33,Busovce,20.487,49.218,20
 55,Dubovec,20.158,48.295,20
 46,Gemerske Teplice,20.272,48.601,24
@@ -1420,13 +1442,14 @@ rs,name,lon,lat,r1
 33,Janovce,20.431,49.017,20
 33,Sivetice,20.275,48.581,20
 39,Dedinky,20.381,48.867,28
+276,Dobsina,20.365,48.82,112
 28,Rasice,20.239,48.471,20
 28,Abrahamovce,20.445,49.042,20
 39,Kalosa,20.222,48.42,33
 24,Ochtina,20.326,48.683,20
 28,Holumnica,20.526,49.233,20
 24,Podolinec,20.535,49.257,20
-46,Tvarozna,20.477,49.086,24
+66,Tvarozna,20.477,49.086,24
 66,Radnovce,20.207,48.34,28
 28,Chramec,20.184,48.278,20
 33,Kocelovce,20.343,48.71,20
@@ -1446,7 +1469,7 @@ rs,name,lon,lat,r1
 28,Nizne Ruzbachy,20.577,49.282,20
 39,Ziar,20.273,48.437,20
 134,Lomnicka,20.57,49.249,55
-66,Vlkovce,20.5,49.049,20
+55,Vlkovce,20.5,49.049,20
 46,Ihlany,20.547,49.181,39
 79,Mlynky,20.431,48.854,33
 24,Rozlozna,20.35,48.619,20
@@ -1469,6 +1492,7 @@ rs,name,lon,lat,r1
 39,Paskova,20.384,48.592,20
 39,Kolackov,20.629,49.262,28
 28,Jarabina,20.656,49.336,20
+33,Smizany,20.524,48.956,24
 39,Gemerska Panica,20.35,48.472,20
 33,Gemerska Horka,20.379,48.534,20
 46,Strkovec,20.324,48.36,20
@@ -1478,10 +1502,10 @@ rs,name,lon,lat,r1
 39,Bohunovo,20.385,48.513,20
 39,Lenartovce,20.309,48.299,20
 39,Hranicne,20.699,49.375,28
-230,Plesivec,20.405,48.547,94
+276,Plesivec,20.405,48.547,94
 134,Mnisek nad Popradom,20.716,49.414,46
 24,Lenka,20.351,48.388,20
-112,Gemerska Poloma,20.475,48.712,39
+94,Gemerska Poloma,20.475,48.712,39
 160,Levoca,20.589,49.026,66
 28,Kesovce,20.355,48.375,20
 276,Stara Lubovna,20.691,49.303,230
@@ -1526,9 +1550,9 @@ rs,name,lon,lat,r1
 28,Lenartov,21.021,49.31,24
 39,Tichy Potok,20.788,49.148,20
 33,Fricka,21.085,49.404,20
-79,Margecany,21.013,48.892,39
+94,Margecany,21.013,48.892,39
 33,Vysny Tvarozec,21.194,49.385,20
-112,Zlata Idka,21.007,48.752,33
+134,Zlata Idka,21.007,48.752,33
 24,Medzianky,21.471,49.038,20
 24,Hincovce,20.727,48.959,20
 33,Torysa,20.881,49.16,20
@@ -1560,7 +1584,7 @@ rs,name,lon,lat,r1
 33,Novacany,21.072,48.69,24
 33,Vislanka,20.861,49.233,20
 46,Olcnava,20.754,48.927,20
-276,Svedlar,20.713,48.813,55
+331,Svedlar,20.713,48.813,55
 66,Uhorna,20.675,48.706,33
 46,Kobyly,21.296,49.214,24
 28,Zahradne,21.267,49.09,20
@@ -1570,7 +1594,7 @@ rs,name,lon,lat,r1
 112,Kendice,21.243,48.925,39
 33,Lubotice,21.274,49.012,20
 39,Demjata,21.315,49.106,20
-112,Mala Ida,21.167,48.676,28
+55,Mala Ida,21.167,48.676,28
 24,Abrahamovce,21.34,49.161,20
 55,Bijacovce,20.796,49.023,20
 94,Hazlin,21.419,49.302,55
@@ -1606,7 +1630,7 @@ rs,name,lon,lat,r1
 24,Puste Pole,20.903,49.215,20
 46,Vysny Slavkov,20.853,49.073,20
 28,Dargov,21.584,48.732,20
-134,Vranov nad Toplou,21.686,48.888,112
+160,Vranov nad Toplou,21.686,48.888,112
 39,Male Ozorovce,21.614,48.682,20
 28,Polanovce,20.842,49.024,24
 160,Secovce,21.654,48.703,55
@@ -1619,20 +1643,22 @@ rs,name,lon,lat,r1
 39,Smolnicka Huta,20.774,48.746,20
 24,Dacov,20.927,49.148,20
 46,Mnisek nad Hnilcom,20.805,48.804,46
-24,Kolinovce,20.855,48.929,20
+33,Kolinovce,20.855,48.929,20
 66,Slovinky,20.844,48.878,28
-79,Kamenica,20.957,49.188,33
+66,Kamenica,20.957,49.188,24
 39,Stos,20.787,48.71,28
 55,Borka,20.764,48.631,20
-33,Dubovica,20.953,49.135,20
-24,Krompachy,20.874,48.911,20
-55,Hrisovce,20.907,48.947,24
+46,Dubovica,20.953,49.135,20
+134,Krompachy,20.874,48.911,134
+112,Lipany,20.962,49.155,66
+79,Hrisovce,20.907,48.947,20
 39,Sindliar,20.942,49.039,20
 66,Lipovce,20.952,49.058,20
 55,Rencisov,20.965,49.094,28
 24,Rozkovany,20.989,49.138,20
 33,Milpos,21.005,49.181,24
 66,Siroke,20.943,48.997,39
+39,Richnava,20.919,48.927,24
 33,Hrabske,21.073,49.341,20
 192,Malcov,21.062,49.305,94
 24,Stefanovce,20.975,49.039,20
@@ -1644,7 +1670,7 @@ rs,name,lon,lat,r1
 24,Lukov,21.081,49.292,20
 24,Cervenica pri Sabinove,21.026,49.135,20
 134,Petrova,21.119,49.387,55
-160,Gelnica,20.934,48.852,46
+94,Gelnica,20.934,48.852,46
 55,Haj,20.854,48.628,20
 39,Lutina,21.048,49.166,20
 160,Medzev,20.888,48.702,66
@@ -1661,7 +1687,7 @@ rs,name,lon,lat,r1
 79,Cervena Voda,21.088,49.147,20
 24,Sverzov,21.158,49.337,20
 112,Jarovnice,21.06,49.056,39
-94,Hrabkov,21.029,48.958,33
+112,Hrabkov,21.029,48.958,33
 39,Krive,21.15,49.292,20
 55,Kojsov,20.988,48.822,28
 46,Raznany,21.082,49.082,20
@@ -1701,7 +1727,7 @@ rs,name,lon,lat,r1
 46,Rokycany,21.145,48.961,39
 79,Hertnik,21.236,49.208,33
 33,Mokrance,21.021,48.597,20
-94,Becherov,21.315,49.42,20
+112,Becherov,21.315,49.42,20
 28,Hubosovce,21.206,49.1,20
 94,Klusov,21.258,49.246,39
 79,Kosicka Bela,21.107,48.805,55
@@ -1728,7 +1754,7 @@ rs,name,lon,lat,r1
 33,Lukavica,21.316,49.263,20
 46,Semsa,21.114,48.675,28
 46,Varadka,21.383,49.413,24
-66,Nizny Klatov,21.142,48.728,39
+46,Nizny Klatov,21.142,48.728,39
 571,Presov,21.24,48.998,230
 24,Vaniskovce,21.3,49.164,20
 160,Buzica,21.078,48.533,46
@@ -1755,7 +1781,7 @@ rs,name,lon,lat,r1
 33,Dubova,21.432,49.363,20
 33,Fulianka,21.329,49.065,20
 24,Zaborske,21.289,48.942,20
-112,Vysny Mirosov,21.446,49.386,46
+66,Vysny Mirosov,21.446,49.386,46
 66,Velka Ida,21.168,48.597,66
 24,Poliakovce,21.405,49.255,20
 33,Kapusany,21.331,49.045,24
@@ -1765,7 +1791,7 @@ rs,name,lon,lat,r1
 94,Druzstevna pri Hornade,21.249,48.8,66
 33,Vysna Sebastova,21.326,49.014,24
 39,Kurimka,21.438,49.32,20
-33,Kosice-Lunik IX,21.222,48.698,24
+66,Kosice-Lunik IX,21.222,48.698,24
 55,Ruska Nova Ves,21.325,48.978,24
 55,Hankovce,21.407,49.204,24
 33,Nizny Mirosov,21.475,49.361,20
@@ -1808,11 +1834,12 @@ rs,name,lon,lat,r1
 46,Zlata Bana,21.425,48.947,39
 28,Koksov-Baksa,21.324,48.648,20
 33,Gynov,21.304,48.591,20
-39,Sady nad Torysou,21.35,48.709,28
+39,Sady nad Torysou,21.35,48.709,33
 33,Kosicka Polianka,21.345,48.693,20
-55,Kruzlova,21.583,49.364,24
+112,Kruzlova,21.583,49.364,24
 33,Kracunovce,21.49,49.099,20
-112,Cana,21.326,48.608,55
+192,Svidnik,21.57,49.307,160
+134,Cana,21.326,48.608,66
 28,Benadikovce,21.547,49.231,20
 39,Babie,21.493,49.069,24
 28,Vysna Hutka,21.354,48.676,20
@@ -1844,7 +1871,7 @@ rs,name,lon,lat,r1
 33,Rankovce,21.46,48.809,24
 55,Bidovce,21.439,48.737,24
 24,Bystre,21.542,49.008,24
-160,Krajna Bystra,21.677,49.384,46
+66,Krajna Bystra,21.677,49.384,46
 39,Duplin,21.626,49.235,24
 55,Ruskov,21.433,48.682,24
 28,Vysna Olsava,21.605,49.158,28
@@ -1893,7 +1920,7 @@ rs,name,lon,lat,r1
 46,Kvakovce,21.671,48.988,28
 46,Davidov,21.631,48.827,20
 39,Cicava,21.666,48.925,20
-112,Havaj,21.785,49.257,39
+94,Havaj,21.785,49.257,39
 33,Slivnik,21.553,48.599,20
 28,Piskorovce,21.734,49.107,28
 55,Zemplinska Teplica,21.574,48.647,55
@@ -1916,7 +1943,7 @@ rs,name,lon,lat,r1
 39,Velke Ozorovce,21.61,48.663,20
 79,Zalobin,21.728,48.968,39
 39,Ruska Poruba,21.79,49.141,28
-94,Habura,21.861,49.326,39
+66,Habura,21.861,49.326,39
 39,Jasenovce,21.746,48.995,20
 33,Kazimir,21.581,48.53,24
 46,Repejov,21.822,49.201,20
@@ -1955,8 +1982,9 @@ rs,name,lon,lat,r1
 55,Brestov,21.886,48.968,20
 46,Palota,21.992,49.268,28
 46,Nizny Hrabovec,21.754,48.855,33
+192,Medzilaborce,21.901,49.271,112
 24,Banovce nad Ondavou,21.812,48.686,20
-112,Koskovce,21.955,49.046,24
+79,Koskovce,21.955,49.046,24
 24,Tovarnianska Polianka,21.773,48.898,20
 94,Hran,21.786,48.546,55
 66,Pozdisovce,21.855,48.727,28
@@ -1968,7 +1996,7 @@ rs,name,lon,lat,r1
 33,Posa,21.754,48.839,20
 24,Stanca,21.658,48.569,20
 46,Karna,21.805,48.983,20
-94,Udavske,21.966,48.974,33
+55,Udavske,21.966,48.974,33
 39,Hriadky,21.707,48.699,20
 55,Vrbnica,21.882,48.678,33
 24,Rovne,22.01,48.978,20
@@ -2008,7 +2036,7 @@ rs,name,lon,lat,r1
 24,Velka Trna,21.678,48.469,20
 28,Puste Cemerne,21.816,48.842,24
 66,Brekov,21.839,48.905,24
-46,Myslina,21.854,48.945,20
+39,Myslina,21.854,48.945,20
 28,Mala Trna,21.683,48.456,20
 24,Vysne Ladickovce,21.891,49.038,24
 46,Moravany,21.786,48.739,24
@@ -2026,13 +2054,14 @@ rs,name,lon,lat,r1
 55,Borsa,21.704,48.393,28
 28,Stare,21.873,48.86,20
 33,Kasov,21.742,48.49,20
+230,Humenne,21.908,48.937,134
 28,Cernochov,21.734,48.439,20
-55,Jasenov,21.902,48.907,20
+55,Jasenov,21.902,48.907,24
 39,Zbudske Dlhe,21.963,49.074,39
 79,Vyrava,22.005,49.192,28
 39,Hankovce,21.948,49.028,20
 46,Petrovce nad Laborcom,21.873,48.794,20
-66,Lubisa,21.948,49.006,24
+160,Lubisa,21.948,49.006,24
 28,Zbojne,21.996,49.137,24
 94,Cejkov,21.764,48.468,55
 24,Laskovce,21.849,48.701,20
@@ -2058,7 +2087,7 @@ rs,name,lon,lat,r1
 46,Vysny Hrusov,22.009,48.99,20
 28,Dubravka,21.889,48.637,20
 55,Somotor,21.808,48.4,24
-33,Kamenica nad Cirochou,21.999,48.931,33
+66,Kamenica nad Cirochou,21.999,48.931,46
 571,Papin,22.059,49.092,79
 33,Kamienka,21.998,48.907,20
 55,Adidovce,22.037,49.016,24
@@ -2069,7 +2098,7 @@ rs,name,lon,lat,r1
 55,Zubne,22.065,49.047,33
 94,Budkovce,21.929,48.635,33
 28,Slavkovce,21.923,48.603,24
-66,Modra nad Cirochou,22.046,48.944,20
+39,Modra nad Cirochou,22.046,48.944,20
 28,Velke Raskovce,21.911,48.556,20
 33,Kaluza,22.002,48.806,20
 28,Svinice,21.882,48.458,20
@@ -2102,7 +2131,7 @@ rs,name,lon,lat,r1
 39,Cicarovce,22.027,48.54,24
 112,Pavlovce nad Uhom,22.067,48.614,46
 79,Ubrez,22.131,48.787,33
-94,Blatne Remety,22.105,48.708,39
+79,Blatne Remety,22.105,48.708,33
 33,Bunkovce,22.117,48.723,20
 33,Blatna Polianka,22.107,48.693,20
 28,Pribenik,22.001,48.393,20
@@ -2117,6 +2146,7 @@ rs,name,lon,lat,r1
 39,Ostrov,22.165,48.72,20
 33,Biel,22.056,48.408,20
 39,Kapusianske Klacany,22.103,48.532,20
+160,Sobrance,22.178,48.742,134
 94,Kolonica,22.258,48.956,33
 24,Baskovce,22.205,48.784,20
 55,Bezovce,22.151,48.632,39
@@ -2124,7 +2154,7 @@ rs,name,lon,lat,r1
 39,Stakcinska Roztoka,22.284,49.002,28
 66,Botany,22.091,48.448,24
 28,Hlivistia,22.219,48.807,20
-28,Horna,22.203,48.758,20
+39,Horna,22.203,48.758,20
 33,Tasula,22.171,48.66,20
 39,Matovske Vojkovce,22.141,48.568,28
 39,Lekarovce,22.155,48.602,24
@@ -2133,7 +2163,7 @@ rs,name,lon,lat,r1
 24,Tibava,22.211,48.741,20
 33,Cierna,22.11,48.43,20
 66,Strihovce,22.276,48.897,24
-79,Chonkovce,22.241,48.779,33
+94,Chonkovce,22.241,48.779,33
 134,Ptruksa,22.139,48.487,20
 33,Velke Slemence,22.149,48.51,28
 33,Zahor,22.196,48.623,20
@@ -2158,41 +2188,3 @@ rs,name,lon,lat,r1
 397,Ulic,22.426,48.963,112
 160,Zboj,22.481,49.028,55
 39,Nova Sedlica,22.513,49.043,20
-28,Žilina,18.736,49.21,20
-276,Martin,18.921,49.083,112
-24,Trenčín,18.04,48.889,20
-24,Sekčov,21.271,48.994,20
-66,Dúbravka,17.041,48.191,46
-55,Podunajské Biskupice,17.206,48.135,46
-39,Karlova Ves,17.05,48.154,28
-230,Humenné,21.913,48.932,134
-79,Krásna,21.298,48.681,33
-134,Dubnica nad Váhom,18.169,48.96,55
-134,Žiar nad Hronom,18.848,48.593,134
-571,Rožňava,20.533,48.656,230
-134,Krompachy,20.894,48.921,134
-134,Krásno nad Kysucou,18.837,49.372,46
-39,Smižany,20.522,48.954,24
-28,Devínska Nová Ves,16.978,48.206,28
-28,Detva,19.413,48.547,20
-192,Svidník,21.574,49.309,160
-276,Veľký Krtíš,19.349,48.21,160
-134,Svit,20.186,49.063,66
-28,Môťová,19.155,48.562,20
-571,Tvrdošín,19.55,49.334,112
-112,Lipany,20.96,49.149,79
-94,Gbeľany,18.86,49.206,66
-66,Liptovský Hrádok,19.734,49.041,66
-112,Spišská Belá,20.464,49.186,46
-276,Hnúšťa,19.952,48.576,94
-112,Turčianske Teplice,18.863,48.868,112
-46,Veľká Lomnica,20.365,49.115,28
-160,Vlčany,17.956,48.027,94
-160,Sobrance,22.179,48.746,134
-192,Medzilaborce,21.905,49.271,134
-24,District of Brezno-Hronec,19.566,48.806,24
-112,Žarnovica,18.714,48.485,55
-192,Preseľany,18.093,48.439,94
-160,Močenok,17.924,48.232,66
-331,Dobšiná,20.368,48.821,112
-160,Kremnica,18.921,48.703,94

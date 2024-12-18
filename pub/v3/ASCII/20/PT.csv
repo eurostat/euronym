@@ -2,17 +2,18 @@ rs,name,lon,lat,r1
 3528,Santa Cruz das Flores,-31.128,39.456,1419
 39,Fazenda de Santa Cruz,-31.149,39.467,20
 79,Lomba,-31.155,39.402,33
-66,Carreira,-28.721,38.523,28
-33,Granja,-28.676,38.535,24
-55,Pedro Miguel,-28.62,38.575,24
-986,Caminho da Igreja,-28.02,39.064,230
+39,Carreira,-28.721,38.523,28
+66,Granja,-28.676,38.535,46
+192,Pedro Miguel,-28.62,38.575,79
+39,Volta,-28.63,38.55,20
+571,Caminho da Igreja,-28.02,39.064,230
 94,Candelaria,-28.512,38.465,39
 33,Fetais,-28.415,38.542,24
-476,Velas,-28.209,38.682,276
+18190,Velas,-28.209,38.682,7312
 134,Cais do Pico,-28.319,38.524,112
 476,Lajes do Pico,-28.251,38.395,112
 66,Santo Amaro,-28.17,38.454,39
-134,Criacao Velha,-28.524,38.512,55
+230,Criacao Velha,-28.524,38.512,230
 46,Bandeiras,-28.455,38.541,46
 94,Ribeirinha,-28.089,38.439,94
 55,Ponta da Ilha,-28.052,38.424,24
@@ -23,9 +24,9 @@ rs,name,lon,lat,r1
 39,Achada do Barro,-16.831,32.725,20
 28,Levadas,-16.796,32.702,20
 276,Lamaceiros,-17.17,32.856,79
-33,Fazendinha,-16.802,32.678,20
-24,Vila Praia de Ancora,-8.861,41.813,20
-94,Montedor,-8.868,41.75,24
+28,Fazendinha,-16.802,32.678,20
+230,Vila Praia de Ancora,-8.861,41.813,94
+55,Montedor,-8.868,41.75,24
 28,Monte,-8.659,41.985,20
 66,Maloeira,-17.209,32.765,24
 94,Antas,-8.644,41.899,33
@@ -51,32 +52,36 @@ rs,name,lon,lat,r1
 33,Tranqual,-17.024,32.668,24
 66,Achada,-16.964,32.724,28
 276,Santana,-16.882,32.806,94
-79,Foro,-16.988,32.681,28
+66,Foro,-16.988,32.681,28
 24,Aviceiro,-17.006,32.662,20
-39,Vargem,-16.968,32.669,20
-24,Camara de Lobos,-16.976,32.649,24
+33,Vargem,-16.968,32.669,20
+8774,Camara de Lobos,-16.976,32.649,6094
 94,Maiata,-16.82,32.759,39
 28,Joao Ferino,-16.835,32.705,24
-46,Nogueira,-16.848,32.671,20
-160,Machico,-16.771,32.724,66
+79,Nogueira,-16.848,32.671,66
+134,Machico,-16.771,32.724,134
+28,Vale,-16.846,32.643,20
+46,Mae de Deus,-16.827,32.655,20
 33,Queimada,-16.766,32.709,20
 24,Dragoal,-16.337,33.072,20
-685,Matas,-16.338,33.06,331
+397,Matas,-16.338,33.06,331
 28,Fontela,-8.862,41.85,20
-230,Caminha,-8.836,41.87,39
-46,Povoa,-8.864,41.826,20
+112,Caminha,-8.836,41.87,39
+28,Povoa,-8.864,41.826,20
 39,Funchal,-8.796,41.894,28
+24,Igreja,-8.853,41.802,20
 33,Aldeia Nova,-8.805,41.859,20
-46,Afife,-8.858,41.78,20
-112,Vila Nova de Cerveira,-8.741,41.942,66
+66,Afife,-8.858,41.78,24
+134,Vila Nova de Cerveira,-8.741,41.942,66
 24,Gateira,-8.854,41.769,20
 46,Lagoa,-8.697,41.974,24
 39,Troviscoso,-8.858,41.733,20
+55,Grovas,-8.81,41.797,24
 55,Cimo da Vila,-8.732,41.908,28
 1419,Valenca,-8.634,42.024,230
-66,Romae,-8.79,41.761,24
+112,Romae,-8.79,41.761,24
 39,Pacos,-8.64,41.973,39
-476,Viana do Castelo,-8.824,41.701,134
+476,Viana do Castelo,-8.824,41.701,230
 39,Real,-8.615,42.007,20
 24,Bugim,-8.622,41.988,20
 46,Barreira,-8.581,42.039,24
@@ -90,7 +95,7 @@ rs,name,lon,lat,r1
 33,Sendim de Baixo,-8.808,41.624,28
 33,Ferrais,-8.769,41.679,20
 24,Igreja,-8.74,41.715,20
-46,Balteiro,-8.705,41.758,20
+66,Balteiro,-8.705,41.758,20
 134,Moncao,-8.481,42.074,94
 39,Alderiz,-8.509,42.028,20
 39,Guilheta,-8.793,41.607,20
@@ -103,36 +108,38 @@ rs,name,lon,lat,r1
 39,Terra Feita,-8.66,41.765,20
 39,Alvaraes,-8.744,41.639,28
 39,Lugar de Cima,-8.787,41.576,24
-230,Paredes de Coura,-8.556,41.911,79
+134,Paredes de Coura,-8.556,41.911,79
 39,Cerdeira,-8.575,41.885,20
 24,Costa,-8.701,41.685,20
 46,Gandara,-8.681,41.71,24
 39,Soutelo,-8.702,41.673,20
-55,Souto,-8.65,41.744,20
+39,Souto,-8.65,41.744,20
 66,Forjaes,-8.739,41.603,33
 24,Covelo,-8.543,41.889,20
 24,Forno,-8.65,41.732,20
-94,Presa,-8.6,41.802,24
+112,Esposende,-8.777,41.546,94
+112,Presa,-8.6,41.802,24
 79,Outeiro,-8.436,42.035,24
 160,Barroselas,-8.697,41.646,55
 66,Cabo,-8.406,42.073,46
 24,Boavista e Galinheira,-8.712,41.607,20
-33,Arcozelo,-8.591,41.774,20
+46,Arcozelo,-8.591,41.774,20
 55,Fao,-8.772,41.509,20
-33,Costa,-8.612,41.739,20
+39,Costa,-8.612,41.739,20
 24,Souto,-8.757,41.523,20
 33,Borgonha,-8.617,41.722,20
-134,Apulia,-8.763,41.484,55
+112,Ponte de Lima,-8.581,41.754,112
+160,Apulia,-8.763,41.484,55
 24,Vila Cova de Baixo,-8.717,41.55,20
 55,Siao,-8.697,41.572,20
-33,Leiras,-8.58,41.742,20
+24,Leiras,-8.58,41.742,20
 28,Pomaraco,-8.658,41.623,20
 28,Agra,-8.738,41.496,20
 28,Costeira,-8.58,41.719,20
 33,Santo Andre de Baixo,-8.782,41.419,20
 39,Aspra,-8.445,41.911,20
 24,Bouca,-8.557,41.744,20
-46,Nogueira,-8.524,41.79,39
+55,Nogueira,-8.524,41.79,39
 39,Telheiras,-8.721,41.478,20
 28,Moreira,-8.649,41.242,20
 33,Bouca de Rodas,-8.589,41.654,20
@@ -147,14 +154,14 @@ rs,name,lon,lat,r1
 24,Carril,-8.002,41.399,20
 112,Vilamar,-8.659,40.408,39
 66,Virtelos,-8.527,41.662,20
-39,Souto,-8.412,41.827,20
+33,Souto,-8.412,41.827,20
 39,Ribeiro,-8.657,41.467,24
 79,Poutena,-8.569,40.412,28
 24,Montinho,-8.579,40.393,20
 33,Gosende,-8.059,41.137,20
 24,Travassos,-8.079,41.064,20
 28,Silveirinha Grande,-8.814,40.013,20
-112,Verride,-8.711,40.134,28
+94,Verride,-8.711,40.134,28
 39,Rebordondo,-7.584,41.696,24
 24,Pinheiro,-8.605,41.523,20
 39,Felgueiras,-8.312,42.086,39
@@ -174,37 +181,39 @@ rs,name,lon,lat,r1
 33,Teso,-8.738,41.451,24
 28,Igreja e Orejal,-8.543,41.736,20
 55,Cruzeiro,-8.339,42.034,39
-79,Soajo,-8.266,41.874,79
+66,Soajo,-8.266,41.874,66
 24,Hospital,-8.508,41.782,20
 33,Estrumil,-8.365,41.72,24
 33,Coutada,-8.638,41.589,20
 28,Lourido,-8.281,41.822,20
 24,Parada,-8.632,41.287,20
-79,Matosinhos,-8.69,41.194,39
-33,Ribeirao,-8.561,41.358,20
+94,Matosinhos,-8.69,41.194,39
+46,Ribeirao,-8.561,41.358,20
 28,Quintaes,-8.687,41.512,20
-66,Pegada,-8.397,41.587,24
+55,Pegada,-8.397,41.587,24
 28,Custoias,-8.648,41.205,20
-55,Barreiro,-8.649,41.56,24
+94,Trofa,-8.555,41.335,46
+66,Barreiro,-8.649,41.56,24
 28,Vila do Coronado,-8.559,41.28,28
-46,Sobreiral,-8.47,41.391,20
+39,Sobreiral,-8.47,41.391,20
 55,Boucelao,-8.713,41.461,20
-94,Oliveira,-8.531,41.723,24
+79,Oliveira,-8.531,41.723,24
 28,Aldeia,-8.249,41.647,20
 33,Ronfe,-8.388,41.434,20
 66,Eiro,-8.479,41.296,39
 66,Ferreiros,-8.407,41.904,20
+46,Caldelas das Taipas,-8.343,41.492,20
 39,Santos e Lousado,-8.592,41.631,20
 79,Ponte,-8.335,41.471,28
 24,Assento,-8.208,41.657,20
-28,Vessadas,-8.296,41.525,20
-66,Cadilhe,-8.745,41.405,20
+79,Vessadas,-8.296,41.525,20
+33,Cadilhe,-8.745,41.405,20
 39,Sao Tome de Negrelos,-8.403,41.344,20
 24,Quintela,-8.248,41.547,20
 39,Sobrado,-8.459,41.219,24
 28,Ermo,-8.28,41.473,20
-46,Porto de Ave,-8.219,41.56,24
-28,Povoa de Varzim,-8.752,41.388,20
+55,Porto de Ave,-8.219,41.56,24
+192,Povoa de Varzim,-8.752,41.388,134
 331,Melgaco,-8.257,42.113,134
 28,Machuqueiras,-8.711,41.443,20
 66,Gens,-8.483,41.114,20
@@ -225,22 +234,24 @@ rs,name,lon,lat,r1
 33,Lobao,-8.491,40.983,28
 39,Bouca,-8.412,41.866,20
 33,Fim de Vila,-8.675,41.48,20
-39,Gafanha da Nazare,-8.708,40.641,39
+46,Gafanha da Nazare,-8.708,40.641,39
 55,Marinhao,-8.127,41.465,28
 33,Igreja,-8.533,40.855,20
 94,Pomares,-8.275,42.06,24
 39,Fojos,-8.044,41.512,24
+192,Arcos de Valdevez,-8.419,41.844,112
 28,Cabecais,-8.426,40.948,24
 46,Quiraz,-8.597,41.583,24
-28,Cesar,-8.438,40.917,24
+24,Cesar,-8.438,40.917,24
 33,Vilar,-8.318,41.084,20
 94,Pisoes,-7.868,41.74,39
+24,Esgueira,-8.616,40.649,20
 55,Gandarela,-8.031,41.46,33
 24,Santa Maria de Sardoura,-8.302,41.048,20
 112,Alheira,-8.57,41.612,20
 66,Sao Sebastiao,-8.11,41.303,20
 33,Salgueiro,-8.625,40.561,20
-33,Vila do Conde,-8.745,41.357,20
+66,Vila do Conde,-8.745,41.357,24
 24,Carrasqueira,-8.11,41.279,20
 192,Castelo de Paiva,-8.267,41.041,33
 39,Cochadas,-8.737,40.369,20
@@ -252,9 +263,10 @@ rs,name,lon,lat,r1
 46,Pedros,-8.772,40.282,20
 24,Escoural,-8.726,40.341,20
 33,Brenha,-8.825,40.193,24
-94,Barcelos,-8.617,41.533,79
+160,Barcelos,-8.617,41.533,112
 33,Laurentim,-8.16,41.121,20
-79,Gala,-8.853,40.122,28
+66,Gala,-8.853,40.122,24
+24,Moure,-8.05,41.266,20
 39,Serem de Cima,-8.471,40.656,24
 33,Povoa do Carreiro,-8.554,40.487,20
 24,Portela,-8.7,41.404,20
@@ -262,33 +274,37 @@ rs,name,lon,lat,r1
 28,Prova,-8.42,41.812,20
 112,Nespereira,-8.175,41.001,46
 55,Vilela,-8.37,41.882,24
-112,Paiao,-8.806,40.069,46
+192,Paiao,-8.806,40.069,46
 33,Arrotas,-8.591,40.37,20
 33,Fuste,-8.216,40.902,20
 24,Candemil,-7.968,41.245,24
+24,Igreja,-8.713,41.375,20
 24,Cachada,-8.545,41.619,20
-79,Carapinheira,-8.648,40.209,33
+79,Carapinheira,-8.648,40.209,39
 28,Cachada,-8.586,41.554,20
 28,Pedrogao do Pranto,-8.732,40.076,20
 28,Calvao,-7.541,41.791,20
-276,Nazare,-9.068,39.601,112
+276,Nazare,-9.068,39.601,134
 66,Sao Martinho do Porto,-9.132,39.51,66
-39,Sepins,-8.498,40.385,20
+24,Sepins,-8.498,40.385,20
 39,Cordinha,-8.532,40.335,24
-66,Sao Pedro de Rates,-8.677,41.418,46
+39,Sao Pedro de Rates,-8.677,41.418,39
 39,Capeludos,-7.625,41.622,20
-39,Ribamar,-9.331,39.201,24
+66,Ribamar,-9.331,39.201,28
 28,Brunhos,-8.669,40.11,20
+66,Marinha Grande,-8.927,39.749,66
 55,Guia,-8.788,39.943,24
 24,Bragado,-7.645,41.584,20
 39,Anelhe,-7.58,41.676,20
 79,Varziela,-8.623,41.493,20
 39,Boialvo,-8.375,40.501,24
+24,Sernadelo,-8.446,40.388,20
 46,Castelhanas,-8.732,39.982,20
+94,Mealhada,-8.449,40.376,33
 28,Bica,-9.055,39.526,20
 39,Cerradinho,-7.953,41.079,20
 134,Vidago,-7.571,41.638,55
-94,Areia,-8.73,41.331,24
+55,Areia,-8.73,41.331,24
 33,Vil de Matos,-8.487,40.284,20
 46,Vila Nova de Monsarros,-8.398,40.409,24
 55,Casalinhos de Alfaiata,-9.342,39.102,55
@@ -299,7 +315,8 @@ rs,name,lon,lat,r1
 28,Casal Querido,-9.413,38.984,20
 55,Pedras Salgadas,-7.603,41.536,28
 112,Vilarinho de Samarda,-7.706,41.383,39
-112,Ponte da Barca,-8.413,41.789,46
+28,Moinhos da Barosa,-8.84,39.75,20
+94,Ponte da Barca,-8.413,41.789,46
 24,Sa,-8.087,40.8,20
 46,Marmeleira do Botao,-8.426,40.308,20
 33,Pego do Peixe,-8.385,40.365,20
@@ -315,15 +332,16 @@ rs,name,lon,lat,r1
 24,Almocageme,-9.47,38.794,20
 24,Monte Redondo,-8.369,40.305,20
 33,Paradela de Monforte,-7.336,41.806,20
-112,Vila da Batalha,-8.825,39.66,66
+134,Vila da Batalha,-8.825,39.66,66
 46,Chao da Feira,-8.853,39.621,20
 39,Ataija de Baixo,-8.909,39.542,20
+134,Condeixa-a-Nova,-8.496,40.115,55
 24,Sao Juliao de Montenegro,-7.392,41.716,20
 39,Vermelha,-9.105,39.271,24
 134,Redinha,-8.578,39.997,46
 33,Ladreda,-7.999,40.818,24
 24,Igreja,-8.672,41.399,20
-28,Cernache,-8.471,40.138,20
+39,Cernache,-8.471,40.138,20
 28,Sao Martinho do Souto,-7.807,41.08,20
 28,Brancas,-8.814,39.647,20
 24,Vilar,-8.611,41.484,20
@@ -351,10 +369,10 @@ rs,name,lon,lat,r1
 66,Vila de Prado,-8.465,41.605,28
 33,Gandra,-8.611,41.393,20
 94,Lavra,-8.706,41.254,24
-39,Reparade,-8.588,41.419,39
+55,Reparade,-8.588,41.419,39
 33,Soutelo,-8.678,41.288,24
-66,Vila Verde,-8.43,41.648,39
-46,Martim de Alem,-8.502,41.54,24
+79,Vila Verde,-8.43,41.648,39
+66,Martim de Alem,-8.502,41.54,24
 39,Sao Paio,-8.52,41.511,20
 55,Igreja,-8.311,41.817,20
 55,Sobrado,-8.474,41.576,20
@@ -377,10 +395,10 @@ rs,name,lon,lat,r1
 24,Caldas,-8.472,41.534,20
 28,Veiga,-8.418,41.613,20
 24,Cunhas,-8.238,41.871,20
-46,Maganha,-8.604,41.336,28
+39,Maganha,-8.604,41.336,28
 24,Carvalhal,-8.456,41.549,20
 24,Aldeia Nova,-8.525,41.447,20
-46,Caldelas,-8.372,41.669,33
+46,Caldelas,-8.372,41.669,39
 55,Louredo,-8.472,41.516,20
 33,Pilar,-8.383,41.641,20
 33,Monte,-8.551,41.393,20
@@ -396,29 +414,30 @@ rs,name,lon,lat,r1
 66,Boavista,-8.495,41.44,24
 66,Terras do Bouro,-8.304,41.719,46
 39,Monte,-8.473,41.467,20
-55,Lantemil,-8.578,41.314,20
+33,Lantemil,-8.578,41.314,20
 39,Vila Cova,-8.339,41.656,20
 24,Sao Miguel,-8.439,41.507,20
-79,Castelo,-8.192,41.869,46
+112,Castelo,-8.192,41.869,46
 24,Torre de Cima,-8.467,41.455,20
 24,Paco,-8.484,41.43,20
 33,Montinho,-8.366,41.601,20
+160,Amares,-8.351,41.622,66
 55,Maia,-8.617,41.234,55
 33,Senhora da Hora,-8.65,41.186,24
 24,Aldeia Nova,-8.513,41.383,20
 685,Braga,-8.411,41.525,276
 33,Pedrosas,-8.432,41.485,20
-24,Cepa,-8.528,41.341,20
+28,Cepa,-8.528,41.341,20
 24,Lemendo,-8.545,41.314,20
 39,Silva Escura,-8.582,41.255,20
-33,Igreja,-8.549,41.302,20
+39,Igreja,-8.549,41.302,20
 39,Nogueira,-8.584,41.235,20
-33,Pousadela,-8.315,41.625,24
+33,Pousadela,-8.315,41.625,20
 66,Sandiao,-8.422,41.457,20
 28,Milheiros,-8.586,41.218,20
 55,Rita,-8.331,41.588,20
 28,Penelas,-8.445,41.417,20
-28,Porto,-8.621,41.161,20
+5079,Porto,-8.621,41.161,1702
 39,Cruzes,-8.38,41.51,20
 79,Sandim,-8.346,41.556,33
 39,Joane,-8.42,41.435,39
@@ -429,39 +448,44 @@ rs,name,lon,lat,r1
 33,Folgosa,-8.541,41.244,20
 134,Santo Tirso,-8.467,41.346,55
 24,Portela,-8.412,41.418,20
-79,Ermesinde,-8.548,41.215,28
-24,Recha,-8.346,41.508,20
+66,Ermesinde,-8.548,41.215,28
+33,Recha,-8.346,41.508,20
 24,Pinheiro,-8.29,41.589,20
 33,Regadas,-8.31,41.559,20
 33,Sobradelo,-8.262,41.623,20
+46,Paraiso,-8.418,41.393,20
 24,Ponte,-8.433,41.365,20
 24,Sao Vicente de Alfena,-8.523,41.232,20
-66,Aldeia,-8.263,41.607,24
+55,Aldeia,-8.263,41.607,24
+24,Arcozelo,-8.639,41.055,20
 33,Brito,-8.361,41.452,20
-55,Rio Tinto,-8.548,41.18,33
-33,Escola,-8.322,41.508,20
+79,Rio Tinto,-8.548,41.18,46
+24,Escola,-8.322,41.508,20
 24,Parada,-8.196,41.686,20
+134,Povoa de Lanhoso,-8.268,41.576,46
 192,Vila Nova de Gaia,-8.613,41.071,66
 39,Vila das Aves,-8.407,41.367,39
+28,Pevidem,-8.359,41.433,20
 24,Valbom,-8.561,41.137,20
 79,Termas do Geres,-8.164,41.715,66
-24,Costeiras,-8.348,41.443,20
-33,Sao Felix da Marinha,-8.627,41.031,20
-24,Serzedelo,-8.368,41.403,20
+55,Sao Felix da Marinha,-8.627,41.031,20
+55,Serzedelo,-8.368,41.403,28
 33,Fanzeres,-8.53,41.167,20
 28,Santa Luzia,-8.421,41.317,20
 39,Valongo,-8.503,41.197,24
 39,Admeus,-8.17,41.683,24
-134,Espinho,-8.635,41.001,33
+134,Espinho,-8.635,41.001,55
 24,Viraes,-8.387,41.358,20
 39,Serzedelo,-8.218,41.605,20
 24,Chelo e Toucedo,-8.179,41.662,20
-66,Gondomar,-8.536,41.135,33
+66,Gondomar,-8.536,41.135,39
 33,Cerdeirinhas,-8.19,41.635,28
+28,Grisel e Carvalha,-8.313,41.45,20
 46,Avintes,-8.546,41.107,20
+28,Praia,-8.647,40.958,20
 24,Recha,-8.169,41.651,20
 28,Igreja,-8.605,41.015,20
-39,Paramos,-8.631,40.976,20
+55,Paramos,-8.631,40.976,20
 24,Assento,-8.239,41.537,20
 230,Guimaraes,-8.307,41.438,79
 46,Ermida,-8.127,41.7,20
@@ -478,7 +502,8 @@ rs,name,lon,lat,r1
 28,Frazao,-8.405,41.261,20
 55,Campo,-8.463,41.173,24
 24,Sousa,-8.508,41.094,20
-28,Furadouro,-8.663,40.869,24
+24,Pacos de Brandao,-8.591,40.973,20
+24,Furadouro,-8.663,40.869,20
 33,Nogueiras e Sanfins,-8.128,41.644,20
 66,Vieira do Minho,-8.14,41.627,66
 39,Fafiao,-8.088,41.703,24
@@ -487,13 +512,13 @@ rs,name,lon,lat,r1
 33,Gandra,-8.434,41.192,20
 39,Vizela,-8.307,41.376,39
 33,Rebordosa,-8.414,41.218,20
-55,Olival,-8.532,41.048,20
+39,Olival,-8.532,41.048,20
 24,Rocha,-8.352,41.308,20
 24,Carregal,-8.664,40.857,20
 46,Agra,-8.33,41.337,20
 28,Mestre,-8.25,41.452,20
 28,Mozelos,-8.561,41,20
-46,Ordem,-8.605,40.936,20
+55,Ordem,-8.605,40.936,24
 28,Varzeas,-8.17,41.568,28
 24,Pereira,-8.209,41.509,20
 28,Rissondo,-8.131,41.615,20
@@ -503,6 +528,7 @@ rs,name,lon,lat,r1
 46,Groute,-8.328,41.314,24
 46,Requeixo,-8.196,41.5,28
 55,Figueiro,-8.125,41.601,20
+476,Ovar,-8.634,40.863,66
 39,Aroes (S. Romao),-8.22,41.46,20
 112,Torreira,-8.704,40.76,33
 24,Marinha,-8.656,40.826,20
@@ -514,7 +540,7 @@ rs,name,lon,lat,r1
 33,Cisto,-8.525,41.003,20
 39,Bouca dos Santos,-8.287,41.347,20
 24,Prado,-8.355,41.247,20
-66,Sao Joao de Ver,-8.554,40.954,24
+55,Sao Joao de Ver,-8.554,40.954,24
 33,Lixa,-8.468,41.077,20
 79,Pitoes das Junias,-7.946,41.839,79
 28,Sandim,-8.497,41.031,28
@@ -525,6 +551,7 @@ rs,name,lon,lat,r1
 46,Baltar,-8.381,41.186,28
 33,Boavista,-8.323,41.266,24
 24,Alvre,-8.416,41.129,20
+46,Sao Joao,-8.597,40.867,24
 55,Sarnada,-8.431,41.103,20
 24,Arcozelo,-8.224,41.398,20
 94,Sao Jacinto,-8.732,40.663,20
@@ -532,11 +559,10 @@ rs,name,lon,lat,r1
 79,Rossas,-8.104,41.565,55
 24,Padrao,-8.483,41.008,20
 24,Monte,-8.356,41.191,20
-46,Guilhovai,-8.579,40.867,20
-33,Regedoura,-8.603,40.831,28
+79,Regedoura,-8.603,40.831,28
 39,Sobreira,-8.389,41.138,20
 46,Cancela Nova,-8.282,41.293,20
-192,Paredes,-8.337,41.213,94
+331,Paredes,-8.337,41.213,94
 46,Bunheiro,-8.649,40.763,24
 24,Cete,-8.36,41.178,20
 24,Lagoas,-8.307,41.254,20
@@ -548,6 +574,7 @@ rs,name,lon,lat,r1
 46,Lousada,-8.284,41.27,39
 24,Trofa,-8.208,41.379,20
 24,Chaos,-8.311,41.228,20
+33,Torre,-8.558,40.869,20
 33,Canedinho,-8.466,41,20
 28,Monte,-8.639,40.751,20
 39,Monte de Cima,-8.608,40.792,28
@@ -565,7 +592,7 @@ rs,name,lon,lat,r1
 24,Sao Vicente,-8.46,40.98,20
 39,Lagoa,-8.086,41.518,33
 39,Gafanha da Vagueira,-8.746,40.565,20
-28,Arrifana,-8.505,40.908,20
+33,Arrifana,-8.505,40.908,20
 28,Bemposta,-8.108,41.483,20
 24,Romariz,-8.261,41.257,20
 24,Lavercos,-8.418,41.029,20
@@ -578,26 +605,27 @@ rs,name,lon,lat,r1
 39,Penafiel,-8.286,41.208,28
 55,Ribas,-8.336,41.135,24
 24,Pedreira,-8.308,41.176,20
-112,Barra de Mira,-8.782,40.496,33
+79,Barra de Mira,-8.782,40.496,33
 55,Cha de Ribeiras,-8.15,41.403,33
 33,Figueira,-8.345,41.117,20
 33,Borralha,-7.976,41.654,20
 33,Fafiao,-8.465,40.941,20
 24,Fafiaes,-8.319,41.151,20
 24,Sardinha,-8.568,40.791,20
+192,Sao Joao da Madeira,-8.492,40.896,160
 28,Venda Nova,-7.957,41.672,20
-39,Vila de Cucujaes,-8.503,40.875,20
+33,Vila de Cucujaes,-8.503,40.875,20
 24,Gafanha d'Aquem,-8.69,40.606,20
 39,Senhora Aparecida,-8.208,41.296,39
 33,Castanheira de Baixo,-8.275,41.194,20
 28,Carvalheiro,-8.296,41.163,28
 66,Cabroelo,-8.338,41.095,28
-230,Estarreja,-8.567,40.765,66
+160,Estarreja,-8.567,40.765,66
 33,Sobreira/Lage,-8.215,41.272,20
 55,Rio Mau,-8.365,41.053,24
 24,Feira Nova,-8.227,41.251,20
 28,Povoacao,-8.089,41.453,20
-192,Praia de Mira,-8.792,40.441,79
+276,Praia de Mira,-8.792,40.441,79
 33,Marco de Simaes,-8.157,41.352,20
 46,Loureiro,-8.529,40.812,33
 24,Bodelos,-8.295,41.144,20
@@ -609,9 +637,10 @@ rs,name,lon,lat,r1
 24,Vidigueira,-8.522,40.802,20
 39,Vila da Ponte,-7.89,41.717,20
 55,Perafita,-8.254,41.182,20
+986,Aveiro,-8.635,40.634,331
 46,Baloutas,-8.011,41.531,20
 94,Lixa,-8.149,41.328,39
-24,Nogueira do Cravo,-8.453,40.885,24
+24,Nogueira do Cravo,-8.453,40.885,20
 33,Rego,-8.081,41.424,20
 24,Cancelos,-8.337,41.051,20
 55,Vagos,-8.684,40.554,24
@@ -620,11 +649,11 @@ rs,name,lon,lat,r1
 33,Cabanelas,-8.104,41.387,20
 24,Borba,-8.093,41.402,20
 55,Praia da Tocha,-8.839,40.331,46
-55,Cacia,-8.597,40.673,28
+66,Cacia,-8.597,40.673,28
 112,Oliveira de Azemeis,-8.477,40.844,46
 33,Bustelo,-8.463,40.863,20
 24,Bom Sucesso,-8.641,40.607,20
-94,Ilhavo,-8.653,40.588,33
+79,Ilhavo,-8.653,40.588,33
 79,Raiva,-8.343,41.028,28
 24,Ver,-8.395,40.949,20
 66,Mosteiro,-8.382,40.964,28
@@ -651,7 +680,7 @@ rs,name,lon,lat,r1
 55,Pinheiro da Bemposta,-8.489,40.78,46
 46,Mira,-8.732,40.43,33
 28,Robalde,-8.065,41.389,20
-33,Azurva,-8.592,40.628,24
+39,Azurva,-8.592,40.628,24
 66,Medeiros,-7.784,41.797,24
 55,Abragao,-8.214,41.164,39
 39,Cabecinhas,-8.686,40.487,20
@@ -668,7 +697,7 @@ rs,name,lon,lat,r1
 55,Carromeu,-8.73,40.406,20
 66,Pejao,-8.313,41.001,24
 79,Costa,-8.168,41.209,24
-55,Ouca,-8.646,40.517,28
+94,Ouca,-8.646,40.517,28
 28,Codessoso de Meixedo,-7.748,41.819,20
 66,Vila de Alpendorada,-8.247,41.085,66
 28,Ermida,-8.731,40.391,20
@@ -679,9 +708,9 @@ rs,name,lon,lat,r1
 79,Alturas do Barroso,-7.821,41.702,66
 33,Belmonte,-8.136,41.238,28
 24,Frossos,-8.536,40.661,20
-112,Quiaios,-8.848,40.217,33
+134,Quiaios,-8.848,40.217,33
 39,Loure,-8.545,40.643,20
-24,Buarcos,-8.882,40.167,20
+39,Buarcos,-8.882,40.167,20
 28,Campo,-8.114,41.264,20
 24,"Barracao, Valgrande e Boavista",-8.367,40.896,20
 66,Arco de Baulhe,-7.96,41.485,24
@@ -703,10 +732,11 @@ rs,name,lon,lat,r1
 39,Cruzeiro,-8.13,41.204,20
 112,Tocha,-8.751,40.311,28
 79,Nariz,-8.59,40.539,24
-276,Amarante,-8.08,41.272,94
+230,Amarante,-8.08,41.272,94
 28,Frias,-8.503,40.661,20
 28,Santa Catarina,-8.638,40.469,24
 24,Sao Sebastiao,-8.007,41.375,20
+160,Albergaria-a-Velha,-8.477,40.696,112
 24,Bom Sucesso,-8.779,40.267,20
 28,Ervedal,-8.814,40.218,20
 134,Celorico de Basto,-7.997,41.389,79
@@ -715,11 +745,12 @@ rs,name,lon,lat,r1
 46,Castanheiro,-8.784,40.255,20
 39,Igreja,-8.086,41.253,20
 66,Morgade/Criande,-7.744,41.756,55
+230,Figueira da Foz,-8.855,40.153,230
 24,Fial,-8.509,40.642,20
 28,Saltadouro,-8.837,40.178,20
 28,Senra,-8.205,41.078,24
 33,Eirol,-8.533,40.604,20
-39,Cabedelo,-8.862,40.139,20
+24,Cabedelo,-8.862,40.139,20
 28,Cavez,-7.912,41.503,28
 33,Santo Andre,-7.668,41.863,20
 24,Ortigosa,-8.218,41.052,20
@@ -728,10 +759,11 @@ rs,name,lon,lat,r1
 24,Travanca,-8.224,41.037,20
 24,Requeixo,-8.534,40.591,20
 24,Capelas,-8.12,41.186,20
-94,Sobreiro,-8.592,40.498,39
+24,Acores,-8.463,40.687,20
+33,Sobreiro,-8.592,40.498,33
 66,Gondiaes,-7.836,41.591,39
 28,Solveira,-7.669,41.838,20
-24,Urro,-8.291,40.925,20
+55,Urro,-8.291,40.925,20
 39,Dornelas,-8.386,40.788,33
 33,Esperanca,-8.792,40.209,20
 33,Bormela,-7.913,41.471,24
@@ -751,7 +783,7 @@ rs,name,lon,lat,r1
 39,Oia,-8.54,40.544,20
 39,Travasso,-8.504,40.595,20
 66,Leirosa,-8.885,40.057,46
-39,Alhadas,-8.788,40.193,33
+46,Alhadas,-8.788,40.193,33
 28,Malhapao,-8.559,40.515,20
 24,Vila Vicosa,-8.215,41.007,20
 55,Macieira,-8.202,41.022,20
@@ -761,29 +793,30 @@ rs,name,lon,lat,r1
 79,Covas do Barroso,-7.783,41.631,66
 112,Vilar de Perdizes,-7.634,41.853,94
 46,Formoselos,-7.876,41.489,20
-230,Peniche,-9.381,39.361,112
+230,Peniche,-9.381,39.361,160
 24,Troviscal,-8.56,40.5,20
 55,Taboeira,-8.667,40.344,28
 28,Alto de Viadores,-8.116,41.132,20
-55,Vila Verde,-8.807,40.144,28
+33,Vila Verde,-8.807,40.144,28
 55,Fontinha,-8.634,40.386,20
 39,Eiro,-8.094,41.16,28
 33,Rego,-8.517,40.55,20
-46,Chedas,-8.024,41.259,20
-160,Junqueira,-8.335,40.803,33
+24,Chedas,-8.024,41.259,20
+331,Junqueira,-8.335,40.803,33
 24,Vilar de Arca,-8.176,41.033,20
+112,Arouca,-8.246,40.931,94
 24,Labrengos,-8.593,40.432,20
 28,Figueiredo,-8.253,40.915,20
 79,Marvao,-8.58,40.447,39
 39,Vilar,-7.737,41.669,24
 46,Regalheiras,-8.835,40.087,20
-66,Santana,-8.741,40.216,39
-112,Resgatados,-8.703,40.267,33
-94,Cabana e Corujeiras,-8.023,41.238,33
+79,Santana,-8.741,40.216,39
+134,Resgatados,-8.703,40.267,33
+94,Cabana e Corujeiras,-8.023,41.238,24
 94,Praia do Pedrogao,-8.947,39.922,33
 55,Canelas de Cima,-8.208,40.968,24
 24,Barreiro e Loureiro,-8.118,41.097,20
-39,Outeiro,-7.99,41.282,20
+79,Outeiro,-7.99,41.282,20
 28,Silveiro,-8.508,40.535,20
 33,Faiscas,-8.679,40.292,20
 55,Sever do Vouga,-8.369,40.733,55
@@ -791,8 +824,8 @@ rs,name,lon,lat,r1
 24,Varziela,-8.62,40.372,20
 39,Beca,-7.703,41.695,20
 24,Praia da Vieira,-8.964,39.877,20
-39,Lares,-8.781,40.13,20
-33,Varzea,-7.989,41.263,20
+79,Lares,-8.781,40.13,20
+39,Varzea,-7.989,41.263,20
 112,Cerva,-7.845,41.472,33
 24,Azenha,-8.554,40.446,20
 33,Santo Amaro da Boica,-8.733,40.192,20
@@ -800,48 +833,51 @@ rs,name,lon,lat,r1
 33,Quinta da Alagoa,-8.452,40.589,20
 24,Chipar de Cima,-8.567,40.425,20
 24,Soligo,-8.37,40.705,20
-39,Maiorca,-8.752,40.163,20
+55,Maiorca,-8.752,40.163,20
 46,Sanfins,-8.33,40.762,28
-24,Oliveira do Bairro,-8.493,40.514,20
+112,Oliveira do Bairro,-8.493,40.514,39
 33,Balteiro,-7.785,41.539,20
 46,Canedo,-7.732,41.617,28
-55,Ferrel,-9.317,39.367,33
+55,Ferrel,-9.317,39.367,24
+24,Lavandeira,-8.497,40.501,20
 55,Baiao,-8.037,41.163,55
-66,S. Pedro de Moel,-9.027,39.758,46
+55,S. Pedro de Moel,-9.027,39.758,46
 33,Amieiro,-8.67,40.255,20
 79,Ribeira de Pena,-7.792,41.521,79
-134,Agueda,-8.443,40.575,46
+192,Agueda,-8.443,40.575,94
 24,Gatoes,-8.7,40.211,24
-46,Lemede,-8.624,40.318,24
-55,Barro,-8.472,40.532,20
+55,Lemede,-8.624,40.318,24
+28,Barro,-8.472,40.532,20
 79,Cinfaes,-8.094,41.074,66
 24,Copeiro,-8.807,40.057,20
+397,Cantanhede,-8.597,40.35,160
 24,Pade,-8.16,40.974,24
 66,Marinha das Ondas,-8.821,40.034,24
 55,Cedrim,-8.342,40.71,24
 192,Boticas,-7.668,41.69,134
 33,Couvelha,-8.524,40.445,20
 39,Alqueidao,-8.771,40.096,28
-66,Ancas,-8.509,40.465,24
+46,Ancas,-8.509,40.465,24
 55,Soutelinho da Raia,-7.573,41.828,28
 39,Boscras,-8.006,41.188,24
 33,Parada,-8.291,40.774,20
 160,Vieira de Leiria,-8.93,39.872,94
 24,Valbom,-8.06,41.106,20
+79,Atouguia da Baleia,-9.321,39.333,33
 112,Ermelo,-7.89,41.354,46
 112,Ardaos,-7.609,41.767,39
 28,Louredo,-8.029,41.146,20
 33,Ervedoso,-8.269,40.795,20
 55,Chas,-8.661,40.234,20
 66,Portela de Gove,-8.04,41.121,33
-79,Ponte de Telhe,-8.187,40.909,39
-28,Povoa do Bispo,-8.55,40.386,20
+66,Ponte de Telhe,-8.187,40.909,33
+55,Povoa do Bispo,-8.55,40.386,20
 24,Nogueira,-7.619,41.739,20
 28,Sapiaos,-7.638,41.708,20
 33,Casais de Julio,-9.327,39.306,20
 33,Venda Nova,-8.531,40.405,20
 46,Calvete,-8.763,40.077,20
-39,Sangalhos,-8.471,40.488,20
+66,Sangalhos,-8.471,40.488,24
 28,Meco,-8.64,40.248,20
 28,Giesteira,-8.397,40.593,28
 55,Bobadela,-7.618,41.726,20
@@ -849,7 +885,7 @@ rs,name,lon,lat,r1
 39,Vila Nova,-8.6,40.298,20
 24,Abrunheira,-8.725,40.119,20
 24,Coimbrao,-8.886,39.893,24
-24,Povoa da Lomba,-8.576,40.325,20
+24,Povoa da Lomba,-8.576,40.325,24
 39,Fornos,-8.608,40.277,20
 33,Ourenta,-8.549,40.361,24
 39,Vieirinhos,-8.805,40,20
@@ -858,62 +894,67 @@ rs,name,lon,lat,r1
 66,Foz do Arelho,-9.212,39.431,39
 112,Talhadas,-8.325,40.665,55
 79,Sao Joane,-8.243,40.782,28
-24,Garrido,-8.423,40.524,20
-33,Bufarda,-9.309,39.292,24
+112,Bufarda,-9.309,39.292,24
 46,Bolfiar,-8.397,40.56,20
-24,Sao Martinho,-8.41,40.54,24
+39,Sao Martinho,-8.41,40.54,20
 46,Arcozelo das Maias,-8.275,40.732,33
 66,Carrico,-8.805,39.982,33
+28,Miragaia,-8.424,40.514,24
 24,Sapelos,-7.596,41.718,20
 28,Serroventoso,-8.717,40.098,20
 66,Pinho,-7.631,41.662,20
 28,Mogofores,-8.463,40.452,20
 24,Serra D'El-Rei,-9.27,39.331,24
 24,Carrapatelo,-8.004,41.112,20
-79,Seixal,-9.323,39.26,20
-66,Avelas de Caminho,-8.449,40.47,20
+46,Seixal,-9.323,39.26,20
+46,Avelas de Caminho,-8.449,40.47,20
 33,Seara Velha,-7.558,41.766,20
 46,Calvinho,-8.014,41.092,20
 66,Pepe,-7.869,41.3,28
 33,Sismaria,-8.863,39.882,20
 24,Vila Nova da Barca,-8.685,40.128,20
 28,Outeiro,-7.986,41.126,24
-28,Mata,-8.472,40.427,20
+33,Mata,-8.472,40.427,20
 39,Pena,-8.553,40.311,20
 55,Portela,-8.592,40.256,24
 24,Atalaia,-9.33,39.233,20
 46,Couto de Ervededo,-7.517,41.809,20
 24,Andorinha,-8.567,40.277,20
-46,Cartaxo,-8.931,39.766,20
+33,Cartaxo,-8.931,39.766,20
 28,Covelo,-8.22,40.766,20
 94,Quinhao,-8.047,41.015,46
 28,Casal da Mota,-9.07,39.57,20
 24,Covao,-8.869,39.846,20
 112,Pataias,-8.995,39.668,55
-46,Murtede,-8.5,40.36,28
-24,Lourinha,-9.306,39.241,20
+46,Murtede,-8.5,40.36,20
+134,Lourinha,-9.306,39.241,94
 55,Casais de Baixo,-9.076,39.553,20
 66,Portunhos,-8.544,40.293,24
 24,Santa Marinha do Zezere,-7.953,41.141,24
-79,Serra Porto d'Urso,-8.872,39.834,24
+66,Serra Porto d'Urso,-8.872,39.834,24
 33,Sobreira,-8.273,40.679,24
 39,Carvalhais,-7.934,41.168,20
+134,Anadia,-8.439,40.439,112
 55,Formigal,-8.711,40.054,28
 33,Antoes,-8.77,39.972,20
 39,Carreira,-8.844,39.869,39
 46,Chao da Parada,-9.14,39.46,33
 39,Tentugal,-8.588,40.226,33
-24,Granja do Ulmeiro,-8.632,40.161,24
+24,Casal Novo,-9.315,39.222,20
+28,Granja do Ulmeiro,-8.632,40.161,24
 28,Famalicao,-9.083,39.535,24
-46,Aguim,-8.449,40.416,20
-46,Belazaima do Chao,-8.366,40.532,24
-66,Casal dos Claros,-8.889,39.796,33
+24,Antes,-8.471,40.385,20
+39,Aguim,-8.449,40.416,20
+33,Belazaima do Chao,-8.366,40.532,24
+94,Casal dos Claros,-8.889,39.796,33
 28,Alfeizerao,-9.102,39.503,20
-66,Moita,-8.951,39.709,24
+66,Moita,-8.951,39.709,28
 94,Lourical,-8.739,40.002,39
+24,Formoselha,-8.615,40.177,20
 28,Maceira,-9.332,39.187,20
 46,Soutelo,-7.525,41.756,24
 33,Arelho,-9.188,39.383,24
+24,Pedrulha,-8.476,40.371,20
 33,Campo,-9.15,39.434,20
 33,Martinganca,-8.963,39.689,20
 28,Lixa do Alvao,-7.693,41.502,24
@@ -921,7 +962,7 @@ rs,name,lon,lat,r1
 28,Arcosso,-7.593,41.648,20
 24,Seixo,-8.785,39.931,20
 33,Cercal,-8.666,40.098,24
-66,Moledo,-9.256,39.282,24
+46,Moledo,-9.256,39.282,24
 55,Cabanes,-7.665,41.539,24
 46,Santa Cruz,-9.377,39.118,20
 39,Valadares,-8.198,40.757,24
@@ -944,21 +985,24 @@ rs,name,lon,lat,r1
 66,Cercosa,-8.232,40.683,39
 28,Vimieira,-8.46,40.357,20
 24,Cavaleiros,-8.501,40.299,20
-55,Ferreiros,-8.394,40.449,20
+46,Ferreiros,-8.394,40.449,20
 24,Souto da Carpalhosa,-8.821,39.847,20
+55,Marteleira,-9.276,39.221,20
+24,Albergaria,-8.894,39.744,20
 39,Bairro,-9.152,39.388,20
 55,Parada de Ester,-8.054,40.931,55
 46,Vilela do Tamega,-7.541,41.684,33
 28,Arrabaes,-7.813,41.281,20
-66,Vila Nova de Ancos,-8.632,40.105,39
+55,Vila Nova de Ancos,-8.632,40.105,39
 33,Mata Mourisca,-8.75,39.94,20
 39,Barril,-9.398,39.05,20
 192,Anca,-8.514,40.268,55
+112,Pereira,-8.575,40.181,66
 24,Casais da Areia,-8.988,39.605,20
 24,Conqueiros,-8.821,39.835,20
 33,Reguengo Grande,-9.217,39.289,33
 79,Mesao Frio,-7.891,41.157,46
-39,Cela Nova,-9.034,39.539,24
+39,Cela Nova,-9.034,39.539,33
 24,Mala,-8.462,40.335,20
 94,Ilha,-8.757,39.921,66
 28,Riba D'Aves,-8.833,39.813,20
@@ -980,7 +1024,7 @@ rs,name,lon,lat,r1
 39,Eiras,-8.144,40.768,20
 33,Barcouco,-8.469,40.304,28
 46,Campia,-8.216,40.663,20
-66,Figueiro do Campo,-8.578,40.149,28
+66,Figueiro do Campo,-8.578,40.149,24
 33,Alpedriz,-8.947,39.631,20
 33,Vilarinho,-8.179,40.711,20
 28,Moita dos Ferreiros,-9.224,39.25,28
@@ -989,26 +1033,25 @@ rs,name,lon,lat,r1
 28,Paredes,-7.731,41.361,20
 24,Borbela,-7.752,41.33,20
 685,Chaves,-7.47,41.747,331
-39,Ameal,-8.543,40.19,28
+28,Ameal,-8.543,40.19,20
 28,Vale da Borra,-9.277,39.175,28
 39,Paredes Velhas,-8.188,40.692,20
 24,Outeiro Seco,-7.448,41.776,20
 55,Pocarica,-8.892,39.699,39
 55,Fontes,-7.814,41.232,24
-33,Maiorga,-8.977,39.58,20
-24,Vestiaria,-8.998,39.551,20
+33,Maiorga,-8.977,39.58,24
 46,Estremadouro,-8.768,39.868,20
 28,Valclaro,-7.871,41.146,20
 39,Sao Martinho de Mouros,-7.897,41.104,33
 46,Granja,-7.776,41.28,28
 134,Soure,-8.626,40.06,94
-55,Usseira,-9.154,39.329,24
+79,Usseira,-9.154,39.329,24
 39,Gralheira,-7.667,41.439,20
 94,Gaeiras,-9.119,39.375,33
 39,Montes,-8.942,39.616,24
 94,Carvalhais,-8.112,40.783,28
 28,Povoa do Pinheiro,-8.482,40.255,20
-94,Pampilhosa,-8.423,40.338,33
+112,Pampilhosa,-8.423,40.338,79
 28,Casal do Ralha,-8.857,39.728,20
 94,Encarnacao,-9.366,39.032,46
 55,Maceirinha,-8.896,39.673,20
@@ -1018,10 +1061,11 @@ rs,name,lon,lat,r1
 46,Almagreira,-8.662,39.991,28
 24,Arnal,-8.878,39.688,20
 55,Vila Seca,-7.725,41.33,24
+134,Alcobaca,-8.976,39.55,55
 33,Casevel,-8.56,40.128,20
-66,Luso,-8.378,40.383,33
+55,Luso,-8.378,40.383,33
 46,Lamadarcos,-7.385,41.831,24
-94,Campelos,-9.234,39.195,33
+112,Campelos,-9.234,39.195,46
 46,Milagres,-8.796,39.794,24
 55,Delgada,-9.156,39.298,24
 33,Assanha da Paz,-8.68,39.953,28
@@ -1046,19 +1090,19 @@ rs,name,lon,lat,r1
 24,Jorjais,-7.696,41.338,20
 79,Tourelhe,-8.15,40.677,20
 28,Sobral,-9.146,39.284,20
-112,Bombarral,-9.158,39.268,94
+192,Bombarral,-9.158,39.268,112
 112,Santa Marta de Penaguiao,-7.78,41.209,33
 24,Janardo,-8.777,39.786,20
 822,Leiria,-8.808,39.742,276
 28,Raiz do Monte,-7.605,41.465,20
 112,Souselas,-8.418,40.288,39
 24,Oliveira,-8.044,40.822,20
-39,Anobra,-8.522,40.14,20
+39,Anobra,-8.522,40.14,24
 33,Fanadia,-9.079,39.367,20
 28,Sebal,-8.536,40.119,20
 33,Baleia,-9.398,38.934,20
 33,Vale do Horto,-8.84,39.693,20
-33,Aljubarrota,-8.93,39.569,24
+39,Aljubarrota,-8.93,39.569,24
 24,Evora de Alcobaca,-8.968,39.517,24
 33,Vouzela,-8.11,40.723,33
 28,Bonitos,-8.621,39.996,24
@@ -1067,13 +1111,13 @@ rs,name,lon,lat,r1
 55,Ardido,-8.984,39.49,20
 24,Casal da Quinta,-8.748,39.815,20
 33,Figueiras,-8.755,39.801,24
-24,Santa Catarina,-9.013,39.445,20
+24,Santa Catarina,-9.013,39.445,24
 24,Calvaria de Cima,-8.871,39.64,24
 94,Picao,-7.947,40.947,39
 28,Laje,-7.696,41.312,20
 24,Vila Mea,-7.665,41.358,20
 33,Cegonheira,-8.489,40.169,24
-55,Ega,-8.539,40.096,39
+66,Ega,-8.539,40.096,28
 46,Ameal,-9.236,39.134,33
 33,Sao Lourenco,-7.415,41.724,20
 55,Nespereira,-8.042,40.802,20
@@ -1103,7 +1147,7 @@ rs,name,lon,lat,r1
 66,Sao Gregorio da Fanadia,-9.058,39.353,28
 28,Fatauncos,-8.078,40.726,20
 24,Salgueirinha,-9.076,39.327,20
-66,Turquel,-8.977,39.462,28
+94,Turquel,-8.977,39.462,33
 55,Brasfemes,-8.401,40.264,20
 28,Machados,-8.736,39.791,20
 39,Padrela,-7.498,41.569,33
@@ -1111,6 +1155,7 @@ rs,name,lon,lat,r1
 55,Azoia,-9.479,38.776,20
 24,Sarge,-9.233,39.105,20
 2042,Coimbra,-8.445,40.192,685
+28,Charneca,-8.649,39.905,20
 28,Lamelas de Ca,-7.938,40.916,20
 39,Pinhao Cel,-7.624,41.377,24
 24,Abrunheira,-9.206,39.139,20
@@ -1138,14 +1183,14 @@ rs,name,lon,lat,r1
 46,Cortes,-8.784,39.701,28
 24,Redondas,-8.941,39.484,20
 24,Carvalhal,-8.952,39.468,20
-39,Condeixa-a-Velha,-8.495,40.102,20
+28,Condeixa-a-Velha,-8.495,40.102,20
 134,Caramulo,-8.169,40.565,55
 28,Vilarinho dos Freires,-7.745,41.179,28
 79,Avelelas,-7.364,41.739,28
 28,Caxieira,-8.737,39.76,20
 33,Freixofeira,-9.275,39.024,20
 55,Tazem,-7.49,41.551,20
-94,Molianos,-8.913,39.515,39
+79,Molianos,-8.913,39.515,39
 33,Casas de Monforte,-7.331,41.786,20
 276,Mafra,-9.343,38.93,112
 192,Castro Daire,-7.929,40.903,112
@@ -1153,10 +1198,12 @@ rs,name,lon,lat,r1
 94,Alva,-7.962,40.852,33
 276,Pombal,-8.62,39.917,134
 46,Colmeias,-8.703,39.799,39
-24,Rocha Nova,-8.391,40.236,20
+24,Rocha Nova,-8.391,40.236,24
+79,Benedita,-8.975,39.424,79
 24,Lamares,-7.632,41.332,20
 39,Colo de Pito,-7.884,40.962,20
 79,Cadaval,-9.106,39.242,28
+28,Freires,-8.962,39.44,20
 55,Argemil,-7.293,41.835,28
 55,Caches,-7.641,41.317,20
 33,Monte Redondo,-9.203,39.111,20
@@ -1173,7 +1220,7 @@ rs,name,lon,lat,r1
 24,Casais da Povoa,-9.158,39.159,20
 28,Tourais,-7.755,40.468,20
 33,Cha de Cima,-8.658,39.851,24
-112,Pero Pinheiro,-9.322,38.851,46
+160,Pero Pinheiro,-9.322,38.851,46
 66,Cacarelhos,-6.435,41.558,46
 66,Carva,-7.556,41.413,33
 24,Palmeiria,-8.708,39.757,20
@@ -1212,10 +1259,10 @@ rs,name,lon,lat,r1
 33,Carvalhal do Estanho,-8.041,40.713,20
 28,Casal da Arouca,-8.495,39.956,20
 134,Pegoes,-8.61,38.682,94
-46,Frei Domingos,-8.972,39.405,20
+39,Frei Domingos,-8.972,39.405,20
 112,Queira,-8.054,40.692,28
 28,Vale da Bica,-8.043,39.267,20
-46,Assafarge,-8.429,40.158,28
+55,Assafarge,-8.429,40.158,28
 39,Alvados,-8.764,39.548,28
 33,Barreiro de Besteiros,-8.179,40.511,20
 160,Ciborro,-8.226,38.799,66
@@ -1230,11 +1277,12 @@ rs,name,lon,lat,r1
 94,Gradil,-9.276,38.985,39
 33,Muceres,-8.163,40.53,20
 24,Termas do Carvalhal,-7.938,40.853,20
+230,Fatima,-8.673,39.628,112
 33,Olival,-8.602,39.713,20
 79,Vila Moinhos,-8.226,40.438,28
 24,Bujoes,-7.693,41.209,20
 94,Tourigo,-8.189,40.491,33
-94,Alcanede,-8.819,39.405,46
+112,Alcanede,-8.819,39.405,46
 39,Martim Afonso,-9.111,39.005,20
 24,Possacos,-7.275,41.613,20
 39,Aveleira,-8.345,40.267,20
@@ -1250,7 +1298,7 @@ rs,name,lon,lat,r1
 24,Cabanoes de Baixo,-7.91,40.629,20
 24,Gandaras,-8.261,40.127,20
 24,Carapinheira,-9.309,38.933,20
-39,Ponte da Assamassa,-8.613,39.886,24
+39,Ponte da Assamassa,-8.613,39.886,20
 134,Tabuaco,-7.57,41.117,94
 24,Cova do Ouro,-8.37,40.227,20
 66,Gavinhos,-8.325,40.289,20
@@ -1258,7 +1306,7 @@ rs,name,lon,lat,r1
 46,Figueira,-7.76,41.102,28
 24,Manjoeira,-9.161,38.863,20
 94,Ourem,-8.577,39.658,66
-79,Cavernaes,-7.829,40.714,39
+79,Cavernaes,-7.829,40.714,33
 33,Crasto,-8.662,39.814,20
 66,Esturaos,-7.399,41.634,28
 55,Sail,-8.141,40.251,20
@@ -1275,7 +1323,7 @@ rs,name,lon,lat,r1
 28,Cachoeiras,-9.016,38.986,20
 160,Alcanena,-8.671,39.456,79
 24,Guide,-7.151,41.64,20
-33,Cotovios,-9.038,38.951,24
+39,Cotovios,-9.038,38.951,24
 94,Vilar,-9.118,39.18,46
 55,Pousadas Vedras,-8.557,39.953,24
 39,Sarnadela,-8.116,40.22,28
@@ -1286,12 +1334,13 @@ rs,name,lon,lat,r1
 28,Roriz,-7.267,41.822,20
 66,Vilar Seco,-7.862,40.561,24
 192,Vinhais,-7.003,41.822,134
-33,Casal do Alamo,-9.021,38.937,20
+28,Casal do Alamo,-9.021,38.937,20
 79,Caria,-7.597,40.932,28
 28,Parada de Pinhao,-7.592,41.336,20
 33,Abrunhosa,-7.74,40.706,24
 39,Vale da Pinta,-8.829,39.173,24
 46,Runa,-9.215,39.043,33
+55,Alhandra,-9.008,38.924,20
 55,Figueiros,-9.039,39.282,20
 33,Tronco,-7.294,41.777,20
 94,Sacavem,-9.104,38.79,39
@@ -1303,7 +1352,7 @@ rs,name,lon,lat,r1
 112,Penhas Juntas,-7.011,41.743,33
 24,Rendufas,-8.529,39.549,20
 28,Vila Cha do Monte,-8.057,40.653,20
-55,Torres do Mondego,-8.376,40.197,20
+55,Torres do Mondego,-8.376,40.197,33
 24,Torre,-8.761,39.658,20
 66,Pereiro,-8.372,39.743,39
 33,Vila Verde,-9.365,38.835,20
@@ -1312,11 +1361,12 @@ rs,name,lon,lat,r1
 33,Argemil,-7.419,41.583,20
 39,Reguengo do Fetal,-8.769,39.644,28
 79,Mortagua,-8.23,40.399,55
+46,Corroios,-9.153,38.642,20
 46,Ras,-7.632,40.761,28
 79,Carrazeda de Ansiaes,-7.304,41.241,79
 39,Arrifana,-9.296,38.924,28
 46,Carrazedo de Montenegro,-7.43,41.563,46
-79,Aroeira,-9.175,38.583,28
+230,Aroeira,-9.175,38.583,39
 28,Bairradas,-8.997,39.326,20
 46,Vilares,-7.515,41.433,28
 94,Caldelas,-8.701,39.732,39
@@ -1327,9 +1377,10 @@ rs,name,lon,lat,r1
 112,Sernancelhe,-7.488,40.9,55
 55,Venda Nova,-8.373,39.637,24
 79,Ala,-7.018,41.596,39
+66,Oliveira do Hospital,-7.86,40.358,66
 33,Santa Ovaia,-7.885,40.311,20
 39,Sintra,-9.379,38.805,20
-28,Barreiro,-9.072,38.66,20
+79,Barreiro,-9.072,38.66,55
 39,Enxara do Bispo,-9.238,38.993,20
 28,Murches,-9.439,38.723,20
 24,Barreiro,-8.645,39.805,20
@@ -1343,11 +1394,11 @@ rs,name,lon,lat,r1
 46,Sameice,-7.772,40.428,20
 33,Sa,-7.349,41.672,20
 46,Benfica do Ribatejo,-8.685,39.143,28
-33,Carrapatas,-6.996,41.514,24
+33,Carrapatas,-6.996,41.514,28
 28,Montelavar,-9.328,38.864,20
 33,Alto da Serra,-8.961,39.359,24
 24,Cumieira,-8.666,39.766,20
-160,Marinhais,-8.705,39.046,79
+134,Marinhais,-8.705,39.046,79
 94,Chamusca,-8.478,39.358,39
 39,Memoria,-8.648,39.791,33
 66,Cimo de Vila da Castanheira,-7.259,41.798,33
@@ -1355,6 +1406,7 @@ rs,name,lon,lat,r1
 46,Tinhela,-7.307,41.726,33
 39,Barrosa,-8.758,38.957,28
 33,Ervoes,-7.356,41.651,20
+397,Seia,-7.709,40.419,134
 39,Pinheiro Grande,-8.43,39.397,20
 33,Rio de Mel,-7.938,40.794,20
 66,Fazendas de Almeirim,-8.578,39.177,28
@@ -1365,7 +1417,7 @@ rs,name,lon,lat,r1
 28,Marinha,-8.841,39.513,20
 79,Sao Paio,-7.579,40.518,28
 46,Cabanas de Baixo,-7.119,41.185,33
-39,Salselas,-6.873,41.551,39
+46,Salselas,-6.873,41.551,39
 112,Salsas,-6.815,41.638,24
 33,Caneiro,-8.322,40.234,20
 24,Silva,-7.412,41.554,20
@@ -1378,10 +1430,10 @@ rs,name,lon,lat,r1
 94,Moes,-7.882,40.862,33
 134,Tarouca,-7.773,41.019,66
 134,Routar,-8.032,40.643,39
-33,Barris,-8.935,38.55,20
+24,Barris,-8.935,38.55,20
 46,Vale Sumo,-8.692,39.709,20
 33,Cabeca Veada,-8.858,39.48,20
-39,Sao Cosmado,-8.004,40.681,24
+46,Sao Cosmado,-8.004,40.681,24
 79,Vilar de Macada,-7.561,41.326,33
 55,Zambujal,-8.443,40.056,28
 24,Sentieiras,-8.192,39.525,20
@@ -1393,7 +1445,7 @@ rs,name,lon,lat,r1
 39,Carreiras,-9.156,39.07,28
 24,Dois Portos,-9.178,39.039,20
 112,Folgosa,-7.674,41.154,39
-46,Almalagues,-8.39,40.125,33
+55,Almalagues,-8.39,40.125,33
 33,Argeriz,-7.38,41.589,24
 192,Manteigas,-7.536,40.399,66
 28,Alcaria,-8.786,39.571,20
@@ -1402,6 +1454,7 @@ rs,name,lon,lat,r1
 28,Rio de Galinhas,-8.398,40.11,20
 33,Poco de Mouro,-8.854,38.54,20
 94,Morais,-6.775,41.49,46
+94,Malveira,-9.251,38.934,55
 33,Souto Maior,-7.575,41.294,24
 24,Varzea,-8.029,40.631,20
 33,Queirela,-7.975,40.709,20
@@ -1413,7 +1466,7 @@ rs,name,lon,lat,r1
 192,Almendra,-7.053,40.998,66
 192,Proenca-a-Nova,-7.924,39.742,94
 79,Lebucao,-7.259,41.758,55
-230,Canha,-8.628,38.762,66
+192,Canha,-8.628,38.762,66
 94,Mouriscas,-8.091,39.497,46
 39,Cascais,-9.422,38.697,24
 55,Pendilhe,-7.835,40.907,24
@@ -1430,12 +1483,12 @@ rs,name,lon,lat,r1
 79,Santulhao,-6.621,41.562,55
 46,Carcao,-6.59,41.592,24
 134,Foros do Arrao,-8.244,39.18,94
-112,Algueirao-Mem Martins,-9.343,38.792,39
+94,Algueirao-Mem Martins,-9.343,38.792,39
 39,Fiaes,-7.263,41.739,20
 46,Barca d' Alva,-6.938,41.028,46
 39,Borralheira,-7.419,40.314,20
 79,Calde,-7.911,40.781,28
-79,Santa Catarina da Serra,-8.686,39.682,20
+55,Santa Catarina da Serra,-8.686,39.682,20
 112,Jou,-7.434,41.479,55
 24,Fraguas,-8.056,40.57,20
 39,Zava,-6.714,41.32,20
@@ -1457,25 +1510,27 @@ rs,name,lon,lat,r1
 66,Charneca,-8.464,39.981,39
 28,Oliveira do Mondego,-8.221,40.323,20
 33,Codecais,-7.85,40.854,20
+230,Rio Maior,-8.931,39.332,112
 46,Vilar Torpim,-6.95,40.826,20
 33,Vila Seca,-7.663,41.123,20
 55,Sabugo,-9.3,38.828,20
 24,Tinalhas,-7.531,39.943,20
 134,Albergaria dos Doze,-8.591,39.797,55
-55,Sapataria,-9.195,38.968,39
+55,Sapataria,-9.195,38.968,33
 160,Adao,-7.169,40.458,46
 39,Almacinha,-8.19,40.36,20
 24,Lagoa Parada,-8.499,39.923,20
+33,Venda do Pinheiro,-9.228,38.922,20
 46,Silva,-6.441,41.509,24
 39,Sao Joaninho,-8.125,40.449,20
-134,Tondela,-8.079,40.515,134
+230,Tondela,-8.079,40.515,134
 24,Sao Joao de Tarouca,-7.747,40.995,20
 160,Cabrela,-8.461,38.598,55
 46,Ventosa,-8.277,40.232,20
 55,Travanca,-6.502,41.389,39
 66,Rochoso,-7.09,40.515,46
 39,Santiago da Guarda,-8.48,39.945,20
-39,Loureira,-8.686,39.657,20
+66,Loureira,-8.686,39.657,24
 28,Segade de La,-8.318,40.172,20
 134,Casebres,-8.496,38.528,46
 55,Sao Joao do Estoril,-9.383,38.708,20
@@ -1484,12 +1539,12 @@ rs,name,lon,lat,r1
 24,Ribas,-8.305,40.187,20
 46,Sao Sebastiao,-8.891,39.371,33
 24,Francelos,-7.511,41.334,24
-331,Mora,-8.158,38.944,192
+397,Mora,-8.158,38.944,192
 55,Sobral de Monte Agraco,-9.149,39.019,39
 134,Galveias,-7.995,39.156,79
 112,Lamas,-8.378,40.081,24
-46,Mozelos,-7.944,40.697,20
-28,Albarraque,-9.348,38.746,20
+33,Mozelos,-7.944,40.697,20
+39,Albarraque,-9.348,38.746,24
 24,Aldeia Gavinha,-9.096,39.085,20
 39,Santa Valha,-7.269,41.684,24
 33,Sabugosa,-8.028,40.569,20
@@ -1501,8 +1556,9 @@ rs,name,lon,lat,r1
 33,Tagarro,-8.982,39.231,24
 24,Ulmeiro,-8.66,39.673,20
 46,Celeiros,-7.561,41.243,20
+39,Rio de Mouro,-9.317,38.777,20
 33,Canas de Santa Maria,-8.036,40.551,24
-94,Asseiceira,-8.936,39.29,33
+79,Asseiceira,-8.936,39.29,33
 55,Gogim,-7.671,41.079,20
 28,Espinheira,-8.994,39.211,20
 24,Santiais,-8.551,39.818,24
@@ -1512,7 +1568,7 @@ rs,name,lon,lat,r1
 33,Carvalho,-7.481,41.349,20
 28,Varzea,-8.047,40.523,20
 46,Sanfins do Douro,-7.517,41.292,24
-160,Santa Comba Dao,-8.134,40.396,79
+230,Santa Comba Dao,-8.134,40.396,79
 276,Valpacos,-7.306,41.603,112
 33,Bocal,-9.233,38.872,20
 33,Povoas,-8.874,39.358,20
@@ -1528,10 +1584,11 @@ rs,name,lon,lat,r1
 24,Fraguas,-8.853,39.378,24
 33,Urqueira,-8.597,39.731,28
 33,Boucoaes,-7.206,41.738,20
-66,Lousa,-9.209,38.891,33
+66,Lousa,-9.209,38.891,28
 66,Treixedo,-8.096,40.434,28
 79,Quebradas,-8.948,39.243,28
 39,Carondes,-9.145,38.975,20
+55,Abravezes,-7.92,40.685,20
 46,Fornos do Pinhal,-7.261,41.652,28
 33,Silveirinho,-8.179,40.312,20
 33,Vale Perneto,-8.479,39.888,20
@@ -1539,7 +1596,7 @@ rs,name,lon,lat,r1
 39,Parede,-9.354,38.692,28
 39,Miranda do Corvo,-8.33,40.094,39
 55,Sarzedela,-8.444,39.933,20
-28,Venda Seca,-9.28,38.786,20
+24,Venda Seca,-9.28,38.786,20
 94,Abrigada,-9.014,39.144,46
 66,Zebras,-7.382,41.464,28
 66,Porto da Nave,-7.727,40.955,20
@@ -1574,9 +1631,10 @@ rs,name,lon,lat,r1
 112,Pinhao,-7.543,41.192,39
 55,Pinheiro de Azere,-8.116,40.362,28
 112,Veiga de Lila,-7.323,41.518,46
-33,Repeses,-7.923,40.638,20
+39,Repeses,-7.923,40.638,20
 24,Cerejeiras,-8.342,40.041,20
 24,Touro,-7.747,40.892,24
+685,Viseu,-7.906,40.662,397
 55,Arranho,-9.13,38.954,39
 39,Vale de Vaide,-8.239,40.183,20
 33,Lagarteira de Baixo,-8.404,39.95,20
@@ -1595,7 +1653,7 @@ rs,name,lon,lat,r1
 33,Vales,-7.345,41.471,20
 28,Sao Pedro de Veiga de Lila,-7.328,41.495,20
 46,Pinheiro,-8.592,39.677,20
-94,Oeiras,-9.312,38.697,46
+112,Oeiras,-9.312,38.697,46
 192,Alijo,-7.474,41.277,94
 33,Sarzedo,-7.656,41.009,20
 33,Espinhal,-8.351,40.013,24
@@ -1609,6 +1667,7 @@ rs,name,lon,lat,r1
 24,Ranhados,-7.899,40.644,20
 28,Zambujal,-8.612,39.633,20
 66,Ota,-8.989,39.114,28
+33,Travassos de Cima,-7.875,40.673,20
 24,Papizios,-8.047,40.425,20
 39,Nogueira,-7.793,40.789,28
 33,Oliveira de Barreiros,-7.925,40.597,20
@@ -1629,6 +1688,8 @@ rs,name,lon,lat,r1
 33,Azere,-8.087,40.35,20
 66,Igreja,-7.809,40.749,24
 79,Minde,-8.684,39.509,33
+134,Lousa,-8.249,40.116,112
+112,Amadora,-9.231,38.765,55
 79,Franco,-7.343,41.429,33
 46,Parada,-8.044,40.404,28
 39,Venda das Figueiras,-8.37,39.941,20
@@ -1645,7 +1706,7 @@ rs,name,lon,lat,r1
 79,Carlao,-7.409,41.317,46
 28,Caxarias,-8.532,39.706,20
 33,Vale das Fontes,-7.136,41.723,20
-66,Bucelas,-9.116,38.903,24
+112,Bucelas,-9.116,38.903,24
 66,Beijos,-7.963,40.506,24
 79,Alenquer,-9.005,39.052,28
 39,Sao Pedro Velho,-7.156,41.688,39
@@ -1654,19 +1715,19 @@ rs,name,lon,lat,r1
 24,Malaqueijo,-8.823,39.294,24
 79,Loures,-9.168,38.826,24
 55,Queiriga,-7.748,40.807,28
-24,Fiscal,-8.227,40.117,20
 397,Moimenta,-6.975,41.951,94
 33,Covelo de Cima,-8.092,40.306,33
 55,Vilar de Prazeres,-8.572,39.631,24
 24,Moreira de Cima,-7.918,40.551,20
 24,Cacador,-7.856,40.641,20
+39,Vilarinho,-8.217,40.125,20
 79,Avelar,-8.359,39.922,46
 24,A-do-Barriga,-9.057,38.96,20
 66,Carregal do Sal,-8.004,40.423,55
 39,Rio de Couros,-8.497,39.726,28
 79,Fragosela de Cima,-7.863,40.624,20
-66,Linda-a-Velha,-9.238,38.713,33
-55,Odivelas,-9.181,38.79,33
+66,Linda-a-Velha,-9.238,38.713,39
+46,Odivelas,-9.181,38.79,33
 46,Marmeleira,-8.833,39.262,24
 55,Lagarelhos,-7.024,41.862,33
 112,Tremes,-8.761,39.358,66
@@ -1692,12 +1753,12 @@ rs,name,lon,lat,r1
 134,Freixianda,-8.457,39.761,28
 39,Soutosa,-7.666,40.889,28
 33,Povoa do Conde,-8.791,39.299,20
-28,Cadafais,-9.002,39.006,20
+24,Cadafais,-9.002,39.006,20
 28,Pera Velha,-7.639,40.921,24
 39,Cabacos,-7.574,41.015,24
 28,Casal do Pinheiro,-8.461,39.747,20
 46,Castanheiro do Sul,-7.505,41.114,33
-66,Lameirinha,-8.494,39.7,20
+112,Lameirinha,-8.494,39.7,20
 24,Corvos,-7.806,40.673,20
 55,Varzea Grande,-8.15,40.179,24
 66,Aveiras de Cima,-8.9,39.137,55
@@ -1714,6 +1775,7 @@ rs,name,lon,lat,r1
 24,Alburitel,-8.521,39.647,24
 39,Fiais da Telha,-7.944,40.458,20
 24,Fornos de Ledra,-7.105,41.689,20
+112,Carregado,-8.975,39.021,46
 39,Vialonga,-9.081,38.875,20
 112,Torre de Dona Chama,-7.13,41.647,112
 39,Eixes,-7.219,41.513,28
@@ -1732,13 +1794,14 @@ rs,name,lon,lat,r1
 33,Abambres,-7.184,41.55,20
 46,Ervedosa,-7.077,41.71,24
 24,Lapa do Lobo,-7.916,40.476,20
+24,Bom Sucesso,-9.043,38.905,20
 46,Povoa de Midoes,-7.972,40.393,28
-28,Costa da Caparica,-9.233,38.646,28
+33,Costa da Caparica,-9.233,38.646,33
 55,Pombal de Ansiaes,-7.355,41.285,33
 79,Lamas,-7.691,40.792,33
 39,Vale do Paraiso,-8.883,39.115,20
 46,Sarzedo,-8.073,40.242,20
-66,Sao Joao da Talha,-9.098,38.824,24
+55,Sao Joao da Talha,-9.098,38.824,24
 46,Vila,-8.332,39.876,20
 79,Almoster,-8.79,39.24,20
 28,Travancela,-7.761,40.687,20
@@ -1746,9 +1809,9 @@ rs,name,lon,lat,r1
 28,Casais da Barroca,-8.731,39.317,20
 39,Barqueiro,-8.348,39.848,20
 55,Castanheira do Ribatejo,-8.965,38.997,20
-24,Povos,-8.982,38.974,20
+28,Povos,-8.982,38.974,20
 55,Zibreira,-8.608,39.483,28
-39,Povoa de Santa Iria,-9.065,38.859,24
+230,Povoa de Santa Iria,-9.065,38.859,66
 33,Castanheiro do Norte,-7.382,41.234,28
 55,Lamosa,-7.618,40.887,33
 24,Secorio,-8.764,39.268,20
@@ -1757,6 +1820,7 @@ rs,name,lon,lat,r1
 24,Casal da Charneca,-8.799,39.216,24
 39,Vila Nova da Rainha,-8.928,39.041,28
 39,Vilar de Peregrinos,-7.017,41.775,28
+160,Vila Franca de Xira,-8.988,38.959,46
 39,Codecais,-7.313,41.33,20
 33,Aldeia de Ana de Aviz,-8.29,39.919,20
 39,Contins,-7.173,41.535,20
@@ -1765,11 +1829,12 @@ rs,name,lon,lat,r1
 28,Bobadela,-9.096,38.807,20
 28,Castelo,-7.667,40.806,20
 39,Abreiro,-7.294,41.352,20
+55,Alverca do Ribatejo,-9.032,38.892,24
 33,Vide,-7.568,40.949,20
 24,Afonsim,-7.694,40.764,20
 28,Banatica,-9.197,38.669,20
 28,Parceiros de Sao Joao,-8.622,39.449,20
-276,Nelas,-7.854,40.531,66
+134,Nelas,-7.854,40.531,66
 94,Gois,-8.112,40.157,46
 46,Varzea de Trevoes,-7.459,41.1,24
 24,Lages,-7.702,40.745,20
@@ -1793,7 +1858,7 @@ rs,name,lon,lat,r1
 46,Roriz,-7.741,40.671,28
 33,Vilarinho de Agrochao,-7.058,41.676,20
 276,Figueiro dos Vinhos,-8.277,39.903,112
-94,Lisboa,-9.136,38.724,55
+100000,Lisboa,-9.136,38.724,100000
 55,Avelal,-7.68,40.755,28
 55,Riodades,-7.497,41.021,20
 33,Carregal,-7.574,40.907,24
@@ -1806,22 +1871,23 @@ rs,name,lon,lat,r1
 24,Ancada,-7.782,40.601,20
 39,Almogadel,-8.404,39.718,24
 476,Mirandela,-7.179,41.485,230
-79,Azambuja,-8.872,39.073,66
+94,Azambuja,-8.872,39.073,66
 94,Paredes da Beira,-7.471,41.052,66
-39,Canedo do Chao,-7.765,40.624,20
+46,Canedo do Chao,-7.765,40.624,20
 55,Cabacos,-8.343,39.802,24
 46,Carvalhais,-7.158,41.512,20
 24,Casal de Sao Jose,-8.053,40.203,20
 55,Linhares,-7.36,41.205,24
-39,Botequim,-9.202,38.618,20
+46,Botequim,-9.202,38.618,28
 66,Agrochao,-7.031,41.695,66
 33,Casais dos Lagartos,-8.821,39.13,20
 28,Fonte Arcada,-7.519,40.966,20
 66,Casal de Cima,-7.697,40.707,24
 66,Moita,-8.21,39.972,24
-39,Almada,-9.162,38.664,20
+112,Almada,-9.162,38.664,46
 28,Granja,-8.341,39.788,20
 28,Grainho,-8.726,39.254,20
+24,Vale Flores,-9.171,38.651,20
 28,Povoa de Santarem,-8.684,39.309,20
 24,Torre do Bispo,-8.663,39.335,20
 28,Zedes,-7.3,41.281,28
@@ -1835,6 +1901,7 @@ rs,name,lon,lat,r1
 28,Sao Simao,-8.44,39.638,20
 55,Ervedal da Beira,-7.885,40.421,24
 33,Penso,-7.539,40.921,20
+160,Mangualde,-7.756,40.604,79
 28,Edrosa,-6.965,41.765,24
 24,Vale de Madeiro,-7.148,41.49,20
 79,Coja,-7.982,40.272,55
@@ -1853,7 +1920,6 @@ rs,name,lon,lat,r1
 66,Vila Boa de Ousilhao,-6.927,41.803,39
 39,Seixo da Beira,-7.843,40.452,39
 55,Povoa,-8.405,39.657,20
-24,Vale de Milhacos,-9.164,38.621,20
 79,Foros do Colao,-8.622,39.354,33
 28,Areias,-8.346,39.734,20
 822,Santarem,-8.7,39.244,276
@@ -1879,22 +1945,22 @@ rs,name,lon,lat,r1
 24,Argea,-8.488,39.508,20
 160,Frechas,-7.16,41.413,55
 33,Carril,-8.312,39.751,20
-46,Lagares da Beira,-7.856,40.395,28
+79,Lagares da Beira,-7.856,40.395,28
 112,Beco,-8.294,39.772,24
 24,Delongo,-8.456,39.546,20
 28,Vale de Figueira,-8.625,39.313,24
 28,Murcos,-6.98,41.677,28
 39,Vilarouco,-7.368,41.099,20
-66,Vale de Couce,-7.078,41.529,33
+79,Vale de Couce,-7.078,41.529,33
 33,Chosendo,-7.455,40.967,24
 55,Lamarosa,-8.468,39.521,33
 28,Meia Via,-8.501,39.473,20
 276,Tomar,-8.405,39.603,94
+46,Cruz de Pau,-9.123,38.624,39
 55,Cachao,-7.166,41.385,20
-24,Amora,-9.117,38.63,20
 33,Belverde,-9.139,38.6,20
 24,Galizes,-7.895,40.32,20
-28,Nogueira do Cravo,-7.881,40.338,20
+33,Nogueira do Cravo,-7.881,40.338,20
 55,Zoio,-6.921,41.748,28
 24,Botequim,-8.503,39.46,20
 46,Torre,-8.355,39.663,20
@@ -1921,7 +1987,7 @@ rs,name,lon,lat,r1
 55,Ponte do Abade,-7.497,40.851,33
 28,Porto Alto,-8.875,38.913,20
 55,Pedrogao Grande,-8.147,39.917,55
-79,Samora Correia,-8.862,38.929,79
+94,Samora Correia,-8.862,38.929,94
 39,Pomares,-7.896,40.272,20
 24,Meruge,-7.808,40.395,24
 46,Carvalhos,-8.2,39.836,20
@@ -1930,22 +1996,23 @@ rs,name,lon,lat,r1
 24,Sao Paio de Gramacos,-7.836,40.35,20
 24,Atalaia,-8.453,39.48,20
 46,Beselga,-7.426,40.94,33
-33,Casal do Marco,-9.092,38.606,20
+79,Casal do Marco,-9.092,38.606,20
 24,Valtorno,-7.208,41.258,20
 28,Coito,-8.374,39.584,20
 160,Ferreira do Zezere,-8.291,39.694,79
-66,Lagoa de Albufeira,-9.164,38.503,20
+55,Lagoa de Albufeira,-9.164,38.503,20
 28,Figueiredo,-7.754,40.454,20
 33,Travanca de Tavares,-7.627,40.636,20
 33,Carragosa,-6.798,41.862,28
 24,Corticos,-7.026,41.516,20
-39,Salvaterra de Magos,-8.78,39.011,28
+39,Salvaterra de Magos,-8.78,39.011,33
 39,Corujas,-6.968,41.602,20
 28,Samouco,-8.998,38.716,20
+24,Baixa da Banheira,-9.042,38.656,20
 28,Azeitada,-8.668,39.16,20
 46,Santa Cita,-8.389,39.545,20
 24,Asseiceira,-8.402,39.527,20
-66,Laranjeiras,-9.091,38.585,20
+39,Laranjeiras,-9.091,38.585,20
 112,Muge,-8.708,39.103,46
 46,Azinhaga,-8.532,39.344,33
 55,Benavente,-8.808,38.965,39
@@ -1959,11 +2026,11 @@ rs,name,lon,lat,r1
 24,Vale Frechoso,-7.119,41.358,20
 55,Seixo de Manhoses,-7.178,41.268,28
 66,Cativelos,-7.682,40.529,46
-46,Alfarim,-9.161,38.478,24
+94,Alfarim,-9.161,38.478,24
 28,Sao Francisco,-8.97,38.732,20
 33,Guimaraes de Tavares,-7.63,40.603,20
-28,Fernao Ferro,-9.093,38.564,28
-79,Azoia,-9.184,38.44,24
+33,Fernao Ferro,-9.093,38.564,33
+66,Azoia,-9.184,38.44,24
 112,Almeirim,-8.62,39.203,46
 24,Palhais,-9.048,38.621,24
 79,Vilarinho de Castanheira,-7.215,41.203,33
@@ -1973,21 +2040,21 @@ rs,name,lon,lat,r1
 46,Abrunhosa-a-Velha,-7.638,40.58,33
 28,Vila Nova da Barquinha,-8.43,39.459,28
 66,Alvoco das Varzeas,-7.831,40.302,33
-24,Carragozela,-7.756,40.408,20
+33,Carragozela,-7.756,40.408,20
 33,Antas,-7.387,40.941,24
 66,Sao Giao,-7.801,40.339,20
 46,Benlhevai,-7.089,41.376,20
 39,Caravelas,-7.049,41.435,33
-192,Lamas,-6.948,41.585,33
+192,Lamas,-6.948,41.585,66
 94,Alpiarca,-8.567,39.259,39
 39,Cunha,-7.457,40.831,20
 33,Arnas,-7.437,40.859,20
 79,Linhaceira,-8.378,39.519,46
-28,Folgosa do Salvador,-7.736,40.425,20
+24,Folgosa do Salvador,-7.736,40.425,20
 192,Franca,-6.736,41.902,24
 24,Caixas,-9.146,38.47,20
-79,Montijo,-8.969,38.707,55
-39,Torrozelo,-7.76,40.386,28
+160,Montijo,-8.969,38.707,66
+33,Torrozelo,-7.76,40.386,28
 46,Rabal,-6.751,41.871,20
 33,Foros de Salvaterra,-8.746,39.001,20
 28,Santa Comba,-7.71,40.45,20
@@ -2000,18 +2067,21 @@ rs,name,lon,lat,r1
 39,Coutada Velha,-8.788,38.929,24
 46,Foros de Benfica do Ribatejo,-8.642,39.127,24
 94,Rebordaos,-6.823,41.741,46
-55,Pinhancos,-7.685,40.468,39
+55,Pinhancos,-7.685,40.468,33
 134,Moreira,-7.498,40.738,55
-39,Moita,-8.987,38.653,33
+66,Moita,-8.987,38.653,33
+24,Zambujal de Cima,-9.137,38.451,20
 46,Vale de Cavalos,-8.515,39.292,39
 66,Bornes,-7.003,41.461,39
 24,Lagarinhos,-7.668,40.483,20
+79,Quinta do Conde,-9.044,38.569,66
 55,Rio Torto,-7.649,40.507,24
 33,Sarilhos Grandes,-8.964,38.674,20
 79,Santa Comba de Vilarica,-7.066,41.359,55
 24,Castelo do Bode,-8.324,39.547,20
 66,Carregueira,-8.416,39.417,33
-28,Sao Romao,-7.719,40.399,20
+24,Almoinha,-9.114,38.468,20
+39,Sao Romao,-7.719,40.399,20
 33,Mosteiro,-7.494,40.722,20
 39,Santana,-8.135,39.804,28
 39,Sebadelhe,-7.268,41.052,28
@@ -2020,7 +2090,8 @@ rs,name,lon,lat,r1
 28,Vilares de Vilarica,-7.037,41.391,24
 39,Assares,-7.073,41.337,20
 55,Granho,-8.654,39.082,28
-46,Penalva,-9.008,38.594,28
+33,Boa Agua,-9.042,38.554,20
+39,Penalva,-9.008,38.594,28
 39,Brejos da Moita,-8.987,38.623,20
 39,Vide,-7.782,40.292,28
 39,Atalaia,-8.923,38.706,28
@@ -2038,13 +2109,13 @@ rs,name,lon,lat,r1
 28,Praia do Ribatejo,-8.353,39.465,20
 33,Prova,-7.339,40.911,20
 46,Mos,-7.202,41.112,28
-46,Sesimbra,-9.1,38.447,20
+192,Sesimbra,-9.1,38.447,79
 46,Santa Comba de Rossas,-6.83,41.665,46
-66,Valezim,-7.717,40.358,28
+55,Valezim,-7.717,40.358,28
 134,Ribamondego,-7.575,40.562,33
 33,Vilarelhos,-7.039,41.347,20
 24,Constancia,-8.329,39.489,20
-46,Alto das Vinhas,-9.06,38.492,33
+39,Alto das Vinhas,-9.06,38.492,33
 46,Aveloso,-7.316,40.933,33
 55,Sao Pedro de Sarracenos,-6.757,41.763,33
 79,Jardia,-8.925,38.664,20
@@ -2060,7 +2131,7 @@ rs,name,lon,lat,r1
 66,Fundada Silveira,-8.143,39.721,33
 46,Varzea Fresca,-8.684,38.972,33
 134,Maceira,-7.471,40.677,33
-33,Vila Nogueira de Azeitao,-9.018,38.52,33
+46,Vila Nogueira de Azeitao,-9.018,38.52,28
 112,Raposa,-8.579,39.11,33
 66,Sambade,-6.974,41.406,46
 24,Portela,-8.321,39.46,20
@@ -2071,20 +2142,22 @@ rs,name,lon,lat,r1
 160,Gouveia,-7.595,40.479,79
 55,Gimonde,-6.699,41.8,39
 66,Montalvo,-8.293,39.486,33
-66,Sabugueiro,-7.641,40.402,46
+28,Cabanas,-8.97,38.56,20
+66,Sabugueiro,-7.641,40.402,39
 39,Gebelim,-6.93,41.442,24
 160,Loriga,-7.69,40.327,66
 134,Santo Estevao,-8.74,38.861,79
 39,Olmos,-6.895,41.489,20
 39,Meas,-7.81,40.15,20
-79,Pinhal Novo,-8.907,38.631,66
-39,Lagoinha,-8.933,38.594,20
+192,Pinhal Novo,-8.907,38.631,66
+39,Lagoinha,-8.933,38.594,24
 39,Vila Cortes da Serra,-7.528,40.551,24
 28,Cascalheira,-8.911,38.616,20
 39,Chacim,-6.896,41.468,24
 66,Rio Frio,-8.862,38.673,33
 66,Sao Jorge da Beira,-7.782,40.168,66
 66,Boais,-8.05,39.783,24
+55,Quinta do Anjo,-8.94,38.562,33
 33,Melo,-7.531,40.521,20
 79,Carvalhal,-8.195,39.57,28
 55,Mosteiro,-7.964,39.895,39
@@ -2115,7 +2188,7 @@ rs,name,lon,lat,r1
 160,Torre de Moncorvo,-7.049,41.174,79
 66,Biscainho,-8.643,38.909,39
 33,Grelhal,-8.925,38.528,20
-66,Fajarda,-8.597,38.97,46
+55,Fajarda,-8.597,38.97,39
 39,Barroca Grande,-7.746,40.154,20
 134,Chas,-7.17,40.989,39
 66,Freches,-7.346,40.73,33
@@ -2127,7 +2200,7 @@ rs,name,lon,lat,r1
 134,Rabacal,-7.256,40.852,66
 55,Peredo,-6.867,41.428,20
 79,Celorico Gare,-7.38,40.668,28
-39,Aires,-8.88,38.571,28
+33,Aires,-8.88,38.571,28
 33,Sao Juliao,-6.604,41.822,20
 28,Larinho,-7.013,41.194,24
 134,Sardoal,-8.16,39.54,46
@@ -2136,10 +2209,10 @@ rs,name,lon,lat,r1
 79,Acoreira,-7.039,41.14,28
 160,Abrantes,-8.201,39.471,160
 46,Amendoa,-8.064,39.661,28
-571,Setubal,-8.887,38.531,112
+476,Setubal,-8.887,38.531,160
 28,Casegas,-7.697,40.175,28
 39,Dornelas do Zezere,-7.745,40.106,39
-192,Celorico da Beira,-7.387,40.621,79
+192,Celorico da Beira,-7.387,40.621,94
 94,Barreira,-7.187,40.911,33
 33,Rio Frio,-6.629,41.737,33
 66,Cotimos,-7.24,40.825,24
@@ -2163,9 +2236,11 @@ rs,name,lon,lat,r1
 33,Chao de Lopes,-8.052,39.629,20
 33,Cabeca das Mos,-8.123,39.528,20
 33,Alferrarede Velha,-8.16,39.477,20
+33,Foros de Coruche,-8.52,38.98,20
 33,Carvalhal,-6.972,41.183,20
 24,Vales de Cardigos,-7.976,39.731,24
 24,Macal do Chao,-7.301,40.693,20
+230,Coruche,-8.527,38.962,94
 55,Gralhos,-6.733,41.532,24
 33,Macores,-7.002,41.128,20
 28,Loja Nova,-8.725,38.687,20
@@ -2192,7 +2267,7 @@ rs,name,lon,lat,r1
 33,Poceirao,-8.74,38.635,24
 94,Outeiro,-6.599,41.684,39
 55,Santo Ovidio,-8.817,38.52,39
-46,Montinho dos Pegos,-8.486,38.954,20
+33,Montinho dos Pegos,-8.486,38.954,24
 66,Malhada Alta,-8.534,38.887,39
 66,Fazendas das Figueiras,-8.574,38.829,46
 79,Erra,-8.45,38.998,28
@@ -2262,13 +2337,13 @@ rs,name,lon,lat,r1
 112,Castelo Branco,-6.753,41.274,46
 986,Mogadouro,-6.705,41.342,160
 28,Chao do Galego,-7.785,39.771,28
-55,Rapoula,-7.206,40.595,39
+55,Rapoula,-7.206,40.595,46
 55,Gouveias,-7.162,40.657,20
-1183,Guarda,-7.249,40.529,397
+1183,Guarda,-7.249,40.529,571
 55,Arieira,-7.495,40.17,20
 55,Ferro,-7.447,40.236,28
 160,Comporta,-8.783,38.38,66
-134,Santana do Mato,-8.413,38.879,94
+134,Santana do Mato,-8.413,38.879,79
 112,Pedra do Altar,-7.815,39.71,28
 276,Vimioso,-6.523,41.588,134
 397,Pinhel,-7.069,40.771,160
@@ -2397,6 +2472,7 @@ rs,name,lon,lat,r1
 46,Duas Igrejas,-6.357,41.47,46
 55,Escalos de Cima,-7.399,39.931,39
 112,Brotas,-8.151,38.873,55
+331,Alcacer do Sal,-8.51,38.385,160
 39,Perais,-7.576,39.666,39
 55,Alfrivida,-7.538,39.719,24
 33,Meimoa,-7.183,40.227,33
@@ -2454,7 +2530,7 @@ rs,name,lon,lat,r1
 134,Vila do Bispo,-8.911,37.083,46
 24,Mata,-7.346,39.894,24
 66,Santa Luzia,-8.403,37.73,33
-66,Bairro do Isaias,-8.556,38.217,28
+79,Bairro do Isaias,-8.556,38.217,28
 134,Luzianes-Gare,-8.486,37.591,66
 46,Bismula,-6.962,40.444,28
 160,Montes Velhos,-8.183,37.939,55
@@ -2470,15 +2546,17 @@ rs,name,lon,lat,r1
 112,Montoito,-7.592,38.509,66
 94,Aldeia do Bispo,-7.165,40.118,33
 33,Nave,-6.97,40.399,24
+160,Grandola,-8.561,38.179,160
 160,Montalvao,-7.528,39.596,66
 46,Penedo Gordo,-7.917,37.985,39
+160,Montemor-o-Novo,-8.21,38.645,160
 79,Nossa Senhora dos Degolados,-7.121,39.061,46
 39,Aldeia de Marmelos,-7.47,38.562,20
 24,Cumeadas,-8.684,38.006,20
 112,Benavila,-7.872,39.108,46
 112,Aldeia da Venda,-7.465,38.544,79
 55,Aldeia da Mata,-7.727,39.304,46
-28,Silves-Gare,-8.438,37.174,20
+33,Silves-Gare,-8.438,37.174,20
 24,Sao Pedro do Corval,-7.483,38.448,24
 160,Pavia,-8.019,38.893,79
 112,Marmelar,-7.652,38.171,39
@@ -2496,7 +2574,7 @@ rs,name,lon,lat,r1
 46,Soalheira,-8.147,37.288,39
 276,Avis,-7.889,39.048,112
 55,Alcorrego,-7.911,39.017,20
-79,Reguengo,-8.204,38.611,28
+66,Reguengo,-8.204,38.611,28
 134,Alpalhao,-7.619,39.416,79
 276,Serpa,-7.595,37.941,134
 33,Aranhas,-7.118,40.11,24
@@ -2518,13 +2596,13 @@ rs,name,lon,lat,r1
 276,Vila Nova de Milfontes,-8.78,37.729,192
 230,Escoural,-8.163,38.541,94
 79,Abela,-8.558,38.001,66
-134,Batao,-8.404,38.204,66
+79,Batao,-8.404,38.204,66
 192,Aldeia Velha,-6.867,40.344,55
 134,Alter do Chao,-7.658,39.197,134
 94,Alagoa,-7.537,39.36,39
 66,Sao Sebastiao da Giesteira,-8.098,38.581,46
 66,Alcafozes,-7.12,39.947,46
-94,Arraiolos,-7.986,38.723,94
+134,Arraiolos,-7.986,38.723,94
 94,Cercal do Alentejo,-8.673,37.794,79
 46,Aldeia do Bispo,-6.847,40.324,20
 276,Penha Garcia,-7.02,40.039,112
@@ -2537,7 +2615,7 @@ rs,name,lon,lat,r1
 66,Sao Luis,-8.66,37.718,66
 192,Alcacovas,-8.152,38.394,79
 39,Nossa Senhora de Guadalupe,-8.022,38.567,24
-192,Torrao,-8.223,38.293,66
+276,Torrao,-8.223,38.293,66
 112,Touloes,-7.034,39.924,55
 46,Beira,-7.369,39.447,28
 55,Zambujeira do Mar,-8.78,37.524,39
@@ -2553,7 +2631,7 @@ rs,name,lon,lat,r1
 55,Santo Antonio das Areias,-7.347,39.413,55
 192,Sousel,-7.671,38.953,79
 66,Brejao,-8.764,37.478,39
-1183,Portalegre,-7.43,39.283,331
+1702,Portalegre,-7.43,39.283,331
 94,Bairro dos Canaviais,-7.902,38.614,33
 24,Monfortinho,-6.913,40.001,20
 160,Alvalade,-8.391,37.937,134
@@ -2643,26 +2721,27 @@ rs,name,lon,lat,r1
 79,Vendinha,-7.644,38.455,39
 28,Vila de Frades,-7.822,38.212,20
 33,Mexilhoeira Grande,-8.612,37.159,24
-66,Alcalar,-8.586,37.187,20
+55,Alcalar,-8.586,37.187,20
 134,Ourique,-8.226,37.654,94
 66,Terrugem,-7.348,38.843,46
 24,Rasmalho,-8.542,37.222,20
 94,Aldeia de Palheiros,-8.25,37.599,39
 160,Vidigueira,-7.8,38.202,66
-55,Alvor,-8.593,37.13,33
+66,Alvor,-8.593,37.13,24
 79,Sao Matias,-7.855,38.107,46
 66,Pardais,-7.399,38.723,24
 79,Santana da Serra,-8.3,37.5,66
 192,Portel,-7.7,38.306,79
 46,Porto de Lagos,-8.528,37.199,24
-46,Ladeira do Vau,-8.537,37.169,20
+55,Ladeira do Vau,-8.537,37.169,20
+28,Pedra Mourinha-Vale Lagar,-8.556,37.143,20
 134,Alandroal,-7.403,38.69,55
 112,Sao Vicente,-7.211,38.954,46
 79,Vila Boim,-7.275,38.86,66
 134,Sao Marcos da Serra,-8.377,37.36,94
 55,Caridade,-7.564,38.447,20
-24,Portimao,-8.536,37.133,20
-1183,Beja,-7.859,38.017,476
+476,Portimao,-8.536,37.133,397
+2042,Beja,-7.859,38.017,476
 94,Selmes,-7.76,38.146,46
 112,Terena,-7.413,38.621,55
 571,Castro Verde,-8.087,37.7,134
@@ -2672,6 +2751,8 @@ rs,name,lon,lat,r1
 397,Reguengos de Monsaraz,-7.536,38.426,192
 112,Entradas,-8.014,37.774,55
 160,Aldeia dos Fernandes,-8.169,37.566,55
+24,Estombar,-8.486,37.148,20
+94,Silves,-8.44,37.191,66
 66,Neves,-7.81,38.018,33
 33,Sesmarias,-8.483,37.114,20
 66,Gomes Aires,-8.176,37.515,24
@@ -2680,7 +2761,7 @@ rs,name,lon,lat,r1
 39,Pedreira de Santo Estevao,-8.393,37.216,33
 822,Elvas,-7.166,38.875,476
 33,Lobite,-8.437,37.153,20
-79,Lagoa,-8.448,37.134,39
+79,Lagoa,-8.448,37.134,46
 33,Torre e Cercas,-8.392,37.2,20
 33,Carvoeiro,-8.466,37.101,24
 46,Rosario,-8.081,37.606,46
@@ -2733,6 +2814,7 @@ rs,name,lon,lat,r1
 39,Olhos de Agua,-8.191,37.094,33
 79,Boliqueime,-8.156,37.133,28
 28,Falfosa,-7.96,37.087,20
+134,Sao Bras de Alportel,-7.886,37.154,94
 160,Mina de Sao Domingos,-7.494,37.67,112
 66,Santo Aleixo da Restauracao,-7.152,38.067,39
 55,Pechao,-7.869,37.055,20
@@ -2744,18 +2826,19 @@ rs,name,lon,lat,r1
 192,Granja,-7.254,38.302,66
 33,Monte Seco,-8.089,37.179,20
 46,Parragil,-8.094,37.16,28
-66,Vilamoura,-8.127,37.095,24
+55,Vilamoura,-8.127,37.095,24
 94,Tor,-8.038,37.194,39
 46,A-do-Pinto,-7.476,37.918,46
 33,Renda,-8.055,37.145,20
 79,Santo Amador,-7.309,38.13,55
+112,Quarteira,-8.097,37.071,94
 112,Cortelha,-7.956,37.257,55
 112,Vale de Vargo,-7.411,37.983,39
 276,Mertola,-7.661,37.642,192
 28,Quatro Estradas,-8.062,37.1,20
 276,Amareleja,-7.227,38.209,160
 192,Loule,-8.023,37.137,55
-28,Fonte Santa,-8.073,37.061,20
+33,Fonte Santa,-8.073,37.061,20
 160,Sao Bartolomeu de Via Gloria,-7.713,37.526,66
 33,Goncinha,-8.013,37.122,20
 397,Vales Mortos,-7.5,37.807,79
@@ -2774,23 +2857,26 @@ rs,name,lon,lat,r1
 28,Igreja,-7.964,37.101,20
 28,Quinta do Lago,-8.011,37.035,28
 66,Sobral da Adica,-7.26,38.022,55
-55,Bordeira,-7.922,37.125,28
-66,Arneiro,-7.965,37.062,20
+46,Bordeira,-7.922,37.125,28
+46,Arneiro,-7.965,37.062,20
 46,Vila Verde de Ficalho,-7.3,37.947,46
 55,Corte do Pinto,-7.479,37.702,24
-39,Gambelas,-7.964,37.04,20
+24,Campina,-7.881,37.165,20
+55,Gambelas,-7.964,37.04,20
 28,Machados,-7.887,37.133,20
 33,Jardina,-7.931,37.074,20
-39,Praia de Faro Nascente,-7.979,36.999,28
+24,Montenegro,-7.962,37.027,20
+24,Praia de Faro Nascente,-7.979,36.999,20
+24,Barracha,-7.861,37.142,20
 112,Estoi,-7.895,37.093,46
 33,Conceicao,-7.914,37.061,24
-28,Mesquita Alta,-7.844,37.152,28
-46,Peral,-7.85,37.133,20
-46,Santa Catarina,-7.788,37.154,46
+46,Peral,-7.85,37.133,24
+4233,Faro,-7.929,37.021,1183
+39,Santa Catarina,-7.788,37.154,39
 28,Alecrineira,-7.843,37.072,20
 94,Pereiro,-7.803,37.124,24
 24,Belmonte Baixo,-7.868,37.016,24
-134,Olhao,-7.838,37.034,66
+112,Olhao,-7.838,37.034,55
 33,Marim,-7.809,37.039,20
 24,Monte Agudo,-7.726,37.136,20
 685,Alcoutim,-7.473,37.471,160
@@ -2814,82 +2900,3 @@ rs,name,lon,lat,r1
 28,Sao Bartolomeu,-7.482,37.194,20
 55,Castro Marim,-7.447,37.218,24
 230,Vila Real de Santo Antonio,-7.421,37.193,160
-100000,Lisboa,-9.229,38.756,100000
-4233,Porto,-8.596,41.169,1702
-230,Almada,-9.174,38.644,55
-8774,Funchal,-16.937,32.658,6094
-134,Barreiro,-9.04,38.653,66
-46,Braga,-8.42,41.546,20
-79,Amora,-9.103,38.621,39
-192,Póvoa de Varzim,-8.754,41.373,192
-39,Arcozelo,-8.638,41.045,20
-33,Coimbra,-8.414,40.211,24
-4233,Faro,-7.939,37.025,1419
-986,Aveiro,-8.633,40.638,331
-476,Portimão,-8.547,37.142,397
-230,Esposende,-8.765,41.548,134
-230,Alverca do Ribatejo,-9.042,38.897,94
-8774,Ponta Delgada,-25.652,37.75,6094
-192,São João da Madeira,-8.497,40.896,134
-685,Viseu,-7.903,40.658,331
-134,Quinta do Conde,-9.044,38.563,55
-192,Figueira da Foz,-8.858,40.16,192
-94,Caniço de Baixo,-16.839,32.651,66
-33,Guarda,-7.253,40.544,20
-192,Sesimbra,-9.115,38.466,66
-79,Trofa,-8.555,41.344,46
-276,Lourinhã,-9.299,39.227,112
-112,Quarteira,-8.098,37.069,94
-66,Marinha Grande,-8.926,39.746,66
-112,Vila Franca de Xira,-8.99,38.959,46
-112,Ponte de Lima,-8.598,41.758,112
-39,Alhandra,-9.017,38.923,20
-134,Condeixa-a-Nova,-8.486,40.122,46
-160,Ovar,-8.619,40.863,55
-112,Lousã,-8.249,40.117,94
-276,Oliveira do Bairro,-8.471,40.507,94
-134,Alcobaça,-8.964,39.551,55
-230,Fátima,-8.671,39.634,112
-66,Esmoriz,-8.631,40.956,39
-112,Malveira,-9.244,38.928,55
-134,Anadia,-8.451,40.439,55
-230,Carregado,-8.972,39.022,46
-160,Montemor-o-Novo,-8.213,38.648,160
-24,Campo,-8.468,41.183,20
-160,Albergaria-a-Velha,-8.479,40.693,94
-276,Seia,-7.718,40.414,134
-230,Rio Maior,-8.933,39.337,112
-94,Ribeira Grande,-25.526,37.823,94
-33,Albarraque,-9.346,38.761,24
-94,Arouca,-8.27,40.926,94
-46,Riba de Ave,-8.399,41.39,20
-160,Grândola,-8.563,38.182,160
-160,Capelas,-25.667,37.828,66
-230,Vila Franca do Campo,-25.433,37.717,112
-192,Amares,-8.355,41.63,55
-79,Mangualde,-7.757,40.605,79
-94,Silves,-8.436,37.19,79
-3528,Horta,-28.636,38.538,1419
-46,Quinta do Anjo,-8.956,38.562,39
-24,Benavente,-8.814,38.976,20
-24,Parchal,-8.51,37.138,20
-1419,Angra do Heroísmo,-27.219,38.658,822
-230,Alcácer do Sal,-8.51,38.377,134
-134,Póvoa de Lanhoso,-8.266,41.574,55
-94,Atouguia da Baleia,-9.319,39.325,39
-94,Vila Praia de Âncora,-8.858,41.802,79
-160,São Brás de Alportel,-7.887,37.158,94
-192,Cantanhede,-8.591,40.346,94
-46,Abravezes,-7.916,40.679,20
-79,Benedita,-8.976,39.428,79
-39,Caldelas das Taipas,-8.349,41.487,20
-66,Macedo de Cavaleiros,-6.962,41.538,28
-94,Mealhada,-8.455,40.378,46
-112,Pereira,-8.585,40.183,66
-28,Rabo de Peixe,-25.578,37.816,28
-571,Coruche,-8.525,38.971,94
-28,Fala,-8.469,40.203,20
-192,Arcos de Valdevez,-8.42,41.844,112
-79,Praia da Vitória,-27.068,38.739,79
-79,Lagoa,-25.575,37.742,39
-39,Oliveira do Hospital,-7.858,40.358,39

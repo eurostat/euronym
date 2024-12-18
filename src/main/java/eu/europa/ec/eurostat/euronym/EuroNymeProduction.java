@@ -39,8 +39,15 @@ public class EuroNymeProduction {
 
 	private static boolean limitUseRegio = true;
 
-	// remove regio things
 	// hard validation on 1:1M
+	// ponta delgada missing
+	// arcachon
+	// paris lyon marseille
+	// den hague
+	// potsdam
+	// RO: Oraş
+	// brussels
+	// vaduz
 
 	// TODO local names, with accents - see in ERM (NAMN). OR: eurogazeeter ?
 	// TODO correct paris position
@@ -70,8 +77,7 @@ public class EuroNymeProduction {
 		prepareDataFromInput("tmp/namesStruct_ASCII.gpkg", true, false);
 		prepareDataFromInput("tmp/namesStruct_UTF.gpkg", false, false);
 		prepareDataFromInput("tmp/namesStruct_UTF_LATIN.gpkg", false, true);
-		if (true)
-			return;
+		// if (true) return;
 
 		// get country codes
 		HashSet<String> ccs = new HashSet<>();
@@ -380,13 +386,13 @@ public class EuroNymeProduction {
 		System.out.println(nt.size() + " features loaded");
 		CoordinateReferenceSystem crsNT = GeoData.getCRS(nt_);
 
-		List<String> cntsRegio = Arrays.asList(new String[]{ "RO", "BA", "AL", "ME", "HU", "RS", "BG", "XK" });
+		List<String> cntsRegio = Arrays.asList(new String[] { "RO", "BA", "AL", "ME", "HU", "RS", "BG", "XK" });
 		for (Feature f : nt) {
 			Feature f_ = new Feature();
 
 			String cc = f.getAttribute("CNTR_CODE").toString();
-			if(limitUseRegio && !cntsRegio.contains(cc)) continue;
-			//System.out.println(cc);
+			if (limitUseRegio && !cntsRegio.contains(cc))
+				continue;
 
 			// name
 			String name = (String) f.getAttribute("STTL_NAME");
@@ -424,11 +430,27 @@ public class EuroNymeProduction {
 		for (Feature f : out) {
 			String name = f.getAttribute("name").toString();
 
-			//romanian case
+			// romanian case
 			if (name.contains("Municipiul"))
 				f.setAttribute("name", name.replace("Municipiul ", ""));
 
-				/*
+			if (name.equals("Arcachon"))
+				f.setAttribute("pop", 30000); // 11630);
+			if (name.equals("Brussel")) {
+				f.setAttribute("pop", 1200000); // 100000);
+				f.setAttribute("name", "Bruxelles/Brussel");
+			}
+			if (name.equals("Vaduz"))
+				f.setAttribute("pop", 12000); // 5300);
+
+			if (name.contains("Arrondissement") && name.contains("Marseille"))
+				f.setAttribute("pop", 50000);
+			if (name.equals("Marseille 1er Arrondissement")) {
+				f.setAttribute("pop", 820000);
+				f.setAttribute("name", "Marseille");
+			}
+
+			/*
 			 * if (name.equals("Cize"))
 			 * f.setAttribute("name", "Champagnole");
 			 * if (name.equals("Valletta (greater)"))

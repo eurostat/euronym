@@ -128,7 +128,7 @@ rs,name,lon,lat,r1
 24,Letaj,14.112,45.26,24
 79,Sveti Petar u sumi,13.863,45.181,46
 24,Mutvoran,13.985,44.959,20
-571,Medulin,13.938,44.821,476
+571,Medulin,13.938,44.821,397
 46,Kanfanar,13.84,45.124,39
 39,Trget,14.057,45.021,33
 46,Krmed,13.826,45.084,39
@@ -137,13 +137,13 @@ rs,name,lon,lat,r1
 28,Penicici,13.965,45.388,20
 24,Negnar,13.944,45.34,24
 46,Heki,13.89,45.217,24
-94,Opatija,14.304,45.338,66
+79,Opatija,14.304,45.338,55
 28,Medveje,13.959,45.361,28
 79,Viskovo,14.388,45.377,28
 24,Krsikla,13.943,45.306,24
 39,Prodani,13.977,45.375,24
 33,Soboli,14.493,45.373,20
-66,Cernik,14.494,45.351,39
+79,Cernik,14.494,45.351,46
 39,Kostrena,14.487,45.312,39
 24,Raponji,13.857,45.084,24
 24,Grdoselo,13.943,45.282,24
@@ -154,7 +154,7 @@ rs,name,lon,lat,r1
 28,Mali Podol,14.358,44.879,28
 79,Kropinjak,14.019,45.444,33
 33,Linardici,14.464,45.073,33
-134,Kraljevica,14.569,45.274,79
+160,Kraljevica,14.569,45.274,79
 28,Orlec,14.425,44.881,28
 230,Pazin,13.936,45.239,230
 331,Stanic,14.411,44.841,94
@@ -251,6 +251,7 @@ rs,name,lon,lat,r1
 33,Kavran,13.997,44.909,33
 28,Sapjane,14.251,45.481,28
 39,Purgarija Cepic,14.136,45.207,28
+33,Marceljani,14.094,45.104,20
 28,Brgod,14.069,45.041,28
 39,Rasa,14.086,45.08,20
 39,Nova Vas,14.158,45.244,39
@@ -266,7 +267,7 @@ rs,name,lon,lat,r1
 33,Gora Glusici,14.102,45.034,28
 39,Stanisovi,14.095,45.013,33
 28,Vozilici,14.165,45.157,20
-55,Ripenda Verbanci,14.145,45.11,20
+33,Ripenda Verbanci,14.145,45.11,20
 55,Zvoneca,14.275,45.397,46
 33,Gondolici,14.133,45.07,20
 46,Plomin,14.18,45.138,24
@@ -278,12 +279,12 @@ rs,name,lon,lat,r1
 28,Tulisevica,14.262,45.282,20
 28,Sveta Marina,14.156,45.034,20
 33,Golovik,14.228,45.196,33
-94,Lovran,14.272,45.295,33
+112,Lovran,14.272,45.295,33
 134,Drenje,14.149,45.015,55
 28,Skalnica,14.338,45.445,20
 39,Icici,14.283,45.314,20
 28,Moscenice,14.248,45.226,20
-134,Moscenicka Draga,14.254,45.239,79
+112,Moscenicka Draga,14.254,45.239,79
 66,Skvaranska,14.145,44.983,24
 28,Jusici,14.319,45.379,20
 79,Brsec,14.236,45.179,46
@@ -295,6 +296,7 @@ rs,name,lon,lat,r1
 46,Marcelji,14.388,45.403,20
 39,Porozina,14.285,45.131,39
 39,Filozici,14.297,45.111,39
+1419,Rijeka,14.407,45.34,822
 28,Dragozetici,14.307,45.097,28
 55,Jelenje,14.451,45.388,33
 192,Vazminec,14.343,45.137,79
@@ -358,7 +360,7 @@ rs,name,lon,lat,r1
 28,Drivenik,14.652,45.24,28
 39,Kras,14.601,45.109,20
 46,Sveti Jakov,14.393,44.636,46
-331,Krk,14.575,45.026,134
+476,Krk,14.575,45.026,134
 55,Lakmartin,14.589,45.053,24
 55,Zagolik,14.78,45.49,55
 39,Zupanje,14.634,45.145,20
@@ -380,7 +382,7 @@ rs,name,lon,lat,r1
 33,Gornje Tihovo,14.839,45.43,33
 28,Brestova Draga,14.795,45.323,28
 24,Mala Lesnica,14.852,45.44,24
-822,Mali Losinj,14.476,44.528,476
+2042,Mali Losinj,14.476,44.528,685
 39,Dedin,14.851,45.385,28
 24,Pucak,14.892,45.447,20
 39,Dolus,14.915,45.501,33
@@ -400,19 +402,19 @@ rs,name,lon,lat,r1
 112,Ravna Gora,14.935,45.373,112
 24,Breze,14.872,45.183,24
 39,Kavrani,15.014,45.495,28
-160,Lopar,14.731,44.831,66
+160,Lopar,14.731,44.831,160
 24,Radigonja,15.002,45.45,20
 24,Male Drage,15.014,45.47,24
 24,Donji Vuckovici,14.999,45.424,24
 79,Supetarska Draga,14.727,44.795,28
-28,Kampor,14.721,44.779,28
+33,Kampor,14.721,44.779,24
 46,Stara Susica,15.003,45.376,39
 33,Podmelnik,14.89,45.101,33
 160,Ozalj,15.478,45.613,94
 79,Vitunj,15.144,45.288,46
 55,Zapec,15.082,45.481,55
 134,Lun,14.75,44.686,55
-28,Palit,14.753,44.767,20
+24,Palit,14.753,44.767,20
 39,Sipacki Breg,15.611,45.77,39
 79,Tuhelj,15.748,46.075,79
 230,Samobor,15.709,45.802,160
@@ -422,7 +424,7 @@ rs,name,lon,lat,r1
 24,Hajdine,15.086,45.388,20
 39,Brestovec Orehovicki,15.985,46.079,28
 39,Lobor,16.065,46.151,39
-46,Sveti Matej,16.073,45.966,33
+55,Sveti Matej,16.073,45.966,33
 55,Siljkovaca,15.768,45.132,20
 46,Selnica,16.393,46.494,46
 24,Bile,14.892,45.073,24
@@ -435,6 +437,7 @@ rs,name,lon,lat,r1
 46,Komlenici,15.036,45.4,28
 79,Gudalji,15.305,45.725,55
 33,Ducici,15.304,45.71,33
+476,Rab,14.762,44.755,192
 33,Hreljin Ogulinski,15.18,45.295,28
 33,Sopote,15.399,45.756,20
 79,Rusevo Krmpotsko,14.911,45.085,79
@@ -469,6 +472,7 @@ rs,name,lon,lat,r1
 24,Gornje Bukovlje,15.442,45.391,24
 46,Kucista Cesaricka,15.093,44.552,24
 46,Zaumol,15.092,45.457,46
+24,Banjol,14.786,44.748,20
 24,Lukavec Klanjecki,15.728,46.001,20
 39,Dolanjski Jarak,15.601,45.693,28
 39,Mreznicki Novaki,15.485,45.404,33
@@ -487,7 +491,7 @@ rs,name,lon,lat,r1
 33,Donji Velemeric,15.588,45.395,24
 39,Pasnik,15.941,46.226,20
 24,Podgorje Krnjacko,15.589,45.322,20
-66,Brckovljani,15.851,45.935,46
+66,Brckovljani,15.851,45.935,66
 33,Strucljevo,15.908,46.054,20
 28,Podgorje Bednjansko,15.998,46.259,24
 24,Lapovac,15.571,45.232,24
@@ -496,8 +500,8 @@ rs,name,lon,lat,r1
 55,Brezovo Polje,15.309,44.602,39
 160,Vrhovine,15.418,44.851,160
 28,Ocura,15.985,46.186,20
-134,Ugljan,15.103,44.132,55
-33,Barbat na Rabu,14.8,44.735,20
+112,Ugljan,15.103,44.132,55
+55,Barbat na Rabu,14.8,44.735,24
 66,Veljunska Glina,15.601,45.226,66
 66,Slunjski Moravci,15.707,45.451,66
 94,Vrbovsko,15.081,45.376,94
@@ -509,7 +513,7 @@ rs,name,lon,lat,r1
 33,Delkovec,16.031,46.134,20
 39,Musaluk,15.384,44.611,33
 24,Jerovec,16.094,46.236,20
-33,Banscica,16.024,46.003,33
+33,Banscica,16.024,46.003,20
 39,Krljusi,15.798,45.456,39
 28,Gornji Babin Potok,15.532,44.836,28
 55,Canak,15.489,44.735,55
@@ -545,7 +549,7 @@ rs,name,lon,lat,r1
 24,Zitkovcica,16.022,45.598,20
 160,Svrackovo Selo,15.611,44.624,94
 46,Jalkovec,16.321,46.278,24
-39,Podevcevo,16.305,46.198,20
+46,Podevcevo,16.305,46.198,24
 28,Donje Taboriste,16.004,45.454,24
 55,Posedarje,15.478,44.211,55
 28,Budenec,16.176,45.836,28
@@ -555,23 +559,23 @@ rs,name,lon,lat,r1
 24,Zaloj,16.045,45.463,24
 55,Sveti Juraj,14.92,44.928,55
 39,Podvorec,16.289,46.039,20
-24,Ostrice,16.355,46.189,20
+28,Ostrice,16.355,46.189,20
 94,Dugo Selo,16.233,45.806,94
 28,Sivica,16.504,46.448,24
 79,Pokupsko Vratecko,16.101,45.476,66
 24,Hrebinec,16.264,45.845,20
-94,Rakovec,16.315,45.932,55
+134,Rakovec,16.315,45.932,112
 66,Belica,16.521,46.408,46
 46,Saseva,16.053,45.275,46
 33,Klada,14.883,44.815,33
-66,Starigrad,14.882,44.798,55
+66,Starigrad,14.882,44.798,66
 276,Silba,14.697,44.376,134
 33,Gomirje,15.116,45.336,33
 66,Mrzli Dol,14.988,45.032,66
 46,Potocnica,14.809,44.618,46
 55,Senjska Draga,14.968,44.974,55
 39,Stolac,14.983,44.941,39
-160,Stinica,14.891,44.718,66
+46,Stinica,14.891,44.718,46
 66,Ljubosina,15.156,45.323,46
 39,Lijesce,15.315,45.693,39
 39,Velike Brisnice,14.926,44.778,39
@@ -608,7 +612,7 @@ rs,name,lon,lat,r1
 39,Kolanjski Gajac,14.901,44.527,24
 33,Breznik Zakanjski,15.364,45.593,20
 28,Zorkovac Vivodinski,15.397,45.668,28
-331,Ogulin,15.226,45.266,331
+685,Ogulin,15.226,45.266,476
 39,Bogovci,15.334,45.518,20
 134,Bosiljevo,15.29,45.412,112
 28,Caska,14.917,44.55,20
@@ -655,7 +659,7 @@ rs,name,lon,lat,r1
 66,Desinic,15.668,46.148,66
 39,Begovo Brdo Zumberacko,15.478,45.693,33
 28,Tisovac Zumberacki,15.522,45.796,28
-276,Kolan,14.961,44.494,192
+276,Kolan,14.961,44.494,230
 28,Veliki Erjavec,15.434,45.582,28
 112,Jezerane,15.207,45.052,46
 55,Tomasici,15.348,45.38,33
@@ -744,12 +748,12 @@ rs,name,lon,lat,r1
 94,Pothum Plascanski,15.361,45.126,39
 46,Glavace,15.27,44.914,39
 33,Mededak,15.35,45.095,20
-822,Duga Resa,15.501,45.447,331
+397,Duga Resa,15.501,45.447,331
 94,Bakovac Kosinjski,15.194,44.711,94
 24,Cerovac Barilovicki,15.48,45.372,24
 66,Gornji Macelj,15.857,46.264,46
 160,Dabar,15.303,44.954,66
-134,Dragove,14.933,44.113,134
+230,Dragove,14.933,44.113,134
 28,Benkovo,15.805,46.134,28
 276,Dubravica,15.731,45.955,79
 33,Donji Macelj,15.844,46.226,24
@@ -866,7 +870,7 @@ rs,name,lon,lat,r1
 55,Dinjiska,15.186,44.36,39
 24,Bestovje,15.81,45.806,20
 66,Donja Bistra,15.854,45.904,39
-112,Zabok,15.911,46.031,39
+112,Zabok,15.911,46.031,112
 39,Studenci,15.349,44.711,39
 24,Ivanec Bistranski,15.836,45.849,20
 46,Brebornica,15.605,45.301,28
@@ -886,6 +890,7 @@ rs,name,lon,lat,r1
 24,Gornja Trebinja,15.681,45.44,24
 66,Lipje,15.702,45.483,66
 79,Rava,15.066,44.022,66
+33,Oroslavje,15.917,45.993,33
 24,Malo Polje,15.349,44.659,20
 46,Slunjska Selnica,15.712,45.503,46
 24,Kotarice,15.945,46.051,20
@@ -899,7 +904,7 @@ rs,name,lon,lat,r1
 33,Zaton,15.164,44.22,20
 39,Debelo Brdo I,15.309,44.544,39
 33,Orehovica,15.975,46.101,24
-24,Strmec Stubicki,15.918,45.963,20
+24,Strmec Stubicki,15.918,45.963,24
 28,Ocura,16.016,46.199,20
 112,Funtana,15.499,44.975,112
 39,Klenovac,15.375,44.688,28
@@ -932,7 +937,7 @@ rs,name,lon,lat,r1
 46,Baric Draga,15.268,44.376,46
 24,Bedenec,16.063,46.237,24
 66,Klenovnik,16.078,46.269,33
-39,Hrusevec,15.968,46.003,20
+46,Hrusevec,15.968,46.003,20
 33,Kutanja,15.616,45.168,33
 112,Donji Stupnik,15.859,45.739,46
 192,Cestica,16.122,46.372,112
@@ -941,8 +946,9 @@ rs,name,lon,lat,r1
 39,Lukoran,15.153,44.102,20
 39,Konjsko Brdo,15.403,44.668,20
 33,Petrova Poljana,15.653,45.239,33
+79,Donja Stubica,15.967,45.981,79
 55,Kablar,15.757,45.479,55
-79,Bedekovcina,15.994,46.043,46
+79,Bedekovcina,15.994,46.043,66
 39,Dubravec,16.08,46.25,20
 94,Vrsi,15.233,44.264,94
 134,Vojnic,15.695,45.325,112
@@ -962,8 +968,9 @@ rs,name,lon,lat,r1
 33,Banski Kovacevac,15.782,45.494,33
 24,Kljaic Brdo,15.745,45.405,24
 28,Bukovac Perusicki,15.42,44.649,20
-571,Gospic,15.377,44.545,331
+571,Gospic,15.377,44.545,571
 24,Donja Kupcina,15.81,45.548,20
+24,Geckovec,16.093,46.218,20
 33,Vratno Otok,16.162,46.384,24
 24,Jame,15.617,45.086,24
 39,Mace,16.043,46.093,39
@@ -975,7 +982,7 @@ rs,name,lon,lat,r1
 24,Jurga,15.715,45.308,20
 28,Donje Vratno,16.155,46.353,20
 66,Vinica,16.151,46.339,66
-39,Preko,15.185,44.08,33
+39,Preko,15.185,44.08,28
 28,Ponor,15.66,45.167,28
 24,Poznanovec,16.034,46.052,20
 28,Starjak,15.877,45.672,28
@@ -989,20 +996,23 @@ rs,name,lon,lat,r1
 55,Ladevacko Seliste,15.646,45.108,33
 134,Tribanj,15.316,44.35,55
 24,Ribic Breg,16.128,46.247,20
+24,Gornja Stubica,16.016,45.978,24
 24,Klokoc,15.692,45.211,24
 24,Gornji Ladevac,15.643,45.096,24
 112,Zerava,15.254,44.203,46
-24,Orehova Gorica,16.023,45.991,24
+24,Orehova Gorica,16.023,45.991,20
 28,Gornja Zrvnica,15.683,45.185,28
 134,Turjanski,15.511,44.782,55
 24,Martinscina,16.089,46.14,20
 160,Pisarovina,15.859,45.587,112
 192,Ivanec,16.125,46.224,192
 46,Ratkovec,16.083,46.117,20
+28,Slani Potok,16.021,45.962,20
 46,Rtina,15.305,44.293,24
 94,Zlatar,16.077,46.093,66
 39,Cuic Brdo,15.633,45.042,39
-112,Kali,15.204,44.062,46
+112,Kali,15.204,44.062,39
+331,Zadar,15.228,44.113,331
 39,Botinec,15.933,45.743,39
 39,Donje Ladanje,16.167,46.305,20
 33,Ljubac,15.295,44.26,28
@@ -1014,7 +1024,7 @@ rs,name,lon,lat,r1
 39,Poljica,15.285,44.22,33
 24,Vitesinec,16.138,46.211,20
 33,Prigorec,16.136,46.2,20
-331,Sali,15.165,43.938,160
+331,Sali,15.165,43.938,134
 24,Gusakovec,16.057,46.007,24
 100000,Zagreb,15.977,45.813,100000
 39,Licki Citluk,15.404,44.474,39
@@ -1060,12 +1070,12 @@ rs,name,lon,lat,r1
 822,Plitvicka Jezera,15.622,44.883,276
 33,Ostrozin,15.857,45.429,33
 46,Dugo Selo Lasinjsko,15.88,45.48,39
-39,Crno,15.291,44.113,28
+39,Crno,15.291,44.113,33
 28,Stipan,15.874,45.458,28
 33,Nova Ves Petrijanecka,16.234,46.318,20
 24,Martinusevec,16.289,46.45,20
 33,Preseka,16.278,46.421,24
-134,Planina Gornja,16.079,45.939,55
+55,Planina Gornja,16.079,45.939,39
 46,Cerje Tuzno,16.21,46.254,20
 33,Licki Ribnik,15.459,44.487,33
 24,Gacice,16.202,46.232,24
@@ -1109,7 +1119,7 @@ rs,name,lon,lat,r1
 66,Homoljac,15.625,44.77,66
 24,Malicka,15.856,45.302,24
 33,Susobreg (Donji Susobreg),16.164,46.035,20
-112,Budinscina,16.203,46.128,66
+112,Budinscina,16.203,46.128,79
 28,Smokovic,15.347,44.13,20
 28,Trnovec,16.311,46.382,28
 66,Konjscina,16.176,46.053,39
@@ -1132,7 +1142,7 @@ rs,name,lon,lat,r1
 55,Sadilovac,15.718,44.941,39
 33,Medak,15.508,44.456,33
 28,Zaklopaca,15.695,44.885,28
-112,Zemunik Donji,15.359,44.116,66
+134,Zemunik Donji,15.359,44.116,79
 112,Brezik,15.502,44.439,79
 79,Starigrad,15.44,44.295,79
 28,Resetar,15.703,44.897,28
@@ -1169,7 +1179,7 @@ rs,name,lon,lat,r1
 33,Vrbovo,16.232,46.075,24
 28,Gornja Trstenica,15.944,45.388,28
 39,Debeljak,15.364,44.051,20
-66,Adamovec,16.164,45.904,55
+112,Adamovec,16.164,45.904,55
 46,Donja Drenova,16.178,45.936,39
 24,Rudanovac,15.688,44.781,24
 46,Zemunik Gornji,15.407,44.138,28
@@ -1192,7 +1202,7 @@ rs,name,lon,lat,r1
 66,Galovac,15.392,44.072,66
 55,Donja Bucica,15.981,45.428,46
 24,Bosna,16.237,46.038,20
-66,Hruscica,16.135,45.79,20
+66,Hruscica,16.135,45.79,28
 28,Zasadbreg,16.409,46.449,20
 39,Gornji Kursanec,16.361,46.329,20
 24,Mrljane,15.352,43.966,20
@@ -1209,6 +1219,7 @@ rs,name,lon,lat,r1
 55,Donje Makojisce,16.297,46.147,20
 39,Mraclin,16.097,45.667,39
 94,Lekneno,16.136,45.756,33
+39,Dumovec,16.16,45.811,28
 46,Gladovec Kravarski,16.058,45.564,20
 24,Bukovec Zelinski,16.206,45.915,24
 33,Katinovac,15.923,45.241,33
@@ -1236,7 +1247,7 @@ rs,name,lon,lat,r1
 24,Podgradina,15.485,44.183,24
 46,Gornje Podotocje,16.132,45.683,33
 33,Jagodno,16.142,45.705,33
-24,Novi Marof,16.335,46.165,20
+33,Novi Marof,16.335,46.165,33
 39,Pasman,15.387,43.956,39
 112,Gornji Kneginec,16.372,46.254,39
 79,Busevec,16.115,45.634,39
@@ -1277,7 +1288,7 @@ rs,name,lon,lat,r1
 24,Polonje Tomasevecko,16.294,45.983,24
 33,Donji Vukojevac,16.139,45.611,33
 24,Hrvatsko Selo,16.007,45.299,20
-55,Brezovec Zelinski,16.264,45.909,28
+39,Brezovec Zelinski,16.264,45.909,28
 55,Srednja Gora,15.67,44.509,55
 39,Sveti Filip i Jakov,15.429,43.962,20
 33,Miklavec,16.505,46.483,24
@@ -1295,7 +1306,7 @@ rs,name,lon,lat,r1
 24,Banicevec,16.285,45.922,20
 24,Gornji Vidusevac,16.047,45.354,24
 24,Celine,16.507,46.458,24
-39,Ljubescica,16.391,46.173,33
+276,Ljubescica,16.391,46.173,112
 28,Brezane Lekenicke,16.147,45.583,28
 28,Stankovac,16.085,45.431,28
 33,Nadin,15.499,44.073,24
@@ -1305,15 +1316,15 @@ rs,name,lon,lat,r1
 28,Majkovec,16.283,45.88,28
 112,Palanjek Pokupski,16.131,45.518,55
 94,Jasenice,15.578,44.228,94
-79,Varazdinske Toplice,16.422,46.21,46
-331,Biograd na Moru,15.452,43.941,134
+79,Varazdinske Toplice,16.422,46.21,79
+822,Biograd na Moru,15.452,43.941,571
 79,Rugvica,16.231,45.743,55
 39,Donje Seliste,16.055,45.322,20
 24,Puhovo,16.253,45.789,20
 24,Kolarec,16.371,46.072,24
 33,Zrinscina,16.35,46.016,33
 55,Donji Vidusevac,16.077,45.364,20
-112,Gornja Rijeka,16.391,46.11,55
+112,Gornja Rijeka,16.391,46.11,94
 94,Gornje Biljane,15.539,44.114,46
 39,Balinac,16.053,45.295,39
 39,Valetic,16.334,45.961,24
@@ -1372,7 +1383,7 @@ rs,name,lon,lat,r1
 192,Kijevo,16.358,43.979,94
 28,Brnjeuska,16.176,45.35,28
 55,Rastevic,15.534,44.047,24
-24,Lovrecka Varos,16.421,45.909,24
+24,Lovrecka Varos,16.421,45.909,20
 46,Mala Ostrna,16.282,45.782,28
 276,Lovinac,15.687,44.392,192
 66,Mala Subotica,16.527,46.374,46
@@ -1388,13 +1399,13 @@ rs,name,lon,lat,r1
 28,Radosinovci,15.614,43.919,28
 28,Sela,16.305,45.509,28
 192,Ludbreg,16.615,46.254,112
-79,Gradec,16.478,45.914,39
+134,Gradec,16.478,45.914,94
 55,Cepelis,16.268,45.412,24
 160,Ivanic Grad,16.394,45.706,160
 24,Zamlaka,16.497,46.29,24
 66,Repinec,16.494,45.945,28
 79,Brestik,16.194,45.221,79
-66,Peskovec,16.325,45.871,33
+39,Peskovec,16.325,45.871,33
 39,Hader,16.12,45.382,39
 28,Gornji Fodrovec,16.398,46.045,28
 55,Zabrde,16.497,45.885,20
@@ -1437,7 +1448,7 @@ rs,name,lon,lat,r1
 94,Preseka,16.387,45.975,79
 33,Preloscica,16.481,45.443,33
 33,Drenovec,16.474,46.184,33
-79,Ljubelj Kalnicki,16.464,46.16,24
+46,Ljubelj Kalnicki,16.464,46.16,24
 28,Nunic,15.878,44.02,28
 39,Donji Markovac,16.669,45.858,20
 66,Pobjenik,16.614,45.706,24
@@ -1454,7 +1465,7 @@ rs,name,lon,lat,r1
 39,Gornji Martijanec,16.504,46.24,20
 46,Vucani,16.679,45.733,39
 28,Bosanci,16.765,45.938,20
-33,Pirakovec,16.358,45.887,28
+39,Pirakovec,16.358,45.887,33
 33,Stancici,16.756,45.904,33
 39,Prognanicko naselje Dumace,16.185,45.472,39
 112,Prijeka,16.106,45.285,39
@@ -1471,7 +1482,7 @@ rs,name,lon,lat,r1
 24,Majur,16.531,45.256,24
 66,Narta,16.786,45.834,39
 24,Gornja Jelenska,16.69,45.598,24
-476,Sibenik,15.896,43.734,331
+397,Sibenik,15.896,43.734,331
 24,Cigoc,16.631,45.414,24
 46,Srdinac,16.912,46.079,46
 66,Domasinec,16.594,46.435,66
@@ -1532,7 +1543,7 @@ rs,name,lon,lat,r1
 79,Benkovac,15.61,44.033,79
 46,Ricice,15.743,44.335,46
 28,Hrzenica,16.577,46.299,20
-55,Precec,16.354,45.759,33
+55,Precec,16.354,45.759,39
 94,Cavoglave,16.336,43.783,46
 28,Lovska,17.043,45.411,28
 33,Govede Polje,17.088,45.516,33
@@ -1551,12 +1562,13 @@ rs,name,lon,lat,r1
 94,Gornja Obrijez,17.172,45.482,33
 28,Greda Breska,16.344,45.707,28
 28,Brdo Orehovecko,16.493,46.063,24
-55,Lipik,17.16,45.412,24
+160,Lipik,17.16,45.412,94
+66,Vrbovec,16.419,45.885,66
 46,Loncarica,17.3,45.744,46
 24,Cehovec,16.618,46.361,20
 66,Donje Ceranje,15.596,43.963,46
 24,Donji Tkalec,16.452,45.954,24
-28,Tedrovec,16.365,45.744,24
+28,Tedrovec,16.365,45.744,28
 24,Zibrinovec,16.514,46.1,24
 55,Prelog,16.612,46.338,55
 55,Petrovec,16.266,45.503,55
@@ -1568,7 +1580,7 @@ rs,name,lon,lat,r1
 24,Tarno,16.366,45.733,20
 28,Hodosan,16.641,46.395,20
 24,Gornje Ceranje,15.614,43.981,24
-46,Prilesje,16.422,45.858,20
+55,Prilesje,16.422,45.858,24
 39,Podgajec,16.493,46.025,28
 24,Dragotina,16.174,45.264,24
 39,Brezovo Polje,16.137,45.175,39
@@ -1601,7 +1613,7 @@ rs,name,lon,lat,r1
 331,Petrinja,16.279,45.44,276
 28,Nebljusi,15.945,44.658,28
 112,Desno Trebarjevo,16.345,45.595,66
-28,Konak,16.459,45.865,28
+28,Konak,16.459,45.865,24
 55,Kruge,15.941,44.644,55
 46,Gorican,16.674,46.384,46
 46,Kozaperovica,16.2,45.243,46
@@ -1612,7 +1624,7 @@ rs,name,lon,lat,r1
 24,Scapovec,16.419,45.75,20
 24,Pokasin,16.509,45.964,24
 55,Dnopolje,15.921,44.578,24
-66,Klostar Ivanic,16.417,45.738,20
+66,Klostar Ivanic,16.417,45.738,28
 55,Lisicic,15.682,44.03,39
 134,Zelengrad,15.73,44.137,46
 39,Mali Gradac,16.219,45.263,39
@@ -1680,7 +1692,7 @@ rs,name,lon,lat,r1
 46,Deanovec,16.473,45.692,28
 55,Kijani,15.897,44.342,33
 24,Gornja Mlinoga,16.327,45.341,24
-112,Dubrava,16.537,45.838,79
+160,Dubrava,16.537,45.838,112
 28,Klostar Vojakovacki,16.624,46.042,28
 28,Novo Pracno,16.371,45.436,28
 33,Novo Selo Podravsko,16.72,46.275,20
@@ -1781,6 +1793,7 @@ rs,name,lon,lat,r1
 28,Obedisce,16.551,45.634,20
 79,Zrinska Draga,16.363,45.185,66
 33,Povelic,16.711,46.011,20
+24,Tribunj,15.744,43.757,20
 33,Paukovac,16.352,45.149,33
 94,Velika Gradusa,16.428,45.329,46
 55,Knezovljani,16.42,45.304,39
@@ -1926,7 +1939,7 @@ rs,name,lon,lat,r1
 39,Puljane,16.033,43.976,28
 66,Ivanska,16.807,45.782,66
 55,Gornja Gracenica,16.696,45.513,39
-986,Dugopolje,16.194,44.333,230
+822,Dugopolje,16.194,44.333,230
 28,Lozovac,15.962,43.805,24
 55,Donje Zdjelice,16.912,46.025,33
 66,Raducic,16.073,44.045,66
@@ -2123,12 +2136,12 @@ rs,name,lon,lat,r1
 28,Ljubitovica,16.143,43.616,20
 55,Klostar Podravski,17.157,45.984,46
 66,Mosec,16.224,43.795,24
-192,Primorski Dolac,16.155,43.637,94
+230,Primorski Dolac,16.155,43.637,94
 192,Backovica,17.102,45.843,33
 79,Ferdinandovac,17.192,46.06,66
 39,Cera - Bosnjaci,16.188,43.707,28
 28,Stara Subocka,16.904,45.359,28
-134,Marino Selo,16.965,45.502,55
+160,Marino Selo,16.965,45.502,55
 24,Tomasica,17.013,45.611,24
 134,Marina,16.108,43.514,79
 66,Hrastovac,16.989,45.551,28
@@ -2200,7 +2213,7 @@ rs,name,lon,lat,r1
 28,Trojeglava,17.115,45.537,28
 33,Otkopi,17.167,45.661,20
 24,Kapetanovo Polje,17.102,45.502,24
-192,Trogir,16.251,43.52,134
+192,Trogir,16.251,43.52,112
 79,Koncanica,17.165,45.638,39
 39,Kukunjevac,17.09,45.451,39
 24,Vinalic,16.438,43.929,24
@@ -2250,7 +2263,7 @@ rs,name,lon,lat,r1
 28,Gornje Postinje,16.425,43.702,28
 134,Grohote,16.287,43.391,94
 33,Podhumlje,16.121,43.021,20
-55,Kastel Luksic,16.364,43.554,55
+66,Kastel Luksic,16.364,43.554,55
 46,Brstanovo,16.413,43.658,39
 46,Donji Caglic,17.161,45.39,20
 28,Kovacevac,17.155,45.376,28
@@ -2259,6 +2272,7 @@ rs,name,lon,lat,r1
 79,Donja Vrijeska,17.271,45.645,46
 46,Zena Glava,16.14,43.035,24
 24,Mala Dapcevica,17.304,45.718,24
+66,Pakrac,17.195,45.44,66
 46,Batinjska Rijeka,17.27,45.613,24
 28,Dereza,17.221,45.493,28
 24,Sveti Durad,17.358,45.82,20
@@ -2286,13 +2300,13 @@ rs,name,lon,lat,r1
 79,Seona,18.015,45.47,20
 55,Durdenovac,18.047,45.543,39
 476,Virovitica,17.384,45.833,476
-94,Sirac,17.257,45.526,55
+134,Sirac,17.257,45.526,55
 24,Bacevac,17.479,45.861,20
 28,Donji Bitelic,16.619,43.819,28
 28,Novi Varos,17.214,45.195,28
 24,Borova,17.461,45.785,20
 28,Markovac,17.284,45.583,28
-94,Klis,16.523,43.561,20
+46,Klis,16.523,43.561,20
 94,Gornji Bitelic,16.64,43.803,39
 79,Suhopolje,17.496,45.803,66
 39,Rumin,16.642,43.777,20
@@ -2357,9 +2371,10 @@ rs,name,lon,lat,r1
 66,Vetovo,17.791,45.417,39
 46,Korenicani,17.361,45.651,39
 66,Zelovo,16.549,43.752,39
-66,Lipovac,17.271,45.432,46
+94,Lipovac,17.271,45.432,46
 33,Hrnjevac,17.829,45.425,33
 55,Krcenik,17.968,45.753,28
+5079,Split,16.447,43.516,1702
 55,Studenci,17.03,43.53,33
 24,Dugo Selo Lukacko,17.457,45.874,24
 33,Duga Meda,17.931,45.568,20
@@ -2382,7 +2397,7 @@ rs,name,lon,lat,r1
 55,Slobodnica,17.93,45.16,20
 79,Gornji Slatinik,17.975,45.262,28
 28,Klokocevci,18.103,45.569,28
-112,Podbablje Gornje,17.177,43.393,39
+230,Podbablje Gornje,17.177,43.393,94
 28,Kamenmost,17.193,43.43,20
 55,Skrivena Luka,16.887,42.737,55
 28,Glavina Gornja,17.214,43.463,20
@@ -2400,7 +2415,7 @@ rs,name,lon,lat,r1
 28,Podvinje,18.028,45.19,24
 39,Cenkovo,18.106,45.338,39
 55,Imrijevci,18.097,45.31,46
-24,Solin,16.49,43.542,20
+55,Solin,16.49,43.542,24
 24,Jezevik,18.075,45.212,20
 39,Lipovac,17.474,45.837,20
 66,Gornji Bogicevci,17.235,45.258,66
@@ -2422,15 +2437,16 @@ rs,name,lon,lat,r1
 39,Koprivno,16.549,43.604,28
 112,Hrvace,16.618,43.759,46
 134,Dulovac,17.433,45.665,112
-55,Mravince,16.518,43.532,20
+28,Mravince,16.518,43.532,20
 79,Gradina,17.511,45.854,66
 24,Kravljak,17.449,45.692,24
-39,Kamen,16.515,43.514,20
+24,Kamen,16.515,43.514,20
 39,Donji Bogicevci,17.258,45.228,20
 55,Rusani,17.532,45.886,28
 28,Radosic,16.603,43.697,20
 24,Dvorska,17.474,45.737,24
 55,Novi Gradac,17.551,45.918,55
+28,Stobrec,16.522,43.501,20
 134,Kraj,16.585,43.637,55
 46,Mala Klisa,17.469,45.705,33
 134,Stara Gradiska,17.238,45.148,94
@@ -2443,8 +2459,8 @@ rs,name,lon,lat,r1
 79,Rogulje,17.379,45.439,79
 24,Prisoje,16.607,43.631,20
 28,Bajagic,16.664,43.761,28
-79,Dugopolje,16.595,43.58,55
-94,Podstrana,16.554,43.485,55
+94,Dugopolje,16.595,43.58,55
+112,Podstrana,16.554,43.485,66
 39,Masic,17.327,45.266,20
 46,Detkovac,17.588,45.891,39
 39,Naudovac,17.553,45.801,33
@@ -2539,7 +2555,7 @@ rs,name,lon,lat,r1
 46,Gata,16.702,43.465,20
 24,Smude,17.622,45.609,24
 24,Strmendolac,16.762,43.596,24
-230,Omis,16.697,43.442,134
+276,Omis,16.697,43.442,160
 55,Podi,16.792,43.655,33
 94,Rudina,16.593,43.201,55
 55,Srijane,16.733,43.514,55
@@ -2709,7 +2725,7 @@ rs,name,lon,lat,r1
 66,Gdinj,16.942,43.132,66
 46,Ciglenik,17.9,45.354,39
 55,Viljevo,18.064,45.751,55
-94,Lokvicici,17.092,43.463,79
+112,Lokvicici,17.092,43.463,112
 55,Kalinic,17.883,45.306,46
 79,Fericanci,17.976,45.524,66
 571,Makarska,17.021,43.295,331
@@ -2737,7 +2753,7 @@ rs,name,lon,lat,r1
 55,Bogomolje,16.998,43.131,55
 24,Latinovac,17.955,45.347,20
 46,Ubli,16.828,42.744,46
-39,Donji Prolozac,17.156,43.464,39
+28,Donji Prolozac,17.156,43.464,28
 28,Saptinovci,18.06,45.579,28
 24,Djedina Rijeka,17.949,45.309,24
 28,Milanlug,17.977,45.366,20
@@ -2769,14 +2785,15 @@ rs,name,lon,lat,r1
 33,Drasnice,17.11,43.218,20
 46,Selca kod Bogomolja,17.068,43.123,46
 28,Golinci,18.166,45.69,24
+94,Imotski,17.216,43.448,94
 24,Rascane Gornje,17.168,43.338,24
 39,Velimirovac,18.103,45.524,28
 28,Lila,18.119,45.554,28
-331,Nasice,18.093,45.491,276
-79,Gornji Vinjani,17.236,43.48,33
+331,Nasice,18.093,45.491,331
+66,Gornji Vinjani,17.236,43.48,28
 112,Loviste,17.033,43.022,66
 24,Knezevac,18.039,45.347,24
-33,Zmijavci,17.212,43.406,28
+33,Zmijavci,17.212,43.406,33
 94,Racisce,17.021,42.976,66
 28,Brodski Varos,17.976,45.181,24
 134,Lipine,18.144,45.579,55
@@ -2793,7 +2810,7 @@ rs,name,lon,lat,r1
 66,Rascane,17.186,43.298,55
 46,Pupnat,17.037,42.95,46
 28,Runovic,17.233,43.389,28
-24,Donji Vinjani,17.26,43.45,20
+24,Donji Vinjani,17.26,43.45,24
 28,Oriovcic,18.032,45.252,24
 46,Slivno,17.217,43.341,39
 66,Polubase,18.099,45.399,55
@@ -2801,6 +2818,7 @@ rs,name,lon,lat,r1
 46,Paka,18.059,45.29,46
 28,Rastusje,18.034,45.207,20
 28,Kindrovo,18.047,45.235,20
+986,Slavonski Brod,18.019,45.162,397
 24,Lacici,18.215,45.636,20
 39,Nakovanj,17.086,43,33
 39,Camagajevci,18.25,45.689,24
@@ -2812,7 +2830,7 @@ rs,name,lon,lat,r1
 55,Borojevci,18.1,45.285,46
 28,Stipanovci,18.181,45.473,24
 55,Crni Potok,18.088,45.244,46
-55,Bukovlje,18.067,45.185,28
+55,Bukovlje,18.067,45.185,24
 28,Paucje,18.141,45.36,28
 55,Duge Njive,17.219,43.206,55
 230,Sucuraj,17.184,43.126,134
@@ -2820,7 +2838,7 @@ rs,name,lon,lat,r1
 46,Kucista,17.122,42.979,20
 24,Kordusevci,18.091,45.223,24
 24,Zrnovo,17.111,42.948,20
-28,Gornja Vrba,18.067,45.156,28
+24,Gornja Vrba,18.067,45.156,24
 46,Dragljane,17.24,43.232,46
 55,Niza,18.234,45.543,28
 28,Slobodna Vlast,18.137,45.303,24
@@ -2834,7 +2852,7 @@ rs,name,lon,lat,r1
 66,Marjanski Ivanovci,18.29,45.619,39
 39,Gat,18.326,45.706,33
 33,Zavojane,17.278,43.246,33
-24,Donja Vrba,18.109,45.165,24
+28,Donja Vrba,18.109,45.165,24
 28,Drvenik,17.247,43.157,28
 24,Music,18.167,45.289,20
 112,Levanjska Varos,18.18,45.315,112
@@ -2861,7 +2879,7 @@ rs,name,lon,lat,r1
 46,Zadubravlje,18.154,45.163,20
 33,Vinogradci,18.363,45.666,20
 55,Harkanovci,18.333,45.59,39
-112,Klakar,18.134,45.098,79
+112,Klakar,18.134,45.098,66
 46,Prapatnice,17.346,43.23,20
 79,Garcin,18.186,45.182,79
 66,Lug Suboticki,18.321,45.509,28
@@ -2907,6 +2925,7 @@ rs,name,lon,lat,r1
 79,Vrgorac,17.369,43.205,79
 79,Opuzen,17.565,43.018,46
 46,Valpovo,18.416,45.659,46
+55,Darda,18.688,45.628,55
 55,Topoline,18.377,45.562,46
 571,Draz,18.787,45.844,94
 46,Donja Bebrina,18.186,45.095,28
@@ -3017,14 +3036,14 @@ rs,name,lon,lat,r1
 79,Durdanci,18.502,45.292,33
 55,Tustevac,17.512,42.986,24
 39,Visnjevac,18.617,45.567,33
-112,Ceminac,18.67,45.687,46
+160,Ceminac,18.67,45.687,66
 28,Kamenac,18.706,45.768,20
 39,Buk-Vlaka,17.531,43.002,20
 28,Podolje,18.728,45.816,28
 39,Livana,18.611,45.53,24
 94,Semeljci,18.542,45.361,66
 46,Koritna,18.561,45.388,24
-46,Svajcarnica,18.68,45.649,20
+39,Svajcarnica,18.68,45.649,20
 55,Kotlina,18.738,45.789,33
 24,Hrastin,18.597,45.434,20
 24,Komarna,17.533,42.945,20
@@ -3049,6 +3068,7 @@ rs,name,lon,lat,r1
 33,Suza,18.775,45.782,28
 112,Sodolovci,18.62,45.399,79
 66,Mrzovic,18.592,45.327,33
+24,Mece,18.713,45.623,20
 94,Slavonski samac,18.49,45.064,94
 24,Divos,18.657,45.463,20
 55,Petrova Slatina,18.643,45.424,20
@@ -3060,12 +3080,12 @@ rs,name,lon,lat,r1
 66,Babina Greda,18.536,45.117,66
 33,Badzula,17.611,42.963,33
 28,Mirkovac,18.798,45.736,28
-46,Bilje,18.745,45.604,28
+94,Bilje,18.745,45.604,39
 66,Vodinci,18.611,45.276,46
 28,Dubravica,17.653,43.024,20
 79,Bijeli Vir,17.654,43.011,20
 33,Vidonje,17.644,42.983,33
-66,Vardarac,18.771,45.627,20
+55,Vardarac,18.771,45.627,20
 66,Prkovci,18.61,45.213,46
 230,Babino Polje,17.551,42.736,230
 33,Podrinje,18.692,45.392,20
@@ -3109,7 +3129,7 @@ rs,name,lon,lat,r1
 66,Zaton Doli,17.758,42.827,39
 66,Nustar,18.842,45.332,33
 94,Visocani,17.787,42.857,55
-66,Trpinja,18.899,45.419,33
+66,Trpinja,18.899,45.419,46
 39,Ceric,18.857,45.311,20
 46,Aljmas,18.948,45.528,46
 46,Bosnjaci,18.753,45.05,33
@@ -3117,10 +3137,10 @@ rs,name,lon,lat,r1
 79,Trnovica,17.839,42.89,79
 39,Cepikuce,17.837,42.856,39
 24,Marinci,18.9,45.34,20
-39,Brsadin,18.911,45.362,20
+46,Brsadin,18.911,45.362,20
 28,Podgora,17.845,42.84,28
 66,Dalj,18.987,45.485,39
-46,Bogdanovci,18.93,45.338,33
+46,Bogdanovci,18.93,45.338,39
 55,Mravnica,17.856,42.818,24
 55,Stari Jankovci,18.91,45.261,55
 28,Krucica,17.855,42.789,20
@@ -3167,8 +3187,9 @@ rs,name,lon,lat,r1
 55,Nova Mokosica,18.109,42.675,55
 46,Donji Brgat,18.169,42.648,20
 28,Mocici,18.246,42.565,20
+79,Srebreno,18.195,42.625,55
 276,Mikulici,18.411,42.48,94
-112,Cavtat,18.218,42.581,33
+112,Cavtat,18.218,42.581,79
 685,Ilok,19.379,45.222,397
 46,Jasenice,18.271,42.597,46
 28,Uskoplje,18.263,42.578,20
@@ -3188,19 +3209,3 @@ rs,name,lon,lat,r1
 39,Molunat,18.436,42.453,39
 33,Durinici,18.449,42.469,33
 66,Vitaljina,18.481,42.442,66
-5079,Split,16.465,43.519,1702
-1419,Rijeka,14.419,45.34,822
-1419,Zadar,15.242,44.116,822
-986,Slavonski Brod,18.014,45.161,397
-24,Stobreč-Šine,16.532,43.499,20
-24,Ivanić Grad,16.401,45.717,20
-66,Općina Stubičke Toplice,15.943,45.984,66
-331,Imotski,17.225,43.442,134
-230,Vrbovec,16.408,45.881,94
-55,Borovo Naselje,18.954,45.377,20
-79,Čibača,18.197,42.623,55
-33,Sesvete-Ivanja Reka,16.111,45.811,20
-276,Novi Marof,16.333,46.178,112
-134,Darda,18.698,45.627,55
-476,Rab,14.777,44.752,192
-230,Pakrac,17.195,45.439,112
