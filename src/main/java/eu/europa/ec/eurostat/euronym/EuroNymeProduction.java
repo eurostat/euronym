@@ -66,14 +66,14 @@ public class EuroNymeProduction {
 
 		// prepare data from inputs
 		// format: name,pop,cc,lon,lat
-		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_ASCII.gpkg", true, false);
-		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_UTF.gpkg", false, false);
-		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_UTF_LATIN.gpkg", false, true);
-		// if(true) return;
+		prepareDataFromInput("tmp/namesStruct_ASCII.gpkg", true, false);
+		prepareDataFromInput("tmp/namesStruct_UTF.gpkg", false, false);
+		prepareDataFromInput("tmp/namesStruct_UTF_LATIN.gpkg", false, true);
+		if(true) return;
 
 		// get country codes
 		HashSet<String> ccs = new HashSet<>();
-		ccs.addAll(FeatureUtil.getIdValues(GeoData.getFeatures(basePath + "gisco/tmp/namesStruct_ASCII.gpkg"), "cc"));
+		ccs.addAll(FeatureUtil.getIdValues(GeoData.getFeatures("tmp/namesStruct_ASCII.gpkg"), "cc"));
 		ccs.add("EUR");
 		// TODO ccs.add("EU");
 		// TODO ccs.add("EFTA");
@@ -87,7 +87,7 @@ public class EuroNymeProduction {
 
 					// get input labels
 					Filter f = cc.equals("EUR") ? null : CQL.toFilter("cc = '" + cc + "'");
-					ArrayList<Feature> fs = GeoData.getFeatures(basePath + "gisco/tmp/namesStruct_" + enc + ".gpkg",
+					ArrayList<Feature> fs = GeoData.getFeatures("tmp/namesStruct_" + enc + ".gpkg",
 							null, f);
 					System.out.println(fs.size() + " labels loaded");
 
@@ -419,6 +419,7 @@ public class EuroNymeProduction {
 		for (Feature f : out) {
 			String name = f.getAttribute("name").toString();
 
+			/*
 			if (name.equals("Cize"))
 				f.setAttribute("name", "Champagnole");
 			if (name.equals("Valletta (greater)"))
@@ -452,6 +453,7 @@ public class EuroNymeProduction {
 
 			// if(name.contains("Metropoli"))
 			// System.out.println(name + " " + f.getAttribute("pop"));
+			*/
 		}
 
 		/*
