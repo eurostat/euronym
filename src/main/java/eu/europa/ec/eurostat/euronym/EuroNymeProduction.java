@@ -27,6 +27,7 @@ import eu.europa.ec.eurostat.jgiscotools.feature.FeatureUtil;
 import eu.europa.ec.eurostat.jgiscotools.io.CSVUtil;
 import eu.europa.ec.eurostat.jgiscotools.io.geo.CRSUtil;
 import eu.europa.ec.eurostat.jgiscotools.io.geo.GeoData;
+import eu.europa.ec.eurostat.jgiscotools.util.ProjectionUtil;
 import eu.europa.ec.eurostat.jgiscotools.util.Util;
 
 /**
@@ -39,7 +40,6 @@ public class EuroNymeProduction {
 	private static String version = "v3";
 
 	private static boolean limitUseRegio = true;
-
 
 	// ponta delgada missing
 	// potsdam
@@ -423,7 +423,7 @@ public class EuroNymeProduction {
 			// romanian case
 			if (name.contains("Municipiul"))
 				f.setAttribute("name", name.replace("Municipiul ", ""));
-				if (name.contains("Oraş"))
+			if (name.contains("Oraş"))
 				f.setAttribute("name", name.replace("Oraş ", ""));
 
 			if (name.equals("Arcachon"))
@@ -439,7 +439,7 @@ public class EuroNymeProduction {
 			if (name.equals("Petroșani-Colonie"))
 				f.setAttribute("name", "Petroșani");
 
-				if (name.equals("Potsdam"))
+			if (name.equals("Potsdam"))
 				f.setAttribute("pop", 300000);
 
 			// deal with "arrondissement"
@@ -458,81 +458,56 @@ public class EuroNymeProduction {
 				f.setAttribute("pop", 600000);
 				f.setAttribute("name", "Lyon");
 			}
-
-
-			/*
-
-	STTL_NAME: Angra do Heroísmo
-	POPL_2011: 6480
-	38,6447°  -27,2114°
-	
-	STTL_NAME: Praia da Vitória
-	POPL_2011: 5331
-	38,7339°  -27,0539°
-	
-	STTL_NAME: Capelas
-	POPL_2011: 7191
-	37,83288°  -25,68776°
-	
-	STTL_NAME: Ponta Delgada
-	POPL_2011: 29526
-	37,74029°  -25,66484°
-	
-	STTL_NAME: Rabo de Peixe
-	POPL_2011: 5496
-	37,8162°  -25,5791°
-	
-	STTL_NAME: Lagoa
-	POPL_2011: 5203
-	37,7469°  -25,5798°
-	
-	STTL_NAME: Ribeira Grande
-	POPL_2011: 7872
-	37,8217°  -25,5231°
-	
-	STTL_NAME: Vila Franca do Campo
-	POPL_2011: 7175
-	37,7174°  -25,4357°
-*/	
-
-			//manual additions
-			addFeature(out, crsNT, "Vila do Porto", "PT", 5552, -25.14535, 36.95069) {
-
-
-
 		}
 
+		System.out.println(out.iterator().next().getGeometry());
+
 		/*
-		 * /transcript to latin
-		 * if(forceLatin){
-		 * Transliterator greekToLatin = Transliterator.getInstance("Greek-Latin");
-		 * Transliterator cyrillicToLatin =
-		 * Transliterator.getInstance("Cyrillic-Latin");
-		 * for(Feature f : out) {
-		 * String name = f.getAttribute("name").toString();
-		 * name = greekToLatin.transliterate(name);
-		 * name = cyrillicToLatin.transliterate(name);
-		 * f.setAttribute("name", name);
-		 * }
-		 * }
+		 * addFeature(out, crsNT, "", "PT", , , );
+		 * 
+		 * STTL_NAME: Lagoa
+		 * POPL_2011: 5203
+		 * 37,7469° -25,5798°
+		 * 
+		 * STTL_NAME: Ribeira Grande
+		 * POPL_2011: 7872
+		 * 37,8217° -25,5231°
+		 * 
+		 * addFeature(out, crsNT, "", "PT", , , );
+		 * addFeature(out, crsNT, "", "PT", , , );
+		 * 
+		 * STTL_NAME: Vila Franca do Campo
+		 * POPL_2011: 7175
+		 * 37,7174° -25,4357°
 		 */
+
+		// manual additions for few missing ones
+		addFeature(out, "Vila do Porto", "PT", 5552, -25.14535, 36.95069);
+		addFeature(out, "Angra do Heroísmo", "PT", 6480, -27.2114, 38.6447);
+		addFeature(out, "Praia da Vitória", "PT", 5331, -27.0539, 38.7339);
+		addFeature(out, "Capelas", "PT", 7191, -25.68776, 37.83288);
+		addFeature(out, "Ponta Delgada", "PT", 29526, -25.66484, 37.74029);
+		addFeature(out, "Rabo de Peixe", "PT", 5496, -25.5791, 37.8162);
 
 		// save output
 		System.out.println("Save " + out.size());
 		GeoData.save(out, outFileName, CRSUtil.getETRS89_LAEA_CRS());
 	}
 
-	private static void addFeature(Collection<Feature> out, CoordinateReferenceSystem crs, String name, String cc, int pop, double lon, double lat) {
+	private static void addFeature(Collection<Feature> out, String name, String cc,
+			int pop, double lon, double lat) {
 		Feature f = new Feature();
 		f.setAttribute("name", name);
 		f.setAttribute("cc", cc);
 		f.setAttribute("pop", pop);
 		f.setAttribute("lon", lon);
 		f.setAttribute("lat", lat);
-		f.setGeometry(CRSUtil.toLAEA(new GeometryFactory().createPoint(new Coordinate(lon, lat)), crs));
+		Point geom = new GeometryFactory().createPoint(new Coordinate(lat, lon));
+		System.out.println(geom);
+		f.setGeometry(CRSUtil.toLAEA(geom, CRSUtil.getWGS_84_CRS()));
+		System.out.println(f.getGeometry());
 		out.add(f);
 	}
-
 
 	/*
 	 * private static ArrayList<Feature> getNameExtend(double pixSize, int fontSize)
