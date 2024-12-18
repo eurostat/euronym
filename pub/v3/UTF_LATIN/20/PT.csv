@@ -1,5 +1,5 @@
 rs,name,lon,lat,r1
-3528,Santa Cruz das Flores,-31.128,39.456,1419
+7312,Santa Cruz das Flores,-31.128,39.456,1419
 39,Fazenda de Santa Cruz,-31.149,39.467,20
 79,Lomba,-31.155,39.402,33
 39,Carreira,-28.721,38.523,28
@@ -9,7 +9,7 @@ rs,name,lon,lat,r1
 571,Caminho da Igreja,-28.02,39.064,230
 94,Candelária,-28.512,38.465,39
 33,Fetais,-28.415,38.542,24
-18190,Velas,-28.209,38.682,7312
+986,Velas,-28.209,38.682,571
 134,Cais do Pico,-28.319,38.524,112
 476,Lajes do Pico,-28.251,38.395,112
 66,Santo Amaro,-28.17,38.454,39
@@ -2900,9 +2900,12 @@ rs,name,lon,lat,r1
 28,São Bartolomeu,-7.482,37.194,20
 55,Castro Marim,-7.447,37.218,24
 230,Vila Real de Santo António,-7.421,37.193,160
-1702,Vila do Porto,-25.14535,36.95069,685
-2042,Angra do Heroísmo,-27.2114,38.6447,822
-230,Praia da Vitória,-27.0539,38.7339,134
-230,Capelas,-25.68776,37.83288,79
-100000,Ponta Delgada,-25.66484,37.74029,54312
-94,Rabo de Peixe,-25.5791,37.8162,66
+2042,Vila do Porto,-25.14535,36.95069,685
+2940,Angra do Heroísmo,-27.2114,38.6447,986
+94,Praia da Vitória,-27.0539,38.7339,94
+192,Capelas,-25.68776,37.83288,79
+8774,Ponta Delgada,-25.66484,37.74029,8774
+33,Rabo de Peixe,-25.5791,37.8162,33
+55,Lagoa,-25.5798,37.7469,55
+94,Ribeira Grande,-25.5231,37.8217,94
+230,Vila Franca do Campo,-25.4357,37.7174,112

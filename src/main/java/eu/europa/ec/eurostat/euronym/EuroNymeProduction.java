@@ -27,7 +27,6 @@ import eu.europa.ec.eurostat.jgiscotools.feature.FeatureUtil;
 import eu.europa.ec.eurostat.jgiscotools.io.CSVUtil;
 import eu.europa.ec.eurostat.jgiscotools.io.geo.CRSUtil;
 import eu.europa.ec.eurostat.jgiscotools.io.geo.GeoData;
-import eu.europa.ec.eurostat.jgiscotools.util.ProjectionUtil;
 import eu.europa.ec.eurostat.jgiscotools.util.Util;
 
 /**

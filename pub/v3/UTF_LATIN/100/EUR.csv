@@ -64,7 +64,7 @@ IS,1058,Vopnafjörður,-14.828,65.753,426
 IS,120,Nesjahverfi Hornafirði,-15.226,64.312,100
 IS,1826,Höfn í Hornafirði,-15.208,64.255,613
 IS,3154,Egilsstaðir,-14.406,65.262,1058
-PT,3784,Santa Cruz das Flores,-31.128,39.456,1522
+PT,7844,Santa Cruz das Flores,-31.128,39.456,1522
 IS,206,Reyðarfjörður,-14.218,65.033,206
 IS,511,Djúpivogur,-14.283,64.657,172
 IS,144,Seyðisfjörður,-14.009,65.26,120
@@ -74,7 +74,7 @@ IS,296,Fáskrúðsfjörður,-14.014,64.93,100
 IS,426,Neskaupstaður,-13.676,65.147,206
 PT,206,Pedro Miguel,-28.62,38.575,100
 PT,613,Caminho da Igreja,-28.02,39.064,247
-PT,23416,Velas,-28.209,38.682,7844
+PT,882,Velas,-28.209,38.682,511
 PT,144,Cais do Pico,-28.319,38.524,120
 PT,511,Lajes do Pico,-28.251,38.395,120
 PT,206,Criação Velha,-28.524,38.512,206
@@ -783,7 +783,7 @@ UK,247,Carrington,-3.088,55.834,100
 UK,120,Dalton,-3.384,55.054,100
 UK,613,Whitehaven,-3.577,54.542,355
 UK,144,Nether Howecleuch,-3.53,55.399,100
-MQ,23416,Fort-de-France,-61.068,14.607,23416
+MQ,40461,Fort-de-France,-61.068,14.607,33718
 UK,296,St Andrews,-2.81,56.336,120
 UK,144,Davington,-3.199,55.309,100
 UK,120,Braystones,-3.529,54.44,100
@@ -5069,7 +5069,7 @@ BE,172,Malmedy,6.027,50.426,144
 FR,120,La Chaise-Dieu,3.695,45.322,100
 FR,206,Montceau-les-Mines,4.363,46.674,100
 FR,206,Épinac,4.514,46.991,120
-GF,69915,Cayenne,-52.334,4.938,13552
+GF,33718,Cayenne,-52.334,4.938,13552
 FR,144,Murat-sur-Vèbre,2.855,43.685,100
 FR,613,Millau,3.078,44.101,296
 FR,120,Tintry,4.495,46.93,100
@@ -17039,8 +17039,8 @@ XK,120,Bardh i Madh,21.02,42.626,100
 XK,144,Stanofc i Ulët,21.037,42.752,100
 XK,172,Llashticë,21.486,42.376,100
 XK,120,Berisha-Sehishte,20.282,42.476,100
-PT,1826,Vila do Porto,-25.14535,36.95069,735
-PT,1826,Angra do Heroísmo,-27.2114,38.6447,735
-PT,206,Praia da Vitória,-27.0539,38.7339,120
+PT,1826,Vila do Porto,-25.14535,36.95069,613
+PT,3154,Angra do Heroísmo,-27.2114,38.6447,1058
 PT,206,Capelas,-25.68776,37.83288,100
-PT,83898,Ponta Delgada,-25.66484,37.74029,33718
+PT,13552,Ponta Delgada,-25.66484,37.74029,9412
+PT,206,Vila Franca do Campo,-25.4357,37.7174,120

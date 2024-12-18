@@ -81,7 +81,7 @@ IS,1081,Vopnafjörður,-14.828,65.753,435
 IS,123,Nesjahverfi Hornafirði,-15.226,64.312,50
 IS,1556,Höfn í Hornafirði,-15.208,64.255,626
 IS,1867,Egilsstaðir,-14.406,65.262,1081
-PT,3870,Santa Cruz das Flores,-31.128,39.456,1556
+PT,8023,Santa Cruz das Flores,-31.128,39.456,1556
 IS,211,Reyðarfjörður,-14.218,65.033,211
 IS,522,Djúpivogur,-14.283,64.657,176
 IS,72,Eskifjörður,-14.013,65.071,72
@@ -95,7 +95,7 @@ PT,72,Granja,-28.676,38.535,50
 PT,211,Pedro Miguel,-28.62,38.575,72
 PT,522,Caminho da Igreja,-28.02,39.064,253
 PT,103,Candelária,-28.512,38.465,50
-PT,23952,Velas,-28.209,38.682,8023
+PT,901,Velas,-28.209,38.682,522
 PT,147,Cais do Pico,-28.319,38.524,123
 PT,522,Lajes do Pico,-28.251,38.395,123
 PT,60,Santo Amaro,-28.17,38.454,50
@@ -1812,7 +1812,7 @@ UK,60,Llanfair-Nant-Gwyn,-4.676,52.006,60
 UK,72,Groesffordd,-4.569,52.925,60
 UK,147,Nether Howecleuch,-3.53,55.399,60
 MQ,86,Le François,-60.902,14.615,50
-MQ,23952,Fort-de-France,-61.068,14.607,23952
+MQ,41388,Fort-de-France,-61.068,14.607,34490
 UK,72,Pentre Galar,-4.651,51.947,72
 UK,303,St Andrews,-2.81,56.336,123
 UK,72,Rhosybol,-4.366,53.373,50
@@ -16345,7 +16345,7 @@ ES,103,Torrelles de Foix,1.571,41.388,72
 DE,86,Rurich,6.271,51.013,50
 LU,60,Troine,5.881,50.063,50
 LU,86,Bigonville,5.792,49.849,50
-GF,59598,Cayenne,-52.334,4.938,11552
+GF,34490,Cayenne,-52.334,4.938,11552
 FR,72,Baron,4.279,46.493,50
 NL,103,Musselkanaal,7.016,52.932,50
 DE,72,Hinte,7.194,53.415,50
@@ -54830,9 +54830,10 @@ XK,147,Stanofc i Ulët,21.037,42.752,50
 XK,176,Llashticë,21.486,42.376,60
 XK,123,Berisha-Sehishte,20.282,42.476,50
 XK,103,Mamushë,20.724,42.329,50
-PT,1867,Vila do Porto,-25.14535,36.95069,751
-PT,1867,Angra do Heroísmo,-27.2114,38.6447,751
-PT,211,Praia da Vitória,-27.0539,38.7339,123
-PT,211,Capelas,-25.68776,37.83288,86
-PT,85820,Ponta Delgada,-25.66484,37.74029,34490
-PT,103,Rabo de Peixe,-25.5791,37.8162,72
+PT,1867,Vila do Porto,-25.14535,36.95069,626
+PT,2688,Angra do Heroísmo,-27.2114,38.6447,1081
+PT,86,Praia da Vitória,-27.0539,38.7339,86
+PT,211,Capelas,-25.68776,37.83288,72
+PT,13862,Ponta Delgada,-25.66484,37.74029,9627
+PT,103,Ribeira Grande,-25.5231,37.8217,103
+PT,211,Vila Franca do Campo,-25.4357,37.7174,103

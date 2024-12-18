@@ -42,14 +42,14 @@ IS,496,Thorshofn,-15.336,66.198,414
 IS,1027,Vopnafjordur,-14.828,65.753,414
 IS,1773,Hofn i Hornafirdi,-15.208,64.255,714
 IS,3062,Egilsstadir,-14.406,65.262,1027
-PT,3674,Santa Cruz das Flores,-31.128,39.456,1478
+PT,7615,Santa Cruz das Flores,-31.128,39.456,1478
 IS,496,Djupivogur,-14.283,64.657,200
 IS,345,Borgarfjordur eystri,-13.816,65.528,288
 IS,240,Stodvarfjordur,-13.874,64.833,200
 IS,345,Faskrudsfjordur,-14.014,64.93,200
 IS,414,Neskaupstadur,-13.676,65.147,200
 PT,595,Caminho da Igreja,-28.02,39.064,240
-PT,22735,Velas,-28.209,38.682,7615
+PT,856,Velas,-28.209,38.682,496
 PT,496,Lajes do Pico,-28.251,38.395,200
 SJ,9138,Olonkinbyen,-8.715,70.923,3062
 IE,496,Keel-Dooagh,-10.114,53.974,200
@@ -5112,6 +5112,5 @@ XK,240,Kuk,20.709,42.107,200
 XK,288,Vërmicë,20.76,42.539,200
 XK,240,Skënderaj,20.79,42.761,200
 PT,1773,Vila do Porto,-25.14535,36.95069,714
-PT,2127,Angra do Heroísmo,-27.2114,38.6447,856
-PT,240,Praia da Vitória,-27.0539,38.7339,200
-PT,81460,Ponta Delgada,-25.66484,37.74029,32738
+PT,3062,Angra do Heroísmo,-27.2114,38.6447,1232
+PT,13158,Ponta Delgada,-25.66484,37.74029,9138
