@@ -380,7 +380,7 @@ public class EuroNymeProduction {
 		System.out.println(nt.size() + " features loaded");
 		CoordinateReferenceSystem crsNT = GeoData.getCRS(nt_);
 
-		List<String> cntsRegio = Arrays.asList(new String[]{ "RO", "BA", "AL", "ME", "HU", "RS" });
+		List<String> cntsRegio = Arrays.asList(new String[]{ "RO", "BA", "AL", "ME", "HU", "RS", "BU", "Xk" });
 		for (Feature f : nt) {
 			Feature f_ = new Feature();
 
