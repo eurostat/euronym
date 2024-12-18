@@ -380,12 +380,12 @@ public class EuroNymeProduction {
 		System.out.println(nt.size() + " features loaded");
 		CoordinateReferenceSystem crsNT = GeoData.getCRS(nt_);
 
-		String[] cntsRegio = { "RO", "BA", "AL", "ME", "HU", "RS" };
+		List<String> cntsRegio = Arrays.asList(new String[]{ "RO", "BA", "AL", "ME", "HU", "RS" });
 		for (Feature f : nt) {
 			Feature f_ = new Feature();
 
 			String cc = f.getAttribute("CNTR_CODE").toString();
-			if(limitUseRegio && !Arrays.asList(cntsRegio).contains(cc)) continue;
+			if(limitUseRegio && !cntsRegio.contains(cc)) continue;
 			//System.out.println(cc);
 
 			// name
