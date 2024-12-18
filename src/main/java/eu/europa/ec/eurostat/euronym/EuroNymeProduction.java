@@ -15,6 +15,7 @@ import java.util.stream.Collectors;
 import org.geotools.filter.text.cql2.CQL;
 import org.locationtech.jts.geom.Coordinate;
 import org.locationtech.jts.geom.Envelope;
+import org.locationtech.jts.geom.GeometryFactory;
 import org.locationtech.jts.geom.Point;
 import org.locationtech.jts.index.quadtree.Quadtree;
 import org.locationtech.jts.index.strtree.STRtree;
@@ -458,41 +459,47 @@ public class EuroNymeProduction {
 				f.setAttribute("name", "Lyon");
 			}
 
+
 			/*
-			 * if (name.equals("Cize"))
-			 * f.setAttribute("name", "Champagnole");
-			 * if (name.equals("Valletta (greater)"))
-			 * f.setAttribute("name", "Valletta");
-			 * if (name.equals("Greater City of Athens"))
-			 * f.setAttribute("name", "Athens");
-			 * if (name.equals("Greater City of Thessaloniki"))
-			 * f.setAttribute("name", "Thessaloniki");
-			 * if (name.equals("Greater Manchester"))
-			 * f.setAttribute("name", "Manchester");
-			 * if (name.equals("Greater Nottingham"))
-			 * f.setAttribute("name", "Nottingham");
-			 * // if(name.equals("Alacant/Alicante")) f.setAttribute("name", "Alicante");
-			 * // if(name.equals("Alicante/Alacant")) f.setAttribute("name", "Alicante");
-			 * // if(name.equals("Gijon/Xixon")) f.setAttribute("name", "Gijon");
-			 * if (name.equals("Tyneside conurbation"))
-			 * f.setAttribute("name", "Tyneside");
-			 * if (name.equals("Chantraine"))
-			 * f.setAttribute("name", "Epinal");
-			 * // TODO Saint-Sauveur -> Luxeuil_les_bains. Several...!
-			 * 
-			 * if (name.equals("Brussel"))
-			 * f.setAttribute("pop", 1200000); // 210000);
-			 * if (name.equals("Brussel"))
-			 * f.setAttribute("name", "Bruxelles/Brussel");
-			 * if (name.equals("Vaduz"))
-			 * f.setAttribute("pop", 12000); // 5300);
-			 * 
-			 * if (name.contains("Arrondissement"))
-			 * f.setAttribute("name", name.replace(" Arrondissement", ""));
-			 * 
-			 * // if(name.contains("Metropoli"))
-			 * // System.out.println(name + " " + f.getAttribute("pop"));
-			 */
+
+	STTL_NAME: Angra do Heroísmo
+	POPL_2011: 6480
+	38,6447°  -27,2114°
+	
+	STTL_NAME: Praia da Vitória
+	POPL_2011: 5331
+	38,7339°  -27,0539°
+	
+	STTL_NAME: Capelas
+	POPL_2011: 7191
+	37,83288°  -25,68776°
+	
+	STTL_NAME: Ponta Delgada
+	POPL_2011: 29526
+	37,74029°  -25,66484°
+	
+	STTL_NAME: Rabo de Peixe
+	POPL_2011: 5496
+	37,8162°  -25,5791°
+	
+	STTL_NAME: Lagoa
+	POPL_2011: 5203
+	37,7469°  -25,5798°
+	
+	STTL_NAME: Ribeira Grande
+	POPL_2011: 7872
+	37,8217°  -25,5231°
+	
+	STTL_NAME: Vila Franca do Campo
+	POPL_2011: 7175
+	37,7174°  -25,4357°
+*/	
+
+			//manual additions
+			addFeature(out, crsNT, "Vila do Porto", "PT", 5552, -25.14535, 36.95069) {
+
+
+
 		}
 
 		/*
@@ -514,6 +521,18 @@ public class EuroNymeProduction {
 		System.out.println("Save " + out.size());
 		GeoData.save(out, outFileName, CRSUtil.getETRS89_LAEA_CRS());
 	}
+
+	private static void addFeature(Collection<Feature> out, CoordinateReferenceSystem crs, String name, String cc, int pop, double lon, double lat) {
+		Feature f = new Feature();
+		f.setAttribute("name", name);
+		f.setAttribute("cc", cc);
+		f.setAttribute("pop", pop);
+		f.setAttribute("lon", lon);
+		f.setAttribute("lat", lat);
+		f.setGeometry(CRSUtil.toLAEA(new GeometryFactory().createPoint(new Coordinate(lon, lat)), crs));
+		out.add(f);
+	}
+
 
 	/*
 	 * private static ArrayList<Feature> getNameExtend(double pixSize, int fontSize)
