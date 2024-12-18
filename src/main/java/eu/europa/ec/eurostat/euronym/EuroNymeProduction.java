@@ -433,6 +433,8 @@ public class EuroNymeProduction {
 			// romanian case
 			if (name.contains("Municipiul"))
 				f.setAttribute("name", name.replace("Municipiul ", ""));
+				if (name.contains("Oraş"))
+				f.setAttribute("name", name.replace("Oraş ", ""));
 
 			if (name.equals("Arcachon"))
 				f.setAttribute("pop", 30000); // 11630);
@@ -442,12 +444,26 @@ public class EuroNymeProduction {
 			}
 			if (name.equals("Vaduz"))
 				f.setAttribute("pop", 12000); // 5300);
+			if (name.equals("'s-Gravenhage"))
+				f.setAttribute("name", "Den Haag");
+			if (name.equals("Potsdam"))
+				f.setAttribute("pop", 250000);
+
+			// deal with "arrondissement"
+			if (name.contains("Arrondissement") && name.contains("Paris"))
+				f.setAttribute("pop", 100000);
 
 			if (name.contains("Arrondissement") && name.contains("Marseille"))
 				f.setAttribute("pop", 50000);
 			if (name.equals("Marseille 1er Arrondissement")) {
 				f.setAttribute("pop", 820000);
 				f.setAttribute("name", "Marseille");
+			}
+			if (name.contains("Arrondissement") && name.contains("Lyon"))
+				f.setAttribute("pop", 40000);
+			if (name.equals("Lyon 1er Arrondissement")) {
+				f.setAttribute("pop", 600000);
+				f.setAttribute("name", "Lyon");
 			}
 
 			/*
