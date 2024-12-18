@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashSet;
 import java.util.List;
+import java.util.Arrays;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
@@ -36,7 +37,7 @@ public class EuroNymeProduction {
 	private static String basePath = "/home/juju/geodata/";
 	private static String version = "v3";
 
-	private static boolean useRegio = false;
+	private static boolean limitUseRegio = false;
 
 	// remove regio things
 	// hard validation on 1:1M
@@ -69,7 +70,8 @@ public class EuroNymeProduction {
 		prepareDataFromInput("tmp/namesStruct_ASCII.gpkg", true, false);
 		prepareDataFromInput("tmp/namesStruct_UTF.gpkg", false, false);
 		prepareDataFromInput("tmp/namesStruct_UTF_LATIN.gpkg", false, true);
-		if(true) return;
+		if (true)
+			return;
 
 		// get country codes
 		HashSet<String> ccs = new HashSet<>();
@@ -371,48 +373,51 @@ public class EuroNymeProduction {
 		}
 
 		// REGIO town names
-		if (useRegio) {
 
-			System.out.println("REGIO - town names");
-			String nt_ = basePath + "regio_town_names/centroides_wgs84.gpkg";
-			ArrayList<Feature> nt = GeoData.getFeatures(nt_, "STTL_ID");
-			System.out.println(nt.size() + " features loaded");
-			CoordinateReferenceSystem crsNT = GeoData.getCRS(nt_);
+		System.out.println("REGIO - town names");
+		String nt_ = basePath + "regio_town_names/centroides_wgs84.gpkg";
+		ArrayList<Feature> nt = GeoData.getFeatures(nt_, "STTL_ID");
+		System.out.println(nt.size() + " features loaded");
+		CoordinateReferenceSystem crsNT = GeoData.getCRS(nt_);
 
-			for (Feature f : nt) {
-				Feature f_ = new Feature();
+		String[] cntsRegio = { "RO", "BA", "AL" };
+		for (Feature f : nt) {
+			Feature f_ = new Feature();
 
-				// name
-				String name = (String) f.getAttribute("STTL_NAME");
-				if (name.length() == 0)
-					continue;
-				if (name.contains(" / "))
-					continue;
-				f_.setAttribute("name", name);
+			String cc = f.getAttribute("CNTR_CODE").toString();
+			if(limitUseRegio && !Arrays.asList(cntsRegio).contains(cc)) continue;
+			//System.out.println(cc);
 
-				// lon / lat
-				Point g = f.getGeometry().getCentroid();
-				f_.setAttribute("lon", Double.toString(Util.round(g.getCoordinate().x, 3)));
-				f_.setAttribute("lat", Double.toString(Util.round(g.getCoordinate().y, 3)));
+			// name
+			String name = (String) f.getAttribute("STTL_NAME");
+			if (name.length() == 0)
+				continue;
+			if (name.contains(" / "))
+				continue;
+			f_.setAttribute("name", name);
 
-				// geometry
-				// project
-				f_.setGeometry(CRSUtil.toLAEA(g, crsNT));
-				for (Coordinate c : f_.getGeometry().getCoordinates()) {
-					double z = c.x;
-					c.x = c.y;
-					c.y = z;
-				}
+			// lon / lat
+			Point g = f.getGeometry().getCentroid();
+			f_.setAttribute("lon", Double.toString(Util.round(g.getCoordinate().x, 3)));
+			f_.setAttribute("lat", Double.toString(Util.round(g.getCoordinate().y, 3)));
 
-				// population
-				Integer pop = (int) Double.parseDouble(f.getAttribute("POPL_2011").toString());
-				f_.setAttribute("pop", pop.toString());
-
-				// country code
-				f_.setAttribute("cc", alterCountryCode(f.getAttribute("CNTR_CODE").toString()));
-
-				out.add(f_);
+			// geometry
+			// project
+			f_.setGeometry(CRSUtil.toLAEA(g, crsNT));
+			for (Coordinate c : f_.getGeometry().getCoordinates()) {
+				double z = c.x;
+				c.x = c.y;
+				c.y = z;
 			}
+
+			// population
+			Integer pop = (int) Double.parseDouble(f.getAttribute("POPL_2011").toString());
+			f_.setAttribute("pop", pop.toString());
+
+			// country code
+			f_.setAttribute("cc", alterCountryCode(f.getAttribute("CNTR_CODE").toString()));
+
+			out.add(f_);
 		}
 
 		// manual corrections
@@ -420,40 +425,40 @@ public class EuroNymeProduction {
 			String name = f.getAttribute("name").toString();
 
 			/*
-			if (name.equals("Cize"))
-				f.setAttribute("name", "Champagnole");
-			if (name.equals("Valletta (greater)"))
-				f.setAttribute("name", "Valletta");
-			if (name.equals("Greater City of Athens"))
-				f.setAttribute("name", "Athens");
-			if (name.equals("Greater City of Thessaloniki"))
-				f.setAttribute("name", "Thessaloniki");
-			if (name.equals("Greater Manchester"))
-				f.setAttribute("name", "Manchester");
-			if (name.equals("Greater Nottingham"))
-				f.setAttribute("name", "Nottingham");
-			// if(name.equals("Alacant/Alicante")) f.setAttribute("name", "Alicante");
-			// if(name.equals("Alicante/Alacant")) f.setAttribute("name", "Alicante");
-			// if(name.equals("Gijon/Xixon")) f.setAttribute("name", "Gijon");
-			if (name.equals("Tyneside conurbation"))
-				f.setAttribute("name", "Tyneside");
-			if (name.equals("Chantraine"))
-				f.setAttribute("name", "Epinal");
-			// TODO Saint-Sauveur -> Luxeuil_les_bains. Several...!
-
-			if (name.equals("Brussel"))
-				f.setAttribute("pop", 1200000); // 210000);
-			if (name.equals("Brussel"))
-				f.setAttribute("name", "Bruxelles/Brussel");
-			if (name.equals("Vaduz"))
-				f.setAttribute("pop", 12000); // 5300);
-
-			if (name.contains("Arrondissement"))
-				f.setAttribute("name", name.replace(" Arrondissement", ""));
-
-			// if(name.contains("Metropoli"))
-			// System.out.println(name + " " + f.getAttribute("pop"));
-			*/
+			 * if (name.equals("Cize"))
+			 * f.setAttribute("name", "Champagnole");
+			 * if (name.equals("Valletta (greater)"))
+			 * f.setAttribute("name", "Valletta");
+			 * if (name.equals("Greater City of Athens"))
+			 * f.setAttribute("name", "Athens");
+			 * if (name.equals("Greater City of Thessaloniki"))
+			 * f.setAttribute("name", "Thessaloniki");
+			 * if (name.equals("Greater Manchester"))
+			 * f.setAttribute("name", "Manchester");
+			 * if (name.equals("Greater Nottingham"))
+			 * f.setAttribute("name", "Nottingham");
+			 * // if(name.equals("Alacant/Alicante")) f.setAttribute("name", "Alicante");
+			 * // if(name.equals("Alicante/Alacant")) f.setAttribute("name", "Alicante");
+			 * // if(name.equals("Gijon/Xixon")) f.setAttribute("name", "Gijon");
+			 * if (name.equals("Tyneside conurbation"))
+			 * f.setAttribute("name", "Tyneside");
+			 * if (name.equals("Chantraine"))
+			 * f.setAttribute("name", "Epinal");
+			 * // TODO Saint-Sauveur -> Luxeuil_les_bains. Several...!
+			 * 
+			 * if (name.equals("Brussel"))
+			 * f.setAttribute("pop", 1200000); // 210000);
+			 * if (name.equals("Brussel"))
+			 * f.setAttribute("name", "Bruxelles/Brussel");
+			 * if (name.equals("Vaduz"))
+			 * f.setAttribute("pop", 12000); // 5300);
+			 * 
+			 * if (name.contains("Arrondissement"))
+			 * f.setAttribute("name", name.replace(" Arrondissement", ""));
+			 * 
+			 * // if(name.contains("Metropoli"))
+			 * // System.out.println(name + " " + f.getAttribute("pop"));
+			 */
 		}
 
 		/*
