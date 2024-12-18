@@ -256,7 +256,7 @@ rs,name,lon,lat,r1
 882,La Rochelle,-1.15,46.16,882
 144,Mauléon,-0.75,46.922,120
 426,Calais,1.855,50.953,296
-172,Andernos-les-Bains,-1.102,44.744,100
+144,Andernos-les-Bains,-1.102,44.744,100
 247,Chinon,0.24,47.167,172
 296,Hendaye,-1.773,43.359,206
 172,Burie,-0.421,45.774,100
@@ -349,13 +349,13 @@ rs,name,lon,lat,r1
 144,Le Grand-Lucé,0.468,47.866,100
 144,Tesson,-0.653,45.632,100
 172,Guînes,1.87,50.87,100
+511,Arcachon,-1.169,44.661,355
 247,La Ferté-Bernard,0.656,48.186,100
 247,Montval-sur-Loir,0.419,47.695,247
 735,Loudun,0.082,47.01,120
 120,Vausseroux,-0.136,46.551,100
 247,Saint-Maixent-l'École,-0.202,46.413,144
 296,Louviers,1.169,49.214,144
-296,La Teste-de-Buch,-1.148,44.631,296
 144,Desvres,1.834,50.668,100
 120,La Ferté-Vidame,0.901,48.612,100
 172,Saint-Valery-sur-Somme,1.63,50.188,100
@@ -370,7 +370,7 @@ rs,name,lon,lat,r1
 172,Saint-Paterne-Racan,0.481,47.603,100
 355,Pons,-0.547,45.578,144
 247,Pauillac,-0.745,45.2,100
-735,Biscarrosse,-1.166,44.396,172
+511,Biscarrosse,-1.166,44.396,206
 120,Ligré,0.275,47.111,100
 206,Bourthes,1.932,50.607,100
 172,Langeais,0.408,47.325,120
@@ -379,6 +379,7 @@ rs,name,lon,lat,r1
 296,Melle,-0.142,46.223,144
 355,Mimizan,-1.227,44.2,144
 172,Matha,-0.32,45.866,100
+144,Biganos,-0.976,44.642,100
 206,Senonches,1.034,48.561,100
 144,Gastes,-1.146,44.325,100
 120,Mirambeau,-0.569,45.373,100
@@ -396,7 +397,7 @@ rs,name,lon,lat,r1
 120,Bailleul,2.735,50.74,100
 144,Bessé-sur-Braye,0.752,47.834,100
 120,Saint-Julien-en-Born,-1.225,44.063,120
-247,Salles,-0.869,44.551,144
+247,Salles,-0.869,44.551,100
 172,Cognac,-0.325,45.698,172
 296,Vernon,1.485,49.093,120
 247,Montendre,-0.409,45.284,120
@@ -408,7 +409,7 @@ rs,name,lon,lat,r1
 355,Wormhout,2.468,50.883,120
 172,Léon,-1.302,43.876,100
 247,Jonzac,-0.43,45.446,120
-735,Chartres,1.489,48.444,355
+735,Chartres,1.489,48.444,426
 120,Ligueil,0.817,47.043,100
 172,Sore,-0.58,44.323,100
 120,Conty,2.153,49.741,100
@@ -437,8 +438,8 @@ rs,name,lon,lat,r1
 247,Toury,1.937,48.196,100
 247,Angerville,1.998,48.311,100
 247,Arette,-0.715,43.095,100
-100000,Paris 16e Arrondissement,2.277,48.864,100000
 247,Nontron,0.663,45.529,144
+100000,Paris,2.338,48.862,100000
 144,Richeville,1.537,49.266,120
 247,Hesdin,2.037,50.373,100
 172,Ychoux,-0.962,44.328,100
@@ -474,7 +475,7 @@ rs,name,lon,lat,r1
 120,Baignes-Sainte-Radegonde,-0.235,45.383,100
 172,Illiers-Combray,1.247,48.299,100
 206,Château-Renault,0.909,47.592,144
-247,Saucats,-0.597,44.651,100
+296,Saucats,-0.597,44.651,100
 426,Châtellerault,0.547,46.818,172
 247,Hasparren,-1.305,43.384,100
 120,Songeons,1.855,49.548,100
@@ -571,14 +572,13 @@ rs,name,lon,lat,r1
 120,Vendoire,0.304,45.416,100
 144,Villefranche-de-Lonchat,0.058,44.948,100
 120,Lencouacq,-0.405,44.099,100
-172,Poissy,2.043,48.927,100
 144,Montrésor,1.2,47.156,100
 247,Bazas,-0.21,44.431,100
 120,Mauléon-Licharre,-0.888,43.22,120
 120,Martizay,1.043,46.807,100
 613,Mont-de-Marsan,-0.5,43.891,511
 120,Saint-Sever,-0.573,43.759,100
-206,Trappes,1.999,48.776,120
+247,Trappes,1.999,48.776,172
 172,Mer,1.508,47.7,100
 247,Montbron,0.499,45.667,100
 247,Moreuil,2.483,49.772,100
@@ -596,7 +596,6 @@ rs,name,lon,lat,r1
 296,Albert,2.652,50.001,206
 172,Saint-Just-en-Chaussée,2.435,49.506,100
 120,Bourriot-Bergonce,-0.25,44.129,100
-120,Houilles,2.187,48.923,100
 206,Cerisy,2.639,49.908,100
 206,Dourdan,2.016,48.529,100
 120,Sainte-Engrâce,-0.853,43.015,100
@@ -611,7 +610,7 @@ rs,name,lon,lat,r1
 120,Monein,-0.579,43.32,100
 172,Bélâbre,1.157,46.551,100
 206,Croisilles,2.878,50.2,100
-3784,Lille,3.071,50.63,1269
+3784,Lille,3.071,50.63,1522
 355,Creil,2.473,49.261,206
 172,Bapaume,2.85,50.104,120
 120,Rochechouart,0.82,45.822,100
@@ -629,6 +628,7 @@ rs,name,lon,lat,r1
 735,Marmande,0.167,44.499,247
 144,Levroux,1.615,46.98,120
 1269,Orléans,1.909,47.903,735
+144,Mitry-Mory,2.619,48.984,144
 206,Buzançais,1.422,46.889,144
 355,Aire-sur-l'Adour,-0.261,43.7,172
 206,Brantôme en Périgord,0.647,45.364,144
@@ -641,7 +641,6 @@ rs,name,lon,lat,r1
 120,Cuise-la-Motte,3.007,49.387,100
 120,Cancon,0.627,44.536,100
 355,Vierzon,2.07,47.221,172
-172,Bouleurs,2.906,48.881,100
 120,Oradour-sur-Vayres,0.865,45.732,100
 613,Tarbes,0.078,43.233,247
 206,Bohain-en-Vermandois,3.455,49.987,100
@@ -732,13 +731,14 @@ rs,name,lon,lat,r1
 206,La Souterraine,1.483,46.239,206
 144,Theillay,2.039,47.313,100
 144,Pommiers,1.656,46.523,100
+206,Serris,2.786,48.857,100
 172,Beaumontois en Périgord,0.767,44.77,100
 247,Dammarie-les-Lys,2.635,48.515,100
 206,Prayssas,0.509,44.288,100
 247,Ambazac,1.402,45.958,100
 172,Ger,-0.051,43.253,100
 172,La Roche-l'Abeille,1.24,45.597,100
-172,Meaux,2.878,48.958,172
+511,Meaux,2.878,48.958,247
 355,Saint-Yrieix-la-Perche,1.204,45.512,247
 296,Vic-en-Bigorre,0.054,43.386,120
 426,Condom,0.374,43.956,144
@@ -792,7 +792,7 @@ rs,name,lon,lat,r1
 172,Lectoure,0.624,43.934,100
 296,Soissons,3.329,49.384,247
 144,Vadencourt,3.578,49.928,100
-247,Coulommiers,3.084,48.812,120
+296,Coulommiers,3.084,48.812,120
 120,Orliac,1.068,44.717,100
 206,Bonnat,1.904,46.328,100
 144,Saint-Florent-sur-Cher,2.244,46.994,100
@@ -893,7 +893,7 @@ rs,name,lon,lat,r1
 120,Chaumeil,1.881,45.456,100
 206,Saint-Saulge,3.512,47.104,120
 247,Massat,1.348,42.888,120
-296,Montmirail,3.536,48.87,120
+247,Montmirail,3.536,48.87,120
 172,Vigueron,1.055,43.884,100
 355,Fourmies,4.047,50.018,206
 120,Cuy,3.264,48.259,100
@@ -955,7 +955,7 @@ rs,name,lon,lat,r1
 144,Saint-Lys,1.177,43.514,100
 247,Auzances,2.501,46.025,120
 247,Caussade,1.537,44.162,120
-613,Reims,4.032,49.258,613
+1522,Reims,4.032,49.258,882
 120,Teyssieu,1.955,44.919,100
 296,Épernay,3.959,49.044,172
 120,Fronton,1.39,43.84,100
@@ -986,7 +986,7 @@ rs,name,lon,lat,r1
 120,Aix-Villemaur-Pâlis,3.731,48.223,120
 144,Ygrande,2.943,46.552,100
 613,Nevers,3.158,46.988,426
-296,Fère-Champenoise,3.991,48.755,120
+355,Fère-Champenoise,3.991,48.755,120
 144,Signy-l'Abbaye,4.419,49.698,144
 3154,Toulouse,1.444,43.605,2191
 882,Auxerre,3.57,47.796,355
@@ -1269,7 +1269,7 @@ rs,name,lon,lat,r1
 172,Thizy-les-Bourgs,4.309,46.032,120
 206,Commercy,5.593,48.764,172
 120,Nonsard-Lamarche,5.762,48.932,120
-3154,Dijon,5.042,47.322,1269
+2629,Dijon,5.042,47.322,1269
 206,Florac Trois Rivières,3.594,44.324,172
 206,Chagny,4.753,46.911,100
 206,Mont Lozère et Goulet,3.736,44.487,120
@@ -1285,7 +1285,6 @@ rs,name,lon,lat,r1
 144,Argelès-sur-Mer,3.021,42.549,100
 120,Prats-de-Mollo-la-Preste,2.479,42.404,120
 511,Le Puy-en-Velay,3.884,45.043,296
-5448,Lyon 4e Arrondissement,4.828,45.774,1826
 144,Ageville,5.356,48.109,100
 144,Rolampont,5.286,47.95,100
 144,Trambly,4.532,46.328,100
@@ -1342,7 +1341,7 @@ rs,name,lon,lat,r1
 206,Amnéville,6.142,49.261,100
 144,La Chapelle-de-Guinchay,4.755,46.211,100
 144,Saint-Laurent-de-la-Salanque,2.988,42.773,100
-613,Saint-Étienne,4.387,45.44,247
+613,Saint-Étienne,4.387,45.44,296
 247,Seurre,5.145,46.999,144
 144,Sérignan,3.28,43.28,100
 355,Mâcon,4.833,46.303,206
@@ -1359,7 +1358,7 @@ rs,name,lon,lat,r1
 120,Vialas,3.896,44.333,100
 120,Renève,5.404,47.405,100
 120,Planfoy,4.441,45.382,100
-1269,Metz,6.176,49.12,882
+1522,Metz,6.176,49.12,882
 120,Lentilly,4.663,45.819,100
 206,Champlitte,5.513,47.617,144
 172,Saint-Cyprien,3.004,42.617,100
@@ -1389,6 +1388,7 @@ rs,name,lon,lat,r1
 426,Nancy,6.184,48.693,355
 144,Dampierre-sur-Salon,5.678,47.557,100
 144,Banyuls-sur-Mer,3.129,42.481,100
+5448,Lyon,4.835,45.768,2191
 120,Montbazin,3.694,43.516,100
 296,Le Cheylard,4.423,44.906,144
 144,Saint-Gély-du-Fesc,3.804,43.692,100
@@ -1401,7 +1401,7 @@ rs,name,lon,lat,r1
 355,Sète,3.696,43.402,144
 1826,Alès,4.077,44.125,247
 144,Rémilly,6.397,49.012,120
-172,Vénissieux,4.886,45.697,100
+144,Vénissieux,4.886,45.697,100
 355,Annonay,4.668,45.24,172
 296,Jussey,5.903,47.826,100
 120,Birieux,5.039,45.953,100
@@ -1416,9 +1416,9 @@ rs,name,lon,lat,r1
 247,Vienne,4.875,45.526,144
 144,Frénois,6.122,48.188,100
 882,Montpellier,3.897,43.598,882
-144,Chaponnay,4.936,45.628,100
+206,Chaponnay,4.936,45.628,100
 206,Roussillon,4.811,45.373,100
-882,Bourg-en-Bresse,5.225,46.205,355
+735,Bourg-en-Bresse,5.225,46.205,355
 511,Saint-Amour,5.343,46.436,144
 120,Cuiseaux,5.389,46.494,100
 247,Gy,5.815,47.407,120
@@ -1565,12 +1565,12 @@ rs,name,lon,lat,r1
 120,Mathay,6.781,47.439,100
 172,Saverne,7.362,48.741,172
 144,Cuvat,6.117,45.977,100
-511,Chambéry,5.921,45.566,247
+735,Chambéry,5.921,45.566,247
 1269,Grenoble,5.736,45.186,511
 206,Pont-de-Roide-Vermondans,6.774,47.382,100
 511,Annemasse,6.234,46.193,247
 120,Quintal,6.085,45.841,100
-426,Annecy,6.129,45.899,426
+735,Annecy,6.129,45.899,613
 206,Sénas,5.078,43.745,100
 144,Saint-Hippolyte,6.812,47.318,100
 172,Munster,7.137,48.041,100
@@ -1610,9 +1610,8 @@ rs,name,lon,lat,r1
 511,Haguenau,7.787,48.817,206
 172,Marckolsheim,7.544,48.164,100
 144,Mundolsheim,7.715,48.641,100
-2191,Mulhouse,7.336,47.75,613
+1826,Mulhouse,7.336,47.75,613
 247,Veynes,5.824,44.535,144
-11294,Marseille 3e Arrondissement,5.379,43.312,4540
 120,Drusenheim,7.951,48.763,100
 247,Albertville,6.393,45.676,206
 247,Sisteron,5.943,44.195,172
@@ -1625,12 +1624,12 @@ rs,name,lon,lat,r1
 206,Abondance,6.72,46.281,100
 426,Wissembourg,7.945,49.037,172
 144,Kunheim,7.535,48.077,100
-1522,Strasbourg,7.752,48.573,1522
+5448,Strasbourg,7.752,48.573,2191
 296,Les Deux Alpes,6.125,45.013,206
-206,Brignoles,6.061,43.406,206
+296,Brignoles,6.061,43.406,247
 120,Clavans-en-Haut-Oisans,6.162,45.082,100
 172,Beauvezer,6.592,44.143,144
-120,Marseille 16e Arrondissement,5.313,43.365,120
+144,Marseille 16e Arrondissement,5.313,43.365,100
 172,Hyères,6.13,43.12,120
 247,Castellane,6.513,43.846,206
 247,Morzine,6.709,46.179,100
@@ -1641,7 +1640,7 @@ rs,name,lon,lat,r1
 206,Rhinau,7.705,48.318,100
 247,Sallanches,6.63,45.937,100
 206,Fessenheim,7.538,47.914,100
-426,Aix-en-Provence,5.447,43.53,120
+511,Aix-en-Provence,5.447,43.53,172
 120,Bouc-Bel-Air,5.414,43.451,100
 120,Rumersheim-le-Haut,7.523,47.851,100
 172,Megève,6.618,45.857,100
@@ -1652,6 +1651,7 @@ rs,name,lon,lat,r1
 120,Hombourg,7.505,47.759,100
 120,Beaufort,6.576,45.718,100
 172,Saint-Bonnet-en-Champsaur,6.078,44.683,100
+11294,Marseille,5.379,43.297,4540
 247,Wolschwiller,7.409,47.462,100
 2629,Gap,6.08,44.559,511
 247,Forcalquier,5.781,43.96,100
@@ -1665,7 +1665,7 @@ rs,name,lon,lat,r1
 206,Vallorcine,6.932,46.033,100
 206,Vinon-sur-Verdon,5.813,43.726,100
 144,Rians,5.758,43.607,120
-206,Trets,5.684,43.447,100
+144,Trets,5.684,43.447,100
 206,Bourg-Saint-Maurice,6.77,45.619,206
 172,Chorges,6.275,44.546,120
 120,Ginasservis,5.849,43.671,100
@@ -1694,7 +1694,7 @@ rs,name,lon,lat,r1
 120,Blieux,6.371,43.873,100
 172,Salernes,6.233,43.562,120
 355,Barcelonnette,6.65,44.386,144
-206,Cuers,6.073,43.237,100
+247,Cuers,6.073,43.237,100
 144,Molines-en-Queyras,6.843,44.731,100
 247,Saint-Paul-sur-Ubaye,6.751,44.515,100
 120,La Condamine-Châtelard,6.745,44.458,100
@@ -1708,7 +1708,7 @@ rs,name,lon,lat,r1
 247,Menton,7.503,43.776,144
 144,Daluis,6.812,44.027,100
 296,Saint-Étienne-de-Tinée,6.926,44.256,144
-426,Le Lavandou,6.369,43.138,144
+735,Le Lavandou,6.369,43.138,144
 355,Péone,6.907,44.116,120
 172,Andon,6.786,43.773,100
 355,Puget-Théniers,6.893,43.956,206
@@ -1720,10 +1720,10 @@ rs,name,lon,lat,r1
 120,Saint-Martin-Vésubie,7.257,44.07,100
 247,Gilette,7.163,43.849,120
 120,Roquebillière,7.308,44.013,120
-613,Nice,7.271,43.696,613
+1269,Nice,7.271,43.696,1058
 206,Sospel,7.45,43.877,100
 120,Breil-sur-Roya,7.514,43.937,100
-1522,Tende,7.593,44.089,172
+735,Tende,7.593,44.089,172
 172,Fontan,7.554,44.003,100
 120,Manso,8.795,42.365,100
 296,Galéria,8.648,42.409,120

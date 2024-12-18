@@ -100,7 +100,7 @@ rs,name,lon,lat,r1
 103,Ertvelde,3.747,51.179,50
 86,Vezon,3.501,50.569,50
 60,Beer,3.682,50.988,50
-522,Gent,3.726,51.055,522
+626,Gent,3.726,51.055,303
 253,Ronse,3.601,50.748,253
 103,Dikkelvenne,3.691,50.918,60
 72,Frasnes-lez-Buissenal,3.619,50.667,50
@@ -149,7 +149,7 @@ rs,name,lon,lat,r1
 123,Casteau,4.015,50.513,50
 60,Heikruis,4.112,50.735,50
 60,Spiennes,3.987,50.426,50
-123,Asse,4.201,50.91,60
+123,Asse,4.201,50.91,72
 60,Soignies,4.069,50.579,60
 72,Puurs,4.278,51.076,72
 103,Havré,4.045,50.464,50
@@ -159,7 +159,7 @@ rs,name,lon,lat,r1
 123,Braine-le-Comte,4.137,50.611,123
 60,Londerzeel,4.302,51,60
 60,Ekeren,4.418,51.277,50
-100000,Antwerpen,4.399,51.221,100000
+751,Antwerpen,4.399,51.221,303
 211,Kalmthout,4.477,51.383,123
 123,Aartselaar,4.388,51.135,72
 123,Tubize,4.205,50.693,86
@@ -185,7 +185,6 @@ rs,name,lon,lat,r1
 60,Mellet,4.476,50.504,50
 60,Schoten,4.498,51.251,50
 60,Gooreind,4.542,51.358,50
-751,Anderlecht,4.329,50.839,751
 60,Merksplas,4.863,51.358,50
 303,Beerse,4.855,51.314,211
 147,Booischot,4.779,51.053,60
@@ -198,7 +197,8 @@ rs,name,lon,lat,r1
 86,Binche,4.166,50.411,86
 86,Kasterlee,4.968,51.241,60
 72,Mazy,4.676,50.513,50
-72,Ukkel,4.333,50.804,50
+86,Ukkel,4.333,50.804,50
+100000,Bruxelles/Brussel,4.352,50.847,100000
 103,Gonoy,4.712,50.373,50
 60,Walem,4.457,51.066,50
 103,Oignies-en-Thiérache,4.639,50.024,60
@@ -211,10 +211,9 @@ rs,name,lon,lat,r1
 60,Waulsort,4.866,50.206,50
 86,Maizeret,4.979,50.46,50
 60,Felenne,4.848,50.07,50
-176,Vilvoorde,4.423,50.928,72
+176,Vilvoorde,4.423,50.928,60
 123,Seneffe,4.257,50.53,50
 211,Winenne,4.898,50.1,147
-60,Evere,4.403,50.873,50
 72,Oteppe,5.127,50.582,50
 86,Overpelt,5.422,51.211,86
 60,Sint-Job-in-'t-Goor,4.583,51.293,60
@@ -224,12 +223,11 @@ rs,name,lon,lat,r1
 60,Duffel,4.506,51.095,50
 60,Monceau-en-Ardenne,4.986,49.905,60
 103,Schilde,4.578,51.242,86
-60,Sint-Lambrechts-Woluwe,4.426,50.844,50
 86,Nivelles,4.325,50.598,86
 103,Brecht,4.64,51.348,50
 435,Chapelle-lez-Herlaimont,4.28,50.471,253
-86,Watermaal-Bosvoorde,4.417,50.798,50
-303,Braine-l'Alleud,4.369,50.683,103
+72,Watermaal-Bosvoorde,4.417,50.798,50
+363,Braine-l'Alleud,4.369,50.683,103
 86,Sint-Katelijne-Waver,4.532,51.069,50
 72,Grandrieu,4.172,50.201,50
 60,Waterloo,4.396,50.715,60
@@ -239,11 +237,11 @@ rs,name,lon,lat,r1
 123,Lobbes,4.265,50.345,50
 176,Beaumont,4.235,50.237,123
 86,Meer,4.736,51.443,50
-72,Hoeilaart,4.473,50.766,60
+176,Hoeilaart,4.473,50.766,72
 60,Zandhoven,4.66,51.214,50
 72,Peulis,4.588,51.039,50
 103,Momignies,4.166,50.03,103
-86,Erps-Kwerps,4.558,50.905,72
+86,Erps-Kwerps,4.558,50.905,86
 60,Maransart,4.461,50.66,50
 123,Vieux-Genappe,4.441,50.609,60
 86,Berlaar,4.658,51.118,50
@@ -265,7 +263,7 @@ rs,name,lon,lat,r1
 86,Poederlee,4.835,51.227,50
 103,Bertransart,4.473,50.344,50
 86,Baarle-Hertog,4.929,51.441,60
-147,Heverlee,4.693,50.864,147
+123,Heverlee,4.693,50.864,123
 72,Saint-Amand,4.55,50.504,50
 72,Gierle,4.867,51.267,50
 72,Cerfontaine,4.413,50.17,72
@@ -289,7 +287,7 @@ rs,name,lon,lat,r1
 147,Cul-des-Sarts,4.455,49.962,72
 363,Mariembourg,4.522,50.095,253
 60,Neringe,4.892,50.95,50
-123,Sint-Joris-Winge,4.876,50.908,60
+176,Sint-Joris-Winge,4.876,50.908,60
 72,Florennes,4.602,50.251,72
 86,Geel,4.987,51.161,86
 60,Roosbeek,4.862,50.833,50
@@ -334,7 +332,7 @@ rs,name,lon,lat,r1
 60,Sart-Bernard,4.951,50.405,50
 147,Kerkhoven,5.265,51.162,50
 103,Walshoutem,5.087,50.722,72
-147,Rummen,5.163,50.892,60
+123,Rummen,5.163,50.892,60
 522,Lommel,5.304,51.23,211
 60,Leopoldsburg,5.263,51.12,60
 147,Dinant,4.913,50.259,103
@@ -379,7 +377,7 @@ rs,name,lon,lat,r1
 60,Nandrin,5.42,50.507,50
 60,Bièvre,5.022,49.938,60
 72,Oreye,5.354,50.729,50
-901,Marche-en-Famenne,5.34,50.226,253
+1081,Marche-en-Famenne,5.34,50.226,253
 72,Lignières,5.436,50.192,50
 60,Villers-Sainte-Gertrude,5.579,50.361,50
 103,Rochehaut,5.006,49.84,50
@@ -390,7 +388,7 @@ rs,name,lon,lat,r1
 363,Plombières,5.967,50.733,211
 103,Haversin,5.196,50.249,50
 60,Regné,5.788,50.254,50
-626,Genk,5.495,50.965,253
+303,Genk,5.495,50.965,253
 103,Amay,5.325,50.551,50
 60,Porcheresse,5.087,49.978,60
 72,Hourt,5.908,50.318,50
@@ -427,7 +425,7 @@ rs,name,lon,lat,r1
 211,Mechelen-aan-de-Maas,5.696,50.963,103
 86,Dilsen,5.726,51.037,50
 363,Kinrooi,5.774,51.145,147
-1297,Liège,5.576,50.645,1297
+522,Liège,5.576,50.645,522
 72,Ochamps,5.277,49.925,50
 435,Bertrix,5.256,49.855,303
 60,Leut,5.736,50.992,50
@@ -506,7 +504,7 @@ rs,name,lon,lat,r1
 86,Ourthe,5.984,50.189,72
 60,Petergensfeld,6.181,50.65,50
 72,Ovifat,6.107,50.466,50
-3225,Arlon,5.817,49.684,751
+2688,Arlon,5.817,49.684,751
 72,Guirsch,5.852,49.718,50
 60,Faymonville,6.14,50.405,50
 60,Born,6.113,50.334,50

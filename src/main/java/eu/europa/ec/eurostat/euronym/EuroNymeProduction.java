@@ -39,26 +39,15 @@ public class EuroNymeProduction {
 
 	private static boolean limitUseRegio = true;
 
-	// hard validation on 1:1M
+
 	// ponta delgada missing
-	// arcachon
-	// paris lyon marseille
-	// den hague
 	// potsdam
-	// RO: Oraş
-	// brussels
-	// vaduz
+	// hard validation on 1:1M
 
 	// TODO local names, with accents - see in ERM (NAMN). OR: eurogazeeter ?
-	// TODO correct paris position
 	// TODO:check EBM_NAM PPL NAMA NAMN
 
-	// TODO check / remove duplicates
-	// TODO check Luxeuil-les-Bains
-
 	// TODO add other aggregates: EFTA, UE, etc.
-	// TODO improve coverage for CH, RO, etc. Why is Vaduz missing?
-	// TODO check euro gazeeter.
 	// TODO elaborate: different font size, weight, etc. depending on population
 
 	// OR:
@@ -446,8 +435,11 @@ public class EuroNymeProduction {
 				f.setAttribute("pop", 12000); // 5300);
 			if (name.equals("'s-Gravenhage"))
 				f.setAttribute("name", "Den Haag");
-			if (name.equals("Potsdam"))
-				f.setAttribute("pop", 250000);
+			if (name.equals("Petroșani-Colonie"))
+				f.setAttribute("name", "Petroșani");
+
+				if (name.equals("Potsdam"))
+				f.setAttribute("pop", 300000);
 
 			// deal with "arrondissement"
 			if (name.contains("Arrondissement") && name.contains("Paris"))

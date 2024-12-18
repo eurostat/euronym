@@ -8,12 +8,12 @@ rs,name,lon,lat,r1
 60,Oostkapelle,3.553,51.566,60
 60,Rockanje,4.068,51.874,50
 86,Aardenburg,3.442,51.273,50
-303,'s-Gravenhage,4.288,52.073,123
+303,Den Haag,4.288,52.073,123
 60,Eede,3.444,51.246,50
 86,De Koog,4.762,53.099,50
 253,Noordwijk,4.447,52.235,50
 253,Oostburg,3.49,51.327,103
-103,Zoetermeer,4.498,52.067,103
+147,Zoetermeer,4.498,52.067,103
 522,Alkmaar,4.75,52.627,147
 901,Rotterdam,4.474,51.924,363
 303,Hoogerheide,4.324,51.426,60
@@ -59,7 +59,8 @@ rs,name,lon,lat,r1
 60,Wassenaar,4.401,52.142,50
 60,Den Hoorn,4.752,53.025,50
 103,Petten,4.662,52.77,50
-147,Delft,4.363,52.007,60
+60,Leidschendam,4.396,52.09,50
+123,Delft,4.363,52.007,60
 72,Vlaardingen,4.338,51.911,72
 1081,Den Helder,4.746,52.95,253
 86,Graauw,4.104,51.329,50
@@ -72,7 +73,6 @@ rs,name,lon,lat,r1
 86,Rilland,4.183,51.416,60
 363,De Cocksdorp,4.871,53.156,60
 86,IJmuiden,4.602,52.455,50
-60,Stompwijk,4.469,52.095,50
 103,Bergen,4.703,52.672,50
 147,Leiden,4.503,52.159,72
 72,Lisse,4.558,52.255,50
@@ -116,7 +116,7 @@ rs,name,lon,lat,r1
 86,Middenbeemster,4.911,52.548,50
 176,Wieringerwerf,5.031,52.853,72
 103,Oudenbosch,4.534,51.588,50
-176,Gouda,4.712,52.024,103
+123,Gouda,4.712,52.024,103
 86,Avenhorn,4.949,52.619,50
 60,Bodegraven,4.751,52.08,50
 100000,Amsterdam,4.874,52.371,100000

@@ -62,7 +62,7 @@ rs,name,lon,lat,r1
 33,Nieuwkapelle,2.8,50.999,33
 28,Leffinge,2.877,51.175,20
 28,Sint-Pieters-Kapelle,2.875,51.127,28
-1419,Stene,2.915,51.202,397
+1183,Stene,2.915,51.202,397
 39,Reningelst,2.764,50.817,33
 55,Keiem,2.882,51.081,39
 39,Leke,2.891,51.101,33
@@ -405,7 +405,7 @@ rs,name,lon,lat,r1
 46,Nederename,3.633,50.867,20
 24,Gavere,3.66,50.928,24
 39,Anvaing,3.561,50.683,28
-571,Gent,3.726,51.055,571
+571,Gent,3.726,51.055,331
 55,Doornzele,3.766,51.143,28
 276,Ronse,3.601,50.748,230
 46,Maulde,3.549,50.617,28
@@ -522,7 +522,7 @@ rs,name,lon,lat,r1
 39,Bos,4,51.069,20
 79,Sinaai,4.042,51.157,39
 33,Arbre,3.814,50.611,20
-192,Geraardsbergen,3.883,50.772,66
+230,Geraardsbergen,3.883,50.772,66
 39,Thulin,3.739,50.429,28
 33,Aaigem,3.937,50.889,24
 28,Chièvres,3.81,50.587,28
@@ -698,7 +698,7 @@ rs,name,lon,lat,r1
 55,Breedhout,4.202,50.758,20
 55,Ekeren,4.418,51.277,46
 33,Breendonk,4.326,51.044,20
-100000,Antwerpen,4.399,51.221,100000
+822,Antwerpen,4.399,51.221,276
 39,Thieu,4.092,50.473,20
 33,Zellik,4.266,50.887,20
 55,Le Rœulx,4.109,50.501,24
@@ -706,7 +706,7 @@ rs,name,lon,lat,r1
 24,Imde,4.307,50.973,20
 230,Kalmthout,4.477,51.383,134
 24,Hennuyères,4.169,50.639,20
-46,Dilbeek,4.264,50.848,33
+66,Dilbeek,4.264,50.848,33
 39,Maurage,4.101,50.456,20
 24,Ramsdonk,4.335,51.015,20
 46,Boom,4.366,51.088,46
@@ -767,7 +767,7 @@ rs,name,lon,lat,r1
 28,Muizen,4.515,51.011,20
 28,Melsbroek,4.476,50.917,24
 39,Jette,4.328,50.88,24
-55,Zaventem,4.466,50.887,33
+79,Zaventem,4.466,50.887,33
 28,Gouy-lez-Piéton,4.328,50.487,24
 33,Péronnes,4.145,50.436,20
 33,Edegem,4.445,51.155,33
@@ -791,11 +791,9 @@ rs,name,lon,lat,r1
 46,Mellet,4.476,50.504,28
 66,Schoten,4.498,51.251,28
 55,Gooreind,4.542,51.358,33
-822,Anderlecht,4.329,50.839,822
 39,Tremelo,4.704,50.991,39
 55,Merksplas,4.863,51.358,33
 276,Beerse,4.855,51.314,230
-24,Sint-Jans-Molenbeek,4.339,50.855,20
 28,Tilly,4.552,50.561,28
 33,Pry,4.43,50.271,20
 46,Grimbergen,4.372,50.932,39
@@ -824,13 +822,14 @@ rs,name,lon,lat,r1
 79,Mazy,4.676,50.513,39
 24,Le Roux,4.624,50.388,20
 33,Punt,4.942,51.14,20
-55,Ukkel,4.333,50.804,28
+94,Ukkel,4.333,50.804,33
 24,Roeselberg,4.86,50.921,20
+100000,Bruxelles/Brussel,4.352,50.847,100000
 79,Ten Aard,4.981,51.204,28
 39,Rillaar,4.893,50.974,28
 24,Zemst-Laar,4.414,50.992,20
 55,Maison-du-Bois,4.815,50.747,24
-33,Sint-Gillis,4.346,50.824,20
+39,Sint-Gillis,4.346,50.824,20
 33,Meldert,4.838,50.788,24
 39,Messelbroek,4.937,50.996,20
 28,Villers-le-Gambon,4.608,50.19,28
@@ -844,7 +843,7 @@ rs,name,lon,lat,r1
 24,Liernu,4.827,50.584,24
 33,Bunsbeek,4.945,50.843,28
 24,Grand-Rosière-Hottomont,4.867,50.632,24
-55,Schaarbeek,4.373,50.868,55
+39,Schaarbeek,4.373,50.868,20
 39,Bost,4.941,50.79,20
 28,Boechout,4.497,51.164,20
 33,Battel,4.447,51.042,20
@@ -938,14 +937,14 @@ rs,name,lon,lat,r1
 28,Houtem,4.46,50.947,20
 28,Carnières,4.254,50.443,20
 28,Montignies-Saint-Christophe,4.188,50.281,24
-55,Sint-Lambrechts-Woluwe,4.426,50.844,24
+28,Sint-Lambrechts-Woluwe,4.426,50.844,24
 79,Nivelles,4.325,50.598,79
 33,Mont-Sainte-Geneviève,4.233,50.375,24
 94,Brecht,4.64,51.348,46
 39,Petit-Roeulx-lez-Nivelles,4.313,50.554,20
 397,Chapelle-lez-Herlaimont,4.28,50.471,276
-94,Watermaal-Bosvoorde,4.417,50.798,39
-331,Braine-l'Alleud,4.369,50.683,94
+79,Watermaal-Bosvoorde,4.417,50.798,39
+230,Braine-l'Alleud,4.369,50.683,94
 24,Fontaine-Haute,4.214,50.311,24
 79,Sint-Katelijne-Waver,4.532,51.069,33
 39,Oudergem,4.428,50.816,24
@@ -959,7 +958,7 @@ rs,name,lon,lat,r1
 94,Lier,4.57,51.131,79
 134,Anderlues,4.271,50.407,134
 28,Leugnies,4.196,50.225,20
-33,Kraainem,4.466,50.862,20
+46,Kraainem,4.466,50.862,20
 39,Broechem,4.604,51.181,33
 66,Sivry,4.181,50.168,55
 28,Thines,4.368,50.598,24
@@ -974,7 +973,7 @@ rs,name,lon,lat,r1
 134,Buzet,4.367,50.538,46
 192,Thuin,4.289,50.339,55
 46,Pont-à-Celles,4.363,50.512,39
-28,Sterrebeek,4.512,50.862,24
+33,Sterrebeek,4.512,50.862,24
 33,Fontaine-l'Évêque,4.324,50.412,28
 66,Hoeilaart,4.473,50.766,66
 24,Plancenoit,4.43,50.661,24
@@ -987,7 +986,7 @@ rs,name,lon,lat,r1
 39,Meersel-Dreef,4.773,51.491,20
 46,Solre-Saint-Géry,4.244,50.217,20
 33,Ragnies,4.284,50.308,24
-79,Kampenhout,4.55,50.941,28
+160,Kampenhout,4.55,50.941,28
 94,Momignies,4.166,50.03,94
 39,Sautin,4.226,50.163,39
 24,Boortmeerbeek,4.572,50.982,20
@@ -998,7 +997,7 @@ rs,name,lon,lat,r1
 33,Minderhout,4.762,51.417,20
 46,Ohain,4.471,50.697,28
 28,Watimé,4.412,50.554,20
-94,Erps-Kwerps,4.558,50.905,66
+66,Erps-Kwerps,4.558,50.905,66
 24,Nederokkerzeel,4.565,50.919,20
 33,Strée,4.298,50.276,20
 39,Courcelles,4.376,50.458,39
@@ -1021,7 +1020,7 @@ rs,name,lon,lat,r1
 39,Bevel,4.682,51.137,20
 46,Roux,4.392,50.441,20
 28,Clermont,4.316,50.26,28
-39,Vossem,4.558,50.835,39
+66,Vossem,4.558,50.835,66
 39,Rance,4.269,50.144,39
 24,Duisburg,4.552,50.816,20
 24,Chapelle-Saint-Lambert,4.502,50.692,20
@@ -1102,7 +1101,7 @@ rs,name,lon,lat,r1
 24,Wilsele,4.703,50.897,24
 28,Bertransart,4.473,50.344,28
 94,Baarle-Hertog,4.929,51.441,66
-160,Heverlee,4.693,50.864,134
+134,Heverlee,4.693,50.864,134
 28,Leuven,4.701,50.879,28
 33,Baal,4.753,50.996,33
 33,Saint-Amand,4.55,50.504,20
@@ -1216,7 +1215,7 @@ rs,name,lon,lat,r1
 28,Vitrival,4.656,50.394,28
 55,Blauwberg,4.929,51.044,46
 33,Neringe,4.892,50.95,20
-134,Sint-Joris-Winge,4.876,50.908,55
+160,Sint-Joris-Winge,4.876,50.908,55
 112,Florennes,4.602,50.251,112
 39,Golzinne,4.717,50.521,20
 28,Spy,4.705,50.482,20
@@ -1680,7 +1679,7 @@ rs,name,lon,lat,r1
 66,Regné,5.788,50.254,24
 39,Bocholt,5.579,51.174,28
 24,Schoonbeek,5.469,50.903,20
-685,Genk,5.495,50.965,276
+476,Genk,5.495,50.965,276
 94,Amay,5.325,50.551,46
 46,Vierset-Barse,5.298,50.483,28
 39,Miécret,5.249,50.366,20
@@ -1831,7 +1830,7 @@ rs,name,lon,lat,r1
 39,Arville,5.317,50.032,28
 28,Villers-aux-Tours,5.513,50.497,28
 33,Vottem,5.585,50.673,20
-685,Liège,5.576,50.645,685
+571,Liège,5.576,50.645,571
 39,Vien,5.505,50.474,28
 79,Ochamps,5.277,49.925,46
 24,Wonck,5.629,50.769,24
@@ -2116,7 +2115,7 @@ rs,name,lon,lat,r1
 24,Maldingen,6.036,50.234,24
 24,Bonnert,5.819,49.711,24
 33,Bébange,5.783,49.609,20
-3528,Arlon,5.817,49.684,822
+2450,Arlon,5.817,49.684,822
 55,Rodt,6.071,50.287,28
 33,Wolkrange,5.8,49.633,33
 39,Crombach,6.068,50.259,33

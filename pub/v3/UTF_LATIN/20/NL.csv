@@ -27,7 +27,7 @@ rs,name,lon,lat,r1
 24,Biezelinge,3.961,51.474,20
 79,Aardenburg,3.442,51.273,33
 24,Vierpolders,4.18,51.879,20
-331,'s-Gravenhage,4.288,52.073,134
+331,Den Haag,4.288,52.073,134
 39,Zwartewaal,4.222,51.882,20
 134,Maassluis,4.248,51.927,46
 24,Walsoorden,4.028,51.383,20
@@ -46,7 +46,7 @@ rs,name,lon,lat,r1
 33,Bath,4.211,51.402,20
 28,Overveen,4.609,52.393,20
 33,Breezand,4.803,52.888,24
-94,Zoetermeer,4.498,52.067,94
+134,Zoetermeer,4.498,52.067,112
 46,Velserbroek,4.659,52.434,28
 46,Abbenes,4.59,52.234,20
 571,Alkmaar,4.75,52.627,160
@@ -179,7 +179,7 @@ rs,name,lon,lat,r1
 28,Sint Philipsland,4.166,51.618,28
 39,Lamswaarde,4.055,51.344,24
 33,Katwijk aan Zee,4.401,52.201,28
-28,Voorburg,4.353,52.077,28
+46,Voorburg,4.353,52.077,28
 24,Poortvliet,4.144,51.545,24
 55,Zuidland,4.257,51.82,39
 134,Oude-Tonge,4.214,51.692,55
@@ -190,7 +190,7 @@ rs,name,lon,lat,r1
 55,Den Hoorn,4.752,53.025,24
 46,Sint Jansteen,4.053,51.262,20
 94,Petten,4.662,52.77,39
-55,Leidschendam,4.396,52.09,24
+28,Leidschendam,4.396,52.09,24
 134,Delft,4.363,52.007,55
 28,Callantsoog,4.697,52.837,28
 46,Oud-Vossemeer,4.199,51.571,28
@@ -231,7 +231,7 @@ rs,name,lon,lat,r1
 28,De Zilk,4.545,52.302,20
 55,De Heen,4.271,51.609,24
 28,Bakkum,4.654,52.566,20
-39,Stompwijk,4.469,52.095,20
+66,Stompwijk,4.469,52.095,20
 24,Sassenheim,4.521,52.225,20
 46,Schiedam,4.399,51.917,39
 66,Pernis,4.388,51.889,24
@@ -382,7 +382,7 @@ rs,name,lon,lat,r1
 66,Oudenbosch,4.534,51.588,39
 79,De Goorn,4.945,52.628,39
 28,Strijensas,4.585,51.715,20
-192,Gouda,4.712,52.024,112
+112,Gouda,4.712,52.024,112
 55,'s-Gravendeel,4.616,51.781,28
 24,Oostzaan,4.877,52.44,20
 39,Reeuwijk-Brug,4.723,52.045,20
