@@ -36,60 +36,59 @@ public class EuroNymeProduction {
 	private static String basePath = "/home/juju/geodata/";
 	private static String version = "v3";
 
+	private static boolean useRegio = false;
 
-	//remove regio things
-	//hard validation on 1:1M
+	// remove regio things
+	// hard validation on 1:1M
 
-	//TODO local names, with accents - see in ERM (NAMN). OR: eurogazeeter ?
-	//TODO correct paris position
-	//TODO:check EBM_NAM PPL NAMA NAMN
+	// TODO local names, with accents - see in ERM (NAMN). OR: eurogazeeter ?
+	// TODO correct paris position
+	// TODO:check EBM_NAM PPL NAMA NAMN
 
-	//TODO check / remove duplicates
-	//TODO check Luxeuil-les-Bains
+	// TODO check / remove duplicates
+	// TODO check Luxeuil-les-Bains
 
-	//TODO add other aggregates: EFTA, UE, etc.
-	//TODO improve coverage for CH, RO, etc. Why is Vaduz missing?
-	//TODO check euro gazeeter.
-	//TODO elaborate: different font size, weight, etc. depending on population
+	// TODO add other aggregates: EFTA, UE, etc.
+	// TODO improve coverage for CH, RO, etc. Why is Vaduz missing?
+	// TODO check euro gazeeter.
+	// TODO elaborate: different font size, weight, etc. depending on population
 
-	//OR: 
-	//TODO use stat atlas - for multi-ling ?
-	//https://ec.europa.eu/statistical-atlas/arcgis/rest/services/Basemaps/StatAtlas_Cities_Labels_2014/MapServer/0
-	//https://ec.europa.eu/statistical-atlas/arcgis/rest/services/Basemaps/StatAtlas_Cities_Labels_2014/MapServer/0/query?where=POPL_SIZE%3E50000&outSR=3035&inSR=3035&geometry=3428439.0697888224,2356253.0645389506,4339693.4974049805,2548197.243346825&geometryType=esriGeometryEnvelope&f=json&outFields=STTL_NAME,POPL_SIZE
-	//https://ec.europa.eu/statistical-atlas/arcgis/rest/services/Basemaps/StatAtlas_Cities_Labels_2014/MapServer/0/query?where=POPL_SIZE%3E0&f=json
-	//&f=json
-	//https://ec.europa.eu/statistical-atlas/arcgis/rest/services/Basemaps/StatAtlas_Cities_Labels_2014/MapServer
-
-
+	// OR:
+	// TODO use stat atlas - for multi-ling ?
+	// https://ec.europa.eu/statistical-atlas/arcgis/rest/services/Basemaps/StatAtlas_Cities_Labels_2014/MapServer/0
+	// https://ec.europa.eu/statistical-atlas/arcgis/rest/services/Basemaps/StatAtlas_Cities_Labels_2014/MapServer/0/query?where=POPL_SIZE%3E50000&outSR=3035&inSR=3035&geometry=3428439.0697888224,2356253.0645389506,4339693.4974049805,2548197.243346825&geometryType=esriGeometryEnvelope&f=json&outFields=STTL_NAME,POPL_SIZE
+	// https://ec.europa.eu/statistical-atlas/arcgis/rest/services/Basemaps/StatAtlas_Cities_Labels_2014/MapServer/0/query?where=POPL_SIZE%3E0&f=json
+	// &f=json
+	// https://ec.europa.eu/statistical-atlas/arcgis/rest/services/Basemaps/StatAtlas_Cities_Labels_2014/MapServer
 
 	public static void main(String[] args) throws Exception {
 		System.out.println("Start");
 
-		//prepare data from inputs
-		//format: name,pop,cc,lon,lat
+		// prepare data from inputs
+		// format: name,pop,cc,lon,lat
 		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_ASCII.gpkg", true, false);
 		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_UTF.gpkg", false, false);
 		prepareDataFromInput(basePath + "gisco/tmp/namesStruct_UTF_LATIN.gpkg", false, true);
-		//if(true) return;
+		// if(true) return;
 
-		//get country codes
+		// get country codes
 		HashSet<String> ccs = new HashSet<>();
 		ccs.addAll(FeatureUtil.getIdValues(GeoData.getFeatures(basePath + "gisco/tmp/namesStruct_ASCII.gpkg"), "cc"));
 		ccs.add("EUR");
-		//TODO ccs.add("EU");
-		//TODO ccs.add("EFTA");
-		//ccs.add("FR");
+		// TODO ccs.add("EU");
+		// TODO ccs.add("EFTA");
+		// ccs.add("FR");
 
-
-		//generate
-		for(String cc : ccs) {
+		// generate
+		for (String cc : ccs) {
 			for (int lod : new int[] { 20, 50, 100, 200 }) {
-				for(String enc : new String[] {"UTF", "UTF_LATIN", "ASCII"}) {
-					System.out.println("******* " + cc + " LOD " + lod + " enc="+enc);
+				for (String enc : new String[] { "UTF", "UTF_LATIN", "ASCII" }) {
+					System.out.println("******* " + cc + " LOD " + lod + " enc=" + enc);
 
 					// get input labels
-					Filter f = cc.equals("EUR")? null : CQL.toFilter("cc = '"+cc+"'");
-					ArrayList<Feature> fs = GeoData.getFeatures(basePath + "gisco/tmp/namesStruct_"+enc+".gpkg", null, f);
+					Filter f = cc.equals("EUR") ? null : CQL.toFilter("cc = '" + cc + "'");
+					ArrayList<Feature> fs = GeoData.getFeatures(basePath + "gisco/tmp/namesStruct_" + enc + ".gpkg",
+							null, f);
 					System.out.println(fs.size() + " labels loaded");
 
 					// do
@@ -106,16 +105,17 @@ public class EuroNymeProduction {
 						f_.getAttributes().remove("gl");
 					for (Feature f_ : fs)
 						f_.getAttributes().remove("pop");
-					if(!cc.equals("EUR"))
+					if (!cc.equals("EUR"))
 						for (Feature f_ : fs)
 							f_.getAttributes().remove("cc");
 
 					// save
-					//System.out.println("save as GPKG");
-					//GeoData.save(fs, basePath + "euronymes.gpkg", CRSUtil.getETRS89_LAEA_CRS());
+					// System.out.println("save as GPKG");
+					// GeoData.save(fs, basePath + "euronymes.gpkg", CRSUtil.getETRS89_LAEA_CRS());
 					System.out.println("save as CSV");
-					new File("./pub/"+version+"/"+enc+"/"+lod).mkdirs();
-					CSVUtil.save(CSVUtil.featuresToCSV(fs), "./pub/"+version+"/"+enc+"/"+lod+"/"+cc+".csv");
+					new File("./pub/" + version + "/" + enc + "/" + lod).mkdirs();
+					CSVUtil.save(CSVUtil.featuresToCSV(fs),
+							"./pub/" + version + "/" + enc + "/" + lod + "/" + cc + ".csv");
 				}
 			}
 		}
@@ -123,52 +123,45 @@ public class EuroNymeProduction {
 		System.out.println("End");
 	}
 
-
-
-
-
-
-
-
-
 	private static void setR1(ArrayList<Feature> fs, int resMin, double zf, int radPix) {
 
-		//make index
+		// make index
 		STRtree index = FeatureUtil.getIndexSTRtree(fs);
 
-		//go through all features
-		for(Feature f : fs) {
+		// go through all features
+		for (Feature f : fs) {
 
-			//get rs
+			// get rs
 			int rs = (int) f.getAttribute("rs");
-			//get pop
+			// get pop
 			int pop = Integer.parseInt(f.getAttribute("pop").toString());
 
-			//initialise r1 with maximum importance
+			// initialise r1 with maximum importance
 			f.setAttribute("r1", rs);
 
 			for (int res = resMin; res <= rs; res *= zf) {
 
-				//get the ones around
+				// get the ones around
 				Envelope env = (Envelope) f.getGeometry().getEnvelopeInternal();
 				Envelope searchEnv = new Envelope(env);
 				searchEnv.expandBy(radPix * res, radPix * res);
 				List<Feature> neigh = index.query(searchEnv);
 
-				//check if one more important exists around
+				// check if one more important exists around
 				boolean moreImportantExists = false;
-				for(Feature f_ : neigh) {
+				for (Feature f_ : neigh) {
 					int pop_ = Integer.parseInt(f_.getAttribute("pop").toString());
-					if(pop_ <= pop) continue;
+					if (pop_ <= pop)
+						continue;
 					moreImportantExists = true;
 					break;
 				}
 
-				//keep looking more important to the next res level
-				if(! moreImportantExists)
+				// keep looking more important to the next res level
+				if (!moreImportantExists)
 					continue;
 
-				//set r1 and break
+				// set r1 and break
 				f.setAttribute("r1", res);
 				break;
 			}
@@ -176,18 +169,18 @@ public class EuroNymeProduction {
 
 	}
 
-
-
 	/**
 	 * @param fs       The labels
 	 * @param fontSize The label font size
-	 * @param resMin   The minimum resolution (in m/pixel). The unnecessary labels below will be removed.
+	 * @param resMin   The minimum resolution (in m/pixel). The unnecessary labels
+	 *                 below will be removed.
 	 * @param resMax   The maximum resolution (in m/pixel)
 	 * @param zf       The zoom factor, between resolutions. For example: 1.2
 	 * @param pixX     The buffer zone without labels around - X direction
 	 * @param pixY     The buffer zone without labels around - Y direction
 	 */
-	private static ArrayList<Feature> generate(ArrayList<Feature> fs, int fontSize, int resMin, int resMax, double zf, int pixX, int pixY) {
+	private static ArrayList<Feature> generate(ArrayList<Feature> fs, int fontSize, int resMin, int resMax, double zf,
+			int pixX, int pixY) {
 
 		// initialise rs
 		for (Feature f : fs)
@@ -291,11 +284,12 @@ public class EuroNymeProduction {
 			String icc = (String) f.getAttribute("ICC");
 
 			// name
-			//NAMA: ASCII character - NAMN: utf8
+			// NAMA: ASCII character - NAMN: utf8
 			// NAMA1 NAMA2 NAMN1 NAMN2
 
 			String name = null;
-			if(ascii || forceLatin && (icc.equals("GR") || icc.equals("CY") || icc.equals("UA") || icc.equals("MK") || icc.equals("GE"))) {
+			if (ascii || forceLatin && (icc.equals("GR") || icc.equals("CY") || icc.equals("UA") || icc.equals("MK")
+					|| icc.equals("GE"))) {
 				name = (String) f.getAttribute("NAMA1");
 				if (name == null || name.equals("UNK")) {
 					System.out.println("No NAMA1 for " + f.getID() + " " + f.getAttribute("ICC"));
@@ -334,7 +328,6 @@ public class EuroNymeProduction {
 			}
 			f_.setAttribute("name", name);
 
-
 			// lon / lat
 			Point g = (Point) f.getGeometry();
 			f_.setAttribute("lon", Double.toString(Util.round(g.getCoordinate().x, 3)));
@@ -371,94 +364,110 @@ public class EuroNymeProduction {
 			}
 			f_.setAttribute("pop", pop.toString());
 
-			//country code
+			// country code
 			f_.setAttribute("cc", alterCountryCode(f.getAttribute("ICC").toString()));
 
 			out.add(f_);
 		}
 
-
 		// REGIO town names
+		if (useRegio) {
 
-		System.out.println("REGIO - town names");
-		String nt_ = basePath + "regio_town_names/centroides_wgs84.gpkg";
-		ArrayList<Feature> nt = GeoData.getFeatures(nt_, "STTL_ID");
-		System.out.println(nt.size() + " features loaded");
-		CoordinateReferenceSystem crsNT = GeoData.getCRS(nt_);
+			System.out.println("REGIO - town names");
+			String nt_ = basePath + "regio_town_names/centroides_wgs84.gpkg";
+			ArrayList<Feature> nt = GeoData.getFeatures(nt_, "STTL_ID");
+			System.out.println(nt.size() + " features loaded");
+			CoordinateReferenceSystem crsNT = GeoData.getCRS(nt_);
 
-		for (Feature f : nt) {
-			Feature f_ = new Feature();
+			for (Feature f : nt) {
+				Feature f_ = new Feature();
 
-			// name
-			String name = (String) f.getAttribute("STTL_NAME");
-			if (name.length() == 0) continue;
-			if(name.contains(" / ")) continue;
-			f_.setAttribute("name", name);
+				// name
+				String name = (String) f.getAttribute("STTL_NAME");
+				if (name.length() == 0)
+					continue;
+				if (name.contains(" / "))
+					continue;
+				f_.setAttribute("name", name);
 
-			// lon / lat
-			Point g = f.getGeometry().getCentroid();
-			f_.setAttribute("lon", Double.toString(Util.round(g.getCoordinate().x, 3)));
-			f_.setAttribute("lat", Double.toString(Util.round(g.getCoordinate().y, 3)));
+				// lon / lat
+				Point g = f.getGeometry().getCentroid();
+				f_.setAttribute("lon", Double.toString(Util.round(g.getCoordinate().x, 3)));
+				f_.setAttribute("lat", Double.toString(Util.round(g.getCoordinate().y, 3)));
 
-			// geometry
-			// project
-			f_.setGeometry(CRSUtil.toLAEA(g, crsNT));
-			for (Coordinate c : f_.getGeometry().getCoordinates()) {
-				double z = c.x;
-				c.x = c.y;
-				c.y = z;
+				// geometry
+				// project
+				f_.setGeometry(CRSUtil.toLAEA(g, crsNT));
+				for (Coordinate c : f_.getGeometry().getCoordinates()) {
+					double z = c.x;
+					c.x = c.y;
+					c.y = z;
+				}
+
+				// population
+				Integer pop = (int) Double.parseDouble(f.getAttribute("POPL_2011").toString());
+				f_.setAttribute("pop", pop.toString());
+
+				// country code
+				f_.setAttribute("cc", alterCountryCode(f.getAttribute("CNTR_CODE").toString()));
+
+				out.add(f_);
 			}
-
-			// population
-			Integer pop = (int) Double.parseDouble(f.getAttribute("POPL_2011").toString());
-			f_.setAttribute("pop", pop.toString());
-
-			//country code
-			f_.setAttribute("cc", alterCountryCode(f.getAttribute("CNTR_CODE").toString()));
-
-			out.add(f_);
 		}
 
-		//manual corrections
-		for(Feature f : out) {
+		// manual corrections
+		for (Feature f : out) {
 			String name = f.getAttribute("name").toString();
 
-			if(name.equals("Cize")) f.setAttribute("name", "Champagnole");
-			if(name.equals("Valletta (greater)")) f.setAttribute("name", "Valletta");
-			if(name.equals("Greater City of Athens")) f.setAttribute("name", "Athens");
-			if(name.equals("Greater City of Thessaloniki")) f.setAttribute("name", "Thessaloniki");
-			if(name.equals("Greater Manchester")) f.setAttribute("name", "Manchester");
-			if(name.equals("Greater Nottingham")) f.setAttribute("name", "Nottingham");
-			//if(name.equals("Alacant/Alicante")) f.setAttribute("name", "Alicante");
-			//if(name.equals("Alicante/Alacant")) f.setAttribute("name", "Alicante");
-			//if(name.equals("Gijon/Xixon")) f.setAttribute("name", "Gijon");
-			if(name.equals("Tyneside conurbation")) f.setAttribute("name", "Tyneside");
-			if(name.equals("Chantraine")) f.setAttribute("name", "Epinal");
-			//TODO Saint-Sauveur -> Luxeuil_les_bains. Several...!
+			if (name.equals("Cize"))
+				f.setAttribute("name", "Champagnole");
+			if (name.equals("Valletta (greater)"))
+				f.setAttribute("name", "Valletta");
+			if (name.equals("Greater City of Athens"))
+				f.setAttribute("name", "Athens");
+			if (name.equals("Greater City of Thessaloniki"))
+				f.setAttribute("name", "Thessaloniki");
+			if (name.equals("Greater Manchester"))
+				f.setAttribute("name", "Manchester");
+			if (name.equals("Greater Nottingham"))
+				f.setAttribute("name", "Nottingham");
+			// if(name.equals("Alacant/Alicante")) f.setAttribute("name", "Alicante");
+			// if(name.equals("Alicante/Alacant")) f.setAttribute("name", "Alicante");
+			// if(name.equals("Gijon/Xixon")) f.setAttribute("name", "Gijon");
+			if (name.equals("Tyneside conurbation"))
+				f.setAttribute("name", "Tyneside");
+			if (name.equals("Chantraine"))
+				f.setAttribute("name", "Epinal");
+			// TODO Saint-Sauveur -> Luxeuil_les_bains. Several...!
 
-			if(name.equals("Brussel")) f.setAttribute("pop", 1200000); //210000);
-			if(name.equals("Brussel")) f.setAttribute("name", "Bruxelles/Brussel");
-			if(name.equals("Vaduz")) f.setAttribute("pop", 12000); //5300);
+			if (name.equals("Brussel"))
+				f.setAttribute("pop", 1200000); // 210000);
+			if (name.equals("Brussel"))
+				f.setAttribute("name", "Bruxelles/Brussel");
+			if (name.equals("Vaduz"))
+				f.setAttribute("pop", 12000); // 5300);
 
-			if(name.contains("Arrondissement"))
+			if (name.contains("Arrondissement"))
 				f.setAttribute("name", name.replace(" Arrondissement", ""));
 
-			//if(name.contains("Metropoli"))
-			//	System.out.println(name + " " + f.getAttribute("pop"));
+			// if(name.contains("Metropoli"))
+			// System.out.println(name + " " + f.getAttribute("pop"));
 		}
 
-
-		/*/transcript to latin
-		if(forceLatin){
-			Transliterator greekToLatin = Transliterator.getInstance("Greek-Latin");
-			Transliterator cyrillicToLatin = Transliterator.getInstance("Cyrillic-Latin");
-			for(Feature f : out) {
-				String name = f.getAttribute("name").toString();
-				name = greekToLatin.transliterate(name);
-				name = cyrillicToLatin.transliterate(name);
-				f.setAttribute("name", name);
-			}		
-		}*/
+		/*
+		 * /transcript to latin
+		 * if(forceLatin){
+		 * Transliterator greekToLatin = Transliterator.getInstance("Greek-Latin");
+		 * Transliterator cyrillicToLatin =
+		 * Transliterator.getInstance("Cyrillic-Latin");
+		 * for(Feature f : out) {
+		 * String name = f.getAttribute("name").toString();
+		 * name = greekToLatin.transliterate(name);
+		 * name = cyrillicToLatin.transliterate(name);
+		 * f.setAttribute("name", name);
+		 * }
+		 * }
+		 */
 
 		// save output
 		System.out.println("Save " + out.size());
@@ -491,19 +500,22 @@ public class EuroNymeProduction {
 		return new Envelope(x, x + w, y, y + h);
 	}
 
-
 	private static String alterCountryCode(String in) {
 		switch (in) {
-		case "EL": return "GR";
-		case "GB": return "UK";
-		case "ND": return "UK";
-		case "IM": return "UK";
-		//case "SJ": return "NO";
-		//case "FO": return "DK";
-		default: return in;
+			case "EL":
+				return "GR";
+			case "GB":
+				return "UK";
+			case "ND":
+				return "UK";
+			case "IM":
+				return "UK";
+			// case "SJ": return "NO";
+			// case "FO": return "DK";
+			default:
+				return in;
 		}
 	}
-
 
 	/*
 	 * /make agent toponymes ArrayList<AgentToponyme> agents = new ArrayList<>();
