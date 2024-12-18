@@ -424,7 +424,11 @@ public class EuroNymeProduction {
 		for (Feature f : out) {
 			String name = f.getAttribute("name").toString();
 
-			/*
+			//romanian case
+			if (name.contains("Municipiul"))
+				f.setAttribute("name", name.replace("Municipiul ", ""));
+
+				/*
 			 * if (name.equals("Cize"))
 			 * f.setAttribute("name", "Champagnole");
 			 * if (name.equals("Valletta (greater)"))
