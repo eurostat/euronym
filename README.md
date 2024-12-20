@@ -8,8 +8,8 @@ Euronym labels are produced using a [label placement algorithm](https://en.wikip
 
 ## Examples
 
-- With [Leaflet](https://leafletjs.com/) library: See [this example](https://observablehq.com/d/b1fbb3b3e3255645).
-- With [Gridviz](https://github.com/eurostat/gridviz/blob/master/docs/reference.md#labellayer) library: See [this example](https://eurostat.github.io/gridviz/examples/basics/labels_.html).
+- For [Leaflet](https://leafletjs.com/) library users, see [this example](https://observablehq.com/d/b1fbb3b3e3255645).
+- For [Gridviz](https://github.com/eurostat/gridviz/blob/master/docs/reference.md#labellayer) library users, see [this example](https://eurostat.github.io/gridviz/examples/basics/labels_.html).
 
 ## API
 
