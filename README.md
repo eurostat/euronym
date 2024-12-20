@@ -6,9 +6,11 @@ Euronym labels are produced using a [label placement algorithm](https://en.wikip
 
 [![](/docs/overview.gif)](https://eurostat.github.io/gridviz/examples/basics/labels_.html)
 
-## Example
+## Examples
 
-Euronym is used by [Gridviz](https://github.com/eurostat/gridviz/blob/master/docs/reference.md#showing-labels) library. See [this example](https://eurostat.github.io/gridviz/examples/basics/labels_.html).
+Euronym is used with [Leaflet](https://leafletjs.com/) library. See [this example](https://observablehq.com/d/b1fbb3b3e3255645).
+
+Euronym is used with [Gridviz](https://github.com/eurostat/gridviz/blob/master/docs/reference.md#labellayer) library. See [this example](https://eurostat.github.io/gridviz/examples/basics/labels_.html).
 
 ## API
 
