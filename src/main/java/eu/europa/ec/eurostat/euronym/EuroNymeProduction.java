@@ -442,6 +442,8 @@ public class EuroNymeProduction {
 				f.setAttribute("pop", 300000);
 
 			// deal with "arrondissement"
+			if (name.equals("Paris"))
+				f.setAttribute("pop", 10000000);
 			if (name.contains("Arrondissement") && name.contains("Paris"))
 				f.setAttribute("pop", 100000);
 
