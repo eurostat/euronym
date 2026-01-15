@@ -441,11 +441,11 @@ public class EuroNymeProduction {
 			if (name.equals("Potsdam"))
 				f.setAttribute("pop", 300000);
 
+
 			// deal with paris, lyon, marseille and "arrondissement"
 			if (name.equals("Paris")) {
 				f.setAttribute("pop", 10000000);
-			}
-			if (name.contains("Arrondissement") && name.contains("Paris")) {
+			} else if (name.contains("Arrondissement") && name.contains("Paris")) {
 				f.setAttribute("name", name.replace(" Arrondissement", ""));
 				f.setAttribute("pop", 100000);
 			}
@@ -453,8 +453,7 @@ public class EuroNymeProduction {
 			if (name.equals("Marseille 1er Arrondissement")) {
 				f.setAttribute("pop", 820000);
 				f.setAttribute("name", "Marseille");
-			}
-			if (name.contains("Arrondissement") && name.contains("Marseille")) {
+			} else if (name.contains("Arrondissement") && name.contains("Marseille")) {
 				f.setAttribute("name", name.replace(" Arrondissement", ""));
 				f.setAttribute("pop", 50000);
 			}
@@ -462,18 +461,17 @@ public class EuroNymeProduction {
 			if (name.equals("Lyon 1er Arrondissement")) {
 				f.setAttribute("pop", 600000);
 				f.setAttribute("name", "Lyon");
-			}
-			if (name.contains("Arrondissement") && name.contains("Lyon")) {
+			} else if (name.contains("Arrondissement") && name.contains("Lyon")) {
 				f.setAttribute("name", name.replace(" Arrondissement", ""));
 				f.setAttribute("pop", 40000);
 			}
 
 			name = f.getAttribute("name").toString();
-			if (name.equals("Paris"))
+			if (name.contains("Paris"))
 				System.out.println(name + " " + f.getAttribute("pop"));
-			if (name.equals("Marseille"))
+			if (name.contains("Marseille"))
 				System.out.println(name + " " + f.getAttribute("pop"));
-			if (name.equals("Lyon"))
+			if (name.contains("Lyon"))
 				System.out.println(name + " " + f.getAttribute("pop"));
 
 		}
