@@ -62,10 +62,11 @@ public class EuroNymeProduction {
 
 		// prepare data from inputs
 		// format: name,pop,cc,lon,lat
-		//prepareDataFromInput("tmp/namesStruct_ASCII.gpkg", true, false);
-		//prepareDataFromInput("tmp/namesStruct_UTF.gpkg", false, false);
+		// prepareDataFromInput("tmp/namesStruct_ASCII.gpkg", true, false);
+		// prepareDataFromInput("tmp/namesStruct_UTF.gpkg", false, false);
 		prepareDataFromInput("tmp/namesStruct_UTF_LATIN.gpkg", false, true);
-		if (true) return;
+		if (true)
+			return;
 
 		// get country codes
 		HashSet<String> ccs = new HashSet<>();
@@ -440,18 +441,20 @@ public class EuroNymeProduction {
 			if (name.equals("Potsdam"))
 				f.setAttribute("pop", 300000);
 
-
 			// deal with paris, lyon, marseille and "arrondissement"
-			if (name.equals("Paris"))
+			if (name.equals("Paris")) {
 				f.setAttribute("pop", 10000000);
-			if (name.contains("Arrondissement") && name.contains("Paris"))
+			}
+			if (name.contains("Arrondissement") && name.contains("Paris")) {
 				f.setAttribute("name", name.replace(" Arrondissement", ""));
 				f.setAttribute("pop", 100000);
+			}
 
 			if (name.equals("Marseille 1er Arrondissement")) {
 				f.setAttribute("pop", 820000);
 				f.setAttribute("name", "Marseille");
-			if (name.contains("Arrondissement") && name.contains("Marseille"))
+			}
+			if (name.contains("Arrondissement") && name.contains("Marseille")) {
 				f.setAttribute("name", name.replace(" Arrondissement", ""));
 				f.setAttribute("pop", 50000);
 			}
@@ -460,13 +463,17 @@ public class EuroNymeProduction {
 				f.setAttribute("pop", 600000);
 				f.setAttribute("name", "Lyon");
 			}
-			if (name.contains("Arrondissement") && name.contains("Lyon"))
+			if (name.contains("Arrondissement") && name.contains("Lyon")) {
 				f.setAttribute("name", name.replace(" Arrondissement", ""));
 				f.setAttribute("pop", 40000);
+			}
 
-			if (name.contains("Paris")) System.out.println(name +" "+ f.getAttribute("pop"));
-			if (name.contains("Marseille")) System.out.println(name +" "+ f.getAttribute("pop"));
-			if (name.contains("Lyon")) System.out.println(name +" "+ f.getAttribute("pop"));
+			if (f.getAttribute("name").equals("Paris"))
+				System.out.println(f.getAttribute("name") + " " + f.getAttribute("pop"));
+			if (f.getAttribute("name").equals("Marseille"))
+				System.out.println(f.getAttribute("name") + " " + f.getAttribute("pop"));
+			if (f.getAttribute("name").equals("Lyon"))
+				System.out.println(f.getAttribute("name") + " " + f.getAttribute("pop"));
 
 		}
 
