@@ -38,7 +38,7 @@ public class EuroNymeProduction {
 	private static String basePath = "/home/juju/geodata/";
 	private static String version = "v3";
 
-	// set to true to use regio names only to necessary countries
+	// set to true to use regio names only to necessary
 	private static boolean limitUseRegio = true;
 
 	// hard validation on 1:1M
@@ -65,7 +65,7 @@ public class EuroNymeProduction {
 		//prepareDataFromInput("tmp/namesStruct_ASCII.gpkg", true, false);
 		//prepareDataFromInput("tmp/namesStruct_UTF.gpkg", false, false);
 		prepareDataFromInput("tmp/namesStruct_UTF_LATIN.gpkg", false, true);
-		//if (true) return;
+		if (true) return;
 
 		// get country codes
 		HashSet<String> ccs = new HashSet<>();
@@ -441,29 +441,32 @@ public class EuroNymeProduction {
 				f.setAttribute("pop", 300000);
 
 
-			if (name.contains("Paris")) System.out.println(name);
-			if (name.contains("Marseille")) System.out.println(name);
-			if (name.contains("Lyon")) System.out.println(name);
-
-
-			// deal with "arrondissement"
+			// deal with paris, lyon, marseille and "arrondissement"
 			if (name.equals("Paris"))
 				f.setAttribute("pop", 10000000);
 			if (name.contains("Arrondissement") && name.contains("Paris"))
+				f.setAttribute("name", name.replace(" Arrondissement", ""));
 				f.setAttribute("pop", 100000);
 
-			if (name.contains("Arrondissement") && name.contains("Marseille"))
-				f.setAttribute("pop", 50000);
 			if (name.equals("Marseille 1er Arrondissement")) {
 				f.setAttribute("pop", 820000);
 				f.setAttribute("name", "Marseille");
+			if (name.contains("Arrondissement") && name.contains("Marseille"))
+				f.setAttribute("name", name.replace(" Arrondissement", ""));
+				f.setAttribute("pop", 50000);
 			}
-			if (name.contains("Arrondissement") && name.contains("Lyon"))
-				f.setAttribute("pop", 40000);
+
 			if (name.equals("Lyon 1er Arrondissement")) {
 				f.setAttribute("pop", 600000);
 				f.setAttribute("name", "Lyon");
 			}
+			if (name.contains("Arrondissement") && name.contains("Lyon"))
+				f.setAttribute("name", name.replace(" Arrondissement", ""));
+				f.setAttribute("pop", 40000);
+
+			if (name.contains("Paris")) System.out.println(name +" "+ f.getAttribute("pop"));
+			if (name.contains("Marseille")) System.out.println(name +" "+ f.getAttribute("pop"));
+			if (name.contains("Lyon")) System.out.println(name +" "+ f.getAttribute("pop"));
 
 		}
 
