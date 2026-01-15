@@ -1657,6 +1657,7 @@ rs,name,lon,lat,r1
 247,Sisteron,5.943,44.195,172
 296,Cluses,6.581,46.06,206
 296,Argentine,6.312,45.495,100
+144,Auriol,5.635,43.369,100
 247,Erstein,7.663,48.423,120
 120,Soultz-sous-Forêts,7.884,48.938,100
 206,Valjouffrey,6.03,44.872,120
@@ -1669,7 +1670,7 @@ rs,name,lon,lat,r1
 296,Brignoles,6.061,43.406,247
 120,Clavans-en-Haut-Oisans,6.162,45.082,100
 172,Beauvezer,6.592,44.143,144
-144,Marseille 16e Arrondissement,5.313,43.365,100
+144,Marseille 16e,5.313,43.365,100
 172,Hyères,6.13,43.12,120
 247,Castellane,6.513,43.846,206
 247,Morzine,6.709,46.179,100
@@ -1702,6 +1703,7 @@ rs,name,lon,lat,r1
 355,Saint-Louis,7.561,47.586,144
 1058,Manosque,5.782,43.834,247
 144,Chamonix-Mont-Blanc,6.869,45.924,144
+144,Aubagne,5.569,43.292,120
 206,Vallorcine,6.932,46.033,100
 206,Vinon-sur-Verdon,5.813,43.726,100
 144,Rians,5.758,43.607,120
@@ -1710,7 +1712,7 @@ rs,name,lon,lat,r1
 172,Chorges,6.275,44.546,120
 120,Ginasservis,5.849,43.671,100
 172,Le Monêtier-les-Bains,6.508,44.976,100
-247,La Ciotat,5.605,43.174,120
+247,La Ciotat,5.605,43.174,100
 172,Fourneaux,6.652,45.192,100
 172,Barles,6.269,44.263,100
 120,Saint-Maximin-la-Sainte-Baume,5.863,43.453,120

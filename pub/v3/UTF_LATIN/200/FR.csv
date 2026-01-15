@@ -414,6 +414,7 @@ rs,name,lon,lat,r1
 240,Sisteron,5.943,44.195,200
 414,Wissembourg,7.945,49.037,200
 5289,Strasbourg,7.752,48.573,2127
+288,Brignoles,6.061,43.406,240
 345,Morzine,6.709,46.179,200
 240,Laragne-Montéglin,5.822,44.315,200
 496,Aix-en-Provence,5.447,43.53,200
@@ -426,19 +427,20 @@ rs,name,lon,lat,r1
 1027,Manosque,5.782,43.834,240
 240,Bourg-Saint-Maurice,6.77,45.619,200
 240,Orcières,6.324,44.685,200
-240,La Ciotat,5.605,43.174,200
 496,Digne-les-Bains,6.235,44.093,288
 714,Briançon,6.644,44.898,345
 496,Guillestre,6.649,44.661,200
 414,Toulon,5.933,43.12,345
 414,Senez,6.407,43.914,200
 714,Barcelonnette,6.65,44.386,240
+240,Pignans,6.229,43.301,200
+240,Fréjus,6.737,43.433,200
 288,Cannes,7.013,43.551,200
 288,Saint-Étienne-de-Tinée,6.926,44.256,200
-595,Mons,6.714,43.69,200
-856,Cogolin,6.533,43.252,200
+288,Fayence,6.695,43.624,200
+714,Rayol-Canadel-sur-Mer,6.467,43.161,200
 345,Puget-Théniers,6.893,43.956,200
-240,Saint-Raphaël,6.768,43.425,200
+240,Sainte-Maxime,6.641,43.31,200
 1478,Nice,7.271,43.696,1232
 288,Breil-sur-Roya,7.514,43.937,200
 856,Tende,7.593,44.089,288

@@ -18054,6 +18054,7 @@ DE,303,Hagen,7.467,51.36,123
 DE,60,Bachem,6.706,49.479,50
 FR,176,Saint-Amour,5.343,46.436,103
 DK,123,Ikast,9.156,56.139,86
+FR,72,Genas,5.005,45.732,50
 DK,72,Munklinde,9.184,56.226,50
 FR,103,Mont-sous-Vaudrey,5.601,46.979,86
 FR,60,Salaise-sur-Sanne,4.818,45.345,50
@@ -18257,7 +18258,7 @@ FR,147,Faverney,6.105,47.768,60
 NO,147,Bangsund,11.394,64.396,60
 DE,72,Ameke,7.765,51.752,50
 FR,72,Scye,6.057,47.655,50
-FR,303,Charvieu-Chavagneux,5.162,45.746,103
+FR,303,Charvieu-Chavagneux,5.162,45.746,86
 NO,86,Smaaland,11.31,63.961,50
 DK,86,Viborg,9.399,56.459,86
 FR,60,Lamath,6.447,48.529,50
@@ -20406,7 +20407,7 @@ DE,86,Langholz,9.981,54.516,50
 DE,103,Garbsen,9.6,52.426,72
 FR,72,La Giettaz,6.495,45.862,72
 DE,86,Rethem (Aller),9.382,52.785,72
-FR,72,Auriol,5.635,43.369,72
+FR,147,Auriol,5.635,43.369,60
 NO,1081,Innbygda,12.263,61.316,363
 FR,72,Savournon,5.794,44.422,50
 DK,60,Tunoe By,10.447,55.949,50
@@ -20418,7 +20419,6 @@ DE,72,Apensen,9.614,53.433,50
 NO,123,Bjoerkelangen,11.564,59.884,123
 SE,901,Funaesdalen,12.552,62.545,435
 DK,211,Kerteminde,10.66,55.451,103
-FR,176,Gemenos,5.628,43.295,60
 DE,86,Boesingfeld,9.123,52.069,72
 CH,60,Lignieres,7.066,47.082,50
 DE,60,Bornhoeved,10.225,54.069,50
@@ -20691,7 +20691,7 @@ DE,123,Osthofen,8.323,49.704,60
 DE,147,Hagen,9.433,52.576,50
 DE,86,Hollenstedt,9.715,53.367,50
 DE,123,Visselhoevede,9.58,52.986,103
-FR,103,Marseille 14e Arrondissement,5.38,43.345,50
+FR,103,Marseille 14e,5.38,43.345,50
 DE,86,Coelbe,8.784,50.85,50
 DE,86,Altenheim,7.807,48.467,72
 SE,147,Hunnebostrand,11.304,58.438,60
@@ -20927,6 +20927,7 @@ CH,123,Reinach BL,7.589,47.493,50
 DE,86,Langenhorn,10.018,53.649,50
 DE,72,Woelfersheim,8.813,50.399,50
 CH,72,Chateau-d'Oex,7.129,46.473,72
+FR,147,Aubagne,5.569,43.292,103
 DE,60,Ottenstein,9.409,51.946,50
 DE,60,Negenborn,9.632,52.553,50
 CH,60,Ueberstorf,7.311,46.865,50
@@ -20944,6 +20945,7 @@ DE,2240,Hamburg,9.997,53.551,1556
 DK,103,Mesinge,10.646,55.499,50
 DE,72,Brullsen,9.498,52.151,50
 DK,103,Langeskov,10.601,55.354,72
+FR,72,Carnoux-en-Provence,5.566,43.256,50
 DE,103,Bad Vilbel,8.741,50.181,60
 DE,123,Loerrach,7.659,47.612,50
 DE,60,Seelze,9.589,52.397,50
@@ -20973,7 +20975,7 @@ SE,103,Haelleviksstrand,11.446,58.123,50
 DE,60,Jettebruch,9.797,52.931,50
 DE,60,Niederklein,9,50.795,50
 DE,123,Oberkirch,8.077,48.532,72
-FR,176,Trets,5.684,43.447,60
+FR,147,Trets,5.684,43.447,60
 FR,123,Turriers,6.168,44.401,50
 NO,60,Gravdal,13.539,68.119,50
 DE,72,Waldsee,8.441,49.395,50
@@ -20991,7 +20993,6 @@ FR,211,Bourg-Saint-Maurice,6.77,45.619,211
 DE,60,Berstadt,8.866,50.426,50
 DE,86,Depenau,10.235,54.157,50
 SE,123,Elloes,11.473,58.179,86
-FR,60,Roquefort-la-Bedoule,5.591,43.248,50
 DE,60,Heber,9.863,53.081,50
 DE,60,Wennigsen (Deister),9.574,52.274,50
 NO,147,Ballstad,13.545,68.075,50
@@ -21050,7 +21051,7 @@ CH,72,Oberbalm,7.404,46.873,50
 DE,60,Mengsberg,9.1,50.901,50
 ES,60,Cala Blanca,3.841,39.975,50
 DE,72,Ottenhoefen im Schwarzwald,8.153,48.568,50
-FR,253,La Ciotat,5.605,43.174,123
+FR,253,La Ciotat,5.605,43.174,103
 CH,1297,Bern,7.444,46.947,435
 DE,86,Zell am Harmersbach,8.062,48.346,50
 DE,123,Bodenwerder,9.516,51.977,72
@@ -21095,6 +21096,7 @@ CH,147,Utzenstorf,7.558,47.128,50
 DE,72,Billstedt,10.11,53.539,50
 FR,147,Valensole,5.986,43.837,72
 DE,60,Kaltenweide,9.734,52.476,50
+FR,60,Cuges-les-Pins,5.7,43.275,60
 FR,72,Saint-Julien,5.915,43.694,60
 DE,211,Hanstedt,10.014,53.258,60
 DE,60,Wachenbuchen,8.855,50.167,50
