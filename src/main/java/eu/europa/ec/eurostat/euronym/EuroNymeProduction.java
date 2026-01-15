@@ -62,11 +62,10 @@ public class EuroNymeProduction {
 
 		// prepare data from inputs
 		// format: name,pop,cc,lon,lat
-		// prepareDataFromInput("tmp/namesStruct_ASCII.gpkg", true, false);
-		// prepareDataFromInput("tmp/namesStruct_UTF.gpkg", false, false);
+		prepareDataFromInput("tmp/namesStruct_ASCII.gpkg", true, false);
+		prepareDataFromInput("tmp/namesStruct_UTF.gpkg", false, false);
 		prepareDataFromInput("tmp/namesStruct_UTF_LATIN.gpkg", false, true);
-		if (true)
-			return;
+		//if (true) return;
 
 		// get country codes
 		HashSet<String> ccs = new HashSet<>();
@@ -466,13 +465,14 @@ public class EuroNymeProduction {
 				f.setAttribute("pop", 40000);
 			}
 
+			/*
 			name = f.getAttribute("name").toString();
 			if (name.contains("Paris"))
 				System.out.println(name + " " + f.getAttribute("pop"));
 			if (name.contains("Marseille"))
 				System.out.println(name + " " + f.getAttribute("pop"));
 			if (name.contains("Lyon"))
-				System.out.println(name + " " + f.getAttribute("pop"));
+				System.out.println(name + " " + f.getAttribute("pop"));*/
 
 		}
 
