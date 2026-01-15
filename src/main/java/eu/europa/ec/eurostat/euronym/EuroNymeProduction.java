@@ -40,8 +40,6 @@ public class EuroNymeProduction {
 
 	private static boolean limitUseRegio = true;
 
-	// ponta delgada missing
-	// potsdam
 	// hard validation on 1:1M
 
 	// TODO local names, with accents - see in ERM (NAMN). OR: eurogazeeter ?
@@ -66,7 +64,7 @@ public class EuroNymeProduction {
 		prepareDataFromInput("tmp/namesStruct_ASCII.gpkg", true, false);
 		prepareDataFromInput("tmp/namesStruct_UTF.gpkg", false, false);
 		prepareDataFromInput("tmp/namesStruct_UTF_LATIN.gpkg", false, true);
-		// if (true) return;
+		if (true) return;
 
 		// get country codes
 		HashSet<String> ccs = new HashSet<>();
@@ -440,6 +438,12 @@ public class EuroNymeProduction {
 
 			if (name.equals("Potsdam"))
 				f.setAttribute("pop", 300000);
+
+
+			if (name.equals("Paris")) System.out.println(name);
+			if (name.equals("Marseille")) System.out.println(name);
+			if (name.equals("Lyon")) System.out.println(name);
+
 
 			// deal with "arrondissement"
 			if (name.equals("Paris"))
