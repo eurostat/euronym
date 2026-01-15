@@ -440,12 +440,6 @@ public class EuroNymeProduction {
 			if (name.equals("Potsdam"))
 				f.setAttribute("pop", 300000);
 
-
-			if (name.equals("Paris")) System.out.println(name);
-			if (name.equals("Marseille")) System.out.println(name);
-			if (name.equals("Lyon")) System.out.println(name);
-
-
 			// deal with "arrondissement"
 			if (name.equals("Paris"))
 				f.setAttribute("pop", 10000000);
@@ -464,6 +458,12 @@ public class EuroNymeProduction {
 				f.setAttribute("pop", 600000);
 				f.setAttribute("name", "Lyon");
 			}
+
+
+			if (name.equals("Paris")) System.out.println(name);
+			if (name.equals("Marseille")) System.out.println(name);
+			if (name.equals("Lyon")) System.out.println(name);
+
 		}
 
 		// manual additions for few missing ones
