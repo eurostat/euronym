@@ -468,11 +468,11 @@ public class EuroNymeProduction {
 				f.setAttribute("pop", 40000);
 			}
 
-			if (f.getAttribute("name").equals("Paris"))
+			if (f.getAttribute("name").toString().equals("Paris"))
 				System.out.println(f.getAttribute("name") + " " + f.getAttribute("pop"));
-			if (f.getAttribute("name").equals("Marseille"))
+			if (f.getAttribute("name").toString().equals("Marseille"))
 				System.out.println(f.getAttribute("name") + " " + f.getAttribute("pop"));
-			if (f.getAttribute("name").equals("Lyon"))
+			if (f.getAttribute("name").toString().equals("Lyon"))
 				System.out.println(f.getAttribute("name") + " " + f.getAttribute("pop"));
 
 		}
