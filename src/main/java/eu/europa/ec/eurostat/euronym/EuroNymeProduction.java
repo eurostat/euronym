@@ -65,7 +65,7 @@ public class EuroNymeProduction {
 		prepareDataFromInput("tmp/namesStruct_ASCII.gpkg", true, false);
 		prepareDataFromInput("tmp/namesStruct_UTF.gpkg", false, false);
 		prepareDataFromInput("tmp/namesStruct_UTF_LATIN.gpkg", false, true);
-		if (true) return;
+		//if (true) return;
 
 		// get country codes
 		HashSet<String> ccs = new HashSet<>();
