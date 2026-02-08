@@ -40,8 +40,8 @@
 	</developers>
 
 	<properties>
-		<maven.compiler.target>1.9</maven.compiler.target>
-		<maven.compiler.source>1.9</maven.compiler.source>
+		<maven.compiler.target>21</maven.compiler.target>
+		<maven.compiler.source>21</maven.compiler.source>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<jgiscotools.version>0.9.23</jgiscotools.version>
@@ -55,8 +55,8 @@
 				<version>3.8.1</version>
 				<configuration>
 					<encoding>UTF-8</encoding>
-					<source>1.9</source>
-					<target>1.9</target>
+					<source>21</source>
+					<target>21</target>
 				</configuration>
 			</plugin>
 		</plugins>

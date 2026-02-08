@@ -436,9 +436,10 @@ public class EuroNymeProduction {
 				f.setAttribute("name", "Den Haag");
 			if (name.equals("Petroșani-Colonie"))
 				f.setAttribute("name", "Petroșani");
-
 			if (name.equals("Potsdam"))
 				f.setAttribute("pop", 300000);
+			if (name.equals("Brugge"))
+				f.setAttribute("pop", 120000);
 
 
 			// deal with paris, lyon, marseille and "arrondissement"
@@ -486,6 +487,7 @@ public class EuroNymeProduction {
 		addFeature(out, "Lagoa", "PT", 5203, -25.5798, 37.7469);
 		addFeature(out, "Ribeira Grande", "PT", 7872, -25.5231, 37.8217);
 		addFeature(out, "Vila Franca do Campo", "PT", 7175, -25.4357, 37.7174);
+		addFeature(out, "Corvo", "PT", 7175, -31.1128649, 39.672785);
 
 		// save output
 		System.out.println("Save " + out.size());
