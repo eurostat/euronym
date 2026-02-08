@@ -3,9 +3,8 @@ rs,name,lon,lat,r1
 72,Lomba,-31.155,39.402,50
 72,Granja,-28.676,38.535,50
 211,Pedro Miguel,-28.62,38.575,72
-522,Caminho da Igreja,-28.02,39.064,253
 103,Candelária,-28.512,38.465,50
-901,Velas,-28.209,38.682,522
+626,Velas,-28.209,38.682,253
 147,Cais do Pico,-28.319,38.524,123
 522,Lajes do Pico,-28.251,38.395,123
 60,Santo Amaro,-28.17,38.454,50
@@ -13,12 +12,11 @@ rs,name,lon,lat,r1
 103,Ribeirinha,-28.089,38.439,103
 60,Ponta da Ilha,-28.052,38.424,50
 60,Ribeira Funda,-16.935,32.822,50
-253,Lamaceiros,-17.17,32.856,86
 253,Vila Praia de Âncora,-8.861,41.813,86
 60,Montedor,-8.868,41.75,50
 60,Maloeira,-17.209,32.765,50
 86,Codixeira,-8.777,41.436,50
-176,Lombo dos Moínhos,-17.191,32.739,123
+176,Lombo dos Moínhos,-17.191,32.739,86
 103,Tanque,-17.003,32.821,50
 123,Vale e Cova do Pico,-17.119,32.697,50
 72,Loural,-17.032,32.775,50
@@ -29,7 +27,6 @@ rs,name,lon,lat,r1
 72,Nogueira,-16.848,32.671,60
 123,Machico,-16.771,32.724,123
 60,Vale,-16.846,32.643,50
-435,Matas,-16.338,33.06,363
 103,Caminha,-8.836,41.87,50
 72,Afife,-8.858,41.78,50
 123,Vila Nova de Cerveira,-8.741,41.942,72
@@ -982,3 +979,7 @@ rs,name,lon,lat,r1
 9627,Ponta Delgada,-25.66484,37.74029,9627
 103,Ribeira Grande,-25.5231,37.8217,103
 211,Vila Franca do Campo,-25.4357,37.7174,103
+363,Corvo,-31.1128649,39.672785,147
+522,Porto Moniz,-17.1694121,32.8671172,211
+435,Vila Baleira,-16.3341875,33.0590112,363
+1556,Santa Cruz da Graciosa,-28.0056766,39.0851833,522

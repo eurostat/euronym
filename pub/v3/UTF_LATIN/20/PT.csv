@@ -6,10 +6,10 @@ rs,name,lon,lat,r1
 66,Granja,-28.676,38.535,46
 192,Pedro Miguel,-28.62,38.575,79
 39,Volta,-28.63,38.55,20
-571,Caminho da Igreja,-28.02,39.064,230
+28,Caminho da Igreja,-28.02,39.064,20
 94,Candelária,-28.512,38.465,39
 33,Fetais,-28.415,38.542,24
-986,Velas,-28.209,38.682,571
+571,Velas,-28.209,38.682,276
 134,Cais do Pico,-28.319,38.524,112
 476,Lajes do Pico,-28.251,38.395,112
 66,Santo Amaro,-28.17,38.454,39
@@ -23,7 +23,6 @@ rs,name,lon,lat,r1
 33,Terra do Baptista,-16.846,32.769,20
 39,Achada do Barro,-16.831,32.725,20
 28,Levadas,-16.796,32.702,20
-276,Lamaceiros,-17.17,32.856,79
 28,Fazendinha,-16.802,32.678,20
 230,Vila Praia de Âncora,-8.861,41.813,94
 55,Montedor,-8.868,41.75,24
@@ -63,8 +62,7 @@ rs,name,lon,lat,r1
 28,Vale,-16.846,32.643,20
 46,Mae de Deus,-16.827,32.655,20
 33,Queimada,-16.766,32.709,20
-24,Dragoal,-16.337,33.072,20
-397,Matas,-16.338,33.06,331
+28,Dragoal,-16.337,33.072,20
 28,Fontela,-8.862,41.85,20
 112,Caminha,-8.836,41.87,39
 28,Póvoa,-8.864,41.826,20
@@ -2909,3 +2907,7 @@ rs,name,lon,lat,r1
 55,Lagoa,-25.5798,37.7469,55
 94,Ribeira Grande,-25.5231,37.8217,94
 230,Vila Franca do Campo,-25.4357,37.7174,112
+397,Corvo,-31.1128649,39.672785,160
+276,Porto Moniz,-17.1694121,32.8671172,230
+397,Vila Baleira,-16.3341875,33.0590112,331
+1419,Santa Cruz da Graciosa,-28.0056766,39.0851833,571

@@ -1215,6 +1215,7 @@ rs,name,lon,lat,r1
 120,Geislingen an der Steige,9.836,48.623,100
 296,Calvörde,11.293,52.395,100
 172,Kalbe (Milde),11.389,52.656,100
+120,Westerengel,10.905,51.288,100
 144,Ohrdruf,10.734,50.827,100
 206,Uffenheim,10.234,49.544,144
 144,Crailsheim,10.071,49.136,144
@@ -1263,5 +1264,6 @@ rs,name,lon,lat,r1
 247,Biberach an der Riß,9.792,48.097,206
 120,Born,11.471,52.375,100
 144,Karstädt,11.746,53.157,100
+144,Bützow,11.985,53.848,100
 426,Parchim,11.848,53.426,206
 206,Bad Waldsee,9.751,47.923,120

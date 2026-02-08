@@ -8,7 +8,6 @@ rs,name,lon,lat,r1
 72,Mestlin,11.927,53.581,50
 72,Ummendorf,9.831,48.062,50
 253,Arnstadt,10.947,50.833,123
-72,Kribbe,11.804,53.203,50
 60,Wollenrade,11.642,52.729,50
 86,Ichtershausen,10.97,50.876,50
 103,Stotternheim,11.043,51.055,60
@@ -135,6 +134,7 @@ rs,name,lon,lat,r1
 60,Steinfeld,12.312,54.108,50
 522,Magdeburg,11.633,52.126,522
 72,Rot an der Rot,10.027,48.013,50
+103,Kuhs,12.232,53.859,50
 147,Neresheim,10.337,48.753,86
 60,Seddin,11.994,53.15,50
 176,Berlstedt,11.244,51.062,60
@@ -5126,6 +5126,7 @@ rs,name,lon,lat,r1
 72,Weigenheim,10.261,49.576,50
 60,Donnersdorf,10.418,49.97,50
 103,Seehausen,11.297,52.101,50
+103,Reckenzin,11.694,53.224,50
 103,Demen,11.766,53.63,60
 72,Taldorf,9.511,47.741,60
 60,Oberstadion,9.691,48.187,50
@@ -5159,7 +5160,6 @@ rs,name,lon,lat,r1
 72,Ballhausen,10.887,51.155,50
 86,Schnackenburg,11.567,53.037,50
 86,Erbach,9.893,48.326,50
-60,Nausiß,11.045,51.224,50
 103,Oberkochen,10.106,48.784,50
 303,Scheinfeld,10.462,49.665,86
 123,Abtsgmünd,10.002,48.895,50
@@ -5177,6 +5177,7 @@ rs,name,lon,lat,r1
 147,Feuchtwangen,10.331,49.168,123
 303,Heidenheim an der Brenz,10.155,48.678,123
 103,Dinkelsbühl,10.32,49.069,86
+72,Schlemmin,11.862,53.869,50
 72,Gollensdorf,11.553,52.959,50
 211,Quedlinburg,11.137,51.79,86
 72,Hinzdorf,11.814,52.961,50
@@ -5202,7 +5203,7 @@ rs,name,lon,lat,r1
 72,Kleinau,11.512,52.8,50
 60,Heidhöfe,9.953,48.713,50
 147,Greußen,10.944,51.228,86
-103,Bernitt,11.891,53.902,50
+72,Bernitt,11.891,53.902,50
 123,Bechhofen,10.553,49.16,60
 211,Sternberg,11.828,53.711,103
 72,Harpe,11.558,52.918,50

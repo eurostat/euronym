@@ -1,18 +1,15 @@
 rs,name,lon,lat,r1
 7844,Santa Cruz das Flores,-31.128,39.456,1522
 206,Pedro Miguel,-28.62,38.575,100
-613,Caminho da Igreja,-28.02,39.064,247
-882,Velas,-28.209,38.682,511
+613,Velas,-28.209,38.682,247
 144,Cais do Pico,-28.319,38.524,120
 511,Lajes do Pico,-28.251,38.395,120
 206,Criacao Velha,-28.524,38.512,206
-511,Lamaceiros,-17.17,32.856,100
 247,Vila Praia de Ancora,-8.861,41.813,100
 120,Montedor,-8.868,41.75,100
-172,Lombo dos Moinhos,-17.191,32.739,120
+172,Lombo dos Moinhos,-17.191,32.739,100
 247,Santana,-16.882,32.806,100
 7844,Camara de Lobos,-16.976,32.649,6537
-426,Matas,-16.338,33.06,426
 1522,Valenca,-8.634,42.024,247
 511,Viana do Castelo,-8.824,41.701,206
 120,Cossourado,-8.633,41.92,100
@@ -351,3 +348,7 @@ rs,name,lon,lat,r1
 206,Capelas,-25.68776,37.83288,100
 9412,Ponta Delgada,-25.66484,37.74029,9412
 206,Vila Franca do Campo,-25.4357,37.7174,120
+355,Corvo,-31.1128649,39.672785,144
+511,Porto Moniz,-17.1694121,32.8671172,206
+426,Vila Baleira,-16.3341875,33.0590112,426
+1522,Santa Cruz da Graciosa,-28.0056766,39.0851833,613

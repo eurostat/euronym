@@ -93,9 +93,8 @@ IS,303,Faskrudsfjordur,-14.014,64.93,103
 IS,435,Neskaupstadur,-13.676,65.147,211
 PT,72,Granja,-28.676,38.535,50
 PT,211,Pedro Miguel,-28.62,38.575,72
-PT,522,Caminho da Igreja,-28.02,39.064,253
 PT,103,Candelaria,-28.512,38.465,50
-PT,901,Velas,-28.209,38.682,522
+PT,626,Velas,-28.209,38.682,253
 PT,147,Cais do Pico,-28.319,38.524,123
 PT,522,Lajes do Pico,-28.251,38.395,123
 PT,60,Santo Amaro,-28.17,38.454,50
@@ -2454,7 +2453,6 @@ UK,211,Llandrindod Wells,-3.375,52.232,211
 UK,60,Biddlestone,-2.059,55.369,60
 UK,72,Raylees,-2.117,55.217,72
 UK,86,Ravenstonedale,-2.428,54.431,86
-PT,253,Lamaceiros,-17.17,32.856,86
 ES,60,A Pereirina,-8.871,42.99,50
 ES,72,Sanxenxo,-8.805,42.4,60
 UK,60,Halewood,-2.833,53.359,50
@@ -2572,7 +2570,7 @@ UK,901,Blackpool,-3.02,53.808,253
 UK,86,Butterburn,-2.508,55.063,72
 UK,303,Catcleugh,-2.401,55.325,123
 UK,86,Capel-Gwynfe,-3.856,51.88,72
-PT,176,Lombo dos Moinhos,-17.191,32.739,123
+PT,176,Lombo dos Moinhos,-17.191,32.739,86
 UK,211,Ruthin,-3.307,53.115,72
 UK,176,Holsworthy,-4.354,50.813,86
 UK,211,Llandovery,-3.798,51.995,147
@@ -2822,7 +2820,6 @@ ES,86,Prada,-8.088,43.38,50
 ES,72,Vilar,-8.467,42.797,50
 UK,103,Bettws,-3.586,51.567,50
 UK,72,Hesketh Lane,-2.581,53.867,50
-PT,435,Matas,-16.338,33.06,363
 ES,60,Areas,-8.135,43.295,50
 UK,60,Chollerton,-2.103,55.044,60
 ES,123,Lois,-8.183,43.218,50
@@ -10357,7 +10354,7 @@ ES,147,Cortes de la Frontera,-5.34,36.618,60
 FR,123,Sauveterre-de-Bearn,-0.937,43.399,60
 NO,103,Re,6.407,61.737,72
 FR,86,Tilh,-0.835,43.575,50
-BE,363,Stene,2.915,51.202,303
+BE,253,Stene,2.915,51.202,147
 ES,123,Pareja,-2.648,40.557,60
 NO,176,Vikevaag,5.703,59.101,86
 NO,72,Askje,5.694,59.067,50
@@ -10587,7 +10584,7 @@ FR,123,Saint-Sever,-0.573,43.759,103
 FR,60,Hedauville,2.569,50.046,50
 ES,60,Embid de Ariza,-1.972,41.379,50
 ES,86,Salmeron,-2.492,40.545,50
-BE,60,Stalhille,3.071,51.214,50
+BE,103,Stalhille,3.071,51.214,60
 ES,72,Peralveche,-2.448,40.611,50
 FR,72,Fleurbaix,2.834,50.649,50
 FR,103,Lessac,0.675,46.068,50
@@ -10615,7 +10612,7 @@ FR,103,Sault-de-Navailles,-0.672,43.548,50
 FR,86,Bulles,2.326,49.458,50
 FR,60,Dumes,-0.58,43.706,50
 ES,72,Purujosa,-1.763,41.682,50
-BE,211,Blankenberge,3.133,51.311,211
+BE,211,Blankenberge,3.133,51.311,86
 FR,176,Mer,1.508,47.7,72
 ES,72,Adalid,-4.358,37.711,72
 FR,123,Mailly-Maillet,2.605,50.077,50
@@ -10713,7 +10710,7 @@ FR,60,Journet,0.968,46.463,50
 NO,363,Bud,6.916,62.906,86
 ES,363,Andujar,-4.049,38.04,253
 FR,86,Lerm-et-Musset,-0.157,44.328,50
-BE,303,Torhout,3.102,51.065,303
+BE,303,Torhout,3.102,51.065,103
 NO,60,Fiksdal,6.851,62.619,50
 FR,103,Saint-Aignan,1.372,47.268,103
 NO,103,Tau,5.924,59.055,50
@@ -10748,7 +10745,6 @@ ES,86,La Sierra,-4.258,37.706,50
 FR,123,Trois-Rivieres,2.538,49.716,50
 FR,103,Clion,1.233,46.941,50
 FR,86,Saint-Meard-de-Gurcon,0.183,44.909,50
-BE,253,Sint-Andries,3.18,51.197,211
 ES,60,La Chullera,-5.251,36.319,50
 ES,147,Gascuena,-2.518,40.299,50
 NO,211,Balestrand,6.531,61.209,103
@@ -10814,6 +10810,7 @@ BE,303,Wervik,3.044,50.778,60
 ES,60,Membrilla,-3.343,38.972,50
 ES,86,Trasobares,-1.64,41.643,50
 FR,72,Ecueille,1.347,47.084,50
+BE,363,Brugge,3.227,51.208,253
 FR,103,La Trimouille,1.04,46.466,72
 FR,103,Chemery,1.479,47.346,50
 NO,751,Vossevangen,6.422,60.631,363
@@ -10843,7 +10840,7 @@ FR,60,Harbonnieres,2.669,49.847,50
 FR,86,Orin,-0.673,43.231,50
 FR,60,Saulnay,1.27,46.867,50
 ES,60,Lahiguera,-3.99,37.971,50
-BE,86,Oostkamp,3.235,51.155,50
+BE,103,Oostkamp,3.235,51.155,50
 ES,86,Valarena,-1.309,42.132,50
 FR,86,Le Fleix,0.244,44.875,50
 NO,103,Tomra,6.938,62.589,60
@@ -11437,10 +11434,10 @@ FR,72,Anzex,0.166,44.284,50
 FR,72,Carrere,-0.279,43.483,50
 FR,147,Chaillac,1.297,46.435,103
 FR,60,Aurensan,-0.202,43.618,50
-NL,626,Middelburg,3.612,51.496,303
+NL,626,Middelburg,3.612,51.496,211
 FR,147,Chateau-l'Eveque,0.685,45.248,50
 FR,72,Panjas,-0.087,43.821,50
-BE,211,Aalter,3.445,51.087,72
+BE,176,Aalter,3.445,51.087,72
 BE,72,Nechin,3.269,50.667,50
 FR,60,Bousses,0.095,44.146,50
 FR,176,Arleux,3.103,50.28,72
@@ -11563,7 +11560,7 @@ FR,60,Saint-Pardoux-le-Lac,1.202,46.078,50
 FR,60,Labretonie,0.366,44.49,50
 FR,72,Candor,2.896,49.628,50
 FR,60,Creysse,0.563,44.854,50
-BE,176,Eeklo,3.566,51.185,103
+BE,253,Eeklo,3.566,51.185,103
 FR,103,Nogaro,-0.033,43.758,86
 FR,72,Saint-Benoit-du-Sault,1.389,46.441,50
 NO,303,Gilja,6.253,58.809,72
@@ -54726,3 +54723,7 @@ PT,211,Capelas,-25.68776,37.83288,72
 PT,13862,Ponta Delgada,-25.66484,37.74029,9627
 PT,103,Ribeira Grande,-25.5231,37.8217,103
 PT,211,Vila Franca do Campo,-25.4357,37.7174,103
+PT,363,Corvo,-31.1128649,39.672785,147
+PT,522,Porto Moniz,-17.1694121,32.8671172,211
+PT,435,Vila Baleira,-16.3341875,33.0590112,363
+PT,1556,Santa Cruz da Graciosa,-28.0056766,39.0851833,522
