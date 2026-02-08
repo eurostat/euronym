@@ -488,6 +488,9 @@ public class EuroNymeProduction {
 		addFeature(out, "Ribeira Grande", "PT", 7872, -25.5231, 37.8217);
 		addFeature(out, "Vila Franca do Campo", "PT", 7175, -25.4357, 37.7174);
 		addFeature(out, "Corvo", "PT", 400, -31.1128649, 39.672785);
+		addFeature(out, "Porto Moniz", "PT", 2600, -17.1694121, 32.8671172);
+		addFeature(out, "Vila Baleira", "PT", 5100, -16.3341875, 33.0590112);
+
 
 		// save output
 		System.out.println("Save " + out.size());
