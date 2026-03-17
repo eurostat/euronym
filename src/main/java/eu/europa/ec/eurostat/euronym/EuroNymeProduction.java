@@ -359,6 +359,15 @@ public class EuroNymeProduction {
 					pop = 0;
 				}
 			}
+
+			// TODO get population from eurostat demography source ?
+			//TODO load LAU layer from EBM
+			//spatial index it
+			//get LAU under point
+			//get LAU id "LAU_CODE" "ICC"
+
+
+
 			f_.setAttribute("pop", pop.toString());
 
 			// country code
