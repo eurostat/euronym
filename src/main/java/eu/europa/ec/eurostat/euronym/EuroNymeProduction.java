@@ -427,16 +427,17 @@ public class EuroNymeProduction {
 		// manual corrections
 		for (Feature f : out) {
 			String name = f.getAttribute("name").toString();
+			String cc = f.getAttribute("cc").toString();
 
 			// romanian case
-			if (name.contains("Municipiul"))
+			if (name.contains("Municipiul") && cc.equals("RO"))
 				f.setAttribute("name", name.replace("Municipiul ", ""));
-			if (name.contains("Oraş"))
+			if (name.contains("Oraş") && cc.equals("RO"))
 				f.setAttribute("name", name.replace("Oraş ", ""));
 
-			if (name.equals("Arcachon"))
+			if (name.equals("Arcachon") && cc.equals("FR"))
 				f.setAttribute("pop", 30000); // 11630);
-			if (name.equals("Brussel")) {
+			if (name.equals("Brussel") && cc.equals("BE")) {
 				f.setAttribute("pop", 1200000); // 100000);
 				f.setAttribute("name", "Bruxelles/Brussel");
 			}
@@ -446,27 +447,27 @@ public class EuroNymeProduction {
 				f.setAttribute("name", "Den Haag");
 			if (name.equals("Petroșani-Colonie"))
 				f.setAttribute("name", "Petroșani");
-			if (name.equals("Potsdam"))
+			if (name.equals("Potsdam") && cc.equals("DE"))
 				f.setAttribute("pop", 300000);
-			if (name.equals("Brugge"))
+			if (name.equals("Brugge") && cc.equals("BE"))
 				f.setAttribute("pop", 120000);
 
 			// croatia
-			if (name.equals("Medulin"))
+			if (name.equals("Medulin") && cc.equals("HR"))
 				f.setAttribute("pop", 6552);
-			if (name.equals("Pula"))
+			if (name.equals("Pula") && cc.equals("HR"))
 				f.setAttribute("pop", 52220);
-			if (name.equals("Duga Resa"))
+			if (name.equals("Duga Resa") && cc.equals("HR"))
 				f.setAttribute("pop", 10212);
-			if (name.equals("Karlovac"))
+			if (name.equals("Karlovac") && cc.equals("HR"))
 				f.setAttribute("pop", 49377);
-			if (name.equals("Sisak"))
+			if (name.equals("Sisak") && cc.equals("HR"))
 				f.setAttribute("pop", 40000);
-			if (name.equals("Petrinja"))
+			if (name.equals("Petrinja") && cc.equals("HR"))
 				f.setAttribute("pop", 19950);
 
 			// deal with paris, lyon, marseille and "arrondissement"
-			if (name.equals("Paris")) {
+			if (name.equals("Paris") && cc.equals("FR")) {
 				f.setAttribute("pop", 10000000);
 			} else if (name.contains("Arrondissement") && name.contains("Paris")) {
 				f.setAttribute("name", name.replace(" Arrondissement", ""));
