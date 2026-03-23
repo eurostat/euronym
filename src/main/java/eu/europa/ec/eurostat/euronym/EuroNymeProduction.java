@@ -451,6 +451,19 @@ public class EuroNymeProduction {
 			if (name.equals("Brugge"))
 				f.setAttribute("pop", 120000);
 
+			// croatia
+			if (name.equals("Medulin"))
+				f.setAttribute("pop", 6552);
+			if (name.equals("Pula"))
+				f.setAttribute("pop", 52220);
+			if (name.equals("Duga Resa"))
+				f.setAttribute("pop", 10212);
+			if (name.equals("Karlovac"))
+				f.setAttribute("pop", 49377);
+			if (name.equals("Sisak"))
+				f.setAttribute("pop", 40000);
+			if (name.equals("Petrinja"))
+				f.setAttribute("pop", 19950);
 
 			// deal with paris, lyon, marseille and "arrondissement"
 			if (name.equals("Paris")) {
